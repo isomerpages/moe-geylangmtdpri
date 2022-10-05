@@ -22,10 +22,13 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: We are a Methodist School with 98 years of history
+      subtitle: Mission
+      description: " Started in 1924 in Geylang by the Methodist Church, we are
+        committed to the holistic development of every child entrusted to us."
+      button: Click here for video
+      url: https://www.youtube.com/watch?v=JK2kO2O4Zhs
+      image: /images/ee7c5c6d1_34477.jpg
+      alt: Image alt text
 ---
