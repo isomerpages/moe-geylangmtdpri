@@ -11,11 +11,11 @@ sections:
       subtitle: To Inspire Minds, Nurture Character & Touch Community
       background: /images/WhatsApp Image 2021-08-07 at PM 6.jpeg
       button: Contact Us
-      url: https://staging.d33dbb0ee5w4xi.amplifyapp.com/announcements//
+      url: /contact-us
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
-          url: https://google.com
+          url: https://staging.d33dbb0ee5w4xi.amplifyapp.com/announcements/
   - infopic:
       title: We are a Methodist School with 98 years of history
       subtitle: Mission
