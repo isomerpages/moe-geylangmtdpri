@@ -29,14 +29,16 @@ With financial support of many well-wishers and the Methodist Churches, the scho
 Of the many helping hands that supported the building of the school, one missionary and one educator played pivotal roles in starting the school – Reverend Floyd Sullivan and Miss Emma Eaton Walker.
 
 <figure>
-<img src="/images/Reverend%20Sullivan.jpg">
+<img src="/images/Reverend%20Sullivan.jpg" 
+    style="width:70%">
 <figcaption> Reverend Floyd Sullivan </figcaption>
 </figure>
 
 With Reverend Sullivan’s strong support and oversight, the setting up of GMGS was facilitated during his tenure as District Superintendant of the Methodist Church in Singapore. Reverend Sullivan also personally read the dedicatory service of the new building of the Geylang Methodist Church and Geylang Methodist Girls’ School in the founding.
 
 <figure>
-<img src="/images/Emma%20Eaton%20Walker.png">
+<img src="/images/Emma%20Eaton%20Walker.png" 
+    style="width:70%">
 <figcaption> Miss Emma Eaton Walker </figcaption>
 </figure>
 
