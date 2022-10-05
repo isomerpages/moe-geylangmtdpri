@@ -11,7 +11,7 @@ sections:
       subtitle: To Inspire Minds, Nurture Character & Touch Community
       background: /images/WhatsApp Image 2021-08-07 at PM 6.jpeg
       button: Contact Us
-      url: /contact-us/
+      url: https://staging.d33dbb0ee5w4xi.amplifyapp.com/announcements//
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
