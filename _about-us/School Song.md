@@ -13,12 +13,12 @@ The school song, which has been adapted over time, continues to inspire all and 
 <strong><i>In Geylang Methodist we strive </i></strong> <br>
 <strong><i>To grow in friendship, body and mind</i></strong> <br>
 <strong><i>And never fail to keep alive</i></strong> <br>
-<strong><i>The Truths of God which guide mankind. </i></strong> 
+<strong><i>The Truths of God which guide mankind. </i></strong> <br><br>
 
 <strong><i>With grateful hearts we sing the praise </i></strong> <br>
 <strong><i>Of Geylang Methodist today </i></strong> <br>
 <strong><i>And to her glory now we raise </i></strong> <br>
-<strong><i>Our pledge of loyalty for aye. </i></strong> 
+<strong><i>Our pledge of loyalty for aye. </i></strong><br><br>
 
 <strong><i>When from each other we must part </i></strong> <br> 
 <strong><i>And cares of life around us press </i></strong> <br>
