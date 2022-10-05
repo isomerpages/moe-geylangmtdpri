@@ -6,7 +6,7 @@ description: ""
 ### School Crest
 
 <img src="/images/GMSP%20Logo%20-%20Colour.png" 
-    style="width:60%">
+    style="width:50%">
 
 The School Crest is the embodiment of our aims and aspirations for Geylang Methodist School. The shield offers protection and reminds us of the Lord God who is our strength, our help and our shield.
 
