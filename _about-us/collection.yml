@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - School Crest & Motto.md
       - Principal's Message.md
       - Our Rich Heritage.md
       - Vision, Mission & Values.md
+      - School Crest & Motto.md
