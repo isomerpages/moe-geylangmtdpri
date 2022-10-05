@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - School Rules and Regulations.md
       - Principal's Message.md
       - Our Rich Heritage.md
       - Vision, Mission & Values.md
       - School Crest & Motto.md
       - School Song.md
       - Student's Creed.md
+      - School Rules and Regulations.md
