@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Homework Policy.md
       - Principal's Message.md
       - Our Rich Heritage.md
       - Vision, Mission & Values.md
@@ -10,3 +9,4 @@ collections:
       - School Song.md
       - Student's Creed.md
       - School Rules and Regulations.md
+      - Homework Policy.md
