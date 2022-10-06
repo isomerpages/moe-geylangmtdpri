@@ -35,4 +35,4 @@ Please click [here](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html) 
 -----------------
 
 #### Photography and Videos
-Please click [here](https://geylangmethodistpri.moe.edu.sg/about-us/school-policy/photography-and-videos) to read more about the school's policy on the use of photography and videos.
+Please click [here](https://staging.d33dbb0ee5w4xi.amplifyapp.com/about-us/school-policy/assessment-policy/photography-and-videos) to read more about the school's policy on the use of photography and videos.
