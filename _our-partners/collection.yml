@@ -2,10 +2,10 @@ collections:
   our-partners:
     output: true
     order:
-      - Christalite Methodist Chapel.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/PSG Management Committee.md
       - Parent Support Group/PSG Organisation Chart.md
       - Parent Support Group/PSG Registration Form.md
       - Parent Support Group/PSG Newsletter.md
+      - Christalite Methodist Chapel.md
