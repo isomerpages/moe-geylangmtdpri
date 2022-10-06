@@ -2,3 +2,5 @@ logo: /images/GMSP Logo - Colour.png
 links:
   - title: About Us
     collection: about-us
+  - title: Achievements
+    collection: achievements
