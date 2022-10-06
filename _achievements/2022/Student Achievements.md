@@ -15,4 +15,12 @@ third_nav_title: "2022"
 |  5. |  Badminton |   **National School Games Badminton 2022<br>(Junior Division)**<br><br>Event: Doubles<br>1st in tier 1 |  <br><br><br><br>Calista Yeo Jie Lin (P5-7)<br>Ng Ziqi (P5-7) |
 | 6.  |  Basketball |  **National School Games Basketball 2022<br>(Junior Division)**<br><br><br>1st in tier 1<br><br><br><br><br> |  Kwok Hoi Nam (P4-3)<br>Nguyen Quoc Thang (P4-6)<br>Ordonio Red Flores (P4-7)<br>Kong Jun Ze Zander (P5-2)<br>Bu Yung Xuan (P5-3)<br>Kyler Shyu Kei Yu (P5-4)<br>Tan Ding Feng (P5-6)<br>Aaron Thow Min Jie (P5-7)<br>Zumbrunnen Charles Sheng (P5-7)<br>Shen Hangfeng (P5-8)<br>Zhou Junfeng (P5-8) |
 | 7.  | Track and Field  | **National School Games Track & Field 2022<br>(Junior Division)**<br><br>Event: 120 metres<br>3rd Place<br><br>Event: Vertical Jump<br>1st Place<br>2nd Place<br><br>Event: Long Jump with Take off zone<br>3rd Place | <br><br><br><br>Lock Sheng Herng (P5-5) <br><br><br>Lock Sheng Herng (P5-5)<br>Jerry Ang Min Zhe (P5-4)<br><br><br><br>Chloe Chan Si Kei (P4-8) |
-| | | 
+| | |
+
+### Competition
+
+| No | Name of Competition / Awards | Awardees |
+|---|---|---|
+| 1. | **Raffles Institution Primary Mathematics World Contest (RIPMWC)**<br><br>**Distinction**<br><br><br><br><br><br><br><br><br>**Merit**<br><br><br><br><br><br><br><br><br><br><br><br> | <br><br>Joey Ng Rui Xin (P6-1)<br>Sanjeeth Ransilu Piyasanka (P6-1)<br>Liew Yi Kai Wesley (P6-7)<br>Oh Jia Le Nicholas (P6-7)<br>Carren Angelina Hee (P6-7)<br>Jayson Ang Yushen (P6-7)<br>Pang Xianyi Isaac (P6-8)<br><br><br>Chawn Isaac Leeahtam (Junior) (P3-7)<br>Poh Yu Xuan Jaythan (P6-7)<br>Sim Cong Ying, Kaius (P6-7)<br>Low Kai En Cara (P6-7)<br>Yip Jie En (P6-7)<br>Christopher Nathan Lo (P6-7)<br>Lyu Jiguo (P6-7)<br>Ng Nan Feng (P6-8)<br>Joseph Lim Cheng Yeong (P6-8)<br>Isha Metupalle (P6-8)<br>Lim Qin Ying (P6-8)<br>Gong Chengxi (P6-8) |
+| 2. | **NUS High Science Olympiad**<br><br><br>**Bronze**<br><br><br><br>**Merit** | <br>Joshua Tan Yi (P5-7)<br>Koh Kai Feng (P5-7)<br>Bai Junjie (P5-8)<br><br><br>Bernice Teo (P5-8)<br>Lim Rui Ya, Vella (P5-8) |
+| | |
