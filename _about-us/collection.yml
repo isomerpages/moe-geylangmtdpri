@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our People/.keep
       - Principal's Message.md
       - Our Rich Heritage.md
       - Vision, Mission & Values.md
@@ -14,3 +13,4 @@ collections:
       - School Policy/Homework Policy.md
       - School Policy/Assessment Policy.md
       - School Policy/Photography and Videos.md
+      - Our People/.keep
