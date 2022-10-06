@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Partners.md
       - Principal's Message.md
       - Our Rich Heritage.md
       - Vision, Mission & Values.md
