@@ -20,7 +20,7 @@ description: ""
 
 | | |
 | -------- | -------- | 
-| **Vision:** <img src="/images/Sch%20Vision.jpg" style="width:100px;"/> <br>  **Mission:**<br> To Inspire Minds, Nurture Character & Touch Commuinity| **Programs/Activities** <Br> • **P.R.A.I.S.E @ MY SINGAPURA**<Br> • **ALP** <br> • **LLP** | 
+| **Vision:** <img src="/images/Sch%20Vision.jpg" style="width:200px;"/> <br>  **Mission:**<br> To Inspire Minds, Nurture Character & Touch Commuinity| **Programs/Activities** <Br> • **P.R.A.I.S.E @ MY SINGAPURA**<Br> • **ALP** <br> • **LLP** | 
 | | |
 
 | | 
