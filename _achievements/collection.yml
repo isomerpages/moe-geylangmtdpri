@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - 2022/Student Achievements.md
       - 2022/Staff Achievements.md
       - 2022/.keep
