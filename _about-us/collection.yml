@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Location Map and Contact Information.md
       - Principal's Message.md
       - Our Rich Heritage.md
       - Vision, Mission & Values.md
@@ -20,3 +19,4 @@ collections:
       - Our People/School Management Team.md
       - Our People/School Staff 2022.md
       - Our Partners.md
+      - Location Map and Contact Information.md
