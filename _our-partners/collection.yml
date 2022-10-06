@@ -2,7 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - Alumni.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/PSG Management Committee.md
@@ -12,3 +11,4 @@ collections:
       - Christalite Methodist Chapel.md
       - Family Matters@School.md
       - Dads for Life.md
+      - Alumni.md
