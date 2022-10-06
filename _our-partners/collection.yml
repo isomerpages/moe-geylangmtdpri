@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - Parent Support Group/PSG Management Committee.md
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/.keep
