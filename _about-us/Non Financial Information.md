@@ -20,14 +20,10 @@ description: ""
 
 | | |
 | -------- | -------- | 
-| **Vision:** ![](/images/Sch%20Vision.jpg) <br>  **Mission:**<br> To Inspire Minds, Nurture Character & Touch Commuinity| **Programs/Activities** <Br> • **P.R.A.I.S.E @ MY SINGAPURA**<Br> • **ALP** <br> • **LLP** | 
+| **Vision:** <img src="/images/Sch%20Vision.jpg" style="width:100px;"/> <br>  **Mission:**<br> To Inspire Minds, Nurture Character & Touch Commuinity| **Programs/Activities** <Br> • **P.R.A.I.S.E @ MY SINGAPURA**<Br> • **ALP** <br> • **LLP** | 
 | | |
 
 | | 
 | -------- | 
 | **Board Members** <Br> Chairman: Mr. Khoong Hock Yun <br> Honorary Secretary: Mr. Wee Tat Chuen <br> Assistant Honorary Secretary: Mrs Jennifer Choy <br> Honorary Treasurer: Wong Kwang Yong <br> Members: Mr. Tay Kah Ann Peter <br> Members: Mr. Chou Fang Soong <br> Members: Mr. Kim Seah Teck Kim <br> Members: Dr. Raymond Teo Cheng Soon <br> Members: Mdm. Ng Cher Siang, Cheryl <br> Members: Mdm. Teo Sek Jen <br> <br> Key Employee : Mrs Jennifer Choy <br><Br> **Auditor** <br> Assurance Partners LLP |
 | |
- 
-
- 
-
