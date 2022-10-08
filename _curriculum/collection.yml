@@ -2,5 +2,5 @@ collections:
   curriculum:
     output: true
     order:
-      - Mother Tongue Languages.md
       - English Language.md
+      - Mother Tongue Languages.md
