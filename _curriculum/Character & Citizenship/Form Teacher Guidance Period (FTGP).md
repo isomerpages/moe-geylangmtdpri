@@ -18,4 +18,5 @@ b) equip students with social and emotional competencies to enable them to: 
     - learn ways to work with the people around them (Relationship Management) <br>
     - make appropriate and responsible decisions (Responsible Decision Making)
 		
-![](/images/FTGP%20Pic%201.png)
+<img src="/images/FTGP%20Pic%201.png" 
+    style="width:70%">
