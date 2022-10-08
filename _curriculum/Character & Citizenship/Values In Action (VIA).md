@@ -21,3 +21,11 @@ Most of the platforms provided are aligned to the CCE curriculum to give student
 | Primary 5 | Responsibility to the Nation and the World | Activity 1: To promote awareness and advocate for the Care of School and Public property  |
 | Primary 6 | Responsibility to the Nation and the World | Activity 1:  P6 WeeBiz and Microbits Project  |
 | | |
+
+Besides the level VIA experiences, as one of the Student Leadership and CCA outcome is to promote the spirit of service to the community, student leaders as well as students from Primary 3 to 6 are also given platforms during their CCA to initiate or to be involved in VIA experiences that will enable them to use leadership skills or talents to serve for a good cause.  
+  
+While carrying out their VIA projects, students are guided by the following guidelines:  
+  
+\- Students can take an ACTION to improve a situation that they care about <br>
+\- Students can help to promote Awareness about an important issue/ concern in the community <br>
+\- Students can become Advocates to inspire and influence others to make a difference in something that they care about
