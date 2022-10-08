@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Science.md
       - English Language.md
       - Mother Tongue Languages/.keep
       - Mother Tongue Languages/Mother Tongue Languages.md
@@ -10,3 +9,4 @@ collections:
       - Mother Tongue Languages/Malay Language.md
       - Mother Tongue Languages/Tamil Language.md
       - Mathematics.md
+      - Science.md
