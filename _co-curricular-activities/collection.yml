@@ -1,4 +1,5 @@
 collections:
   co-curricular-activities:
     output: true
-    order: []
+    order:
+      - CCA.md
