@@ -13,4 +13,16 @@ third_nav_title: "2021"
 |   |   |  **Dr Low Guat Tin Challenge 2021**<br><br>Gold<br><br><br>Silver<br><br><br>Bronze | <br><br><br><br><br><br>Chloe Goh Qiaoli (5-5)<br><br>Charis Goh Baoting (4-1)<br><br>Ong Le Xuan, Anabel (5-3)<br><br>Kwan Zi Xuan (5-8)<br><br><br>Tanushri D/O S Kumar (4-1)<br><br><br> |
 | 3. | Rope-Skipping | **NSG Rope Skipping Competition 2021<br>(Senior Division)**<br><br><u>Skill: Double Under</u><br>1st<br>3rd<br><br><u>Skill: Individual Speed</u><br>3rd<br>3rd<br><br><u>Skill: Speed Relay</u><br>4th<br><br><br><br><br><br><u>Skill: Mixed Double Dutch</u><br>2nd | <br><br><br><br><br><br><br><br><br>Claudia Teoh Zhi Xuan<br>Pang Si En, Joey<br><br><br><br>Pang Si En, Joey<br>Claudia Teoh Zhi Xuan<br><br><br>Pang Si En, Joey<br>Claudia Teoh Zhi Xuan<br>Shyanne Tan Hui Ci<br>Ong Kai Ting<br>Dunn Jing Yi<br><br><br>Janelle Jue-Shuen Wong<br>Shyanne Tan Hui Ci<br>Soon Zhi Bin<br>Tan Zayden |
 | 4.  |  Info-comm Technology Club |  **2021 National Primary Game Creation Competition (NPGC3)** | Oliver Quinn Hong (P5-7)<br>Yeo Chuan En Nathan (P5-7)<br>Christopher Nathan Lo (P5-7)<br>Ng Nan Feng (P5-8)  |
+| | |
+
+### Competitions
+
+| No. | Name of Competition / Awards | Awardees |
+|---|---|---|
+| 1. | **Singapore Mathematical Olympiad for Primary Schools (SMOPS)**<br><br>Gold<br>Silver<br>Silver<br>Bronze | <br><br><br><br>Shen Xiaoyu<br>Jayrell Ng Jie Ren<br>Soh Zhi Kuan Jonathan <br>Xavier Cheung |
+| 2. | **4th National Chinese Recital Competition** <br>Silver <br><br><br><br><br>Bronze | <br>Aarika Leong 3-8<br><br>Fiona Ong 4-7<br>Keira Gue 4-7<br>Wang Yinuo 4-8<br>Zhou Jun Feng 4-8<br><br>Hong Kaihan Kyle 3-7<br>Lam Jing Yao 3-3<br>Gao Xindi. 3-7<br>Hu Vivy 3-8 |
 | | | 
+
+### SYF Art Exhibition
+
+Our students' artworks in both P3/4 and P5/6 categories were selected for display at this year's SYF Art Exhibition. The artworks will be conferred either the Certificate of Recognition or Certificate of Recognition (Special Mention).
