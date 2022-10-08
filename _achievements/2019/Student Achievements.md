@@ -67,6 +67,5 @@ third_nav_title: "2019"
     2) Team comprising Ayden Yeo, Asher Long and Axl Ong clinched the Judges' Special Mention Award
 
   
-<u><strong> Singapore Youth Festival Art Exhibition </strong></u>
-
+<u><strong> Singapore Youth Festival Art Exhibition </strong></u> <br>
 Our Primary 1 and Primary 2 students' artwork, titled "What If Singapore Is Not What It Is Today?" was recently selected for the SYF Art Exhibition, which was held at the National Museum of Singapore from 6 to 21 July 2019. Well done, GMS(P) students!
