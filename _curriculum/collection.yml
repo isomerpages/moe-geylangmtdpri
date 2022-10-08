@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Aesthetics.md
       - English Language.md
       - Mother Tongue Languages/.keep
       - Mother Tongue Languages/Mother Tongue Languages.md
@@ -18,3 +17,4 @@ collections:
       - Character & Citizenship/Values In Action (VIA).md
       - Character & Citizenship/Cyber Wellness Programme.md
       - Character & Citizenship/Rewards & Recognition (Students).md
+      - Aesthetics.md
