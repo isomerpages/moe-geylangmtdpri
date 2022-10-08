@@ -26,6 +26,6 @@ Our heartiest congratulations to Mdm Loh Puay San who was conferred the Long Ser
 ### Community in Bloom Awards
 
 <img src="/images/CIB%20Gold%20Award.jpg" 
-    style="width:80%">
+    style="width:60%">
 
 Congratulations on our community garden's achievements at the Community in Bloom (CIB) Awards 2021. Our community garden has achieved the **Gold** banding and **"Outstanding Educational Community Garden"** achievement ribbon.
