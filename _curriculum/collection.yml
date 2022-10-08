@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Character & Citizenship/National Education & Social Studies.md
       - Character & Citizenship/Character & Citizenship Education (CCE).md
       - Character & Citizenship/.keep
       - English Language.md
