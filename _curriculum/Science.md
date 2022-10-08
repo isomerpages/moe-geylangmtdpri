@@ -16,16 +16,16 @@ To inspire Scientific learning based on ethical reasoning and impact the society
 ### Overview
 
 **i3 in GMS(P) Science**  
-\- To develop **I**nterest in Science learning  
-\- To allow students to develop scientific competencies through **I**nquiry-based learning  
-\- To deepen learning by **I**ntensifying the understanding of global current affairs and external partnerships
+\- To develop&nbsp;**I**nterest in Science learning  
+\- To allow students to develop scientific competencies through&nbsp;**I**nquiry-based learning  
+\- To deepen learning by&nbsp;**I**ntensifying the understanding of global current affairs and external partnerships
 
 ### Curriculum Structure and Key Programmes
 
 **Interest** <br>
-Building interest through:  
-a. Learning Journeys so that learning takes place beyond the four walls of the classroom  
-b. Place-based learning: Garden trails, Aquaponics  
+Building&nbsp;interest through:  
+a.&nbsp;Learning Journeys so that learning takes place beyond the four walls of the&nbsp;classroom  
+b.&nbsp;Place-based learning: Garden trails, Aquaponics  
 c. Storytelling or Role-play as lesson introduction  
 d. School-wide Assembly talks  
   
@@ -42,8 +42,7 @@ c. Partnerships with NParks, PUB and NEA to bring learning to life
 
 The Department follows closely to MOE Science Curriculum Framework and adopts the Inquiry-Based Approach as one of the main pedagogical approach in our teaching and learning.
 
-<img src="/images/download.png" 
-    style="width:50%">
+<img style="width:50%" src="/images/download.png">
 
 The students will undergo the 5E framework in all the topics and the learning will be more student-centric in which students are expected to plan and conduct their own experiments by the time they reach Primary 6.  
   
@@ -53,8 +52,12 @@ Due to the affordance of ICT and our school facilities, the department also taps
 
 **1) Enrichment Programmes** <br>
 **Excellence 2000 (E2K) Science Programme Singapore** <br>
-This programme is for selected P4 & P5 students who demonstrates keen interest and ability in Science. The programme engages pupils in scientific investigations involving advanced science concepts. It aims to engage pupils in scientific inquiry that will help them to develop the habits, attitudes and dispositions scientists possess as well as gain important 21st century competencies such as critical and inventive thinking and effective communication skills. _(Adapted from MOE website)_
+This programme is for&nbsp;selected P4 &amp; P5 students who demonstrates keen interest and ability in Science. The programme engages pupils in scientific investigations involving advanced science concepts. It aims to engage pupils in scientific inquiry that will help them to develop the habits, attitudes and dispositions scientists possess as well as gain important 21st century competencies such as critical and inventive thinking and effective communication skills.&nbsp;_(Adapted from MOE website)_
   
 Selected criteria is based on students' Science results and teachers' observations. The sessions are conducted on Tuesdays.  
   
 **2) Participation in External Events or Competitions**
+
+### Gallery
+
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMQrC39SRvIgfuYLdM5n2GZSphOXlfLwd3FRGYXbnrsJlwcGBNp2rFwvUeVgNnf7bSXwMz3wv3cBCO/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
