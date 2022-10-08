@@ -17,5 +17,10 @@ Besides learning about Cyber Wellness through our structured FTGP and CCE lesson
 | Resources | Description | 
 | -------- | -------- |
 | **For Students** | [MOE ICT Connection CW Resources for Students](https://ictconnection.moe.edu.sg/cyber-wellness/for-students) | 
-| 
+| **For Parents** | Cyberwelness 101 <br> Cyberwelless Tip Sheet for Parents <br> MOE ICT Connection <br> CW Resources for Parents <br> [Slides for Parents-Excessive Internet Use.pdf](/files/Slides%20for%20Parents-Excessive%20Internet%20Use.pdf) | 
+| **For Educators** | Cyberwellness Bite-size Resources for Teachers <br> MOE ICT Connection CW resources for Educators |
+| | |
 
+### Gallery
+
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStQmqeBa63AuFmdwkI6jy0sM0PCDF0yjHJTLnuvynGjDfJ8VIGvY0rh6uQwlp3ubqv_EY5m5CmFqWU/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
