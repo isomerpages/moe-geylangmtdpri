@@ -4,7 +4,6 @@ permalink: /achievements/2019/staff-achievements/
 description: ""
 third_nav_title: "2019"
 ---
-
 ### Most Inspiring Tamil Teachers Award 2019
 
 
@@ -35,4 +34,5 @@ Ms Sun Jinyu<br>
 Ms Sarah-Ann Tan<br>
 Mdm Wong Nuik Yin
 
-![](/images/MSEA%20Logo.png)
+<img src="/images/MSEA%20Logo.png" 
+    style="width:80%">
