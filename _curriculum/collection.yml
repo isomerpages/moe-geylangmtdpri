@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Physical & Health Education.md
       - English Language.md
       - Mother Tongue Languages/.keep
       - Mother Tongue Languages/Mother Tongue Languages.md
