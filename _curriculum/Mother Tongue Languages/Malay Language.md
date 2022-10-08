@@ -18,11 +18,11 @@ To ignite passion in pupils to love the language though heritage and cultural ap
 
 The Malay Language curriculum aims to inculcate in all our students 3 broad objectives in the teaching and learning of MTL:  
 
-1) **Communication** – to develop proficient language users who can communicate in a          confident, effective and meaningful way in real-life situations.
+1) **Communication** – to develop proficient language users who can communicate in a confident, effective and meaningful way in real-life situations.
 
-2) **Culture** – to nurture our students to understand and have a deeper appreciation for          their culture and traditions associated with each MTL in our society.
+2) **Culture** – to nurture our students to understand and have a deeper appreciation for their culture and traditions associated with each MTL in our society.
 
-3) **Connection** – to enable our students to connect with communities across Asia who        speak and share the language and culture.
+3) **Connection** – to enable our students to connect with communities across Asia who speak and share the language and culture.
 
 ### Key Programmes 
 
