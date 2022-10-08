@@ -22,8 +22,8 @@ To enable us work towards our vision, the NESS curriculum is designed to achieve
 
 | S/N | Focus | Programmes |
 |---|---|---|
-| 1 | Active Community Life | <br>**CCE & VIA** <br><br>**Primary 1 & 2:** Responsibility to Self and Environment <br><br>**Primary 3 & 4:** Responsibility to School & Environment <br><br>**Primary 5 & 6:** Responsibility to Nation and the World<br><br> |
+| 1 | Active Community Life | **CCE & VIA** <br><br>**Primary 1 & 2:** Responsibility to Self and Environment <br><br>**Primary 3 & 4:** Responsibility to School & Environment <br><br>**Primary 5 & 6:** Responsibility to Nation and the World<br><br> |
 |  2 | National and Cultural Identity | **SS Curriculum**<br><br>**4 Core Events:** TDD, IFD, RHD, ND  <br><br>**Learning Journey:** Level-based Learning Journey     <br><br>**Subject Infusion:** Termly Story book sharing during English Reading Period<br><br>**Professional Development** for Teachers |
 |  3 | Global Awareness | **SS:** Monthly Upper Primary Level-based Current Affairs PeriodStudents: Kids News on Messaging TV <br><br>**Staff:** Contemporary Issues per Semester <br><br>**Management:** 5 min Discussion  on Contemporary Issues during School Management Team Meeting |
 |  4 | Socio-cultural Sensitivity and Awareness | **4 Core Events:** TDD, IFD, RHD, ND<br><br>**SS / CCE / PAL Lessons**<br><br>**Cross-department:**<br>• Mother Tongue Fortnight<br>• Overseas Immersion Programme<br>• Cultural Exchange Programmes |
-| | | 
+| | |
