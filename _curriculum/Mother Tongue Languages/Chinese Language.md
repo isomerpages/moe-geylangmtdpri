@@ -32,23 +32,16 @@ The CL curriculum aims to:
 
 ### Pedagogical Approaches / Strategies
 
-1. Oracy precedes reading & writing.
-
-2\. Focus on applying the language in real-life situations.  
-
-3\. Use proficiency descriptors to motivate learners to progress to the next stage of learning  
-
+1. Oracy precedes reading & writing. <br>
+2\. Focus on applying the language in real-life situations. <br>
+3\. Use proficiency descriptors to motivate learners to progress to the next stage of learning <br>
 4\. Greater use of ICT to engage learning & extends learning beyond the classrooms
 
 
 ### Other Events / Programmes
  
-1\. Chinese New Year Celebration
-
-2\. Mother Tongue Fortnight
-
-3\. Cultural Camp
-
-4\. Structure Reading Programme
-
+1\. Chinese New Year Celebration <br>
+2\. Mother Tongue Fortnight <br>
+3\. Cultural Camp <br>
+4\. Structure Reading Programme <br>
 5\. Engage parents in MTL E-Oral Workshop
