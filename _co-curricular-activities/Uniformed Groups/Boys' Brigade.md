@@ -65,3 +65,5 @@ Mr Michael Goh <br>
 Ms Juliana Sng <br> 
 Ms Grace See (Church Personnel) <br> 
 Mr Genson (Church Personnel)
+
+![](/images/01.jpg)
