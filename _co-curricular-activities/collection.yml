@@ -2,7 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Uniformed Groups/Boys' Brigade.md
-      - Uniformed Groups/.keep
       - CCA.md
       - CCA Policy & Schedule.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Boys' Brigade.md
