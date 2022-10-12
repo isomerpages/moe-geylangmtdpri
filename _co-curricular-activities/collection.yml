@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports & Games/Athletics.md
       - Sports & Games/.keep
       - CCA.md
       - CCA Policy & Schedule.md
