@@ -101,7 +101,7 @@ Individual Event (Double Under):
 Individual Event (Speed Relay):
 
 | Division | Name | Class | Position / Achievement |
-|:---:|:---:|:---:|:---:|
+|---|---|---|---|
 | Senior Boys | Jayven Ng Jie Wen<br>Ong Chen Siang<br>Jaydon Sim Sheng Jie<br>Kendrick Tiong Chen Jun<br>Soon Yi Chen | 6-8<br>6-7<br>6-5<br>6-4<br>5-6 | <br>6th |
 |  Senior Girls | Loh Zhi Yi<br><br>Nicole Ng Yun Hui<br>Lei Yiqing Jazebelle<br>Jasira<br>Cheryl Ng Sin Lin (Huang Xinling) | 6-7<br>6-5<br>6-3<br>6-3<br>5-7 |  <br><br>12th |
 | Senior Mixed | Jaydon Sim Sheng Jie<br>Kendrick Tiong Chen Jun<br>Jasira<br>Goh Jia Rong | 6-5<br>6-4<br>6-3<br>5-7 |  <br><br>4th |
