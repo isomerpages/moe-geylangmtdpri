@@ -2,7 +2,6 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
-      - Angklung & Kulintang Ensemble.md
       - Art & Crafts Club.md
       - Choir.md
       - Guzheng Ensemble.md
