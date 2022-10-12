@@ -1,5 +1,4 @@
 collections:
   visual-and-performing-arts:
     output: true
-    order:
-      - Modern Dance.md
+    order: []
