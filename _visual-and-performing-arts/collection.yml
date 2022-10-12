@@ -2,7 +2,6 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
-      - Choir.md
       - Guzheng Ensemble.md
       - Handbells Ensemble.md
       - Modern Dance.md
