@@ -2,6 +2,6 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
-      - Art & Crafts Club.md
       - Visual & Performing Arts.md
       - Angklung & Kulintang Ensemble.md
+      - Art & Crafts Club.md
