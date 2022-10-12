@@ -2,5 +2,4 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
-      - Handbells Ensemble.md
       - Modern Dance.md
