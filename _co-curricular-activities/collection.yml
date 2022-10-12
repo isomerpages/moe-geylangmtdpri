@@ -2,9 +2,9 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Visual and Performing Arts/.keep
       - CCA.md
       - CCA Policy & Schedule.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girls' Brigade.md
+      - Visual and Performing Arts/.keep
