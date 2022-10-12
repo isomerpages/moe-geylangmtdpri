@@ -25,7 +25,7 @@ Coach: Dewi Nur'Afiza
 
 **1) East Zone Netball Tournament 2019 (Participation)** 
 
-<u><strong>Junior Team:</u></strong> <br>
+<u><strong>Junior Team:</strong></u><br>
 1. Michelle Mussenden (P4-3) 
 2. Alynha Binte Anim (P4-6)
 3. Jeanette Lim (P4-7)
@@ -39,7 +39,7 @@ Coach: Dewi Nur'Afiza
 11. Ruby Lee (P5-5)
 12. Alika Mi'raq (P5-6)
 
-<u><strong>Senior Team:</u></strong> <br>
+<u><strong>Senior Team:</strong></u> <br>
 1. Aliah Zakirah (P6-1)
 2. Loo Jia Xin (P6-1)
 3. Sukna Qayyum (P6-1)
