@@ -3,7 +3,8 @@ title: Choir
 permalink: /co-curricular-activities/cca/visual-n-performing-arts/choir/
 description: ""
 ---
-![](/images/Capture2.jpg)
+<img src="/images/Capture2.jpg" 
+    style="width:60%">
 
 ### CCA Overview
 
