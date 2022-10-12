@@ -8,7 +8,8 @@ third_nav_title: Uniformed Groups
 
 ### CCA Overview
 
-![](/images/GB%20Mission.png)
+<img src="/images/GB%20Mission.png" 
+    style="width:70%">
 
 The Girls' Brigade is a uniformed group that seeks to help girls achieve their fullest potential through positive character building and activities. We aim to develop each girl to her fullest potential by equipping, empowering and enabling every girl to be a leader.&nbsp;  
 
@@ -62,4 +63,3 @@ Chloe Goh Qiaoli (5-5) <br>Charis Goh Baoting (4-1)
 Ong Le Xuan, Anabel (5-3) <br>&nbsp;Kwan Zi Xuan (5-8)
 
 <u>Bronze</u><br>Tanushri D/O S Kumar (4-1)
-
