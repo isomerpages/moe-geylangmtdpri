@@ -2,8 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Sports & Games/Athletics.md
-      - Sports & Games/.keep
       - CCA.md
       - CCA Policy & Schedule.md
       - Uniformed Groups/.keep
@@ -17,3 +15,5 @@ collections:
       - Visual and Performing Arts/Guzheng Ensemble.md
       - Visual and Performing Arts/Handbells Ensemble.md
       - Visual and Performing Arts/Modern Dance.md
+      - Sports & Games/.keep
+      - Sports & Games/Athletics.md
