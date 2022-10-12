@@ -2,5 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Uniformed Groups/.keep
       - CCA.md
       - CCA Policy & Schedule.md
