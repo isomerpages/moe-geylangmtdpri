@@ -4,7 +4,8 @@ permalink: /co-curricular-activities/cca/sports-n-games/football/
 description: ""
 third_nav_title: Sports & Games
 ---
-![](/images/Soccer%201.jpg)
+<img src="/images/Soccer%201.jpg" 
+    style="width:70%">
 
 ### CCA Overview
 
