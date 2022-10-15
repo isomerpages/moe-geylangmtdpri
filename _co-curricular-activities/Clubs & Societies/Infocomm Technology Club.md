@@ -35,7 +35,7 @@ Ng Nan Feng (P5-8)
 
 Mondays:    2 p.m. to 4 p.m.
 
-<u><strong>Level     Programmes </strong></u> <br>
+<u><strong>Level     Programmes </strong></u> <br>
 Primary 3     eCCA / Cyberwellness, MS Office (Word & Powerpoint) <br>
 Primary 4     MS Office, iMovie, APP Development <br>
 Primary 5     Game Design, Video Production <br>
