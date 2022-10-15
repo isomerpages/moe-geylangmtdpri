@@ -13,7 +13,7 @@ Our E-Open House (Webinar) 2022 was held on 4 June 2022. The slides can be viewe
 **E-Open House 2022 Webinar Slides:** <br>
 [2022 GMSP E-Open House.pdf](/files/2022%20GMSP%20E-Open%20House.pdf)
 
-**[Places within the School](https://geylangmethodistpri.moe.edu.sg/useful-links/e-openhouse-2021-1/places-within-the-school)**                     
+**[Places within the School](https://staging.d33dbb0ee5w4xi.amplifyapp.com/useful-links/e-open-house-webinar-2022/places-within-the-school/)**                     
 
 **School Leaders' Time**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/00eHWHg-_d8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -21,4 +21,4 @@ Our E-Open House (Webinar) 2022 was held on 4 June 2022. The slides can be viewe
 **Sharing by Primary One (2020) Students**    
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DSn9FaA89Qc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**[Testimony from Parents](https://geylangmethodistpri.moe.edu.sg/useful-links/e-openhouse-2021-1/testimony-from-parents)**
+**[Testimony from Parents](https://staging.d33dbb0ee5w4xi.amplifyapp.com/useful-links/e-openhouse-2021-1/testimony-from-parents)**
