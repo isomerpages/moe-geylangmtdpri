@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs & Societies/.keep
       - CCA.md
       - CCA Policy & Schedule.md
       - Uniformed Groups/.keep
@@ -23,3 +22,4 @@ collections:
       - Sports & Games/Netball.md
       - Sports & Games/Rope Skipping.md
       - Sports & Games/Football.md
+      - Clubs & Societies/.keep
