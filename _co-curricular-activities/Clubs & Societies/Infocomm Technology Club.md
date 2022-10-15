@@ -20,7 +20,8 @@ Through the myriad learning opportunities in Info-comm Technology Club, we hope 
 
 ### Achievements
 
-![](/images/Info%20Comm.jpg)
+<img src="/images/Info%20Comm.jpg" 
+    style="width:70%">
 
 GMS(P) Team A was one of the 15 teams shortlisted for the finals of the 2021 National Primary Game Creation Competition (NPGC3). Our students got to showcase their talents and creativity in developing an original computer game, Unhack to Save, aligned to the theme, Smart Nation.
 
