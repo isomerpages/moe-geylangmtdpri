@@ -21,7 +21,7 @@ permalink: /terms-of-use/
 
   
 **Privacy Policy**  
-5\. To view Geylang Methodist School (Primary)’s Web Site Privacy Statement, please [click here](https://geylangmethodistpri.moe.edu.sg/others/privacy-statement).  
+5\. To view Geylang Methodist School (Primary)’s Web Site Privacy Statement, please [click here](https://staging.d33dbb0ee5w4xi.amplifyapp.com/privacy/).  
 
   
 **Restrictions on Use of Materials**  
