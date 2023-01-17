@@ -6,7 +6,7 @@ description: ""
 Please click on the following to view the PDF version of our school newsletter:  
   
 [GM Speaks 2022.pdf]
-(https://online.fliphtml5.com/qpmiu/tkjq/) 
+([undefined](https://online.fliphtml5.com/qpmiu/tkjq/)) 
 
 [GM Speaks 2021.pdf](https://geylangmethodistpri.moe.edu.sg/qql/slot/u176/2021/Useful%20Links/GM%20Speaks%202021.pdf)  
 
