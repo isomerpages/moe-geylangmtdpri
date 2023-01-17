@@ -5,17 +5,6 @@ description: ""
 ---
 ![](/images/WhatsApp%20Image%202021-08-07%20at%20%206.jpeg)
 
-#### 2022 Singapore Youth Festival (Arts Presentation)
-
-We are happy to share that SYF is back. Our teachers and students have persevered and worked hard to prepare for the following events: 1st Jul 2022: Guzheng, 6th Jul 2022: Modern Dance, 14th Jul 2022: Handbells, 20th Jul 2022: Angklung, 18th Aug 2022: Choir.
-
---------------
-
-#### Update of School's Dental Clinic Contact Number
-
-There is an update of our school's dental clinic contact number. The previous contact number is no longer in use. Parents may contact them at 8940 2459 to make appointment or enquiry.
-
---------------
 
 #### Driving in to School Premises
 
