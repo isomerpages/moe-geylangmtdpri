@@ -17,7 +17,7 @@ sections:
           description: ""
           url: https://staging.d33dbb0ee5w4xi.amplifyapp.com/announcements/
   - infopic:
-      title: We are a Methodist School with 98 years of history
+      title: We are a Methodist School with 99 years of history
       subtitle: Mission
       description: " Started in 1924 in Geylang by the Methodist Church, we are
         committed to the holistic development of every child entrusted to us."
