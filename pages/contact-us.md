@@ -9,7 +9,7 @@ locations:
       - 4, Geylang East Central
       - Singapore 389706
     operating_hours: []
-    maps_link: ""
+    maps_link: https://www.google.com/maps?q=GMPS+4,+Geylang+East+Central+Singapore+389706
     title: Address
 contacts:
   - content:
