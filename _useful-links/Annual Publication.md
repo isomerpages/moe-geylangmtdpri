@@ -3,7 +3,7 @@ title: Annual Publication
 permalink: /useful-links/annual-publication/
 description: ""
 ---
-Please click on the following to view the PDF version of our school newsletter:  
+Please click on the following to view the e-version of our school newsletter:  
   
 [GM Speaks 2022](https://online.fliphtml5.com/qpmiu/tkjq/)
 
