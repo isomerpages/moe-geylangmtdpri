@@ -22,7 +22,11 @@ sections:
       description: " Started in 1924 in Geylang by the Methodist Church, we are
         committed to the holistic development of every child entrusted to us."
       button: Click here for video
-      url: https://www.youtube.com/watch?v=JK2kO2O4Zhs
+      url: <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/JK2kO2O4Zhs" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen></iframe>
       image: /images/ee7c5c6d1_34477.jpg
       alt: Image alt text
 ---
