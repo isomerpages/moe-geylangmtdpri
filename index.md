@@ -16,6 +16,9 @@ sections:
         - title: ANNOUNCEMENTS
           description: ""
           url: https://staging.d33dbb0ee5w4xi.amplifyapp.com/announcements/
+        - title: QUICKLINKS
+          description: QUICKLINKS
+          url: ""
   - infopic:
       title: We are a Methodist School with 99 years of history
       subtitle: Mission
