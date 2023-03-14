@@ -7,7 +7,7 @@ description: ""
 
 ### Vision
 
-A Community of Learners, Sharing the Joy of Inquiry Science
+Inspired by values, enculturated in the practices of science
 
 ### Mission
 
@@ -15,10 +15,9 @@ To inspire Scientific learning based on ethical reasoning and impact the society
 
 ### Overview
 
-**i3 in GMS(P) Science**  
-\- To develop&nbsp;**I**nterest in Science learning  
-\- To allow students to develop scientific competencies through&nbsp;**I**nquiry-based learning  
-\- To deepen learning by&nbsp;**I**ntensifying the understanding of global current affairs and external partnerships
+The science curriculum in GMS(P) is guided by the MOE Science curriculum framework (2023). 
+
+![](/images/Picture1.png)
 
 ### Curriculum Structure and Key Programmes
 
