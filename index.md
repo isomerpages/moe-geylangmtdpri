@@ -34,4 +34,6 @@ sections:
       url: https://www.youtube.com/watch?v=JK2kO2O4Zhs
       image: /images/ee7c5c6d1_34477.jpg
       alt: Image alt text
+  - resources:
+      title: Latest
 ---
