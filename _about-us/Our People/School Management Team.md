@@ -25,17 +25,20 @@ third_nav_title: Our People
 | Mrs Beverly Toh | Head of Department (Citizenship & Character Education) | low_pei_lin_beverly@moe.edu.sg |
 | Mr Jason Wong Qi Hua | Head of Department<br>(Student Management) | jason_wong_qi_hua@moe.edu.sg |
 | Mr Lee Wei Te | Head of Department<br>(Infocomm Technology) |lee_wei_te@moe.edu.sg|
+| Ms Jill Chia | Head of Department<br>(Special Education Needs) |jill_chia@moe.edu.sg|
 | Ms Wendy Lin | Level Head<br>(English Language) | wendy_lin_miao_jing@moe.edu.sg |
 | Mdm Christine Tan | Level Head (Science) | tan_chor_kheng@moe.edu.sg |
 | Mrs Nantheini Elangovan | Subject Head<br>(Tamil Language) | yengadayson_nantheini@moe.edu.sg  |
 | Mrs Anna Quek | Subject Head (Discipline) | lai_szi_ern_anna@moe.edu.sg |
 | Mr Harrie Desianto B Mohd Hussien | Subject Head (Physical & Health Education) | harrie_desianto_mohd_hussien@moe.edu.sg |
-| Mrs Ariel Koh  | Subject Head (Student Management)  | ariel_zhuang_shuyi@moe.edu.sg |
-| Ms Neo Xuanpei Madeline | Subject Head<br>(National Education & Social Studies) | neo_xuanpei@moe.edu.sg |
-| Mrs Christabel Chue (Mdm Chua Khar Loo) | Subject Head<br>(Std Well-Being)(Int) | chua_khar_loo_christabel@moe.edu.sg |
-| Mr Jaysern Lee Teck Chuang  | Subject Head<br>(Std Leadership)(Int)  | jaysern_lee_teck_chuang@moe.edu.sg |
+| Mrs Ariel Koh  | Subject Head (Special Education Needs)  | ariel_zhuang_shuyi@moe.edu.sg |
+| Mrs Christabel Chue (Mdm Chua Khar Loo) | Subject Head<br>(Std Wellbeing) | chua_khar_loo_christabel@moe.edu.sg |
 | Mrs Wong Chia Peng (Mdm Tan Chia Peng) | Level Head<br>(Mathematics) (Int) | tan_chia_peng@moe.edu.sg |
 | Ms Tet Chiu Wah (Mrs Stella Chang) | Level Head<br>(Chinese Language) (Int) | tet_chiu_wah@moe.edu.sg |
+| Mdm Hanitha Shamsudeen | Subject Head
+(ICT) (Int) | hanitha_shamsudeen@moe.edu.sg|
+| Mdm Sulistiati Bte Idrus | P1 Level Manager (Int) | sulistiati_idrus@moe.edu.sg|
+| Mr Sufian Dadula | P2 Level Manager (Int)| mohamed_sufian_mohamed_sol@moe.edu.sg|
 | | | 
 
 ### Teacher-Leaders
