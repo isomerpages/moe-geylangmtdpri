@@ -19,6 +19,11 @@ The science curriculum in GMS(P) is guided by the MOE Science curriculum framewo
 
 ![](/images/Picture1.png)
 
+Central to the goal of science education is to provide students with a strong foundation in Science for life and society. 
+
+**I4 in GMS(P) Science** <br>
+
+
 ### Curriculum Structure and Key Programmes
 
 **Interest** <br>
