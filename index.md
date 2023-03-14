@@ -19,8 +19,8 @@ sections:
         - title: QUICKLINKS
           description: ""
           url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: Contact
+          description: ""
           url: ""
         - title: Calendar
           description: ""
