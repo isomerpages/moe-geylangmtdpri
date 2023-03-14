@@ -24,6 +24,7 @@ sections:
         - title: QUICKLINKS
           description: ""
           url: https://www.facebook.com/GMSPrimary/
+      background: /images/marquee.gif
   - infopic:
       title: We are a Methodist School with 99 years of history
       subtitle: Mission
