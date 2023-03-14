@@ -24,13 +24,10 @@ sections:
           url: https://www.facebook.com/GMSPrimary/
       background: /images/marquee.gif
   - infopic:
-      title: We are a Methodist School with 99 years of history
-      subtitle: Mission
-      description: " Started in 1924 in Geylang by the Methodist Church, we are
-        committed to the holistic development of every child entrusted to us."
+      title: A day in GMS(P)
       button: Click here for video
-      url: https://www.youtube.com/watch?v=JK2kO2O4Zhs
-      image: /images/ee7c5c6d1_34477.jpg
+      url: https://youtu.be/P2naDv7Zcws
+      image: /images/A day in GMSP_thumbnail.jpg
       alt: Image alt text
   - resources:
       title: Latest
