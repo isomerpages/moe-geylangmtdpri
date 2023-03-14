@@ -14,9 +14,9 @@ third_nav_title: School Policy
     - take greater ownership and responsibility for independent learning  <br>
       
     
-<p style="text-align: justify;">3.  Homework provides parents with:  
-    \- timely information on the learning progress of their child  
-    \- opportunities to be involved in their child's learning  
+<p style="text-align: justify;">3.  Homework provides parents with:<br>  
+    - timely information on the learning progress of their child  <br>
+    - opportunities to be involved in their child's learning  
       
     
 <p style="text-align: justify;">4.  Our proposed weekly time norms for assigning homework is as follows:
@@ -28,7 +28,7 @@ third_nav_title: School Policy
 | P5 and P6 | 9 - 13 hours |
 | | |
 
-<p style="text-align: justify;">5\.  Homework will not be assigned on Monday as it is a long school day for the majority of the students.  
+<p style="text-align: justify;">5.  Homework will not be assigned on Monday as it is a long school day for the majority of the students.  
       
     
-<p style="text-align: justify;">6\.  All assignments for the class would be written on the whiteboard in the homework column.
+<p style="text-align: justify;">6.  All assignments for the class would be written on the whiteboard in the homework column.
