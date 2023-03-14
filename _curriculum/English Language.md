@@ -55,7 +55,47 @@ description: ""
 </tr>
 </tbody>
 </table>
-
+<p style="text-align: justify;">&nbsp;</p>
+<table width="589">
+<tbody>
+<tr>
+<td width="145">
+<p><strong>Level</strong></p>
+</td>
+<td width="444">
+<p><strong>Area of Focus</strong></p>
+</td>
+</tr>
+<tr>
+<td width="145">
+<p>Primary 1 and 2</p>
+</td>
+<td width="444">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp; Penmanship- Write accurately and fluently</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp; Reading- Read for pleasure and understanding</p>
+</td>
+</tr>
+<tr>
+<td width="145">
+<p>Primary 3 and 4</p>
+</td>
+<td width="444">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp; Oral- Communicate accurately and fluently</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp; Language Use- Build a strong knowledge base in grammar and vocabulary</p>
+</td>
+</tr>
+<tr>
+<td width="145">
+<p>Primary 5 and 6</p>
+</td>
+<td width="444">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp; Reading Comprehension- Cultivate a habit of deep reading to reflect, discover and form connections.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp; Writing- Write to represent ideas, thoughts and</p>
+<p>feelings in formal and informal settings</p>
+</td>
+</tr>
+</tbody>
+</table>
 | Level | Area of Focus |
 |---|---|
 | P3 & P4 | Writing |
