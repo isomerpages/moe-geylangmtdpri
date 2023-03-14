@@ -27,6 +27,7 @@ Grat<strong><u>i</u></strong>tude & Grac<strong><u>i</u></strong>ousness <br>
 
 | Year | Theme | 
 | -------- | -------- | 
+| 2023 | <strong><u>Psalm 1:3</u>    <u>BE ROOTED IN PEACE, TRUTH AND LOVE </u></strong> <br> That person is like a tree planted by streams of water, <br>which yields its fruit in season<br>and whose leaf does not wither -<br> whatever they do prospers. | 
 | 2022 | <strong><u>Micah 6:8</u>    <u>ACT JUSTLY, LOVE MERCY AND WALK HUMBLY </u></strong> <br> He has shown you, O mortal, what is good. <br> And what does the Lord require of you? <br> To act justly and to love mercy and to walk humbly with your God. | 
 | 2021 | <strong><u>Matthew 5:16</u>    <u>LET YOUR LIGHT SHINE</u></strong> <br> In the same way, let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven. |
 | 2020 | <strong><u>Colossians 4:6</u>    <u>SEASONED WITH SALT</u></strong> <br> Let your conversation be always full of grace, seasoned with salt, so that you may know how to answer everyone. |
