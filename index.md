@@ -29,5 +29,4 @@ sections:
       url: https://youtu.be/P2naDv7Zcws
       image: /images/A day in GMSP_thumbnail.jpg
       alt: Image alt text
-  - resources: {}
 ---
