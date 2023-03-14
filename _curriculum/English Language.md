@@ -6,15 +6,56 @@ description: ""
 ![](/images/EL%201.jpg)
 
 ### Vision
-To enrich students’ learning experiences by taking them out of the classroom to experience how language is used in real-life contexts and bring the world into the classroom through the use of multimodal texts.
+<p style="text-align: justify;">To enrich students’ learning experiences by taking them out of the classroom to experience how language is used in real-life contexts and bring the world into the classroom through the use of multimodal texts.</p>
 
 ### Mission
-Readers now, Effective Users of the English Language for life
+<p style="text-align: justify;">Readers now, Effective Users of the English Language for life
 
 
 ### Curriculum Structure and Key Programmes
-Taking reference from the MOE English Language  Syllabus 2020 and aligning to the STELLAR 2.0 (Strategies for English Language Learning and Reading), the school’s EL curriculum is designed for real-life application and the teaching of values and social-emotional competencies. Recognising that every student has a different learning profile, there is explicit teaching in the following areas at different levels.
-     
+<p style="text-align: justify;">Taking reference from the MOE English Language  Syllabus 2020 and aligning to the STELLAR 2.0 (Strategies for English Language Learning and Reading), the school’s EL curriculum is designed for real-life application and the teaching of values and social-emotional competencies. Recognising that every student has a different learning profile, there is explicit teaching in the following areas at different levels.</p>
+
+<table width="589">
+<tbody>
+<tr>
+<td width="145">
+<p><strong>Level</strong></p>
+</td>
+<td width="444">
+<p><strong>Area of Focus</strong></p>
+</td>
+</tr>
+<tr>
+<td width="145">
+<p>Primary 1 and 2</p>
+</td>
+<td width="444">
+<p>● Penmanship- Write accurately and fluently</p>
+<p>● Reading- Read for pleasure and understanding</p>
+</td>
+</tr>
+<tr>
+<td width="145">
+<p>Primary 3 and 4</p>
+</td>
+<td width="444">
+<p>● Oral- Communicate accurately and fluently</p>
+<p>● Language Use- Build a strong knowledge base in grammar and vocabulary</p>
+</td>
+</tr>
+<tr>
+<td width="145">
+<p>Primary 5 and 6</p>
+</td>
+<td width="444">
+<p>● Reading Comprehension- Cultivate a habit of deep reading to reflect, discover and form connections.</p>
+<p>● Writing- Write to represent ideas, thoughts and</p>
+<p>feelings in formal and informal settings</p>
+</td>
+</tr>
+</tbody>
+</table>
+
 | Level | Area of Focus |
 |---|---|
 | P3 & P4 | Writing |
