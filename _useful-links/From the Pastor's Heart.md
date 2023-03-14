@@ -9,7 +9,7 @@ Daily morning devotions are such an important part of our heritage as a school a
 
 GMS(P) wishes everyone peace, health and safety as we transit into work and play under the new normal! 
 
-### Devotion Sharing (29 June 2020)
+### Devotion Sharing
 
 by Reverend Shaun Chong
 
