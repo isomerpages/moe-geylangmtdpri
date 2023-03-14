@@ -74,6 +74,5 @@ description: ""
 
 To God be the Glory! 99 years today, and counting! Amen and Amen.
 
-<p style="text-align: justify;">**_"A Christian school is like a family.  It runs on the basic principles of love, tolerance and duty.  It is the responsibility of everyone...that these are maintained..."_**
-
-<p style="text-align: justify;">**_\- Rev J V Ayaduray, Chairman of school's first Management Board, 1960._**
+<p style="text-align: justify;">***"A Christian school is like a family.  It runs on the basic principles of love, tolerance and duty.  It is the responsibility of everyone...that these are maintained..."<br>
+- Rev J V Ayaduray, Chairman of school's first Management Board, 1960.*
