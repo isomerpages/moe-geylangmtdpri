@@ -127,3 +127,5 @@ description: ""
 7\. Spatial visualisation  
 8\. Use logical reasoning  
 9\. Restating the problem</p>
+
+<p style="text-align: justify;">From time to time, appropriate enrichment programmes are conducted and selected students do participate in external events or competitions.
