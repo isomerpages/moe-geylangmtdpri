@@ -31,4 +31,5 @@ sections:
       alt: Image alt text
   - resources:
       title: Latest
+      button: calendar
 ---
