@@ -13,19 +13,18 @@ third_nav_title: Our People
 | Mrs Cherlyn Neo | Vice-Principal | neo_hui_en_cherlyn@schools.gov.sg |
 | Mdm Mildred Lek | Admin Manager  | lek_chew_peng@schools.gov.sg |
 | Mrs Liow Lay Suan | School Staff Developer | lee_lay_suan@moe.edu.sg |
-| Mrs Tok Bing Hwee | Year Head<br>(Upper Pri) | tan_bing_hwee@moe.edu.sg   |
-| Ms Nadiah Hana Bte Abdul Rahman | Asst. Year Head (Upper Pri) | nadiah_hana_abdul_rahman@<br>moe.edu.sg  |
-| Ms Tng Li Ling | Year Head (Middle Pri) | tng_li_ling@moe.edu.sg<br> |
-| Mr Sim Wei Zhang | Asst. Year Head (Middle Pri) (Int) | sim_wei_zhang@moe.edu.sg |
-| Mrs Chen Yan Xi | Year Head<br>(Lower Pri) | sim_yan_xi@moe.edu.sg |
+| Ms Tng Li Ling | Year Head<br>(Upper Pri) | tng_li_ling@moe.edu.sg |
+| Mr Sim Wei Zhang | Asst. Year Head (Upper Pri)  (Int)  | sim_wei_zhang@moe.edu.sg |
+| Mrs Tok Bing Hwee | Year Head (Middle Pri) | tan_bing_hwee@moe.edu.sg |
+| Mrs Ariel Koh | Asst. Year Head (Middle Pri) (int) | ariel_zhuang_shuyi@moe.edu.sg|
 | Ms Tan Li Ling | Asst. Year Head (Lower Pri) | tan_li_ling@moe.edu.sg |
-| Ms Joylynn Lim | Head of Department (English Language) | lim_chew_yen_joylynn@moe.edu.sg |
 | Ms Pearl Saw | Head of Department (Mathematics) | saw_pearl@moe.edu.sg |
 | Mrs Sylvia Foo | Head of Department (Mother Tongue Languages) | chee_siew_khing_sylvia@moe.edu.sg |
 | Mr Wong Wai Lit | Head of Department (Science) |  wong_wai_lit@moe.edu.sg |
 | Ms Denyse Ong | Head of Department (Aesthetics) | ong_san_san_denyse@moe.edu.sg |
 | Mrs Beverly Toh | Head of Department (Citizenship & Character Education) | low_pei_lin_beverly@moe.edu.sg |
 | Mr Jason Wong Qi Hua | Head of Department<br>(Student Management) | jason_wong_qi_hua@moe.edu.sg |
+| Mr Lee Wei Te | Head of Department<br>(Infocomm Technology) |lee_wei_te@moe.edu.sg|
 | Ms Wendy Lin | Level Head<br>(English Language) | wendy_lin_miao_jing@moe.edu.sg |
 | Mdm Christine Tan | Level Head (Science) | tan_chor_kheng@moe.edu.sg |
 | Mrs Nantheini Elangovan | Subject Head<br>(Tamil Language) | yengadayson_nantheini@moe.edu.sg  |
@@ -51,4 +50,4 @@ third_nav_title: Our People
 | Mr Harvey Kwek | Senior Teacher  (Art) | kwek_ching_an_harvey@moe.edu.sg |
 | Mrs Tan Siew Kuan | Senior Teacher  (Lower Primary Learners) | lim_siew_kuan@moe.edu.sg |
 | Mrs Jean Tan | Senior Teacher  (Special Education Needs) | jean_tan_nee_ho@moe.edu.sg |
-| | | | 
+| | | |
