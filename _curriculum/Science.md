@@ -5,22 +5,22 @@ description: ""
 ---
 ### Vision
 
-Inspired by values, enculturated in the practices of science
+<p style="text-align: justify;">Inspired by values, enculturated in the practices of science
 
 ### Mission
 
-To inspire Scientific learning based on ethical reasoning and impact the society positively
+<p style="text-align: justify;">To inspire Scientific learning based on ethical reasoning and impact the society positively
 
 ### Overview
 
-The science curriculum in GMS(P) is guided by the MOE Science curriculum framework (2023). 
+<p style="text-align: justify;">The science curriculum in GMS(P) is guided by the MOE Science curriculum framework (2023). 
 
 ![](/images/Picture1.png)
 
-Central to the goal of science education is to provide students with a strong foundation in Science for life and society. 
+<p style="text-align: justify;">Central to the goal of science education is to provide students with a strong foundation in Science for life and society. 
 
 **I4 in GMS(P) Science**<br>
-In line with the MOE curriculum framework, the teaching and learning of science in GMS(P) endeavors to provide students with the experiences of being Inspired by Science, Inquire like Scientist and Innovate using Science. Thus, we seek to
+<p style="text-align: justify;">In line with the MOE curriculum framework, the teaching and learning of science in GMS(P) endeavors to provide students with the experiences of being Inspired by Science, Inquire like Scientist and Innovate using Science. Thus, we seek to
  
 (i) Inspire and develop Interest in Science in our students
 
@@ -29,26 +29,26 @@ In line with the MOE curriculum framework, the teaching and learning of science 
 (iii) provide opportunities for our students to Innovate using science
 
 
-Besides helping students to develop core ideas in science, our curriculum also focuses on developing in our students the practices of science; values, ethics and attitudes. Practices of science serve to highlight that the discipline of Science is more than the acquisition of a body of knowledge (e.g., scientific facts, concepts, laws, and theories); it is also a way of thinking and doing.
+<p style="text-align: justify;">Besides helping students to develop core ideas in science, our curriculum also focuses on developing in our students the practices of science; values, ethics and attitudes. Practices of science serve to highlight that the discipline of Science is more than the acquisition of a body of knowledge (e.g., scientific facts, concepts, laws, and theories); it is also a way of thinking and doing.
 
-They represent the set of established procedures and processes associated with scientific inquiry, what scientific knowledge is and how it is generated and established, and how science is applied in society respectively.
+<p style="text-align: justify;">They represent the set of established procedures and processes associated with scientific inquiry, what scientific knowledge is and how it is generated and established, and how science is applied in society respectively.
 
-The Practices of Science comprises three intricately linked components:
+<p style="text-align: justify;">The Practices of Science comprises three intricately linked components:
 
-Demonstrating Ways of Thinking and Doing (WOTD)
+<p style="text-align: justify;">Demonstrating Ways of Thinking and Doing (WOTD)
 Understanding the Nature of Scientific Knowledge (NOS)
 Relating Science, Technology, Society and Environment (STSE)
 
 
 ### Pedagogical Approaches / Strategies
 
-Inquiry-Based Approach is adopted in our teaching and learning of science. This approach is built on the premise that students are inquirers of learning, and teachers’ as facilitators of the learning process.
+<p style="text-align: justify;">Inquiry-Based Approach is adopted in our teaching and learning of science. This approach is built on the premise that students are inquirers of learning, and teachers’ as facilitators of the learning process.
 
-The 3C Pedagogical framework is adopted to guide teachers in designing and enacting meaningful inquiry lessons in the classroom.
+<p style="text-align: justify;">The 3C Pedagogical framework is adopted to guide teachers in designing and enacting meaningful inquiry lessons in the classroom.
 
 ![](/images/Picture2.png)
 
-Harnessing the affordance of ICT and our school facilities, the department also incorporate learning outside the classroom through our Sensory Gardens and Eco-Gardens. This helps us to engage students, arouse their curiosity and develop their process skills such as observation skills and questioning.
+<p style="text-align: justify;">Harnessing the affordance of ICT and our school facilities, the department also incorporate learning outside the classroom through our Sensory Gardens and Eco-Gardens. This helps us to engage students, arouse their curiosity and develop their process skills such as observation skills and questioning.
   
 ### Science Programmes
 
