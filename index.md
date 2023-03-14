@@ -9,7 +9,6 @@ sections:
   - hero:
       title: Geylang Methodist School (Primary)
       subtitle: To Inspire Minds, Nurture Character & Touch Community
-      background: /images/WhatsApp Image 2021-08-07 at PM 6.jpeg
       button: Contact Us
       url: /contact-us
       key_highlights:
