@@ -109,7 +109,7 @@ description: ""
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="330"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
   EN-SG" lang="EN-SG">- Singapore Mathematical Olympiad for<br><span style="mso-spacerun:yes">&nbsp; </span>Primary School (Selected students)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
   EN-SG" lang="EN-SG">- Raffles Institution Mathematics World<br><span style="mso-spacerun:yes">&nbsp; </span>Contest (Selected students)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- Remediation Support</span></p></td></tr></tbody></table>
+  EN-SG" lang="EN-SG">- Remediation Support</span></p></td></tr></tbody></table><p>
 
 ### Pedagogical Approaches / Strategies
 
