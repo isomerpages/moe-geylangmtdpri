@@ -19,7 +19,7 @@ The BOM acknowledges the work of the staff and has implemented the five-year Lon
 | **Members** | Mdm Ng Cher Siang, Cheryl |
 |  | Mr Tay Kah Ann Peter |
 |  | Dr Raymond Teo Cheng Soon |
-|  | Mr Wee Tat Chuen, Principal, GMS(S) |
+|  | Mr Victor Owyong, Principal, GMS(S), Principal, GMS(S) |
 |  | Mr Kim Seah Teck Kim, Asst. Education Secretary, MCS |
 | **Ex-Officio Member** | Rev Shaun Chong, Pastor-in-Charge,<br>Christalite Methodist Chapel |
 | **Alumni Representative** | Ms Teo Sek Jen |
