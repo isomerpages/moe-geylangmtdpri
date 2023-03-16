@@ -9,4 +9,3 @@ description: ""
 **Email:** gmsp@moe.edu.sg <br>
 **School's Dental Clinic:** contact them at **8940 2459** to make appointment or enquiry.
 
-</insert google map>
