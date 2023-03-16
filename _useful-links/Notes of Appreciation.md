@@ -45,7 +45,7 @@ Emmanuel Deron
 
 <p style="text-align: justify;">“I would like to compliment Madam Chow from Geylang Methodist school primary for being such a caring and dedicated teacher. She was concerned about my daughter Esther’s wellbeing, set aside time to do online homework. She took effort to make sure my daughter can catch up in school. Kudos to Mdm Chow!”
 
-”Thank you to Mr Ong, from Geylang Methodist school primary for being a fun and loving teacher. My daughter Esther enjoyed his interactive and interesting zoom lessons. He put extra effort to ensure she can catch up after her LOA. He encourage her to improve. Motivating and inspiring teacher!”
+<p style="text-align: justify;">”Thank you to Mr Ong, from Geylang Methodist school primary for being a fun and loving teacher. My daughter Esther enjoyed his interactive and interesting zoom lessons. He put extra effort to ensure she can catch up after her LOA. He encourage her to improve. Motivating and inspiring teacher!”
 
 -------
 
