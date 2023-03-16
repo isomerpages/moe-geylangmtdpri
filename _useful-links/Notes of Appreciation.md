@@ -7,6 +7,10 @@ description: ""
 
 [geylang-methodist-school-primary.pdf](https://geylangmethodistpri.moe.edu.sg/qql/slot/u176/2021/Useful%20Links/geylang-methodist-school-primary.pdf)
 
+
+------
+### Appreciation by students & parents
+
 From: Emmanuel Deron <br>
 Sent: Sunday, 22 August 2021 7:49 PM <br>
 To: Contact Us (MOE) <Contact@moe.gov.sg> <br>
