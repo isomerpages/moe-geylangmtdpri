@@ -90,7 +90,7 @@ Dear Mrs Choy,
 Warm regards, 
 
 Mrs Yu <br>
-(Mother of Marcus Yu ZeXi P5-8 and Lucas Yu ZeCheng P1-2)
+<p style="text-align: justify;">(Mother of Marcus Yu ZeXi P5-8 and Lucas Yu ZeCheng P1-2)
 
 ------
 
