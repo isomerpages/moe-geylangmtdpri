@@ -3,6 +3,9 @@ title: For Students & Parents
 permalink: /useful-links/for-students-n-parents/
 description: ""
 ---
+### 2023 Booklists
+
+
 ### Students
   
 1\. Singapore Student Learning Space (SLS)  
@@ -31,8 +34,6 @@ Please click [here](https://schoolibrary.moe.edu.sg/geylangmethodistpri)
 5\. Cyber Wellness  
 [https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)   
   
-6\. Guide to SLS Account Management for Parents  
-[Guide to SLS Account Management for Parents](/files/Guide%20to%20SLS%20Account%20Management%20for%20Parents.pdf)
   
-7\. Name Tag Order  
+6\. Name Tag Order  
 [https://www.schooluniforms.sg/gmsp-primary-name-tag](https://www.schooluniforms.sg/gmsp-primary-name-tag)
