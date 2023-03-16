@@ -7,10 +7,10 @@ description: ""
 
 <p style="text-align: justify;">Daily morning devotions are such an important part of our heritage as a school and it is with great joy that we share an encouraging word by the Pastor-in-Charge of Christalite Methodist Chapel, Reverend Shaun Chong.
 
-<p style="text-align: justify;">GMS(P) wishes everyone peace, health and safety as we transit into work and play under the new normal! 
+</p><p style="text-align: justify;">GMS(P) wishes everyone peace, health and safety as we transit into work and play under the new normal!&nbsp;
 
 ### Devotion Sharing
 
 by Reverend Shaun Chong
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ubZiLJjR9Q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ubZiLJjR9Q0" height="315" width="560"></iframe></p>
