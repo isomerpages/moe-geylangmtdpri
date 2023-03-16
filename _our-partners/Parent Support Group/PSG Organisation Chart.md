@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Parent Support Group
 ---
 <img src="/images/PSG%20org%20chart%202021_nov%202021.jpg" 
-    style="width:80%">
+    style="width:150%">
