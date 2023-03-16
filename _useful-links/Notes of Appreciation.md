@@ -83,7 +83,7 @@ Dear Mrs Choy,
 
 <p style="text-align: justify;">Beside of all core subjects’ teachers, Lucas shared with me he likes Ms Wong’s music lesson, Mr Chris’s PE lesson, we appreciate the teachers to conduct such engaging lessons to let student enjoy attending school. 
 
-<p style="text-align: justify;">We would like to show our appreciation to educators who love their jobs and how their extra efforts help shaped Marcus and Lucas’s perception of lifelong learning. With your team, Lucas transited very well from kindergarten to Primary school. These are not possible if your team had not done what you believed strongly in. Here is a song performed by Marcus and Lucas, to appreciate all the GMSP teachers **[https://www.youtube.com/watch?v=mBB6zEQSl8s](https://www.youtube.com/watch?v=mBB6zEQSl8s)** 
+<p style="text-align: justify;">We would like to show our appreciation to educators who love their jobs and how their extra efforts help shaped Marcus and Lucas’s perception of lifelong learning. With your team, Lucas transited very well from kindergarten to Primary school. These are not possible if your team had not done what you believed strongly in. Here is a song performed by Marcus and Lucas, to appreciate all the GMSP teachers.
 
 <p style="text-align: justify;">Thank you and we will continue to support GMSP, we wish all teachers in GMSP a Happy Teachers’ Day! 
 
