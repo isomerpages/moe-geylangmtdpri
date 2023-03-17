@@ -131,6 +131,12 @@ Ms Rebecca Ting (Church Personnel)<br>
 
 3\. Kuan Zi Xuan, P6-8 <br>
 (Squad Leader, Flag Raising IC)
+
+4\. Ong Yun Ting, P6-3
+
+        
+**Company Award for 2022:** <br>
+Gold Award
  
 
 **Dr Low Guat Tin Challenge 2022** <br>
