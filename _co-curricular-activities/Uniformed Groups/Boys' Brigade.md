@@ -35,7 +35,7 @@ Boys’ Brigade Week 2020 Gold Honour Roll
 J M Fraser Award For Excellence 2022 (YOA 2021) - Gold Honour Roll  
 Character Quest 2019 Gold Honour Roll, Top 5
 
-**2021**
+**2021**<br>
 Best Boys Award 2021-He Meng Xiu(6-6)
 Boys’ Brigade Week 2021 Gold Honour Roll
 ^J M Fraser Award For Excellence 2021 (YOA 2020) - Suspended
@@ -50,29 +50,22 @@ J M Fraser Award For Excellence 2020 (YOA 2019) - Gold Honour Roll
 
   
 
-**2019**
-
+**2019**<br>
 Best Boys Award 2019- Han Qi Li(6-8)
-
 Adventure Quest 2019- Gold Honour Roll (Overall)
-
 Adventure Quest 2019-1st Runner-up(Best Placing)
-
 Boys’ Brigade Week 2019 Gold Honour Roll
-
 Character Quest 2019 Gold Honour Roll
-
 J M Fraser Award For Excellence 2019 (YOA 2018) - Gold Honour Roll
 
 ### Teachers-in-Charge
-
 Mrs Anna Quek (Captain) <br>
 Mr Calvin Eng (IC) <br> 
 Ms Sarah-Ann Tan (2IC) <br> 
 Mr Harvey Kwek <br> 
-Mr Michael Goh <br> 
-Ms Juliana Sng <br> 
-Ms Grace See (Church Personnel) <br> 
-Mr Genson (Church Personnel)
+Mr Chen Zhi Rong<br>
+Ms Deborah Tan<br>
+Ms Guan Yuan(Church Personnel)<br>
 
-![](/images/01.jpg)
+
+
