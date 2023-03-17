@@ -4,9 +4,9 @@ permalink: /useful-links/e-open-house-webinar-2022/
 description: ""
 third_nav_title: E Open House (Webinar) 2022
 ---
-Welcome to Geylang Methodist School (Primary) e-information page for parents of incoming Primary One students! This page serves to provide you with useful information about GMS(P). Click on the following links to find out more! 
+<p style="text-align: justify;"> to Geylang Methodist School (Primary) e-information page for parents of incoming Primary One students! This page serves to provide you with useful information about GMS(P). Click on the following links to find out more! 
 
-Our E-Open House (Webinar) 2022 was held on 4 June 2022. The slides can be viewed in the link below.
+<p style="text-align: justify;">Our E-Open House (Webinar) 2022 was held on 4 June 2022. The slides can be viewed in the link below.
 
 **E-Open House 2022 Webinar Slides:** <br>
 [2022 GMSP E-Open House.pdf](/files/2022%20GMSP%20E-Open%20House.pdf)
