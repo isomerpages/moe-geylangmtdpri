@@ -29,27 +29,25 @@ Mr Michael Goh<br>
 
 <p style="text-align: justify;">GM Track and Field Primary 4 students went for the JSA trial on 8 October 2022.  Four students were invited to participate in the JSA programme beginning in January this year. Congratulations to Chloe Chan Si Kei (P5-7), Evan Wong Tai Li (P5-3), Lim Jyun Zhe Jayden (P5-2) and Lim Pei Qi, Cherish (P5-6) for emerging top in the Primary 4 cohort in Singapore during the JSA trial. They are pursuing the sports of Badminton, Bowling and Laser Rifle Shooting.
 
-**Singapore Masters Track and Field Association Race 2022**  
-  
-
-·        Event: Long Jump (5m run up)
+**Singapore Masters Track and Field Association Race 2022**  <br>
+* Event: Long Jump (5m run up)
 
 2nd Place Chloe Chan Si Kei (P5-7)
 
-·        Event: 80m Sprint
+* Event: 80m Sprint
 
 6th Place Chloe Chan Si Kei (P5-7)
 
-·        Event: 200m Sprint
+* Event: 200m Sprint
 
 1st Place Chloe Chan Si Kei (P5-7)
 
-·        Event: 400m Sprint
+* Event: 400m Sprint
 
-2nd Place Chloe Chan Si Kei (P5-7)
+2nd Place Chloe Chan Si Kei (P5-7)<br>
+	
 **National School Games Track &amp; Field 2022** <br>
-**(Junior Division)**  
-  
+**(Junior Division)**<br>
 * Event:&nbsp;120 metres <br>
 3rd Place&nbsp;Lock Sheng Herng (P5-5)&nbsp;  
   
