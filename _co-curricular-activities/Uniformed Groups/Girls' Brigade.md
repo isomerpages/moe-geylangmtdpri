@@ -16,7 +16,100 @@ third_nav_title: Uniformed Groups
   
 **The GB Aim:** <br>
 <p style="text-align: justify;">To help girls to become followers of the Lord Jesus Christ and through self-control, reverence and a sense of responsibility to find true enrichment of life.&nbsp;
-  
+
+	---------------------------------------------------
+<p style="text-align: center;"><strong>2<sup>nd</sup> Company Girls&rsquo; Brigade Student Leadership Structure 2023</strong></p>
+<table style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td colspan="7">
+<p>Company Leader: Bernice Teo &amp; Charis Goh</p>
+</td>
+</tr>
+<tr>
+<td colspan="7">
+<p>Assistant Company Leader : Ang Le En Tiffany &amp; Teng Yu Xin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Squad&nbsp;</p>
+<p>leaders</p>
+</td>
+<td>
+<p>Squad 1</p>
+</td>
+<td>
+<p>Squad 2</p>
+</td>
+<td>
+<p>Squad 3</p>
+</td>
+<td>
+<p>Squad 4</p>
+</td>
+<td>
+<p>Squad 5</p>
+</td>
+<td>
+<p>Squad 6&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Jess Tan&nbsp;</p>
+</td>
+<td>
+<p>Lo Ke Xin, Caryn</p>
+</td>
+<td>
+<p>Jerin Goh&nbsp;</p>
+</td>
+<td>
+<p>Phoebe</p>
+</td>
+<td>
+<p>Tan Yu Tong</p>
+</td>
+<td>
+<p>Elaine&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Assistant&nbsp;</p>
+<p>Squad&nbsp;</p>
+<p>leaders</p>
+</td>
+<td>
+<p>Lilian Grace Leitao&nbsp;</p>
+</td>
+<td>
+<p>Tan Ing Xuan&nbsp;</p>
+</td>
+<td>
+<p>Ng Wei Tong</p>
+</td>
+<td>
+<p>Chelsea Tay&nbsp;</p>
+</td>
+<td>
+<p>Guo Meng Qi&nbsp;</p>
+</td>
+<td>
+<p>Gao Xin Di&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Flag Raising IC:</p>
+</td>
+<td colspan="6">
+<p>Ong Yun Ting</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 ### Teachers-in-charge
 Mrs Ariel Koh (IC) <br>
