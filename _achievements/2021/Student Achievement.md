@@ -24,5 +24,4 @@ third_nav_title: "2021"
 | | | 
 
 ### SYF Art Exhibition
-
 <p style="text-align: justify;">Our students' artworks in both P3/4 and P5/6 categories were selected for display at this year's SYF Art Exhibition. The artworks will be conferred either the Certificate of Recognition or Certificate of Recognition (Special Mention).
