@@ -4,8 +4,6 @@ permalink: /co-curricular-activities/cca/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTaSu3N-rwByy4Tn1B1qUM6teFV7eCCyXhknRpI8EYkBsuwuPERf-ptIVln_YhHqk9OEbt0oJCocWT_/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
-
 ### CCA Overview
 
 <img src="/images/GB%20Mission.png" 
