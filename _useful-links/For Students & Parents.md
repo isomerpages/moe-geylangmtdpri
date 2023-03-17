@@ -5,16 +5,16 @@ description: ""
 ---
 ### 2023 Booklists
 
-[Primary 1](/files/Primary%201.pdf)<br>
-[Primary 2](/files/Primary%202.pdf)<br>
-[Primary 3](/files/Primary%203.pdf)<br>
-[Primary 4](/files/Primary%204.pdf)<br>
-[Primary 5 (4F)](/files/Primary%205%20(4F).pdf)<br>
-[Primary 5 (4S)](/files/Primary%205%20(4S).pdf)<br>
-[Primary 5 (4S_HMT)](/files/Primary%205%20(4S_HMT).pdf)<br>
-[Primary 6 (4F)](/files/Primary%206%20(4F).pdf)<br>
-[Primary 6 (4S)](/files/Primary%206%20(4S).pdf)<br>
-[Primary 6 (4S_HMT)](/files/Primary%206%20(4S_HMT).pdf)<br>
+* [Primary 1](/files/Primary%201.pdf)<br>
+* [Primary 2](/files/Primary%202.pdf)<br>
+* [Primary 3](/files/Primary%203.pdf)<br>
+* [Primary 4](/files/Primary%204.pdf)<br>
+* [Primary 5 (4F)](/files/Primary%205%20(4F).pdf)<br>
+* [Primary 5 (4S)](/files/Primary%205%20(4S).pdf)<br>
+* [Primary 5 (4S_HMT)](/files/Primary%205%20(4S_HMT).pdf)<br>
+* [Primary 6 (4F)](/files/Primary%206%20(4F).pdf)<br>
+* [Primary 6 (4S)](/files/Primary%206%20(4S).pdf)<br>
+* [Primary 6 (4S_HMT)](/files/Primary%206%20(4S_HMT).pdf)<br>
 ### Students
   
 1\. Singapore Student Learning Space (SLS)  
