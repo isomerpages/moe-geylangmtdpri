@@ -19,7 +19,6 @@ third_nav_title: Uniformed Groups
   
 
 ### Teachers-in-charge
-
 Mrs Ariel Koh (IC) <br>
 Mrs Christabel Chue (2IC) <br>
 Ms Theresa Tong  <br>
@@ -30,7 +29,6 @@ Mdm Tan Ai Cheng (Church Personnel)  <br>
 Ms Rebecca Ting (Church Personnel)<br>
 
 ### Achievements
-
 **2022 Junior Brigadier Brooch Awardee:** <br>
 1\. Chloe Goh Qiaoli, P6-5<br>
 (Company Leader)
