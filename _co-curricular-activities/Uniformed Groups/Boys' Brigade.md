@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/cca/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/21Jb.jpg)
+![](/images/BB_Picture4.jpg)
 
 ### CCA Overview 
 
@@ -66,3 +66,7 @@ Mr Harvey Kwek <br>
 Mr Chen Zhi Rong<br>
 Ms Deborah Tan<br>
 Ms Guan Yuan (Church Personnel)<br>
+	
+```
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ-oTahjltvoF-2uERUgRC81WNbAbzva3nRlDrh6kIi2IfEjC2-XUIeb5HpyVNsQKy10vv-tTBEgTIw/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+```
