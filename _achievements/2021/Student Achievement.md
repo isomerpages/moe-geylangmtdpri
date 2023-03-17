@@ -20,7 +20,7 @@ third_nav_title: "2021"
 | No. | Name of Competition / Awards | Awardees |
 |---|---|---|
 | 1. | **Singapore Mathematical Olympiad for Primary Schools (SMOPS)**<br><br>Gold<br>Silver<br>Silver<br>Bronze | <br><br><br>Shen Xiaoyu<br>Jayrell Ng Jie Ren<br>Soh Zhi Kuan Jonathan <br>Xavier Cheung |
-| 2. | **4th National Chinese Recital Competition** <br>Silver <br><br><br><br><br>Bronze | <br>Aarika Leong 3-8<br><br>Fiona Ong 4-7<br>Keira Gue 4-7<br>Wang Yinuo 4-8<br>Zhou Jun Feng 4-8<br><br>Hong Kaihan Kyle 3-7<br>Lam Jing Yao 3-3<br>Gao Xindi. 3-7<br>Hu Vivy 3-8 |
+| 2. | **4th National Chinese Recital Competition** <br>Silver <br><br><br><br><br><br><br><br>Bronze | <br>Aarika Leong 3-8<br>Fiona Ong 4-7<br>Keira Gue 4-7<br>Wang Yinuo 4-8<br>Zhou Jun Feng 4-8<br><br>Hong Kaihan Kyle 3-7<br>Lam Jing Yao 3-3<br>Gao Xindi. 3-7<br>Hu Vivy 3-8 |
 | | | 
 
 ### SYF Art Exhibition
