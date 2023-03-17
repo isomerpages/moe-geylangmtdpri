@@ -29,7 +29,7 @@ third_nav_title: "2023"
 <p class=""><strong>Basketball</strong></p>
 </td>
 <td class="" style="text-align: center; height: 31.5px; width: 309.547px;">
-<p class=""><span class=""><strong>NSG Basketball Zonal Competition</strong></span></p>
+<p class=""><span class=""><strong>NSG Basketball Zonal Competition</strong></span>
 <p class=""><span class=""><strong>(Senior)</strong></span></p>
 </td>
 <td class="" style="text-align: center; height: 31.5px; width: 207.734px;">
@@ -49,15 +49,15 @@ third_nav_title: "2023"
 <td class="" style="height: 31.5px; width: 207.734px; text-align: left;">
 <p class=""><span class=""><strong>Nathanael Lim P4-8</strong></span></p>
 <ul>
-<li><span class=""><strong>silver - 60m Sprint&nbsp;</strong></span></li>
+<li><span class=""><strong>Silver - 60m Sprint&nbsp;</strong></span></li>
 <li><span class=""><strong> 7th - Long Jump</strong></span></li>
 </ul>
 <p><span class=""><strong>Takahashi Sachiko P4-7</strong></span></p>
 <ul>
-<li><span class=""><strong>bronze - 60m Sprint</strong></span></li>
+<li><span class=""><strong>Bronze - 60m Sprint</strong></span></li>
 <li><span class=""><strong>3rd - Scissors Jump</strong></span></li>
 </ul>
-<p><span class=""><strong>Chloe Chan</strong></span></p>
+<p><span class=""><strong>Chloe Chan P5-7</strong></span></p>
 <ul>
 <li><span class=""><strong>4th - Long Jump</strong></span></li>
 <li><span class=""><strong>8th -&nbsp;&nbsp;Combined multi events (60m + Long Jump + Shot Putt)</strong></span></li>
