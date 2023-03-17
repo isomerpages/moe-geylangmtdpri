@@ -12,17 +12,17 @@ third_nav_title: Sports & Games
 
 <p style="text-align: justify;">In alignment with the national framework of developing all-rounded athletes, all members of the CCA are given opportunities to hone their sprinting, throwing and jumping skills through regular training sessions.&nbsp; During the off-season, athletes are also exposed to other games and sports through cross-training, a tool which also encourages a strong team spirit and sense of belonging to the CCA.
 
-<p style="text-align: justify;">We believe that each athlete is unique in terms of their aspirations and potential.&nbsp; Through the myriad of learning opportunities offered in Athletics, we strive to be the platform for members to grow in friendship, body and mind.
+<p style="text-align: justify;">We believe that each athlete is unique in terms of their aspirations and potential.&nbsp; Through the myriad of learning opportunities offered in Athletics, we strive to be the platform for members to grow in friendship, body and mind.<br>
 
-### Teachers-in-charge  
+### Teachers-in-charge <br>
 Mrs Monica Phua (IC)<br>
 Ms Shannon Loh (2IC) <br>
 Mr Michael Goh<br>
 
-### Achievements  
+### Achievements  <br>
 	
 **Singapore Sports School Primary Schools Invitational Meet**<br>
-<p style="text-align: justify;">Eight students participated in this meet on 11th and 12th March 2023. They are Cao Hang Ryan (P5-8), Chloe Chan Si Kei (P5-7), Kaelynn Lim (P6-7), Lim Xuan Qi Nathanael (P4-8), Muhammad Akmal (P5-4), Nurin Iman Nina Binte Abdullah (P6-2), Takahashi Sachiko and Wong Wen Jie Roy (P6-8).
+<p style="text-align: justify;">Eight students participated in this meet on 11th and 12th March 2023. They are Cao Hang Ryan (P5-8), Chloe Chan Si Kei (P5-7), Kaelynn Lim (P6-7), Lim Xuan Qi Nathanael (P4-8), Muhammad Akmal (P5-4), Nurin Iman Nina Binte Abdullah (P6-2), Takahashi Sachiko and Wong Wen Jie Roy (P6-8).<br>
 	
 The following students are our podium finishers:
 ![](/images/Nathaniel.png)
