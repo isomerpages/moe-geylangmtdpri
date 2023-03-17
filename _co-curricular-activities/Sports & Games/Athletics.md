@@ -34,7 +34,7 @@ The following students are our podium finishers:
 ![](/images/Chloe.png)
 <p style="text-align: justify;">*Chloe Chan was 4th in Long Jump and achieved an overall standing of 8th for her combined multi events (60m + Long Jump + Shot Putt).*
 	
-**Junior Sports Academy**<br>
+**Junior Sports Academy**
 <p style="text-align: justify;">The JSA programme is part of Ministry of Education’s (MOE) provision for primary school students with higher abilities in the physical domain. It provides opportunities for these students to participate and learn about various sports while discovering their sporting strength and interests.
 
 <p style="text-align: justify;">GM Track and Field Primary 4 students went for the JSA trial on 8 October 2022.  Four students were invited to participate in the JSA programme beginning in January this year. Congratulations to Chloe Chan Si Kei (P5-7), Evan Wong Tai Li (P5-3), Lim Jyun Zhe Jayden (P5-2) and Lim Pei Qi, Cherish (P5-6) for emerging top in the Primary 4 cohort in Singapore during the JSA trial. They are pursuing the sports of Badminton, Bowling and Laser Rifle Shooting.
