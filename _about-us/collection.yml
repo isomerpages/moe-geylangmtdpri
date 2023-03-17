@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Virtual Tour of GMS(P).md
       - Principal's Message.md
       - Our Rich Heritage.md
       - Vision, Mission & Values.md
@@ -20,5 +19,6 @@ collections:
       - Our People/School Management Team.md
       - Our People/School Staff 2023.md
       - Our Partners.md
+      - Virtual Tour of GMS(P).md
       - Location and Contact Information.md
       - Non Financial Information.md
