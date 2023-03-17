@@ -21,37 +21,47 @@ third_nav_title: Uniformed Groups
 <p style="text-align: justify;">With a team of committed teachers, officers and our Boys, our company has consistently excelled in the past decade with its strong track record in the annual JM Fraser Award for Unit Excellence, the highest accolade for BB Companies in Singapore awarded by BB Headquarters (BBHQ).In 2023, Joel Soh Yong En from 6-8 was awarded the Best Boy Award, which is the highest accolade for BB Boys in Singapore awarded by BBHQ every year.
 
 
-![](/images/WhatsApp%20Image%202021-08-07%20at%20%20PM.jpeg)
-
-### Testimonial Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wweOWDb7FdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### Achievements
 
-<strong><u> 2022 </u></strong><br> 
-Tan Boon Chian Medal <br>
-Best Boy - 21J Company (nominated)- Isaac Pang Xian Yi <br>
-2022 National Adventure Quest, Gold Honour Roll - GMS(P) 21J, P6 BB Boys
+**2023** <br>
+Tan Boon Chian Medal Best Boy 20223-Joel Soh Yong En(6-8)  
+Adventure Quest, Gold Honour Roll - P6 BB Boys  
+Adventure Quest, 2nd Runner Up- Team 1
 
-<strong><u> 2021 </u></strong><br> 
-Best Boys Award 2021-He Meng Xiu(6-6)  
-Boy's Brigade Week 2021 Gold Honour Roll <br>
+**2022**  
+Tan Boon Chian Medal Best Boy 2022- Isaac Pang Xian Yi(6-8)  
+Adventure Quest, Gold Honour Roll - P6 BB Boys  
+Boys’ Brigade Week 2020 Gold Honour Roll  
+J M Fraser Award For Excellence 2022 (YOA 2021) - Gold Honour Roll  
+Character Quest 2019 Gold Honour Roll, Top 5
+
+**2021**
+Best Boys Award 2021-He Meng Xiu(6-6)
+Boys’ Brigade Week 2021 Gold Honour Roll
 ^J M Fraser Award For Excellence 2021 (YOA 2020) - Suspended
 
-<strong><u> 2020 </u></strong><br> 
-Best Boys Award 2020-Isaac Cheong(6-6) <br> 
-Boy's Brigade Week 2020 Gold Honour Roll <br>
-Boy's Brigade Week 2020 Lee Soon Ann Trophy <br>
-J M Fraser Award For Excellence 2020 (YOA 2019) - Gold Honour Roll <br>
+**2020**<br>
+Best Boys Award 2020-Isaac Cheong(6-6)
+Boys’ Brigade Week 2020 Gold Honour Roll
+Boys’ Brigade Week 2020 Lee Soon Ann Trophy
+J M Fraser Award For Excellence 2020 (YOA 2019) - Gold Honour Roll
+
 ^Competitions were suspended due to COVID-19.
 
-<strong><u> 2019 </u></strong><br> 
-Best Boys Award 2019- Han Qi Li(6-8) <br>
-Adventure Quest 2019- Gold Honour Roll (Overall) <br> 
-Adventure Quest 2019-1st Runner-up(Best Placing) <br>
-Boy's Brigade Week 2019 Gold Honour Roll <br>
-Character Quest 2019 Gold Honour Roll <br>
+  
+
+**2019**
+
+Best Boys Award 2019- Han Qi Li(6-8)
+
+Adventure Quest 2019- Gold Honour Roll (Overall)
+
+Adventure Quest 2019-1st Runner-up(Best Placing)
+
+Boys’ Brigade Week 2019 Gold Honour Roll
+
+Character Quest 2019 Gold Honour Roll
+
 J M Fraser Award For Excellence 2019 (YOA 2018) - Gold Honour Roll
 
 ### Teachers-in-Charge
