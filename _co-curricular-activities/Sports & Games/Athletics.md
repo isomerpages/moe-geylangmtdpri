@@ -26,13 +26,13 @@ Mr Michael Goh<br>
 	
 The following students are our podium finishers:
 ![](/images/Nathaniel.png)
-*Nathanael Lim of P4-8, clinched a silver in the 60m Sprint and 7th in Long Jump.*
+<p style="text-align: justify;">*Nathanael Lim of P4-8, clinched a silver in the 60m Sprint and 7th in Long Jump.*
 	
 ![](/images/Sachiko.png)
-*Takahashi Sachiko of P4-7, clocked 00:09.94 for 60m to win a bronze medal and came in 3rd in Singapore for the Scissors Jump.*
+<p style="text-align: justify;">*Takahashi Sachiko of P4-7, clocked 00:09.94 for 60m to win a bronze medal and came in 3rd in Singapore for the Scissors Jump.*
 	
 ![](/images/Chloe.png)
-*Chloe Chan was 4th in Long Jump and achieved an overall standing of 8th for her combined multi events (60m + Long Jump + Shot Putt).*
+<p style="text-align: justify;">*Chloe Chan was 4th in Long Jump and achieved an overall standing of 8th for her combined multi events (60m + Long Jump + Shot Putt).*
 	
 **Junior Sports Academy**<br>
 <p style="text-align: justify;">The JSA programme is part of Ministry of Education’s (MOE) provision for primary school students with higher abilities in the physical domain. It provides opportunities for these students to participate and learn about various sports while discovering their sporting strength and interests.
