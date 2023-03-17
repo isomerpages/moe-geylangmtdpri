@@ -4,7 +4,54 @@ permalink: /useful-links/for-students-n-parents/
 description: ""
 ---
 ### 2023 Booklists
-
+<table style="height: 222px; width: 366px; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr style="height: 22px;">
+<td style="width: 81.1562px; height: 22px;">LEVEL</td>
+<td style="width: 117.844px; height: 22px;">BOOKLIST</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 81.1562px; height: 22px;">Primary 1</td>
+<td style="width: 117.844px; height: 22px;">&nbsp;[](/files/Primary%201.pdf)</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 81.1562px; height: 22px;">Primary 2</td>
+<td style="width: 117.844px; height: 22px;">&nbsp;</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 81.1562px; height: 22px;">Primary 3</td>
+<td style="width: 117.844px; height: 22px;">&nbsp;</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 81.1562px; height: 22px;">Primary 4</td>
+<td style="width: 117.844px; height: 22px;">&nbsp;</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 81.1562px; height: 22px;">Primary 5 (4F)</td>
+<td style="width: 117.844px; height: 22px;">&nbsp;</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 81.1562px; height: 22px;">Primary 5 (4S)</td>
+<td style="width: 117.844px; height: 22px;">&nbsp;</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 81.1562px; height: 22px;">Primary 5 (4S + HMT)</td>
+<td style="width: 117.844px; height: 22px;">&nbsp;</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 81.1562px; height: 22px;">Primary 6 (4F)</td>
+<td style="width: 117.844px; height: 22px;">&nbsp;</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 81.1562px; height: 22px;">Primary 5 (4S)</td>
+<td style="width: 117.844px; height: 22px;">&nbsp;</td>
+</tr>
+<tr style="height: 22.7344px;">
+<td style="width: 81.1562px; height: 22.7344px;">Primary 5 (4S + HMT)</td>
+<td style="width: 117.844px; height: 22.7344px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
 ### Students
   
