@@ -17,7 +17,7 @@ third_nav_title: Uniformed Groups
 **The GB Aim:** <br>
 <p style="text-align: justify;">To help girls to become followers of the Lord Jesus Christ and through self-control, reverence and a sense of responsibility to find true enrichment of life.&nbsp;
 
-	---------------------------------------------------
+	-----------------------------------------------------------------
 <p style="text-align: center;"><strong>2<sup>nd</sup> Company Girls&rsquo; Brigade Student Leadership Structure 2023</strong></p>
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
