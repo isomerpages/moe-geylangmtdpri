@@ -26,6 +26,6 @@ Mrs Wong Chia Peng <Br>
 ### Community in Bloom Awards
 
 <img src="/images/CIB%20Gold%20Award.jpg" 
-    style="width:60%">
+    style="width:100%">
 
 <p style="text-align: justify;">Congratulations on our community garden's achievements at the Community in Bloom (CIB) Awards 2021. Our community garden has achieved the **Gold** banding and **"Outstanding Educational Community Garden"** achievement ribbon.
