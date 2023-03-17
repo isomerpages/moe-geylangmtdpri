@@ -7,7 +7,7 @@ third_nav_title: Uniformed Groups
 ### CCA Overview
 
 <img src="/images/GB%20Mission.png" 
-    style="width:70%">
+    style="width:150%">
 
 <p style="text-align: justify;">The Girls' Brigade is a uniformed group that seeks to help girls achieve their fullest potential through positive character building and activities. We aim to develop each girl to her fullest potential by equipping, empowering and enabling every girl to be a leader.&nbsp;  
 
