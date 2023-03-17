@@ -23,12 +23,12 @@ third_nav_title: Uniformed Groups
 <tbody>
 <tr>
 <td colspan="7">
-<p>Company Leader: Bernice Teo &amp; Charis Goh</p>
+<p style="text-align: center;">Company Leader: Bernice Teo &amp; Charis Goh</p>
 </td>
 </tr>
 <tr>
 <td colspan="7">
-<p>Assistant Company Leader : Ang Le En Tiffany &amp; Teng Yu Xin</p>
+<p style="text-align: center;">Assistant Company Leader : Ang Le En Tiffany &amp; Teng Yu Xin</p>
 </td>
 </tr>
 <tr>
