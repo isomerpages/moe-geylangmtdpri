@@ -22,8 +22,18 @@ Mr Michael Goh<br>
 ### Achievements  
 	
 **Singapore Sports School Primary Schools Invitational Meet**<br>
-<p style="text-align: justify;">Eight students are participating in this meet on 11th and 12th March 2023. They are Cao Hang Ryan (P5-8), Chloe Chan Si Kei (P5-7), Kaelynn Lim (P6-7), Lim Xuan Qi Nathanael (P4-8), Muhammad Akmal (P5-4), Nurin Iman Nina Binte Abdullah (P6-2), Takahashi Sachiko and Wong Wen Jie Roy (P6-8).
-
+<p style="text-align: justify;">Eight students participated in this meet on 11th and 12th March 2023. They are Cao Hang Ryan (P5-8), Chloe Chan Si Kei (P5-7), Kaelynn Lim (P6-7), Lim Xuan Qi Nathanael (P4-8), Muhammad Akmal (P5-4), Nurin Iman Nina Binte Abdullah (P6-2), Takahashi Sachiko and Wong Wen Jie Roy (P6-8).
+	
+The following students are our podium finishers:
+![](/images/Nathaniel.png)
+Nathanael Lim of P4-8, clinched a silver in the 60m Sprint and 7th in Long Jump.
+	
+	![](/images/Sachiko.png)
+	Takahashi Sachiko of P4-7, clocked 00:09.94 for 60m to win a bronze medal and came in 3rd in Singapore for the Scissors Jump.
+	
+	![](/images/Chloe.png)
+	Chloe Chan was 4th in Long Jump and achieved an overall standing of 8th for her combined multi events (60m + Long Jump + Shot Putt).
+	
 **Junior Sports Academy**<br>
 <p style="text-align: justify;">The JSA programme is part of Ministry of Education’s (MOE) provision for primary school students with higher abilities in the physical domain. It provides opportunities for these students to participate and learn about various sports while discovering their sporting strength and interests.
 
