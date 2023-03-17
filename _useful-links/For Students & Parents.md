@@ -9,7 +9,7 @@ description: ""
 <tr>
 <td>LEVELS</td>
 </tr>	
-[Primary 1](/files/Primary%201.pdf)<tr>
+[Primary 1](/files/Primary%201.pdf)[sample](/files/2022%20GMSP%20E-Open%20House.pdf)<tr>
 </tr>
 <tr>
 </tr>
