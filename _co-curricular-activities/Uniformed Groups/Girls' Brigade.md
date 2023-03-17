@@ -4,9 +4,11 @@ permalink: /co-curricular-activities/cca/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<img style="width:150%" src="/images/GB%20Mission.png">
+
+![](/images/GBPicture1.jpg)
 
 ### CCA Overview
+<img style="width:150%" src="/images/GB%20Mission.png">
 <p style="text-align: justify;">The Girls' Brigade is a uniformed group that seeks to help girls achieve their fullest potential through positive character building and activities. We aim to develop each girl to her fullest potential by equipping, empowering and enabling every girl to be a leader.&nbsp;  
 
 **The GB Mission:** <br>
