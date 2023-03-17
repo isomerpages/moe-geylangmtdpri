@@ -65,7 +65,4 @@ Ms Sarah-Ann Tan (2IC) <br>
 Mr Harvey Kwek <br> 
 Mr Chen Zhi Rong<br>
 Ms Deborah Tan<br>
-Ms Guan Yuan(Church Personnel)<br>
-
-
-
+Ms Guan Yuan (Church Personnel)<br>
