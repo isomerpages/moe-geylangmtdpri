@@ -22,12 +22,12 @@ third_nav_title: Uniformed Groups
 
 Mrs Ariel Koh (IC) <br>
 Mrs Christabel Chue (2IC) <br>
-Ms Wendy Lin <br>
-Ms Theresa Tong <br>
-Ms Sun Jinyu 
-
-Mdm Tan Ai Cheng (Church Personnel) <br>
-Ms Rebecca Ting (Church Personnel)
+Ms Theresa Tong  <br>
+Ms Sun Jinyu  <br>
+Ms Grace Tan  <br>
+  
+Mdm Tan Ai Cheng (Church Personnel)  <br>
+Ms Rebecca Ting (Church Personnel)<br>
 
 ### Achievements
 
