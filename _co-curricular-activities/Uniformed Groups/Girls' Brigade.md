@@ -4,21 +4,22 @@ permalink: /co-curricular-activities/cca/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+
+
 ### CCA Overview
 
-<img src="/images/GB%20Mission.png" 
-    style="width:150%">
+<img style="width:150%" src="/images/GB%20Mission.png">
 
 <p style="text-align: justify;">The Girls' Brigade is a uniformed group that seeks to help girls achieve their fullest potential through positive character building and activities. We aim to develop each girl to her fullest potential by equipping, empowering and enabling every girl to be a leader.&nbsp;  
 
 **The GB Mission:** <br>
-<p style="text-align: justify;">Developing each girl and officer to her fullest potential by equipping, empowering and enabling: Every Girl to be a Leader &amp; Every Officer to be a Servant Leader.&nbsp;  
+</p><p style="text-align: justify;">Developing each girl and officer to her fullest potential by equipping, empowering and enabling: Every Girl to be a Leader &amp; Every Officer to be a Servant Leader.&nbsp;  
   
 **The GB Aim:** <br>
-<p style="text-align: justify;">To help girls to become followers of the Lord Jesus Christ and through self-control, reverence and a sense of responsibility to find true enrichment of life.&nbsp;
+</p><p style="text-align: justify;">To help girls to become followers of the Lord Jesus Christ and through self-control, reverence and a sense of responsibility to find true enrichment of life.&nbsp;
 
 	-----------------------------------------------------------------
-<p style="text-align: center;"><strong>2<sup>nd</sup> Company Girls&rsquo; Brigade Student Leadership Structure 2023</strong></p>
+</p><p style="text-align: center;"><strong>2<sup>nd</sup> Company Girls’ Brigade Student Leadership Structure 2023</strong></p>
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
@@ -158,3 +159,5 @@ Chloe Goh Qiaoli (5-5) <br>Charis Goh Baoting (4-1)
 Ong Le Xuan, Anabel (5-3) <br>&nbsp;Kwan Zi Xuan (5-8)
 
 <u>Bronze</u><br>Tanushri D/O S Kumar (4-1)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTiOzu2U0rbLV3R4EeQMJ9t6PW5Wp2KmD-WjvUrsEy3fIuW33B-FW74aupAb2oz2IUKWcKHPME1bqOB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
