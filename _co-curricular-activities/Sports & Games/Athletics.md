@@ -8,23 +8,45 @@ third_nav_title: Sports & Games
 
 ### CCA Overview  
 
-The Athletics CCA in GMSP is based upon the core Olympic motto of 'Citius, Altius, Fortius' (Faster, Higher, Stronger).&nbsp; We aim to nurture each athlete to be fundamentally stronger both physically and mentally. Regardless of their individual starting points, each athlete is given the opportunity to maximise their potential through friendly and competitive platforms, both zonal and nation-wide.
+<p style="text-align: justify;">The Athletics CCA in GMSP is based upon the core Olympic motto of 'Citius, Altius, Fortius' (Faster, Higher, Stronger).&nbsp; We aim to nurture each athlete to be fundamentally stronger both physically and mentally. Regardless of their individual starting points, each athlete is given the opportunity to maximise their potential through friendly and competitive platforms, both zonal and nation-wide.
 
-In alignment with the national framework of developing all-rounded athletes, all members of the CCA are given opportunities to hone their sprinting, throwing and jumping skills through regular training sessions.&nbsp; During the off-season, athletes are also exposed to other games and sports through cross-training, a tool which also encourages a strong team spirit and sense of belonging to the CCA.
+<p style="text-align: justify;">In alignment with the national framework of developing all-rounded athletes, all members of the CCA are given opportunities to hone their sprinting, throwing and jumping skills through regular training sessions.&nbsp; During the off-season, athletes are also exposed to other games and sports through cross-training, a tool which also encourages a strong team spirit and sense of belonging to the CCA.
 
-We believe that each athlete is unique in terms of their aspirations and potential.&nbsp; Through the myriad of learning opportunities offered in Athletics, we strive to be the platform for members to grow in friendship, body and mind.
+<p style="text-align: justify;">We believe that each athlete is unique in terms of their aspirations and potential.&nbsp; Through the myriad of learning opportunities offered in Athletics, we strive to be the platform for members to grow in friendship, body and mind.
 
 ### Teachers-in-charge  
-
-Mr Jaysern Lee (IC) <br>
-Ms Shannon Loh (2IC) <br>
-Ms Goh Yu Cui <br>
-Mdm Kasthuree D/O T Kabilan
-
-Coach: Rina
+Mrs Monica Phua (IC)<br>
+Ms Shannon Loh (2IC) <br>
+Mr Michael Goh<br>
 
 ### Achievements  
+	
+**Singapore Sports School Primary Schools Invitational Meet**<br>
+<p style="text-align: justify;">Eight students are participating in this meet on 11th and 12th March 2023. They are Cao Hang Ryan (P5-8), Chloe Chan Si Kei (P5-7), Kaelynn Lim (P6-7), Lim Xuan Qi Nathanael (P4-8), Muhammad Akmal (P5-4), Nurin Iman Nina Binte Abdullah (P6-2), Takahashi Sachiko and Wong Wen Jie Roy (P6-8).
 
+**Junior Sports Academy**<br>
+<p style="text-align: justify;">The JSA programme is part of Ministry of Education’s (MOE) provision for primary school students with higher abilities in the physical domain. It provides opportunities for these students to participate and learn about various sports while discovering their sporting strength and interests.
+
+<p style="text-align: justify;">GM Track and Field Primary 4 students went for the JSA trial on 8 October 2022.  Four students were invited to participate in the JSA programme beginning in January this year. Congratulations to Chloe Chan Si Kei (P5-7), Evan Wong Tai Li (P5-3), Lim Jyun Zhe Jayden (P5-2) and Lim Pei Qi, Cherish (P5-6) for emerging top in the Primary 4 cohort in Singapore during the JSA trial. They are pursuing the sports of Badminton, Bowling and Laser Rifle Shooting.
+
+**Singapore Masters Track and Field Association Race 2022**  
+  
+
+·        Event: Long Jump (5m run up)
+
+2nd Place Chloe Chan Si Kei (P5-7)
+
+·        Event: 80m Sprint
+
+6th Place Chloe Chan Si Kei (P5-7)
+
+·        Event: 200m Sprint
+
+1st Place Chloe Chan Si Kei (P5-7)
+
+·        Event: 400m Sprint
+
+2nd Place Chloe Chan Si Kei (P5-7)
 **National School Games Track &amp; Field 2022** <br>
 **(Junior Division)**  
   
