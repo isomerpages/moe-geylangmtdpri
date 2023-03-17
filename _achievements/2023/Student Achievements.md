@@ -23,44 +23,44 @@ third_nav_title: "2023"
 </tr>
 <tr class="" style="height: 31.5px;">
 <td class="" style="text-align: center; height: 31.5px; width: 66.9062px;">
-<p class=""><span class=""><strong>1</strong></span></p>
+<p class=""><span class="">1</span></p>
 </td>
 <td class="" style="text-align: center; height: 31.5px; width: 120.812px;">
-<p class=""><strong>Basketball</strong></p>
+<p class="">Basketball</p>
 </td>
 <td class="" style="text-align: center; height: 31.5px; width: 309.547px;">
-<p class=""><span class=""><strong>NSG Basketball Zonal Competition</strong></span>
-<p class=""><span class=""><strong>(Senior)</strong></span></p>
+<p class=""><span class="">NSG Basketball Zonal Competition</span></p>
+<p class=""><span class="">(Senior)</span></p>
 </td>
 <td class="" style="text-align: center; height: 31.5px; width: 207.734px;">
-<p class=""><span class=""><strong>5th place</strong></span></p>
+<p class=""><span class="">5th place</span></p>
 </td>
 </tr>
 <tr class="" style="height: 31.5px;">
 <td class="" style="text-align: center; height: 31.5px; width: 66.9062px;">
-<p class=""><span class=""><strong>2</strong></span></p>
+<p class=""><span class="">2</span></p>
 </td>
 <td class="" style="text-align: center; height: 31.5px; width: 120.812px;">
-<p class=""><span class=""><strong>Athletics</strong></span></p>
+<p class=""><span class="">Athletics</span></p>
 </td>
 <td class="" style="text-align: center; height: 31.5px; width: 309.547px;">
-<p class=""><span class=""><strong>Singapore Athletics - Singapore Sports School Primary School Track &amp; Field Invitational Meet 2023</strong></span></p>
+<p class=""><span class="">Singapore Athletics - Singapore Sports School Primary School Track &amp; Field Invitational Meet 2023</span></p>
 </td>
 <td class="" style="height: 31.5px; width: 207.734px; text-align: left;">
-<p class=""><span class=""><strong>Nathanael Lim P4-8</strong></span></p>
+<p class=""><span class="">Nathanael Lim P4-8</span></p>
 <ul>
-<li><span class=""><strong>Silver - 60m Sprint&nbsp;</strong></span></li>
-<li><span class=""><strong> 7th - Long Jump</strong></span></li>
+<li><span class="">Silver - 60m Sprint&nbsp;</span></li>
+<li><span class=""> 7th - Long Jump</span></li>
 </ul>
-<p><span class=""><strong>Takahashi Sachiko P4-7</strong></span></p>
+<p><span class="">Takahashi Sachiko P4-7</span></p>
 <ul>
-<li><span class=""><strong>Bronze - 60m Sprint</strong></span></li>
-<li><span class=""><strong>3rd - Scissors Jump</strong></span></li>
+<li><span class="">Bronze - 60m Sprint</span></li>
+<li><span class="">3rd - Scissors Jump</span></li>
 </ul>
-<p><span class=""><strong>Chloe Chan P5-7</strong></span></p>
+<p><span class="">Chloe Chan</span></p>
 <ul>
-<li><span class=""><strong>4th - Long Jump</strong></span></li>
-<li><span class=""><strong>8th -&nbsp;&nbsp;Combined multi events (60m + Long Jump + Shot Putt)</strong></span></li>
+<li><span class="">4th - Long Jump</span></li>
+<li><span class="">8th -&nbsp;&nbsp;Combined multi events (60m + Long Jump + Shot Putt)</span></li>
 </ul>
 </td>
 </tr>
