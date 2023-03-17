@@ -15,7 +15,7 @@ description: ""
 [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)  
   
 3\. School Library Portal  
-Please click [here](https://schoolibrary.moe.edu.sg/geylangmethodistpri)  
+https://schoolibrary.moe.edu.sg/geylangmethodistpri  
   
 ### Parents
   
