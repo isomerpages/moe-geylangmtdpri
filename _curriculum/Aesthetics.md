@@ -3,7 +3,7 @@ title: Aesthetics
 permalink: /curriculum/aesthetics/
 description: ""
 ---
-<img style="width:70%" src="/images/Aesthetics%2002.jpg">
+<img style="width:100%" src="/images/Aesthetics%2002.jpg">
 
 ### Vision
 <p style="text-align: justify;">To IGNITE passion, INSTILL discipline and INSPIRE creativity in our students' pursuit for artistic excellence.  
