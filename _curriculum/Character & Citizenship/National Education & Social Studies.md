@@ -8,17 +8,17 @@ third_nav_title: Character & Citizenship
 
 ### Overview
 
-The National Education and Social Studies (NESS) curriculum in Geylang Methodist School (Primary) aims to develop pupils to function effectively as global citizens who stay rooted to Singapore through:
+<p style="text-align: justify;">The National Education and Social Studies (NESS) curriculum in Geylang Methodist School (Primary) aims to develop pupils to function effectively as global citizens who stay rooted to Singapore through:
 
-1) Encouraging perspective-taking in NE discussions especially in contemporary issues to enable our students to have an appreciation of the evolving Singapore Story.
+<p style="text-align: justify;">1) Encouraging perspective-taking in NE discussions especially in contemporary issues to enable our students to have an appreciation of the evolving Singapore Story.
 
-2) Creating experiences that empower students to find their own meaning of what it means to be a Singapore citizen and contribute to the society.
+<p style="text-align: justify;">2) Creating experiences that empower students to find their own meaning of what it means to be a Singapore citizen and contribute to the society.
 
-3) Inculcating cross-cultural awareness and sensitivity to interact with people of other  cultures.
+<p style="text-align: justify;">3) Inculcating cross-cultural awareness and sensitivity to interact with people of other  cultures.
 
 ### Curriculum Structure and Key Programmes 
 
-To enable us work towards our vision, the NESS curriculum is designed to achieve a maximum learning outcome through focusing on 4 big areas below:
+<p style="text-align: justify;">To enable us work towards our vision, the NESS curriculum is designed to achieve a maximum learning outcome through focusing on 4 big areas below:
 
 | S/N | Focus | Programmes |
 |---|---|---|
