@@ -6,31 +6,25 @@ description: ""
 <img style="width:70%" src="/images/Aesthetics%2002.jpg">
 
 ### Vision
-
-To IGNITE passion, INSTILL discipline and INSPIRE creativity in our students' pursuit for artistic excellence.  
+<p style="text-align: justify;">To IGNITE passion, INSTILL discipline and INSPIRE creativity in our students' pursuit for artistic excellence.  
 
 ### Mission
-
-To create opportunities to students to champion the CREATIVITY and APPRECIATION of the ARTS.
+<p style="text-align: justify;">To create opportunities to students to champion the CREATIVITY and APPRECIATION of the ARTS.
 
 ### Overview
-
-The department believes that arts is an excellent platform and catalyst to inspire and motivate our young minds to be responsible citizens and to be deeply connected to their community.
+<p style="text-align: justify;">The department believes that arts is an excellent platform and catalyst to inspire and motivate our young minds to be responsible citizens and to be deeply connected to their community.
 
 ### Curriculum Structure and Key Programmes
-
-As part of the ARTSperience@GMS(P), we collaborate with various organisations, and the communities. These numerous collaborations provide rich learning experience for our young artistes as they share their art and music skills at multiple platforms and form a learning community in order to work collectively and collaboratively. Artsperience and our Music programme also nurture the development of meaningful relationships between GMS(P) and our stakeholders.
+<p style="text-align: justify;">As part of the ARTSperience@GMS(P), we collaborate with various organisations, and the communities. These numerous collaborations provide rich learning experience for our young artistes as they share their art and music skills at multiple platforms and form a learning community in order to work collectively and collaboratively. Artsperience and our Music programme also nurture the development of meaningful relationships between GMS(P) and our stakeholders.
 
 ![](/images/Capture5.jpg)
 
 ### Pedagogical Approach
+<p style="text-align: justify;">1) Moulding our students to be self-directed and inquisitive learners through art and music.
 
-1) Moulding our students to be self-directed and inquisitive learners through art and music.
-
-2) Instilling in them the sense of being rooted in Singapore and proud of their local talents and heritage through learning of local artistes.
+<p style="text-align: justify;">2) Instilling in them the sense of being rooted in Singapore and proud of their local talents and heritage through learning of local artistes.
 
 ### Singapore Youth Festival Art Exhibition
-
 [Cat A\_SYF.pdf](/files/Cat%20A_SYF.pdf) <br>
 [Cat B\_SYF.pdf](/files/Cat%20B_SYF.pdf) <br>
 [Cat C_SYF.pdf](/files/Cat%20C_SYF.pdf)
