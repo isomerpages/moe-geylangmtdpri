@@ -20,38 +20,38 @@ description: ""
  mso-border-insideh:1.0pt solid black;mso-border-insidev:1.0pt solid black" width="589" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:108.75pt;border:solid black 1.0pt;
   padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="145"><p style="text-align:center;line-height:normal;
   mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:13.5pt" lang="EN-GB">Level</span></b></p></td><td style="width:333.0pt;border:solid black 1.0pt;
+  mso-border-shadow:yes" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12pt" lang="EN-GB">Level</span></b></p></td><td style="width:333.0pt;border:solid black 1.0pt;
   border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="444"><p style="text-align:center;line-height:normal;
   mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:13.5pt" lang="EN-GB">Area of Focus</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:108.75pt;border:solid black 1.0pt;
+  mso-border-shadow:yes" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12pt" lang="EN-GB">Area of Focus</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:108.75pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="145"><p style="text-align:center;line-height:normal;
   mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes" align="center" class="MsoNormal"><span style="font-size:13.5pt" lang="EN-GB">Primary 1 and 2</span></p></td><td style="width:333.0pt;border-top:none;border-left:
+  mso-border-shadow:yes" align="center" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB">Primary 1 and 2</span></p></td><td style="width:333.0pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
   padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="444"><p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:
   normal;mso-pagination:none;mso-list:l0 level1 lfo1;border:none;mso-padding-alt:
-  31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:13.5pt" lang="EN-GB"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:13.5pt" lang="EN-GB">Penmanship- Write accurately and fluently</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:
+  31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12pt" lang="EN-GB">Penmanship- Write accurately and fluently</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:
   normal;mso-pagination:none;mso-list:l0 level1 lfo1;border:none;mso-padding-alt:
-  31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:13.5pt" lang="EN-GB"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:13.5pt" lang="EN-GB">Reading- Read for pleasure and understanding</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:108.75pt;border:solid black 1.0pt;
+  31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:13.5pt" lang="EN-GB"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12pt" lang="EN-GB">Reading- Read for pleasure and understanding</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:108.75pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="145"><p style="text-align:center;line-height:normal;
   mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes" align="center" class="MsoNormal"><span style="font-size:13.5pt" lang="EN-GB">Primary 3 and 4</span></p></td><td style="width:333.0pt;border-top:none;border-left:
+  mso-border-shadow:yes" align="center" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB">Primary 3 and 4</span></p></td><td style="width:333.0pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
   padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="444"><p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:
   normal;mso-pagination:none;mso-list:l1 level1 lfo3;border:none;mso-padding-alt:
-  31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:13.5pt" lang="EN-GB"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:13.5pt" lang="EN-GB">Oral- Communicate accurately and fluently</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:
+  31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12pt" lang="EN-GB">Oral- Communicate accurately and fluently</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:
   normal;mso-pagination:none;mso-list:l1 level1 lfo3;border:none;mso-padding-alt:
-  31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:13.5pt" lang="EN-GB"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:13.5pt" lang="EN-GB">Language Use- Build a strong knowledge base in grammar and vocabulary</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:108.75pt;border:solid black 1.0pt;
+  31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12pt" lang="EN-GB">Language Use- Build a strong knowledge base in grammar and vocabulary</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:108.75pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="145"><p style="text-align:center;line-height:normal;
   mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes" align="center" class="MsoNormal"><span style="font-size:13.5pt" lang="EN-GB">Primary 5 and 6</span></p></td><td style="width:333.0pt;border-top:none;border-left:
+  mso-border-shadow:yes" align="center" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB">Primary 5 and 6</span></p></td><td style="width:333.0pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
   padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="444"><p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:
-  normal;mso-pagination:none;mso-list:l2 level1 lfo2" class="MsoNormal"><span style="font-size:13.5pt" lang="EN-GB"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:13.5pt" lang="EN-GB">Reading Comprehension- Cultivate a habit of deep reading to reflect, discover and form connections.</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:
-  normal;mso-pagination:none;mso-list:l2 level1 lfo2" class="MsoNormal"><span style="font-size:13.5pt" lang="EN-GB"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:13.5pt" lang="EN-GB">Writing- Write to represent ideas, thoughts and feelings in formal and informal settings</span></p></td></tr></tbody></table>
+  normal;mso-pagination:none;mso-list:l2 level1 lfo2" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12pt" lang="EN-GB">Reading Comprehension- Cultivate a habit of deep reading to reflect, discover and form connections.</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:
+  normal;mso-pagination:none;mso-list:l2 level1 lfo2" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12pt" lang="EN-GB">Writing- Write to represent ideas, thoughts and feelings in formal and informal settings</span></p></td></tr></tbody></table>
 
 **Key programmes at the levels that supports our curricular goals:**
 
