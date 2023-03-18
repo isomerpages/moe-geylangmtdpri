@@ -170,7 +170,7 @@ description: ""
 
  **STELLAR - Strategies for English Language Learning and Reading**  
 
-</p><p style="text-align: justify;">STELLAR is a language teaching programme that is designed to help our students to acquire English Language skills through activities in speaking, listening, reading and writing.
+<p style="text-align: justify;">STELLAR is a language teaching programme that is designed to help our students to acquire English Language skills through activities in speaking, listening, reading and writing.
 
 </p><p style="text-align: justify;">One of the main focuses of STELLAR is the use of the Shared Book Approach (SBA), an integrated and balanced language teaching approach that uses motivating and enjoyable books. At the lower primary level, the books are commonly known as “big books” as they are filled with enlarged print and colourful illustrations. At the middle and upper primary levels, the students will be tasked to read different texts that serve different purposes, and they are known as the “STELLAR readers”.
 
