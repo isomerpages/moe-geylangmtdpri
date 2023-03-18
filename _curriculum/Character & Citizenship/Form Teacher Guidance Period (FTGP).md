@@ -10,13 +10,12 @@ third_nav_title: Character & Citizenship
   
 <p style="text-align: justify;">a) provide quality interaction time between Form and Co-Form teachers with their students so as to strengthen Teacher- Student Relationship (TSR)   
   
-<p style="text-align: justify;">b) equip students with social and emotional competencies to enable them to:   
-    - better understand themselves (Self-Awareness) <br>
-    - learn ways to manage themselves (Self-Management) <br>
-    - better understand the people around them. <br> 
-      Example: family members and friends (Social Awareness) <br>
-    - learn ways to work with the people around them (Relationship Management) <br>
-    - make appropriate and responsible decisions (Responsible Decision Making)
+<p style="text-align: justify;">b) equip students with social and emotional competencies to enable them to:<br>   
+* better understand themselves (Self-Awareness) <br>
+* learn ways to manage themselves (Self-Management) <br>
+* better understand the people around them. <br> Example: family members and friends (Social Awareness) <br>
+* learn ways to work with the people around them (Relationship Management) <br>
+* make appropriate and responsible decisions (Responsible Decision Making)
 		
 <img src="/images/FTGP%20Pic%201.png" 
     style="width:70%">
