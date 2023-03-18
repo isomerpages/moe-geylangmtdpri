@@ -179,6 +179,6 @@ description: ""
 </p><p style="text-align: justify;">Besides reading for enjoyment and understanding, there is also the Modified Language Experience (MLEA) incorporated into STELLAR where students begin their writing experiences in small groups of mixed abilities. At the lower primary, there are also learning centres where small groups of children at similar levels of progress can gather for the reinforcement and extension of SBA and MLEA.
 
 </p><p style="text-align: justify;">The school provides strong support for STELLAR in training the teachers and preparing the teaching resources. It is every English teacher’s desire to nurture and guide the students so that they will be equipped with the skills to communicate effectively in English, both in oral and written forms.
-**
-&nbsp;_\[Insert photographs of students presenting\]_**
+
+&nbsp;_\[Insert photographs of students presenting\]_
 	</p>
