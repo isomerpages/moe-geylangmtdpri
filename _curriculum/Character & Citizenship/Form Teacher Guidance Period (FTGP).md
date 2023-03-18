@@ -18,4 +18,4 @@ third_nav_title: Character & Citizenship
 * make appropriate and responsible decisions (Responsible Decision Making)
 		
 <img src="/images/FTGP%20Pic%201.png" 
-    style="width:70%">
+    style="width:120%">
