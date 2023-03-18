@@ -3,6 +3,8 @@ title: Science
 permalink: /curriculum/science/
 description: ""
 ---
+![](/images/Science%20Banner%201.jpeg)
+
 ### Vision
 
 <p style="text-align: justify;">Inspired by values, enculturated in the practices of science
