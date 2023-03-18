@@ -16,8 +16,7 @@ third_nav_title: Character & Citizenship
 
 | Resources | Description | 
 | -------- | -------- |
-| **For Students** | [MOE ICT Connection CW Resources for Students](https://ictconnection.moe.edu.sg/cyber-wellness/for-students) | 
-| **For Parents** | Cyberwelness 101 <br> Cyberwelless Tip Sheet for Parents <br> MOE ICT Connection <br> CW Resources for Parents <br> [Slides for Parents-Excessive Internet Use.pdf](/files/Slides%20for%20Parents-Excessive%20Internet%20Use.pdf) | 
+| **For Parents** | Cyberwelness 101 <br> Cyberwelless Tip Sheet for Parents <br> MOE ICT Connection <br> CW Resources for Parents <br> [Cyber wellness | MOE][Resources](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 | **For Educators** | Cyberwellness Bite-size Resources for Teachers <br> MOE ICT Connection CW resources for Educators |
 | | |
 
