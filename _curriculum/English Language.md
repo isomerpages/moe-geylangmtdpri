@@ -40,7 +40,7 @@ description: ""
 </td>
 <td width="444">
 <p style="text-align: justify;">● Oral- Communicate accurately and fluently</p>
-<p style="text-align: justify;">● Language Use- Build a strong knowledge base in grammar and vocabulary</p>
+<p style="text-align: justify;">●Language Use- Build a strong knowledge base in grammar and vocabulary</p>
 </td>
 </tr>
 <tr>
@@ -51,10 +51,8 @@ description: ""
 <p style="text-align: justify;">● Reading Comprehension- Cultivate a habit of deep reading to reflect, discover and form connections.</p>
 <p style="text-align: justify;">● Writing- Write to represent ideas, thoughts and feelings in formal and informal settings</p>
 
-Key programmes at the levels that supports our curricular goals:
-
+**Key programmes at the levels that supports our curricular goals:**
 </td>
-</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
