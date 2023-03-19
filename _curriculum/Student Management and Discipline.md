@@ -55,10 +55,10 @@ description: ""
 
 ![](/images/Tiered%20System%20of%20Support.jpg)
 
-<p style="text-align: justify;">Tier 1 is core curriculum/instruction provided to **ALL** students for both academic and non-academic areas. It plays a preventative function by equipping all students with a good foundation in academic and non-academic skills. For example, the explicit teaching of social emotional competencies during the Form Teacher Guidance Period (FTGP).  
+<p style="text-align: justify;">Tier 1 is core curriculum/instruction provided to <b>ALL</b> students for both academic and non-academic areas. It plays a preventative function by equipping all students with a good foundation in academic and non-academic skills. For example, the explicit teaching of social emotional competencies during the Form Teacher Guidance Period (FTGP).  
   
-<p style="text-align: justify;">Depending on individual profiles, not all needs can be met in Tier 1. Hence, some students require additiona support.  
+<p style="text-align: justify;">Depending on individual profiles, not all needs can be met in Tier 1. Hence, some students require additional support.  
   
-<p style="text-align: justify;">Tier 2 aims to provide early target support provided to **SOME** students. Students who require additional help are provided with support in the area of need (e.g. academic, behaviour, attendance). These students may be surfaced through systematic screening, reviewing of student data and/or teacher observations. Some examples are targeted remedial lessons, learning support for P1 and P2 students, and peer support programme for selected students.  
+<p style="text-align: justify;">Tier 2 aims to provide early target support provided to <b>SOME</b> students. Students who require additional help are provided with support in the area of need (e.g. academic, behaviour, attendance). These students may be surfaced through systematic screening, reviewing of student data and/or teacher observations. Some examples are targeted remedial lessons, learning support for P1 and P2 students, and peer support programme for selected students.  
   
-<p style="text-align: justify;">A **FEW** students with the highest needs may require more intensive and individualised intervention in Tier 3. For example, one-to-one academic support, counselling and individualised behaviour support plan.
+<p style="text-align: justify;">A <b>FEW</b> students with the highest needs may require more intensive and individualised intervention in Tier 3. For example, one-to-one academic support, counselling and individualised behaviour support plan.
