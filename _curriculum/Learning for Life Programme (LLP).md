@@ -9,11 +9,12 @@ description: ""
 
 </p><p style="text-align: justify;">The themes and the objectives of Environmental Education as followed:
 
-</p><p style="text-align: justify;">●&nbsp;&nbsp;&nbsp;&nbsp; To be able to contribute in terms of self and in family units (**Empathise**)
+</p><p style="text-align: justify;">●&nbsp;&nbsp;&nbsp;&nbsp; To be able to contribute in terms of self and in family units <strong>(Empathise)
 
-</p><p style="text-align: justify;">●&nbsp;&nbsp;&nbsp;&nbsp; To be able to reach out to School and Community (**Enrich**)
+</p><p style="text-align: justify;">●&nbsp;&nbsp;&nbsp;&nbsp; To be able to reach out to School and Community <strong>(Enrich)
 
-</p><p style="text-align: justify;">●&nbsp;&nbsp;&nbsp;&nbsp; To develop deepened understanding for global issues (**Empower**)
+
+</p><p style="text-align: justify;">●&nbsp;&nbsp;&nbsp;&nbsp; To develop deepened understanding for global issues <strong>(Empower)
 
 </p><p style="text-align: justify;">This is to align with our school’s vision: Inspired by Values to Grow, Lead and Serve with Joy. The program also seeks to remind all staff and students that we are stewards of God’s creation and to conserve the environment for our future generations. We also seek to inspire our students to appreciate and protect the diversity and beauty of the natural world as well as to understand our interdependence with the natural environment.
 
