@@ -110,7 +110,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
   solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="75"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt">Term 4 Week 8</span></p></td></tr></tbody></table>
 	
-	</strong></strong></p><p style="text-align: center;"><strong><strong><strong>Primary 6
+</strong></strong></p><p style="text-align: center;"><strong><strong><strong>Primary 6
 
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
@@ -217,3 +217,19 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="76"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
   mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Term 1 W</span>eek 1<span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:
   Calibri;mso-bidi-font-family:Calibri"></span></p></td></tr></tbody></table></strong></strong></strong></p>
+	
+	**Please Note:**
+
+**\*****For 2023, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.** 
+
+**Information for Parents**
+
+8.    P6 Parents have been informed of the Sexuality Education Lessons for 2023, through Parents Gateway in October 2022.
+
+[MOE Sexuality Education in Schools 2022 2023 Letter to Parents 29 October 2022.pdf](https://geylangmethodistpri.moe.edu.sg/qql/slot/u176/2023/MOE%20Sexuality%20Education%20in%20Schools%202022%20%202023%20Letter%20to%20Parents%2029%20October%202022.pdf)   
+
+9.        Parents may opt their children out of Sexuality Education lessons.
+
+10.      Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable [here](https://geylangmethodistpri.moe.edu.sg/qql/slot/u176/2023/GEYLANG%20METHODIST%20SCHOOL_Opt%20Out%20Form.pdf). The completed opt-out form is to be submitted to the General Office by February 2023.
+
+11.    Parents can contact Mrs Beverly Toh (HOD CCE) & Mrs Christabel Chue  (Sexuality Education Coordinator) at Tel: 6748 6746 for discussion or to seek clarification about the school’s Sexuality Education programme.
