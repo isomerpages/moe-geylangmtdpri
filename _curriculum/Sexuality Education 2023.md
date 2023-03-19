@@ -51,101 +51,102 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 	
 **Primary 5**
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="70" valign="top" style="width:62.35pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><b><span style="font-size:12.0pt">CCE(FTGP) THEME</span></b><span style="font-size:12.0pt"></span></p></td><td width="87" valign="top" style="width:65.0pt;border:solid windowtext 1.0pt;
+         <!-- /\* Font Definitions \*/ @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-language:TA;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-bidi-language:TA;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:52.2pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="70"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt">CCE (FTGP) THEME</span></b><span style="font-size:12.0pt"></span></p></td><td style="width:46.8pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><b><span style="font-size:12.0pt">LESSON TITLE / DURATION</span></b><span style="font-size:12.0pt"></span></p></td><td width="379" valign="top" style="width:283.95pt;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="62"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt">LESSON TITLE / DURATION</span></b><span style="font-size:12.0pt"></span></p></td><td style="width:312.4pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><b><span style="font-size:12.0pt">Lesson OVERVIEW</span></b><span style="font-size:12.0pt"></span></p></td><td width="75" style="width:56.2pt;border:solid windowtext 1.0pt;border-left:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="417"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt">Lesson OVERVIEW</span></b><span style="font-size:12.0pt"></span></p></td><td style="width:56.1pt;border:solid windowtext 1.0pt;border-left:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><b><span style="font-size:12.0pt">TIME PERIOD</span></b></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><b><span style="font-size:12.0pt">(e.g. Term 1 Week 2)</span></b><span style="font-size:12.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1"><td width="83" style="width:62.35pt;border:solid windowtext 1.0pt;border-top:
+  padding:0cm 5.4pt 0cm 5.4pt" width="75"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt">TIME PERIOD</span></b></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt">(e.g. Term 1 Week 2)</span></b><span style="font-size:12.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:52.2pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt">Growing Years</span></p></td><td width="87" style="width:65.0pt;border-top:none;border-left:none;border-bottom:
+  padding:0cm 5.4pt 0cm 5.4pt" width="70"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt">Growing Years</span></p></td><td style="width:46.8pt;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt">The Changes in Me</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt">(60 min)</span></p></td><td width="379" style="width:283.95pt;border-top:none;border-left:none;
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="62"><p style="margin-bottom:0cm;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="font-size:12.0pt">The Changes in Me</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt">(60 min)</span></p></td><td style="width:312.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></p></td><td width="75" style="width:56.2pt;border-top:none;border-left:none;border-bottom:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="417"><p style="margin-bottom:0cm;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="font-size:12.0pt">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt">Term 4 Week 5</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="83" style="width:62.35pt;border:solid windowtext 1.0pt;border-top:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="75"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt">Term 4 Week 5</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:52.2pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal">&nbsp;</p></td><td width="87" style="width:65.0pt;border-top:none;border-left:none;border-bottom:
+  padding:0cm 5.4pt 0cm 5.4pt" width="70"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td><td style="width:46.8pt;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt"><span style="mso-spacerun:yes">&nbsp;</span>Did You Know?</span><span style="font-size:
-  12.0pt;mso-bidi-language:AR-SA"></span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt">(60 min)</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal">&nbsp;</p></td><td width="379" style="width:283.95pt;border-top:none;border-left:none;
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="62"><p style="margin-bottom:0cm;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="font-size:12.0pt"><span style="mso-spacerun:yes">&nbsp;</span>Did You Know?</span><span style="font-size:
+  12.0pt;mso-bidi-language:AR-SA"></span></p><p style="margin-bottom:0cm;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="font-size:12.0pt">(60 min)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td><td style="width:312.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></p></td><td width="75" style="width:56.2pt;border-top:none;border-left:none;border-bottom:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="417"><p style="margin-bottom:0cm;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="font-size:12.0pt">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt">Term 4 Week 7</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td width="83" style="width:62.35pt;border:solid windowtext 1.0pt;border-top:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="75"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt">Term 4 Week 7</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:52.2pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal">&nbsp;</p></td><td width="87" style="width:65.0pt;border-top:none;border-left:none;border-bottom:
+  padding:0cm 5.4pt 0cm 5.4pt" width="70"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td><td style="width:46.8pt;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt">Keeping Myself Safe</span><span style="font-size:12.0pt;mso-bidi-language:AR-SA"></span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt">(60 min)</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal">&nbsp;</p></td><td width="379" style="width:283.95pt;border-top:none;border-left:none;
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="62"><p style="margin-bottom:0cm;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="font-size:12.0pt">Keeping Myself Safe</span><span style="font-size:12.0pt;mso-bidi-language:AR-SA"></span></p><p style="margin-bottom:0cm;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="font-size:12.0pt">(60 min)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td><td style="width:312.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></p></td><td width="75" style="width:56.2pt;border-top:none;border-left:none;border-bottom:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="417"><p style="margin-bottom:0cm;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="font-size:12.0pt">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt">Term 4 Week 8</span></p></td></tr></tbody></table>
-</strong></p>
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="75"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt">Term 4 Week 8</span></p></td></tr></tbody></table>
 
 **Primary 6**
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:63.55pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="85"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-ansi-language:EN-GB" lang="EN-GB">CCE(FTGP) THEME</span></b><span style="font-size:12.0pt"></span></p></td><td style="width:158.65pt;border:solid windowtext 1.0pt;border-left:
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="85" style="width:63.55pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-ansi-language:EN-GB">CCE(FTGP) THEME</span></b><span style="font-size:12.0pt"></span></p></td><td width="212" style="width:158.65pt;border:solid windowtext 1.0pt;border-left:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="212"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-ansi-language:EN-GB" lang="EN-GB">LESSON TITLE / DURATION</span></b><span style="font-size:12.0pt"></span></p></td><td style="width:137.65pt;border:solid windowtext 1.0pt;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-ansi-language:EN-GB">LESSON TITLE / DURATION</span></b><span style="font-size:12.0pt"></span></p></td><td width="184" style="width:137.65pt;border:solid windowtext 1.0pt;border-left:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="184"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-ansi-language:EN-GB" lang="EN-GB">Lesson Overview</span></b><span style="font-size:12.0pt"></span></p></td><td style="width:107.65pt;border:solid windowtext 1.0pt;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-ansi-language:EN-GB">Lesson Overview</span></b><span style="font-size:12.0pt"></span></p></td><td width="144" style="width:107.65pt;border:solid windowtext 1.0pt;border-left:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="144"><p style="margin-bottom:0cm;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;color:black;mso-ansi-language:EN-GB" lang="EN-GB">TIME PERIOD</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p><p style="margin-bottom:0cm;line-height:normal;outline: 0px" class="MsoNormal"><b style="outline: 0px"><span style="outline: 0px"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-ansi-language:EN-GB" lang="EN-GB">(e.g. Term 1 Week 2)<span style="outline: 0px"></span></span></span></b><span style="font-size:12.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:63.55pt;border:solid windowtext 1.0pt;border-top:
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:18.0pt"><b><span lang="EN-GB" style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;color:black;mso-ansi-language:EN-GB">TIME PERIOD</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;outline: 0px"><b style="outline: 0px"><span style="outline: 0px"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-ansi-language:EN-GB">(e.g. Term 1 Week 2)<span style="outline: 0px"></span></span></span></b><span style="font-size:12.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td width="85" style="width:63.55pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="85"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-ansi-language:EN-GB" lang="EN-GB">Growing Years</span><span style="font-size:
-  12.0pt"></span></p></td><td style="width:158.65pt;border-top:none;border-left:none;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-ansi-language:EN-GB">Growing Years</span><span style="font-size:
+  12.0pt"></span></p></td><td width="212" style="width:158.65pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="212"><p style="margin-bottom:0cm;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Are We More than Friends?</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black"></span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:18.0pt;outline: 0px" align="center" class="MsoNormal"><span style="outline: 0px"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-ansi-language:EN-GB" lang="EN-GB">Lesson 1</span></span><span style="font-size:12.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p><p style="margin-bottom:0cm;line-height:normal;outline: 0px" class="MsoNormal"><span style="outline: 0px"><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;color:black;mso-ansi-language:EN-GB" lang="EN-GB">(60 min)</span></span><span style="font-size:12.0pt"></span></p></td><td style="width:137.65pt;border-top:none;border-left:none;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:18.0pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;color:black;mso-ansi-language:EN-GB">Are We More than Friends?</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black"></span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:18.0pt;outline: 0px"><span style="outline: 0px"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-ansi-language:EN-GB">Lesson 1</span></span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;outline: 0px"><span style="outline: 0px"><span lang="EN-GB" style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;color:black;mso-ansi-language:EN-GB">(60 min)</span></span><span style="font-size:12.0pt"></span></p></td><td width="184" style="width:137.65pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="184"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-ansi-language:EN-GB" lang="EN-GB">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing&nbsp;</span><span style="outline: 0px"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-ansi-language:EN-SG" lang="EN-SG">feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</span></span><span style="font-size:12.0pt"></span></p></td><td style="width:107.65pt;border-top:none;border-left:none;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-ansi-language:EN-GB">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing&nbsp;</span><span style="outline: 0px"><span lang="EN-SG" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-ansi-language:EN-SG">feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</span></span><span style="font-size:12.0pt"></span></p></td><td width="144" style="width:107.65pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="144"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-ansi-language:EN-GB" lang="EN-GB">Term 1 Week 1</span><span style="font-size:
-  12.0pt"></span></p></td></tr></tbody></table>
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-ansi-language:EN-GB">Term 1 Week 1</span><span style="font-size:
+  12.0pt"></span></p></td></tr></tbody></table></strong></p>
