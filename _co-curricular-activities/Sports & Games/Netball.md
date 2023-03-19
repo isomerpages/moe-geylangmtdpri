@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/cca/sports-n-games/netball/
 description: ""
 third_nav_title: Sports & Games
 ---
-![](/images/IMG_7633.jpg)
+![](/images/Netball.jpg)
 
 ### CCA Overview
 <p style="text-align: justify;">The GMSP Netball provides an enriching experience for the players to grow into a confident and resilient individual. We believe in developing the holistic education experience of every player through nurturing interest, developing talent, cultivating zest for life, strengthen friendship and build character.
