@@ -7,34 +7,54 @@ description: ""
 
 ### Vision
 
-Quality learning through harnessing technology
+Nurturing Future-ready and Responsible Digital Citizens in an ICT-mediated environment
 
 ### Mission
 
-To build a firm foundation in students' acquisition of ICT skills to enhance learning
+1.  	To deepen learning in an innovative ICT environment to foster engaging experiences<br>
+2.  	To sharpen the use of ICT in Teaching and learning practices through professional development of teachers
+3.  	To strengthen the focus on Cyber Wellness and New Media Literacies
 
-To nurture students to be responsible digital citizens
+
 
 ### Overview
 
-The ICT department aims to to inculcate in all our students 3 core competencies at the completion of their 6 school years with us.  
+National Digital Literacy Programme (NDLP) aims to equip our students with Digital Literacies.
+MOE launched the National Digital Literacy Programme (NDLP) for schools and Institutes of Higher Learning to help students strengthen their digital literacy in March 2020.
   
-1) **Curate** - The ability to curate digital content and information accurately. <br>
-2) **Create** \- The ability to create digital multimodal artefacts and make informed choices to use information ethically. <br>
-3) **Connect** \- The ability to connect and communicate digitally and manage their digital footprint.
+Digital Literacies better enable our students, at different stages of their education journey, to acquire the digital skills required to navigate the digital age through four mutually reinforcing components in the ‘Find, Think, Apply and Create’ framework.
+
+![](/images/ICT.png)
 
 ### Curriculum and Key Programmes
 
-ICT is used as an enabler for enhanced learning which all departments utilize to achieve a holistic education for the students.  
-  
-Students learn a spectrum of skills, from the basics of touch-typing to the use of data collection tools and communication tools. We believe our students are digital natives and this complements their pre-existing knowledge on mobile device usage.  
-  
-ICT is infused into the curriculum to make learning more effective, engaging and interesting for our students. Lessons in Cyber Hubs, outdoor learning, learning journeys all utilizes ICT hardware and software to enhance students’ learning experiences. Lessons on electronic platforms allows for self-direct learning while assessment on electronic platforms tests not just subject knowledge but ICT knowledge as well. 
-  
-For students who wish to further enhance their ICT skills, Media Club is a platform which offers game development, drone programming, Microbits, Movie-making and MS Office skills.  
-  
+ Nurturing the whole child
+ICT is used as an enabler for enhanced learning which all departments utilize to achieve a holistic education for the students. We hope to provide opportunities for our students to be joyful and responsible digital learners through a range of quality learning experiences with technology. Students will be given more opportunities to hone their abilities in being self-directed and independent, and in the process, develop stronger passion and intrinsic motivation in learning.
+
+ICT is infused into the curriculum to make learning more effective, engaging and interesting for our students. Lessons in Cyber Hubs, outdoor learning, learning journeys all utilizes ICT hardware and software to enhance students’ learning experiences.
+ 
+Encourage experimentation and innovation through opportunities and stretched programmes
+For students who wish to further enhance their ICT skills, Info-comm Technology Club is a platform which offers game design, drone programming, Microbits, Movie-making, and app development.
+Please click here for Info-comm Technology Club CCA
+https://geylangmethodistpri.moe.edu.sg/co-curricular-activities/cca/clubs-n-societies/info-comm-technology-club
+
+**Cyber Wellness**
+
 While encouraging our students to make use of technology, we recognize the importance of educating our students to be discerning and responsible digital citizens. The inculcation of Cyber Wellness concepts in students, enable students to recognize potential hazards that can take place in the Cyber World and teaches them the skills to protect themselves.
+
+Please click here for Cyber Wellness Programme
+
+[https://geylangmethodistpri.moe.edu.sg/curriculum/character-n-citizenship-education-cce-1/cyber-wellness-programme](https://geylangmethodistpri.moe.edu.sg/curriculum/character-n-citizenship-education-cce-1/cyber-wellness-programme)
+
 
 ### Pedagogical Approaches / Strategies
 
-The teaching of ICT utilizes the infusion approach in which ICT knowledge and skills are adapted and integrated seamlessly into various subject areas. This approach allows for ample opportunities for situated learning embedded within the curriculum.
+21st century learners are active and life-long learners. They need skills and competencies pertaining to group-based problem solving and knowledge creation. Self-Directed Learning (SDL) and Collaborative Learning (CoL) are part of the development of the 21CC, as they are learning processes through which our Desired Outcomes of Education can be achieved.  The Outcome Goal is that students develop competencies for self-directed and collaborative learning through the effective use of ICT, as well as become discerning and responsible ICT users, so that they can learn and work effectively in the 21st century knowledge-based environment.
+
+**Use of ICT to promote Student Engagement**
+
+Every Department will use the ICT e-Pedagogical approach to promote Student Engagement in their subject. We hope to leverage digital technology to deepen students' learning.
+
+The Student Learning Space (SLS) is one example that learning with technology in GMS(P) is guided by the SLS Pedagogical Scaffold which enables teachers to design technology-enabled learning experiences to enhance students’ learning.
+
+In addition, the student iCON is a suite of Google apps including email, other app services such as Google Classroom and Google Drive that helps to better support the student’s learning and collaboration with others. These useful applications will be provided progressively and will follow the students through their learning journey from Primary school to Secondary school.
