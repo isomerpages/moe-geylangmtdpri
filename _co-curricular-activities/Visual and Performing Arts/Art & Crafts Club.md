@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/cca/visual-n-performing-arts/art-n-crafts-c
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-![](/images/Art%201.jpg)
+![](/images/2023%20Art%20Club_school%20website-min.jpg)
 
 ### CCA Overview
 
@@ -23,3 +23,5 @@ Mrs Melissa Siew<br>
 * <p style="text-align: justify;">2021 SYF Art Exhibition - Category B (Primary 3 & 4) & Category C (Primary 5 & 6) artworks were selected for exhibition
 
 * <p style="text-align: justify;">SYF Art Exhibition - Category A (Primary 1 & 2) artwork was selected for exhibition
+	
+![](/images/Art%201.jpg)
