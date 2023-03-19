@@ -33,7 +33,6 @@ description: ""
 
 
 **Eco-Committee**
-
 </p><p style="text-align: justify;">Our eco-committee was formed which consists of various stakeholders:
 
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
