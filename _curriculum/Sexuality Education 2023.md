@@ -29,11 +29,11 @@ description: ""
 
 </p><p style="text-align: justify;">You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-**Overview of Geylang Methodist School (Primary)****’s**&nbsp;**Sexuality Education Programme for 2023**
+**Overview of Geylang Methodist School (Primary)’s Sexuality Education Programme for 2023**
 
-</p><p style="text-align: justify;">4.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
+</p><p style="text-align: justify;">4.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
-5.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;The subjects that incorporate topics on sexuality include:
+5.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;The subjects that incorporate topics on sexuality include:
 
 a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science
 
