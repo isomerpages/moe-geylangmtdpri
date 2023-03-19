@@ -21,15 +21,15 @@ description: ""
 
 </p><p style="text-align: justify;">The team also looks at helping to facilitate circular activity i.e. beyond motivating and guiding students and staff to change their behaviour to be more sustainable, the team also look into making the infrastructure available for the school community to do the necessary. This will help us make sure that products will be used for longer and in smarter ways.
 
-</p><p style="text-align: justify;">These are some collective ways in which the school will strive towards the goal of showing our care and duty towards the Earth:
+</p><p style="text-align: justify;">These are some collective ways in which the school will strive towards the goal of showing our care and duty towards the Earth:<br>
 
-1.&nbsp;&nbsp;&nbsp; **R**efuse usage in order to minimise wastage
+1. <b>R</b>efuse usage in order to minimise wastage
 
-2.&nbsp;&nbsp;&nbsp; **R**educe the amount of materials we use and waste we produce
+2. <b>R</b>educe the amount of materials we use and waste we produce
 
-3.&nbsp;&nbsp;&nbsp; **R**euse materials wherever possible
+3. <b>R</b>euse materials wherever possible
 
-4.&nbsp;&nbsp;&nbsp; **R**ecycle materials wherever possible
+4. <b>R</b>ecycle materials wherever possible
 
 
 **Eco-Committee**<br>
