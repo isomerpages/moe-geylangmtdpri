@@ -22,4 +22,4 @@ Mrs Melissa Siew<br>
 
 * <p style="text-align: justify;">2021 SYF Art Exhibition - Category B (Primary 3 & 4) & Category C (Primary 5 & 6) artworks were selected for exhibition
 
-* <p style="text-align: justify;">2020 SYF Art Exhibition - Category A (Primary 1 & 2) artwork was selected for exhibition
+* <p style="text-align: justify;">SYF Art Exhibition - Category A (Primary 1 & 2) artwork was selected for exhibition
