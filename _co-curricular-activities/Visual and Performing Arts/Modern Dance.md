@@ -18,9 +18,7 @@ third_nav_title: Visual and Performing Arts
 ### Teachers-in-charge
 
 Mdm Laila (IC) <br>
-Ms Loh Puay San (2IC) <br>
 Mdm Wong Lee Jiun <br>
-Mrs Koh Ching Lee <br>
 Mdm Kalaivani
 
 Instructor: Ms Ida
