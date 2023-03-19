@@ -86,3 +86,5 @@ The following students are our podium finishers:
 * B Boys (1500m): Ramanathan (16th)
 * C Boys (600m): Seah Xiang Yu (16th)
 * C Girls (600m): Rebecca Tan (14th)
+	
+![](/images/Athletics%20Team%20Photo.jpeg)
