@@ -4,7 +4,6 @@ permalink: /curriculum/sexuality-education-2023/
 description: ""
 third_nav_title: Character & Citizenship
 ---
-
 **GEYLANG METHODIST SCHOOL (PRIMARY)**
 
 **Moe Sexuality Education in Schools**
@@ -50,7 +49,6 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 </p><p style="text-align: justify;"><strong>At Geylang Methodist School (Primary), the following Sexuality Education lessons will be taught in&nbsp;2023:
 
 **2023 Sexuality Education Lessons in CCE 2021**                                                                           
-	
 </strong></p><p style="text-align: center;"><strong><strong>Primary 5
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
