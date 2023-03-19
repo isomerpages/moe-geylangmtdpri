@@ -29,7 +29,7 @@ Mr Hidayat<br>
 Mr Ho Sin Lin<br>
 
 ### Achievements<br>
-	1.  Participation in Junior and Senior categories of the 2019 East Zone Football Championships  <br>
-	2.  Top 8 in the 2018 East Zone Football Championships (Senior category)  <br>
-	3.  Champions of the 2018 Queensway Secondary Invitational Tournament  <br>
+	1.  Participation in Junior and Senior categories of the 2019 East Zone Football Championships<br>
+	2.  Top 8 in the 2018 East Zone Football Championships (Senior category)<br>
+	3.  Champions of the 2018 Queensway Secondary Invitational Tournament<br>
     4.  Participation in the inaugural Football Association of Singapore Futsal Challenge<br>
