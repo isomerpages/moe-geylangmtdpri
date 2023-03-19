@@ -7,22 +7,20 @@ third_nav_title: Sports & Games
 ![](/images/IMG_7633.jpg)
 
 ### CCA Overview
-The GMSP Netball provides an enriching experience for the players to grow into a confident and resilient individual. We believe in developing the holistic education experience of every player through nurturing interest, developing talent, cultivating zest for life, strengthen friendship and build character.
+<p style="text-align: justify;">The GMSP Netball provides an enriching experience for the players to grow into a confident and resilient individual. We believe in developing the holistic education experience of every player through nurturing interest, developing talent, cultivating zest for life, strengthen friendship and build character.
 
-The GMSP Netball CCA comprises of both the recreational and school team. Through this CCA, every player is given the opportunity and exposure to the game proper either through the participation in the netball carnivals, friendly matches with other school or zonal netball competitions.
+<p style="text-align: justify;">The GMSP Netball CCA comprises of both the recreational and school team. Through this CCA, every player is given the opportunity and exposure to the game proper either through the participation in the netball carnivals, friendly matches with other school or zonal netball competitions.
 
-Most importantly the friendship formed through the CCA strengthens the bonds and respect the girls have for one another. 
+<p style="text-align: justify;">Most importantly the friendship formed through the CCA strengthens the bonds and respect the girls have for one another. 
 
 ### Teachers-in-charge
+Mdm Fazilah (IC)<br>
+Liu Xianshuli (2IC)<br>
+Ms Kwok Yan Ting
 
-Mdm Fazilah (IC) <br>
-Mrs Tan Siew Kuan (2IC) <br>
-Ms Liu Xianshuli
-
-Coach: Dewi Nur'Afiza
+Coach: Ms Haidah Bte Alias
 
 ### Achievements
-
 **1) East Zone Netball Tournament 2019 (Participation)** 
 
 <u><strong>Junior Team:</strong></u><br>
