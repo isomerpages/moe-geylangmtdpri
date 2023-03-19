@@ -40,33 +40,29 @@ The following students are our podium finishers:
 <p style="text-align: justify;">GM Track and Field Primary 4 students went for the JSA trial on 8 October 2022.  Four students were invited to participate in the JSA programme beginning in January this year. Congratulations to Chloe Chan Si Kei (P5-7), Evan Wong Tai Li (P5-3), Lim Jyun Zhe Jayden (P5-2) and Lim Pei Qi, Cherish (P5-6) for emerging top in the Primary 4 cohort in Singapore during the JSA trial. They are pursuing the sports of Badminton, Bowling and Laser Rifle Shooting.
 
 **Singapore Masters Track and Field Association Race 2022**  <br>
-* Event: Long Jump (5m run up)
+* Event: Long Jump (5m run up)<br>
+	2nd Place Chloe Chan Si Kei (P5-7)
 
-2nd Place Chloe Chan Si Kei (P5-7)
+* Event: 80m Sprint<br>
+	6th Place Chloe Chan Si Kei (P5-7)
 
-* Event: 80m Sprint
+* Event: 200m Sprint<br>
+	1st Place Chloe Chan Si Kei (P5-7)
 
-6th Place Chloe Chan Si Kei (P5-7)
-
-* Event: 200m Sprint
-
-1st Place Chloe Chan Si Kei (P5-7)
-
-* Event: 400m Sprint
-
-2nd Place Chloe Chan Si Kei (P5-7)<br>
+* Event: 400m Sprint<br>
+	2nd Place Chloe Chan Si Kei (P5-7)<br>
 	
 **National School Games Track &amp; Field 2022** <br>
 **(Junior Division)**<br>
 * Event:&nbsp;120 metres <br>
-3rd Place&nbsp;Lock Sheng Herng (P5-5)&nbsp;  
+	3rd Place&nbsp;Lock Sheng Herng (P5-5)&nbsp;  
   
 * Event:&nbsp;Vertical Jump <br>
-1st Place&nbsp;Lock Sheng Herng (P5-5)&nbsp;<br>
-2nd Place&nbsp;Jerry Ang Min Zhe (P5-4)  
+	1st Place&nbsp;Lock Sheng Herng (P5-5)&nbsp;<br>
+	2nd Place&nbsp;Jerry Ang Min Zhe (P5-4)  
   
 * Event:&nbsp;Long Jump with Take off zone <br>
-3rd Place Chloe Chan Si Kei (P4-8)
+	3rd Place Chloe Chan Si Kei (P4-8)
 
 **AKIRA/SWIFT Goh Teck Phuan Memorial Age Group Road Relay Championships 2019**
 * Under 10 Girls (500m): 3rd
