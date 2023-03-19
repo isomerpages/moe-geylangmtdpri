@@ -31,15 +31,15 @@ description: ""
   
 <p style="text-align: justify;">Additionally, PE and health programmes in the school provide students with active, sporting opportunities and increase health awareness in the form of:
 
-1.  Level Camp for P5
-2.  Health Awareness Week
-3.  Unstructured Play 
-4.  Swimsafer Programme
+1.Level Camp for P5<br>
+2. Health Awareness Week<br>
+3.  Unstructured Play<br>
+	4.  Swimsafer Programme<br>
 5.  Inter-Class Games, and lots more ☺
 
 ### Pedagogical Approaches / Strategies
-<p style="text-align: justify;">In striving towards holistic education, the PE Department has adopted a framework for the learning of Physical & Health Education based on the school’s:
-* Strategic Thrust 1: Nurturing the whole child
+<p style="text-align: justify;">In striving towards holistic education, the PE Department has adopted a framework for the learning of Physical & Health Education based on the school’s:<br>
+* Strategic Thrust 1: Nurturing the whole child<br>
 * Strategic Thrust 4:  Enhance Home-School-Community partnership to support student learning and development
 
 ![](/images/PHE%20Framework.jpg)
