@@ -2,8 +2,8 @@ collections:
   curriculum:
     output: true
     order:
-      - Learning for Life Programme (LLP).md
       - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md
       - English Language.md
       - Mother Tongue Languages/.keep
       - Mother Tongue Languages/Mother Tongue Languages.md
