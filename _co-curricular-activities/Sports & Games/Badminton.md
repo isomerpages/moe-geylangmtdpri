@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/cca/sports-n-games/badminton/
 description: ""
 third_nav_title: Sports & Games
 ---
-![](/images/Badminton%20(1).jpg)
+![](/images/photo%20badminton%201.jpg)
 
 ### CCA Overview  
 
@@ -51,4 +51,3 @@ Badminton Tournament East Zone 2023 (Participation)
 2.<b>Badminton Tournament East Zone 2022 (Participation)</b><br>
 *   Senior Boys
 *   Junior Boys
-    
