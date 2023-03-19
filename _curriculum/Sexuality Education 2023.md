@@ -47,7 +47,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 </p><p style="text-align: justify;"><strong>At Geylang Methodist School (Primary), the following Sexuality Education lessons will be taught in&nbsp;2023:
 
-	**2023 Sexuality Education Lessons in CCE 2021**                                                                           
+**2023 Sexuality Education Lessons in CCE 2021**                                                                           
 	
 </strong></p><p style="text-align: center;"><strong><strong>Primary 5
 
