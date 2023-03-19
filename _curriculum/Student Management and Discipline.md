@@ -21,7 +21,7 @@ description: ""
 
 ![](/images/student%20leaders.jpg)
 
-<p style="text-align: justify;">Through these opportunities, students can cultivate key values, develop [social and emotional learning](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning), and acquire employability skills, qualities and attitudes (e.g. problem solving skills, resilience, open-mindedness). 
+<p style="text-align: justify;">Through these opportunities, students can cultivate key values, develop social and emotional learning, and acquire employability skills, qualities and attitudes (e.g. problem solving skills, resilience, open-mindedness). 
 
 <p style="text-align: justify;">The school adopted the Servant Leadership as our student leadership philosophy. We want our students to develop the passion and compassion to serve others before self. Hence, they can in future enriches the lives of others, builds better organisations and ultimately creates a more just and caring world.
 
