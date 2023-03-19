@@ -4,12 +4,11 @@ permalink: /co-curricular-activities/cca/visual-n-performing-arts/art-n-crafts-c
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
 ![](/images/Art%201.jpg)
 
 ### CCA Overview
 
-The Art Club provides a platform for pupils to expose, explore and express themselves through Art. The Art program serves to capture pupils with varied interest and caters to differentiated needs beyond the curriculum syllabus. Pupils are given opportunities to showcase their talent and expand their knowledge in art and art-making through different media and forms such as drawing, mixed media relief, clay modeling and painting. Through the program, we hope to nurture our pupils and develop within them qualities such as perseverance, excellence and integrity which will enable them to adapt and thrive in a rapidly changing world.
+<p style="text-align: justify;">Art Club offers pupils with interest in visual arts to come together and learn about art making. Pupils are given the opportunity to explore art forms beyond what is offered in the school curriculum. Our programme promotes imagination, creativity, and self-expression. Art Club creates a platform for pupils to showcase their talents and expand their knowledge. Pupils can explore and experiment with various art materials individually and in groups. Through learning different art forms such as drawing, painting, mixed-media and 3D art, pupils develop valuable skills and character traits such as resilience, perseverance, and responsibility. They also learn how to be a good team player, as well as show kindness and respect for one another.<br>
 
 ### Teachers-in-charge
 
@@ -20,4 +19,6 @@ Ms Nabilah
 
 ### Achievements
 
-SYF Art Exhibition - Category A (Primary 1 & 2) artwork was selected for exhibition
+* 2021 SYF Art Exhibition - Category B (Primary 3 & 4) & Category C (Primary 5 & 6) artworks were selected for exhibition
+
+* 2020 SYF Art Exhibition - Category A (Primary 1 & 2) artwork was selected for exhibition
