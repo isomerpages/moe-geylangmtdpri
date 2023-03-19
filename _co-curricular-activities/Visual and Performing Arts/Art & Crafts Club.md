@@ -12,10 +12,11 @@ third_nav_title: Visual and Performing Arts
 
 ### Teachers-in-charge
 
-Ms Tan Ee Peng (IC) <br>
-Mrs Melissa Siew (2IC) <br>
-Mdm Sulistiati <br>
-Ms Nabilah  
+Ms Tan Ee Peng (IC)<br> 
+Mdm Sulistiati  <br> 
+Ms Nabilah  <br> 
+Mr Harvey Kwek  <br> 
+Mrs Melissa Siew<br> 
 
 ### Achievements
 
