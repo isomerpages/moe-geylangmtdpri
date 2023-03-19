@@ -50,13 +50,13 @@ description: ""
 </figure>
 
 <p style="text-align: justify;">Over the years, the school has established a distinctive Christian culture based on an ethos founded on shared beliefs and values. This is reflected in the following ways:
-* The school chaplains are pastors from the Methodist Churches.
-* All members of the Board of Management (BOM) have connections with the Church.
-* Sports houses are named after people from the Methodist Mission.
-	* Archer House (Red) is named after Mrs Raymond L Archer. Her husband, Rev Archer, was a Methodist Bishop in the 1950s.
-	* Means House (Yellow) is named after Mrs Paul B Means. Her husband, Rev Means, was the editor of the Malaysian Message, an official organ of the Singapore area of the Methodist Episcopal Church in the 1930s.
-	* Lau House (Green) is named after Mrs E S Lau. Mrs Lau was the first local Principal of GMGS from 1931 to 1941. Her husband, Rev Lau, was the pastor of the English section of the Geylang Chinese Methodist Church.
-	* Mitchell House (Blue) is named after Miss Mabel Mitchell, Principal of GMGS from 1949 - 1950.
+* The school chaplains are pastors from the Methodist Churches.<br>
+* All members of the Board of Management (BOM) have connections with the Church.<br>
+* Sports houses are named after people from the Methodist Mission.<br>
+* Archer House (Red) is named after Mrs Raymond L Archer. Her husband, Rev Archer, was a Methodist Bishop in the 1950s.<br>
+* Means House (Yellow) is named after Mrs Paul B Means. Her husband, Rev Means, was the editor of the Malaysian Message, an official organ of the Singapore area of the Methodist Episcopal Church in the 1930s.<br>
+* Lau House (Green) is named after Mrs E S Lau. Mrs Lau was the first local Principal of GMGS from 1931 to 1941. Her husband, Rev Lau, was the pastor of the English section of the Geylang Chinese Methodist Church.<br>
+* Mitchell House (Blue) is named after Miss Mabel Mitchell, Principal of GMGS from 1949 - 1950.<br>
 
 <figure>
 <img src="/images/5%20Staff%201957.jpg">
