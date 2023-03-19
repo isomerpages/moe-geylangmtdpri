@@ -8,51 +8,47 @@ third_nav_title: Sports & Games
 
 ### CCA Overview  
 
-The Badminton CCA in GMSP is based upon the school motto ‘to grow in friendship body and mind’. We aim to instill interest and passion in the sports of badminton and to coach and develop every child to their fullest potential.
+<p style="text-align: justify;">To be part of Badminton CCA in GMS(P) is to be part of a family that foregrounds the importance of values such as perseverance, teamwork and respect in sports. We seek to cultivate good character and ignite passion in the sport of badminton. 
 
-Our badminton CCA compromises of the recreational team and the school team. Our recreational team is made up of students who are passionate about the game and those who perform well will be selected for the school team to represent the school in the National School Games.
+<p style="text-align: justify;">Regardless of ability level, every member is given the opportunity to harness his or her potential through training and practice. We aim to equip students to play with confidence and aptitude and provide them with opportunities to do so through friendly and competitive platforms, within the school, or at zonal and national levels.
 
-Through the various competition, we encourage the pupils to demonstrate the values of sportsmanship and teamwork. We believe in the importance of values over results and focus more on the teaching of values during our CCA sessions. 
+<p style="text-align: justify;">We believe every badminton player is special and will grow in ‘friendship, body and mind’ to reach his or her fullest potential.
 
 ### Teachers-in-charge
 
-Mr Hidayat Bin Rahmat (IC) <br>
-Mr Ho Sin Lin (2IC) <br>
-Mdm Ros'mariati <br>
-Ms Jolyn Chun   
+Mdm Ros’mariati Bte Sulaiman (IC)<br>
+Mrs Lee Lai Chan (2IC)<br>
+Ms Jolyn Chun <br>
+Mdm Loh Puay San<br>
 
-Coach: Mr Han Koon Siew
+Coach: Mr Ong Chee Hwa Vincent
 
 ### Achievements
+**2023 National School Games**<br>
+Badminton Tournament East Zone 2023 (Participation)
+	
+<u><strong>Senior Boys</strong></u>
+*   Luah Yi Khai (Captain)
+*   Lim Rui Heng (Vice-Captain) 
+*   Joseph Tan Jia Tai    
+*   Muhd Daniyal Bin Samsumaideen    
+*   Danny Edwin William    
+*   Lu Yuchen    
+*   S Agan    
+*   Wong Bo Zheng    
+*   AJ Lai Cheng Yi    
+*   Tan Kai Wen, Ryan    
+*   Tan Wei En Damien    
+*   Wong Yu Xin    
 
-**National School Games Badminton 2022  
-(Junior Division)**  
-  
-Event: Doubles  
-1st in tier 1   
-*   Calista Yeo Jie Lin (P5-7)
-*   Ng Ziqi (P5-7)
+<b>2022 National School Games</b><br>
+	1. <b>Badminton Tournament (Junior Girls) 2022  </b><br>
+    Event: Doubles  
+    1st in tier 1<br>
+*    Calista Yeo Jie Lin<br>    
+*    Ng Ziqi<br>
 
-**Participated in the National School Games Badminton Tournament (East Zone) Competition:**
-
-<u><strong>Junior Boys </strong></u>
-*   Lucas Neo Yu Rui
-*   Mok Wen Bo
-*   Chan Yat Hang Kayden
-*   Tan Uu Hau, Xanthus
-*   Yeo Gong Ze Keith
-*   Sim Cong En, Kaven
-*   Lee Ze Qi
-*   Sarvesh Senthilnathan
-*   Jayden Wong Yan Kai
-
-<u><strong>Senior Boys </strong></u>
-*   Caleb Yang Jia Le
-*   Kurt Goh Ke Wee
-*   Ler Chang Jun Zhe
-*   Ong Jun Heng
-*   Pradeeban Krishnamoorthi
-*   Saravanan Rishi Vikash
-*   Jeriel Tan Wee Ler
-*   Neo Zhi Kai
-*   Lai Jun Hao
+2.<b>Badminton Tournament East Zone 2022 (Participation)</b><br>
+*   Senior Boys
+*   Junior Boys
+    
