@@ -8,12 +8,12 @@ third_nav_title: Uniformed Groups
 
 ### CCA Overview
 <img src="/images/GB%20Mission.png" style="width:150%">
-<p style="text-align: justify;">The Girls' Brigade is a uniformed group that seeks to help girls achieve their fullest potential through positive character building and activities. We aim to develop each girl to her fullest potential by equipping, empowering and enabling every girl to be a leader.&nbsp;  
+<p style="text-align: justify;">The Girls' Brigade is a uniformed group that seeks to help girls achieve their fullest potential through positive character building and activities. We aim to develop each girl to her fullest potential by equipping, empowering and enabling every girl to be a leader.&nbsp;<br>
 
-**The GB Mission:** <br>
-</p><p style="text-align: justify;">Developing each girl and officer to her fullest potential by equipping, empowering and enabling: Every Girl to be a Leader &amp; Every Officer to be a Servant Leader.&nbsp;  
+**The GB Mission:**<br>
+</p><p style="text-align: justify;">Developing each girl and officer to her fullest potential by equipping, empowering and enabling: Every Girl to be a Leader &amp; Every Officer to be a Servant Leader.&nbsp;<br>  
   
-**The GB Aim:** <br>
+**The GB Aim:**<br>
 </p><p style="text-align: justify;">To help girls to become followers of the Lord Jesus Christ and through self-control, reverence and a sense of responsibility to find true enrichment of life.&nbsp;
 
 	------------------------------------------------------------
