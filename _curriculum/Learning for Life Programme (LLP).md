@@ -32,7 +32,7 @@ description: ""
 4.&nbsp;&nbsp;&nbsp; **R**ecycle materials wherever possible
 
 
-**Eco-Committee**
+**Eco-Committee**<br>
 </p><p style="text-align: justify;">Our eco-committee was formed which consists of various stakeholders:
 
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
