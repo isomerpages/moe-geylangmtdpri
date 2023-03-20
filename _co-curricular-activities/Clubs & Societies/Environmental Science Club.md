@@ -44,13 +44,11 @@ Share our knowledge on Environmental Science issues with our schoolmates and com
 
 
 ### Teachers-in-charge
-
 Mdm Christine Tan (I/C)<br>
 Mrs Wong Chia Peng <br>
 Ms Shirin Gan<br>
 
 ### Achievements
-
 Finalists of&nbsp;**SINGAPORE AMAZING FLYING MACHINE COMPETITION 2022**
 
 | No | Name of student | Class | Awards won |
