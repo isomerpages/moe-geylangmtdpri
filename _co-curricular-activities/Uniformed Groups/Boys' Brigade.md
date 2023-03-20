@@ -18,7 +18,7 @@ third_nav_title: Uniformed Groups
 
 </p><p style="text-align: justify;">The boys are also given the opportunities to strive for excellence by representing the school in various national competitions such as the BB Adventure Quest and BB Character Quest in which teamwork and perseverance are also emphasised.
 
-</p><p style="text-align: justify;">With a team of committed teachers, officers and our Boys, our company has consistently excelled in the past decade with its strong track record in the annual JM Fraser Award for Unit Excellence, the highest accolade for BB Companies in Singapore awarded by BB Headquarters (BBHQ).In 2023, Joel Soh Yong En from 6-8 was awarded the Best Boy Award, which is the highest accolade for BB Boys in Singapore awarded by BBHQ every year.
+</p><p style="text-align: justify;">With a team of committed teachers, officers and our Boys, our company has consistently excelled in the past decade with its strong track record in the annual JM Fraser Award for Unit Excellence, the highest accolade for BB Companies in Singapore awarded by BB Headquarters (BBHQ).In 2023, Joel Soh Yong En from 6-8 was awarded the Best Boy Award, which is the highest accolade for BB Boys in Singapore awarded by BBHQ every year.<br>
 
 
 ### Achievements
