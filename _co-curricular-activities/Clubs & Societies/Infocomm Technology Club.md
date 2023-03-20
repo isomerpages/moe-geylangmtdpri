@@ -19,32 +19,15 @@ third_nav_title: Clubs & Societies
 </p><p>A short video created by our Cyber Wellness Ambassadors.
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qN6NpTTNcss" height="315" width="560"></iframe>
 
-### Achievements
 
-<img style="width:70%" src="/images/Info%20Comm.jpg">
-
-</p><p style="text-align: justify;">GMS(P) Team A was one of the 15 teams shortlisted for the finals of the 2021 National Primary Game Creation Competition (NPGC3). Our students got to showcase their talents and creativity in developing an original computer game, Unhack to Save, aligned to the theme, Smart Nation.
-
-Congratulations!  
-
-Oliver Quinn Hong (P5-7) <br>
-Yeo Chuan En Nathan (P5-7) <br>
-Christopher Nathan Lo (P5-7) <br>
-Ng Nan Feng (P5-8)
-
-### CCA Schedule
-
-Mondays:&nbsp; &nbsp; 2 p.m. to 4 p.m.
-
-<u><strong>Level &nbsp; &nbsp; Programmes </strong></u> <br>
-Primary 3&nbsp; &nbsp; &nbsp;eCCA / Cyberwellness, MS Office (Word &amp; Powerpoint)&nbsp;<br>
-Primary 4 &nbsp; &nbsp; MS Office, iMovie, APP Development <br>
-Primary 5 &nbsp; &nbsp; Game Design, Video Production <br>
-Primary 6 &nbsp; &nbsp; Drone
 
 ### Teachers-in-charge
 
-Mrs Lee Lai Chan (IC) <br>
-Mrs Esther Tok (2IC) <br>
-Mr John Tan <br>
-Ms Shen Li Li</p>
+Mrs Esther Tok (IC)
+Mr Sufian Dadula
+Mdm Shen Lili
+Ms Cheri Joan Lim
+
+*
+
+Ms Cheri Joan Lim
