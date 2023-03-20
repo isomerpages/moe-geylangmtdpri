@@ -50,11 +50,9 @@ Share our knowledge on Environmental Science issues with our schoolmates and com
 
 ### Teachers-in-charge
 
-Mrs Wong Chia Peng (IC) <br>
-Mr Teo Ser Leng (2IC) <br>
-Mdm Christine Tan <br>
-Mr Tang Beng Yong <br>
-Ms Nadiah Hana
+Mdm Christine Tan (I/C)<br>
+Mrs Wong Chia Peng <br>
+Ms Shirin Gan<br>
 
 ### Achievements
 
@@ -65,7 +63,8 @@ Finalists of&nbsp;**SINGAPORE AMAZING FLYING MACHINE COMPETITION 2022**
 | 1 | THADDEUS HUAN KAI JUN | 5-6 | LEARNING JOURNEY AWARD<br>3rd Place (2nd Runner Up)  |
 | 2 | WONG ZHENG HAO | 5-8 |  |
 | 3 | MUHAMMED HAMDAN BIN KADER | 6-3 | BOOMERANG CHALLENGE AWARD<br>1st Place |
-| 4 | MOHAMEDFAROOK AHAMED SUHAIL | 6-6 |  |
+| 4 | MOHAMED FAROOK AHAMED SUHAIL | 6-6 |
+BOOMERANG CHALLENGE AWARD<br>1st Place ||
 | 5 | LYU JIGUO | 6-7 | - |
 | 6 | WANG ZIXUAN | 6-8 | - |
 | 7 | RAYE HO XUN YI | 6-8 | - |
