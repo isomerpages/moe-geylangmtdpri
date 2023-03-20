@@ -18,7 +18,7 @@ sections:
           url: ""
         - title: Calendar
           description: ""
-          url: https://calendar.google.com/calendar/embed?src=moe.edu.sg_v012kcob95gbqbsr80caqnarfk%40group.calendar.google.com&ctz=Asia%2FSingapore
+          url: /useful-links/calendar-of-events/
         - title: QUICKLINKS
           description: ""
           url: https://www.facebook.com/GMSPrimary/
