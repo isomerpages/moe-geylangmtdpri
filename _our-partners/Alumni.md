@@ -11,7 +11,7 @@ The results of the election of Office Bearers for the new term 2022-2024 is as f
 
 ### Mission
 
-To see our **ex-students** and **current students** of the GM family **bonded** and **blessed** through **purposeful events** that bring back their **love** for the school.  
+<p style="text-align: justify;">To see our <b>ex-students</b> and <b>current students</b> of the GM family <b>bonded</b> and <b>blessed</b> through <b>purposeful events</b> that bring back their <b>love</b> for the school.  
 
 ### Vision
 
