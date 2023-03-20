@@ -3,8 +3,6 @@ title: Student Care Centre (SCC)
 permalink: /about-us/our-partners/student-care/
 description: ""
 ---
-
-
 Please note that with effect from 2023, the SCC operator will be NASCANS.
 
   
