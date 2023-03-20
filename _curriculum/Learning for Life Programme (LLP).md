@@ -5,8 +5,9 @@ description: ""
 ---
 <p style="text-align: justify;">In <b>GMS(P) Environment Education (Learning for Life, LLP)</b> it is our belief that every staff and student can be an Earth Warrior by Respecting, Loving and Serving the Earth that God has created through practising the 4Rs.<br>
 
-![](/images/LLP.png)
 
+
+![](/images/LLP.png)
 <br>
 </p><p style="text-align: justify;">The themes and the objectives of Environmental Education as followed:
 
@@ -24,13 +25,13 @@ description: ""
 
 </p><p style="text-align: justify;">These are some collective ways in which the school will strive towards the goal of showing our care and duty towards the Earth:<br>
 
-1.<b>R</b>efuse usage in order to minimise wastage<br>
+1.&nbsp; <b>R</b>efuse usage in order to minimise wastage<br>
 
-2.<b>R</b>educe the amount of materials we use and waste we produce<br>
+2.&nbsp; <b>R</b>educe the amount of materials we use and waste we produce<br>
 
-3.<b>R</b>euse materials wherever possible<br>
+3.&nbsp; <b>R</b>euse materials wherever possible<br>
 
-4.<b>R</b>ecycle materials wherever possible<br>
+4.&nbsp; <b>R</b>ecycle materials wherever possible<br>
 
 
 **Eco-Committee**<br>
