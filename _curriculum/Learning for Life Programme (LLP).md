@@ -24,13 +24,13 @@ description: ""
 
 </p><p style="text-align: justify;">These are some collective ways in which the school will strive towards the goal of showing our care and duty towards the Earth:<br>
 
-1.<b>R</b>efuse usage in order to minimise wastage
+1.<b>R</b>efuse usage in order to minimise wastage<br>
 
-2.<b>R</b>educe the amount of materials we use and waste we produce
+2.<b>R</b>educe the amount of materials we use and waste we produce<br>
 
-3.<b>R</b>euse materials wherever possible
+3.<b>R</b>euse materials wherever possible<br>
 
-4.<b>R</b>ecycle materials wherever possible
+4.<b>R</b>ecycle materials wherever possible<br>
 
 
 **Eco-Committee**<br>
