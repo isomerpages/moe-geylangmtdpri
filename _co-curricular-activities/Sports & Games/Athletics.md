@@ -15,6 +15,7 @@ third_nav_title: Sports & Games
 <p style="text-align: justify;">We believe that each athlete is unique in terms of their aspirations and potential.&nbsp; Through the myriad of learning opportunities offered in Athletics, we strive to be the platform for members to grow in friendship, body and mind.<br>
 
 ### Teachers-in-charge <br>
+
 Mrs Monica Phua (IC)<br>
 Ms Shannon Loh (2IC) <br>
 Mr Michael Goh<br>
@@ -88,3 +89,4 @@ The following students are our podium finishers:
 * C Girls (600m): Rebecca Tan (14th)
 	
 ![](/images/Athletics%20Team%20Photo.jpeg)
+	
