@@ -230,6 +230,6 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 <p style="text-align: justify;">9.       Parents may opt their children out of Sexuality Education lessons.
 
-<p style="text-align: justify;">10.      Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable [here](https://geylangmethodistpri.moe.edu.sg/qql/slot/u176/2023/GEYLANG%20METHODIST%20SCHOOL_Opt%20Out%20Form.pdf). The completed opt-out form is to be submitted to the General Office by February 2023.
+<p style="text-align: justify;">10.      Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable [here]. The completed opt-out form is to be submitted to the General Office by February 2023.
 
 <p style="text-align: justify;">11.      Parents can contact Mrs Beverly Toh (HOD CCE) & Mrs Christabel Chue  (Sexuality Education Coordinator) at Tel: 6748 6746 for discussion or to seek clarification about the school’s Sexuality Education programme.
