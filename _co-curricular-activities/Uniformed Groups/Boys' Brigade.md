@@ -22,34 +22,33 @@ third_nav_title: Uniformed Groups
 
 
 ### Achievements
-**2023** <br>
+<b>2023</b> <br>
 Tan Boon Chian Medal Best Boy 20223-Joel Soh Yong En(6-8)  
 Adventure Quest, Gold Honour Roll - P6 BB Boys  
 Adventure Quest, 2nd Runner Up- Team 1
 
-**2022**  
+<b>2022</b> <br>
 Tan Boon Chian Medal Best Boy 2022- Isaac Pang Xian Yi(6-8)  
 Adventure Quest, Gold Honour Roll - P6 BB Boys  
 Boys’ Brigade Week 2020 Gold Honour Roll  
 J M Fraser Award For Excellence 2022 (YOA 2021) - Gold Honour Roll  
 Character Quest 2019 Gold Honour Roll, Top 5
 
-**2021**<br>
+<b>2021</b> <br>
 Best Boys Award 2021-He Meng Xiu(6-6)
 Boys’ Brigade Week 2021 Gold Honour Roll
 ^J M Fraser Award For Excellence 2021 (YOA 2020) - Suspended
 
-**2020**<br>
+<b>2020</b> <br>
 Best Boys Award 2020-Isaac Cheong(6-6)
 Boys’ Brigade Week 2020 Gold Honour Roll
 Boys’ Brigade Week 2020 Lee Soon Ann Trophy
 J M Fraser Award For Excellence 2020 (YOA 2019) - Gold Honour Roll
 
 ^Competitions were suspended due to COVID-19.
-
   
 
-**2019**<br>
+<b>2019</b> <br>
 Best Boys Award 2019- Han Qi Li(6-8)
 Adventure Quest 2019- Gold Honour Roll (Overall)
 Adventure Quest 2019-1st Runner-up(Best Placing)
