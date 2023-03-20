@@ -20,11 +20,11 @@ The Chinese Language (CL) curriculum aims to develop students into proficient la
   
 The CL curriculum aims to:  
 
-1) Strengthen Interaction skills
+1)&nbsp; Strengthen Interaction skills<br>
 
-2) Enhance learning through greater use of Information &amp; Communication Technology&nbsp;
+2)&nbsp;Enhance learning through greater use of Information &amp; Communication Technology&nbsp;<br>
 
-3) Create an Immersive Environment to support language &amp; Cultural appreciation.
+3)&nbsp;Create an Immersive Environment to support language &amp; Cultural appreciation.<br>
 
 ### Curriculum Structure and Key Programme
 
@@ -165,6 +165,3 @@ The CL curriculum aims to:
 5\. Engage parents in MTL E-Oral Workshop
 
 ### GALLERY
-
-
-
