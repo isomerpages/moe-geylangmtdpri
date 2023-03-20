@@ -8,7 +8,7 @@ third_nav_title: Mother Tongue Languages
 
 ### Vision
 
-To develop love & appreciation of MT Language & Culture
+To develop love &amp; appreciation of MT Language &amp; Culture
 
 ### Mission
 
@@ -22,9 +22,9 @@ The CL curriculum aims to:
 
 1) Strengthen Interaction skills
 
-2) Enhance learning through greater use of Information & Communication Technology 
+2) Enhance learning through greater use of Information &amp; Communication Technology&nbsp;
 
-3) Create an Immersive Environment to support language & Cultural appreciation.
+3) Create an Immersive Environment to support language &amp; Cultural appreciation.
 
 ### Curriculum Structure and Key Programme
 
@@ -32,13 +32,131 @@ The CL curriculum aims to:
 
 ### Pedagogical Approaches / Strategies
 
-1. Oracy precedes reading & writing. <br>
-2\. Focus on applying the language in real-life situations. <br>
-3\. Use proficiency descriptors to motivate learners to progress to the next stage of learning <br>
-4\. Greater use of ICT to engage learning & extends learning beyond the classrooms
+ <table style="margin-left:-5.4pt;border-collapse:collapse;mso-table-layout-alt:fixed;
+ border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1024;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:
+ .5pt solid black" width="606" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:22.9pt"><td style="width:157.25pt;border:solid black 1.0pt;
+  mso-border-alt:solid black .5pt;background:#D0CECE;mso-background-themecolor:
+  background2;mso-background-themeshade:230;padding:0cm 5.4pt 0cm 5.4pt;
+  height:22.9pt" valign="top" width="210"><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><b><span style="font-size:14.0pt;
+  line-height:90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Language Components:</span></b></p></td><td style="width:135.0pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  background:#D0CECE;mso-background-themecolor:background2;mso-background-themeshade:
+  230;padding:0cm 5.4pt 0cm 5.4pt;height:22.9pt" valign="top" width="180"><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><b><span style="font-size:14.0pt;
+  line-height:90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Key Strategies</span></b></p></td><td style="width:162.0pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  background:#D0CECE;mso-background-themecolor:background2;mso-background-themeshade:
+  230;padding:0cm 5.4pt 0cm 5.4pt;height:22.9pt" valign="top" width="216"><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><b><span style="font-size:14.0pt;
+  line-height:90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Resources</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:157.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="210"><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Vocabulary</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Grammar</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Sentence Making</span></p></td><td style="width:135.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="180"><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Differentiated Instructions</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">&nbsp;</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Formative Assessment</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">&nbsp;</span></p></td><td style="width:162.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="216"><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">CL: E-zhishi Portal</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">P1 to P6 Learning Package</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%" lang="EN-GB">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:157.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="210"><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Writing (Composition)</span></p></td><td style="width:135.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="180"><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Thematic Approach:</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">-Thinking Routine</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">-Rubrics &amp; Checklist</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">&nbsp;</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">&nbsp;</span></p></td><td style="width:162.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="216"><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">CL: E-zhishi Portal</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Creative Writing (P1 to P2)</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Writing Package (P3 to P6)</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:157.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="210"><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Oral &amp; E- Oral</span></p></td><td style="width:135.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="180"><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Thematic Approach:</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">-Thinking Routine</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">-Rubrics &amp; Checklist</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">-Peer assessment</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">&nbsp;</span></p></td><td style="width:162.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="216"><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">CL: E-zhishi Portal</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Oral Package (P3 to P6)</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">&nbsp;</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:157.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="210"><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Reading Aloud &amp;</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Reading for Comprehension</span></p></td><td style="width:135.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="180"><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">Reading Programme</span></p></td><td style="width:162.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="216"><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">CL: E-zhishi Portal</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">CL: JoyReader Portal</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">P3 to P6 Learning Package</span></p><p style="line-height:90%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
+  90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">&nbsp;</span></p></td></tr></tbody></table>
 
-
-### Other Events / Programmes
+### SUMMARY OF CHINESE PROGRAMME
  
 1\. Chinese New Year Celebration <br>
 2\. Mother Tongue Fortnight <br>
@@ -46,12 +164,7 @@ The CL curriculum aims to:
 4\. Structure Reading Programme <br>
 5\. Engage parents in MTL E-Oral Workshop
 
------------
+### GALLERY
 
-### JoyReader E-Book Application
 
-Dear Parents / Guardians, 
 
-JoyReader is an e-book platform that provides more than 2,000 Chinese picture books. In addition, at least 20 books will be added to the portal each month. Your child/ward can enjoy these stories on the JoyReader application. You can download the JoyReader Pro to your iPhone/iPad or Android mobile phone/tablet (iOS/Android Version 7 and above) for your child to enjoy the stories.
-
-</insert video>
