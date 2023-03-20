@@ -40,7 +40,7 @@ https://geylangmethodistpri.moe.edu.sg/co-curricular-activities/cca/clubs-n-soci
 
 <p style="text-align: justify;">Please click here for Cyber Wellness Programme
 
-[https://geylangmethodistpri.moe.edu.sg/curriculum/character-n-citizenship-education-cce-1/cyber-wellness-programme](https://geylangmethodistpri.moe.edu.sg/curriculum/character-n-citizenship-education-cce-1/cyber-wellness-programme)
+[Cyberwellness Programme](/curriculum/character-n-citizenship-education-cce-1/cyber-wellness-programme/)
 
 
 ### Pedagogical Approaches / Strategies
