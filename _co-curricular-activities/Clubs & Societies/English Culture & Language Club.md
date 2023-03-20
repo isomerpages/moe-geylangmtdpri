@@ -17,7 +17,6 @@ performances.<br>
 
 </p><p style="text-align: justify;">Opportunities will be given for students to hone their skills and demonstrate their capabilities in peer-to-peer showcases. This allow students to become confident performers and makers of the art, in both mini presentations as well as in school performances and competitions.<br>
 
-
 ### Teachers-in-charge 
 Ms Cynthia Sun (IC)<br>
 Mrs Jessica Kang (2IC) <br>
