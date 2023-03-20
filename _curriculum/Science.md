@@ -19,9 +19,9 @@ description: ""
 
 ![](/images/Picture1.png)
 
-<p style="text-align: justify;">Central to the goal of science education is to provide students with a strong foundation in Science for life and society. 
+<p style="text-align: justify;">Central to the goal of science education is to provide students with a strong foundation in Science for life and society.<br>
 
-**I4 in GMS(P) Science**<br>
+<b><u>I4 in GMS(P) Science</b></u><br>
 <p style="text-align: justify;">In line with the MOE curriculum framework, the teaching and learning of science in GMS(P) endeavors to provide students with the experiences of being Inspired by Science, Inquire like Scientist and Innovate using Science. Thus, we seek to
  
 (i) Inspire and develop Interest in Science in our students
