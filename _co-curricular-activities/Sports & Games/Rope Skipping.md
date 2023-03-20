@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/cca/sports-n-games/rope-skipping/
 description: ""
 third_nav_title: Sports & Games
 ---
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-mriMtSU-Sid26BE-J_-WOv_y-AQYVRQZav-vE7zrz55VewuZicLyLnEi-7rO27KZ7KZUr0YT-Dnw/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+![](/images/RS11.jpg)
 
 ### CCA Overview
 
@@ -18,6 +18,8 @@ Ms Ler Yu Min<br>
 
 Coach: Don Lui
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSskiyl_Qph_izCL058nuQdN0cqvoEfH_ocC9f5fehFHCvKoJnXSmCp55zpwl3n0MZC-dCtUVrwQWJE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe><br>
+	
 ### Achievements
 
 **National School Games Rope&nbsp;Skipping&nbsp;Competition 2022 (Senior Division)**
@@ -132,4 +134,4 @@ Individual Event (Team Creative):
 |---|---|---|---|
 | Senior Girls | Teo Chien-Yong Chelsea<br>Jasira<br>Shaik Mohamed Shafana Amrin<br>Cheryl Ng Sin Lin (Huang Xinling) | 6-5<br>6-3<br>6-3<br>5-7 | 9th |
 | Junior Girls | Jumica Tan Jia Hui<br>Charlotte Ng Sin Ler (Huang Xinle)<br>Wong Yu Xuan<br>Claudia Teoh Zhi Xuan<br>(Zhao Zhixuan) | 5-2<br>5-1<br>4-8<br>4-7 | 11th |
-| | | |
+| | | |</p>
