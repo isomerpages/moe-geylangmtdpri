@@ -11,7 +11,7 @@ description: ""
 
 ### Mission
 
-<p style="text-align: justify;">To inspire Scientific learning based on ethical reasoning and impact the society positively
+<p style="text-align: justify;">To inspire Scientific learning based on ethical reasoning and impact the society positively<br>
 
 ### Overview
 
