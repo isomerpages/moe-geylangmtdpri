@@ -4,21 +4,21 @@ permalink: /co-curricular-activities/cca/clubs-n-societies/environmental-science
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjgNOELF-xvdblBuiVJdOvncVoIIo9Jak6wGNPRi4bY2qwdJZa4_LUhcLLvG4MHhMSVxvuIkYoxGgZ/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+![](/images/ESC8.png)
 
 ### CCA Overview
 
 **Our key motto**<br>
-1.    Be Gracious<br>
-2.    Be Responsible<br>
-3.    Ready to serve<br>
+1.&nbsp;&nbsp;&nbsp; Be Gracious<br>
+2.&nbsp;&nbsp;&nbsp; Be Responsible<br>
+3.&nbsp;&nbsp;&nbsp; Ready to serve<br>
 
 **Our mission**
 * <p style="text-align: justify;"><u>Grow</u> in science knowledge.<br>
 Learn about how Science affects the Environment
-* <p style="text-align: justify;"><u>Lead and inspire</u> others to care for the environment<br>
+* </p><p style="text-align: justify;"><u>Lead and inspire</u> others to care for the environment<br>
 Be a environmental champions in school
-* <p style="text-align: justify;"><u>Serve</u> our school/community<br>
+* </p><p style="text-align: justify;"><u>Serve</u> our school/community<br>
 Share our knowledge on Environmental Science issues with our schoolmates and community
 
 ### Our CCA activities
@@ -45,9 +45,11 @@ Share our knowledge on Environmental Science issues with our schoolmates and com
 
 ### Teachers-in-charge
 Mdm Christine Tan (I/C)<br>
-Mrs Wong Chia Peng <br>
+Mrs Wong Chia Peng&nbsp;<br>
 Ms Shirin Gan<br>
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTvYUShrwMOjh-5q-S_AqF4MI_aHFNqLkqyRPX13Xm7cNtWissTqc19EGibO76vecjgU4AMGdJ5PSqJ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+	
 ### Achievements
 Finalists of&nbsp;**SINGAPORE AMAZING FLYING MACHINE COMPETITION 2022**
 
@@ -61,4 +63,4 @@ BOOMERANG CHALLENGE AWARD<br>1st Place |
 | 5 | LYU JIGUO | 6-7 | - |
 | 6 | WANG ZIXUAN | 6-8 | - |
 | 7 | RAYE HO XUN YI | 6-8 | - |
-| | | |
+| | | |</p>
