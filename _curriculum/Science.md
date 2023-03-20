@@ -43,7 +43,6 @@ Relating Science, Technology, Society and Environment (STSE)
 
 
 ### Pedagogical Approaches / Strategies
-
 <p style="text-align: justify;">Inquiry-Based Approach is adopted in our teaching and learning of science. This approach is built on the premise that students are inquirers of learning, and teachers’ as facilitators of the learning process.
 
 <p style="text-align: justify;">The 3C Pedagogical framework is adopted to guide teachers in designing and enacting meaningful inquiry lessons in the classroom.
