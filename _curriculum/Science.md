@@ -10,40 +10,37 @@ description: ""
 <p style="text-align: justify;">Inspired by values, enculturated in the practices of science
 
 ### Mission
-
 <p style="text-align: justify;">To inspire Scientific learning based on ethical reasoning and impact the society positively<br>
 
 ### Overview
 
-<p style="text-align: justify;">The science curriculum in GMS(P) is guided by the MOE Science curriculum framework (2023). 
+<p style="text-align: justify;">The science curriculum in GMS(P) is guided by the MOE Science curriculum framework (2023).<br>
 
 ![](/images/Picture1.png)
 
 <p style="text-align: justify;">Central to the goal of science education is to provide students with a strong foundation in Science for life and society.<br>
 
 <b><u>I4 in GMS(P) Science</b></u><br>
-<p style="text-align: justify;">In line with the MOE curriculum framework, the teaching and learning of science in GMS(P) endeavors to provide students with the experiences of being Inspired by Science, Inquire like Scientist and Innovate using Science. Thus, we seek to
- 
-(i) Inspire and develop Interest in Science in our students
+<p style="text-align: justify;">In line with the MOE curriculum framework, the teaching and learning of science in GMS(P) endeavors to provide students with the experiences of being Inspired by Science, Inquire like Scientist and Innovate using Science. Thus, we seek to:<br>
+ (i) Inspire and develop Interest in Science in our students<br>
 
-(ii) develop scientific competencies through Inquiry-based learning
+(ii) develop scientific competencies through Inquiry-based learning<br>
 
-(iii) provide opportunities for our students to Innovate using science
+(iii) provide opportunities for our students to Innovate using science<br>
 
+<p style="text-align: justify;">Besides helping students to develop core ideas in science, our curriculum also focuses on developing in our students the practices of science; values, ethics and attitudes. Practices of science serve to highlight that the discipline of Science is more than the acquisition of a body of knowledge (e.g., scientific facts, concepts, laws, and theories); it is also a way of thinking and doing.<br>
 
-<p style="text-align: justify;">Besides helping students to develop core ideas in science, our curriculum also focuses on developing in our students the practices of science; values, ethics and attitudes. Practices of science serve to highlight that the discipline of Science is more than the acquisition of a body of knowledge (e.g., scientific facts, concepts, laws, and theories); it is also a way of thinking and doing.
+<p style="text-align: justify;">They represent the set of established procedures and processes associated with scientific inquiry, what scientific knowledge is and how it is generated and established, and how science is applied in society respectively.<br>
 
-<p style="text-align: justify;">They represent the set of established procedures and processes associated with scientific inquiry, what scientific knowledge is and how it is generated and established, and how science is applied in society respectively.
+<p style="text-align: justify;">The Practices of Science comprises three intricately linked components:<br>
 
-<p style="text-align: justify;">The Practices of Science comprises three intricately linked components:
-
-<p style="text-align: justify;">Demonstrating Ways of Thinking and Doing (WOTD)
-Understanding the Nature of Scientific Knowledge (NOS)
-Relating Science, Technology, Society and Environment (STSE)
+* <p style="text-align: justify;">Demonstrating Ways of Thinking and Doing (WOTD)<br>
+* Understanding the Nature of Scientific Knowledge (NOS)<br>
+* Relating Science, Technology, Society and Environment (STSE)<br>
 
 
-### Pedagogical Approaches / Strategies
-<p style="text-align: justify;">Inquiry-Based Approach is adopted in our teaching and learning of science. This approach is built on the premise that students are inquirers of learning, and teachers’ as facilitators of the learning process.
+### Pedagogical Approaches / Strategies<br>
+<p style="text-align: justify;">Inquiry-Based Approach is adopted in our teaching and learning of science. This approach is built on the premise that students are inquirers of learning, and teachers’ as facilitators of the learning process.<br>
 
 <p style="text-align: justify;">The 3C Pedagogical framework is adopted to guide teachers in designing and enacting meaningful inquiry lessons in the classroom.
 <br>
