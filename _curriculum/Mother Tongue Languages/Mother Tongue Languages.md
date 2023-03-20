@@ -13,5 +13,7 @@ Nurturing <b>Active Learners</b> and <b>Proficient Users</b>
 
 
 <p style="text-align: justify;">MTL Curriculum Framework is centred on the goal of engaging students in joy of learning, developing them to become active learners and proficient users of MTL. The three broad objectives of Communication, Culture and Connection undergird the 2021 Pri MTL Curriculum’s Content (Language Skills, Language Knowledge, and Cultural Values), Pedagogy and Assessment.
-
-
+	
+![](/images/MT%20diagram.png)
+	
+	
