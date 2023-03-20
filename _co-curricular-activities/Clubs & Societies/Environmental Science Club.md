@@ -8,10 +8,46 @@ third_nav_title: Clubs & Societies
 
 ### CCA Overview
 
-We aim to
-* Develop students' interest in the Science Subject and care for the environment.
-* Provide opportunities for students to apply a variety of scientific skills in their&nbsp;projects such as innovation and toy-making projects.
-* Allow students to participate in hands-on and challenging science-related activities that demonstrate scientific concepts and learn the subject in a fun and enjoyable way.
+**Our key motto**
+
+1.    Be Gracious
+
+2.    Be Responsible
+
+3.    Ready to serve
+
+
+**Our mission**
+
+* <u>Grow</u> in science knowledge.
+Learn about how Science affects the Environment
+* <u>Lead and inspire</u> others to care for the environment
+Be a environmental champions in school
+* <u>Serve</u> our school/community
+Share our knowledge on Environmental Science issues with our schoolmates and community
+
+**Our CCA activities**
+
+1)	Work closely with Nparks to plan and conduct activities for schoolmates during recess
+           
+				 Be a Green Champion on World Water Day and Earth Day 
+				 Be Nparks Community in Nature (CIN) programme and design/lead a Biodiversity trail   
+				in school garden. 
+
+2)	Enrich in our Science learning experiences with investigative using STEM activities.
+-	Dunman High School interns who planned a Recycled car making with our P5 and P6 in 2023
+-	Conducting a mini Greenhouse making as part of NIE research for some students
+-	Making bridges, aluminum tray maze,  during CCA 
+-	Partnering 1 team of Republic Polytechnic students in vermicomposting investigation project 
+-	Workshops on Strawbees with quikbots 
+
+3)	Take care of our school garden
+-	Water the plants
+-	Remove the weeds
+-	Plant new plants
+-	Pick up the litter at the garden
+
+
 
 ### Teachers-in-charge
 
