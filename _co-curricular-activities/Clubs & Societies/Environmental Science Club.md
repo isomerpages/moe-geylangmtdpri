@@ -26,13 +26,12 @@ Be a environmental champions in school
 * <u>Serve</u> our school/community
 Share our knowledge on Environmental Science issues with our schoolmates and community
 
-**Our CCA activities**
+### Our CCA activities
 
 1)	Work closely with Nparks to plan and conduct activities for schoolmates during recess
            
-				 Be a Green Champion on World Water Day and Earth Day 
-				 Be Nparks Community in Nature (CIN) programme and design/lead a Biodiversity trail   
-				in school garden. 
+* Be a Green Champion on World Water Day and Earth Day 
+* Be Nparks Community in Nature (CIN) programme and design/lead a Biodiversity trail in school garden. 
 
 2)	Enrich in our Science learning experiences with investigative using STEM activities.
 -	Dunman High School interns who planned a Recycled car making with our P5 and P6 in 2023
