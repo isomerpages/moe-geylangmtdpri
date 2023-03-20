@@ -10,13 +10,14 @@ third_nav_title: Uniformed Groups
 <img src="/images/GB%20Mission.png" style="width:150%">
 <p style="text-align: justify;">The Girls' Brigade is a uniformed group that seeks to help girls achieve their fullest potential through positive character building and activities. We aim to develop each girl to her fullest potential by equipping, empowering and enabling every girl to be a leader.&nbsp;<br>
 
-**The GB Mission:**<br>
+<b>The GB Mission:</b><br>
 </p><p style="text-align: justify;">Developing each girl and officer to her fullest potential by equipping, empowering and enabling: Every Girl to be a Leader &amp; Every Officer to be a Servant Leader.&nbsp;<br>  
   
-**The GB Aim:**<br>
-</p><p style="text-align: justify;">To help girls to become followers of the Lord Jesus Christ and through self-control, reverence and a sense of responsibility to find true enrichment of life.&nbsp;
+<b>The GB Aim:</b><br>
+<p style="text-align: justify;">To help girls to become followers of the Lord Jesus Christ and through self-control, reverence and a sense of responsibility to find true enrichment of life.&nbsp;
 
-	------------------------------------------------------------
+<br>
+<br>	
 <p style="text-align: center;"><strong>2<sup>nd</sup> Company Girls’ Brigade Student Leadership Structure 2023</strong></p>
 
 <table style="border-collapse:collapse;mso-yfti-tbllook:1184" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.75pt"><td style="border:solid black 1.0pt;mso-border-alt:solid black .5pt;
@@ -158,7 +159,7 @@ Mdm Tan Ai Cheng (Church Personnel)  <br>
 Ms Rebecca Ting (Church Personnel)<br>
 
 ### Achievements
-**2022 Junior Brigadier Brooch Awardee:** <br>
+**2022 Junior Brigader Brooch Awardee:** <br>
 1\. Chloe Goh Qiaoli, P6-5<br>
 (Company Leader)
 
