@@ -7,8 +7,6 @@ description: ""
 
 ![](/images/LLP.png)
 
-![](/images/LLP.jpg)
-
 <br>
 </p><p style="text-align: justify;">The themes and the objectives of Environmental Education as followed:
 
@@ -100,7 +98,7 @@ description: ""
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span lang="EN-SG">CCA Teacher</span></p></td></tr><tr style="mso-yfti-irow:12;mso-yfti-lastrow:yes"><td style="width:260.55pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="347"><p style="line-height:150%" class="MsoNormal"><span lang="EN-SG">Mrs Belinda</span></p></td><td style="width:7.0cm;border-top:none;border-left:none;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="347"><p style="line-height:150%" class="MsoNormal"><span lang="EN-SG">Mrs Belinda Ang</span></p></td><td style="width:7.0cm;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span lang="EN-SG">Parent Representative</span></p></td></tr></tbody></table></p>
