@@ -35,7 +35,7 @@ description: ""
 4.&nbsp; <b>R</b>ecycle materials wherever possible<br>
 
 
-**Eco-Committee**<br>
+<b>Eco-Committee</b><br>
 <p style="text-align: justify;">Our eco-committee was formed which consists of various stakeholders:
 
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
