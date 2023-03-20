@@ -8,14 +8,13 @@ third_nav_title: Sports & Games
 
 ### CCA Overview
 
-The Rope Skipping CCA aims to inculcate the 4Ds, namely Determination, Discipline, Diligence and Dedication, in our skippers through our weekly sessions. Skippers will be trained to equip themselves with the various Level 1, 2 and 3 skipping skills progressively. Skippers who exhibit talent, as well as the 4Ds, will also be able to represent the school to showcase their talent by participating in the annual National Rope Skipping Championships.
+<p style="text-align: justify;">The Rope Skipping CCA aims to inculcate the 4Ds, namely Determination, Discipline, Diligence and Dedication, in our skippers through our weekly sessions. Skippers will be trained to equip themselves with the various Level 1, 2 and 3 skipping skills progressively. Skippers who exhibit talent, as well as the 4Ds, will also be able to represent the school to showcase their talent by participating in the annual National Rope Skipping Championships.
 
 ### Teachers-in-charge
 
-Mdm Hanitha Shamsudeen (IC) <br>
-Mdm Sabrina Banu (2IC) <br>
-Ms Ler Yu Min <br>
-Ms Aslinda&nbsp;
+Mdm Hanitha Shamsudeen (IC)<br>
+Mrs Tan Siew Kuan (2IC)<br>
+Ms Ler Yu Min<br>
 
 Coach: Don Lui
 
