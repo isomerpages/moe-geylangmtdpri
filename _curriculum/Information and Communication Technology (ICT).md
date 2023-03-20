@@ -33,8 +33,8 @@ ICT is used as an enabler for enhanced learning which all departments utilize to
 For students who wish to further enhance their ICT skills, Info-comm Technology Club is a platform which offers game design, drone programming, Microbits, Movie-making, and app development.
 Please click here for Info-comm Technology Club CCA
 	
-https://geylangmethodistpri.moe.edu.sg/co-curricular-activities/cca/clubs-n-societies/info-comm-technology-club
-
+[Info-Comm Technology Club](/co-curricular-activities/cca/clubs-n-societies/info-comm-technology-club/)<br>
+<br>
 **Cyber Wellness**
 <p style="text-align: justify;">While encouraging our students to make use of technology, we recognize the importance of educating our students to be discerning and responsible digital citizens. The inculcation of Cyber Wellness concepts in students, enable students to recognize potential hazards that can take place in the Cyber World and teaches them the skills to protect themselves.
 
