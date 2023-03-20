@@ -46,7 +46,8 @@ Relating Science, Technology, Society and Environment (STSE)
 <p style="text-align: justify;">Inquiry-Based Approach is adopted in our teaching and learning of science. This approach is built on the premise that students are inquirers of learning, and teachers’ as facilitators of the learning process.
 
 <p style="text-align: justify;">The 3C Pedagogical framework is adopted to guide teachers in designing and enacting meaningful inquiry lessons in the classroom.
-
+<br>
+	
 ![](/images/Picture2.png)
 
 <p style="text-align: justify;">Harnessing the affordance of ICT and our school facilities, the department also incorporate learning outside the classroom through our Sensory Gardens and Eco-Gardens. This helps us to engage students, arouse their curiosity and develop their process skills such as observation skills and questioning.
