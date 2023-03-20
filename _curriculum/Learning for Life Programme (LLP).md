@@ -6,7 +6,7 @@ description: ""
 <p style="text-align: justify;">In <b>GMS(P) Environment Education (Learning for Life, LLP)</b> it is our belief that every staff and student can be an Earth Warrior by Respecting, Loving and Serving the Earth that God has created through practising the 4Rs.<br>
 
 
-<img src=/images/LLP.jpg>
+<img src=/images/LLP.png>
 	
 ![](/images/LLP.png)
 <br>
