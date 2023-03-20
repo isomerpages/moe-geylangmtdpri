@@ -31,8 +31,8 @@ description: ""
 3.&nbsp; <b>R</b>euse materials wherever possible<br>
 
 4.&nbsp; <b>R</b>ecycle materials wherever possible<br>
-
-
+<br>
+<br>
 <b>Eco-Committee</b><br>
 <p style="text-align: justify;">Our eco-committee was formed which consists of various stakeholders:
 
