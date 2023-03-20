@@ -6,7 +6,8 @@ description: ""
 <p style="text-align: justify;">In <b>GMS(P) Environment Education (Learning for Life, LLP)</b> it is our belief that every staff and student can be an Earth Warrior by Respecting, Loving and Serving the Earth that God has created through practising the 4Rs.<br>
 
 
-
+<img src= /images/LLP.jpg>
+	
 ![](/images/LLP.png)
 <br>
 </p><p style="text-align: justify;">The themes and the objectives of Environmental Education as followed:
