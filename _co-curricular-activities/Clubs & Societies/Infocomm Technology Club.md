@@ -23,11 +23,9 @@ third_nav_title: Clubs & Societies
 
 ### Teachers-in-charge
 
-Mrs Esther Tok (IC)
-Mr Sufian Dadula
-Mdm Shen Lili
-Ms Cheri Joan Lim
-
-*
+Mrs Esther Tok (IC)<br>
+Mr Sufian Dadula<br>
+Mdm Shen Lili<br>
+Ms Cheri Joan Lim<br>
 
 Ms Cheri Joan Lim
