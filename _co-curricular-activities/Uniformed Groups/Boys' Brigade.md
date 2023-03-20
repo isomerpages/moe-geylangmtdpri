@@ -22,7 +22,6 @@ third_nav_title: Uniformed Groups
 
 
 ### Achievements
-
 **2023** <br>
 Tan Boon Chian Medal Best Boy 20223-Joel Soh Yong En(6-8)  
 Adventure Quest, Gold Honour Roll - P6 BB Boys  
