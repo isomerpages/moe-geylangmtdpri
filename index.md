@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
-          url: https://staging.d33dbb0ee5w4xi.amplifyapp.com/announcements/
+          url: /announcements/
         - title: Contact
           description: ""
           url: ""
