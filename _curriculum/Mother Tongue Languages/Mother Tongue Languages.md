@@ -4,9 +4,14 @@ permalink: /curriculum/mother-tongue-languages/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
+### Vision:
+Nurturing <b>Active Learners</b> and <b>Proficient Users</b>
 
-### Mother Tongue Languages Fortnight 2022
 
-Our students went through two weeks of language and cultural activities in Term 1 Week 9 and Week 10. During these two weeks, our students were engaged meaningfully in their respective Mother Tongue Languages.
+### Mission:
+<p style="text-align: justify;">To develop proficient users of MTL language by creating positive learning experiences, and cultivating the love for Mother Tongue Language, Culture & Tradition in our students.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6HprtuyD1CE?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="text-align: justify;">MTL Curriculum Framework is centred on the goal of engaging students in joy of learning, developing them to become active learners and proficient users of MTL. The three broad objectives of Communication, Culture and Connection undergird the 2021 Pri MTL Curriculum’s Content (Language Skills, Language Knowledge, and Cultural Values), Pedagogy and Assessment.
+
+
