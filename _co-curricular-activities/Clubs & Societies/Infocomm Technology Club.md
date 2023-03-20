@@ -8,43 +8,43 @@ third_nav_title: Clubs & Societies
 
 ### CCA Overview    
 
-The Info-comm Technology Club CCA in GMSP aims to excite students about Information and Communications Technology (ICT) in a fun and meaningful way by helping them to learn skills such as use of digital media, mobile technologies as well as software and games development.  
+<p style="text-align: justify;">The Infocomm Media Club aims to excite students about Information and Communications Technology (ICT) through the use of digital media and mobile technologies as well as game design and app development. 
 
-Through the club’s activities, students will better appreciate technology and learn about application development, programming and Cyber Wellness.  
+</p><p style="text-align: justify;">The Club seeks to cultivate leadership skills by equipping students as Cyber Wellness Ambassadors. They get to present their digital artefacts to their peers. They also have opportunities to participate in infocomm media competitions.  
 
-The club aims to cultivate leadership skills by equipping students with the skills to be peer advocates of Cyber Wellness. They will present their digital artefacts during the school’s Cyber Wellness Week.
+</p><p style="text-align: justify;">Through the myriad learning opportunities in Infocomm Media Club, we hope our members will be better able to navigate the digital landscape in the future while growing in friendship, body and mind.
 
-Students will be able to apply what they have learned by taking part in a variety of Infocomm related competitions such as Microbits and photography competitions. They also have opportunities to be the photographer for school events.
+### Be Safe Online
 
-Through the myriad learning opportunities in Info-comm Technology Club, we hope our members will be able to better navigate the digital landscape in the future while at the same time growing in friendship, body and mind.
+</p><p>A short video created by our Cyber Wellness Ambassadors.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qN6NpTTNcss" height="315" width="560"></iframe>
 
 ### Achievements
 
-<img src="/images/Info%20Comm.jpg" 
-    style="width:70%">
+<img style="width:70%" src="/images/Info%20Comm.jpg">
 
-GMS(P) Team A was one of the 15 teams shortlisted for the finals of the 2021 National Primary Game Creation Competition (NPGC3). Our students got to showcase their talents and creativity in developing an original computer game, Unhack to Save, aligned to the theme, Smart Nation.
+</p><p style="text-align: justify;">GMS(P) Team A was one of the 15 teams shortlisted for the finals of the 2021 National Primary Game Creation Competition (NPGC3). Our students got to showcase their talents and creativity in developing an original computer game, Unhack to Save, aligned to the theme, Smart Nation.
 
 Congratulations!  
 
 Oliver Quinn Hong (P5-7) <br>
-Yeo Chuan En Nathan (P5-7) <Br>
+Yeo Chuan En Nathan (P5-7) <br>
 Christopher Nathan Lo (P5-7) <br>
 Ng Nan Feng (P5-8)
 
 ### CCA Schedule
 
-Mondays:    2 p.m. to 4 p.m.
+Mondays:&nbsp; &nbsp; 2 p.m. to 4 p.m.
 
-<u><strong>Level     Programmes </strong></u> <br>
-Primary 3     eCCA / Cyberwellness, MS Office (Word & Powerpoint) <br>
-Primary 4     MS Office, iMovie, APP Development <br>
-Primary 5     Game Design, Video Production <br>
-Primary 6     Drone
+<u><strong>Level &nbsp; &nbsp; Programmes </strong></u> <br>
+Primary 3&nbsp; &nbsp; &nbsp;eCCA / Cyberwellness, MS Office (Word &amp; Powerpoint)&nbsp;<br>
+Primary 4 &nbsp; &nbsp; MS Office, iMovie, APP Development <br>
+Primary 5 &nbsp; &nbsp; Game Design, Video Production <br>
+Primary 6 &nbsp; &nbsp; Drone
 
 ### Teachers-in-charge
 
 Mrs Lee Lai Chan (IC) <br>
 Mrs Esther Tok (2IC) <br>
 Mr John Tan <br>
-Ms Shen Li Li
+Ms Shen Li Li</p>
