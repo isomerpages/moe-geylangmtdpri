@@ -19,11 +19,11 @@ third_nav_title: Clubs & Societies
 
 **Our mission**
 
-* <u>Grow</u> in science knowledge.
+* <p style="text-align: justify;"><u>Grow</u> in science knowledge.<br>
 Learn about how Science affects the Environment
-* <u>Lead and inspire</u> others to care for the environment
+* <p style="text-align: justify;"><u>Lead and inspire</u> others to care for the environment<br>
 Be a environmental champions in school
-* <u>Serve</u> our school/community
+* <p style="text-align: justify;"><u>Serve</u> our school/community<br>
 Share our knowledge on Environmental Science issues with our schoolmates and community
 
 ### Our CCA activities
