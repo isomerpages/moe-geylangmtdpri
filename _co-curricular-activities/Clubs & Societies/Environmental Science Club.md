@@ -8,17 +8,12 @@ third_nav_title: Clubs & Societies
 
 ### CCA Overview
 
-**Our key motto**
-
-1.    Be Gracious
-
-2.    Be Responsible
-
-3.    Ready to serve
-
+**Our key motto**<br>
+1.    Be Gracious<br>
+2.    Be Responsible<br>
+3.    Ready to serve<br>
 
 **Our mission**
-
 * <p style="text-align: justify;"><u>Grow</u> in science knowledge.<br>
 Learn about how Science affects the Environment
 * <p style="text-align: justify;"><u>Lead and inspire</u> others to care for the environment<br>
@@ -28,19 +23,19 @@ Share our knowledge on Environmental Science issues with our schoolmates and com
 
 ### Our CCA activities
 
-1)	Work closely with Nparks to plan and conduct activities for schoolmates during recess
+1)Work closely with Nparks to plan and conduct activities for schoolmates during recess
            
 * Be a Green Champion on World Water Day and Earth Day 
 * Be Nparks Community in Nature (CIN) programme and design/lead a Biodiversity trail in school garden. 
 
-2)	Enrich in our Science learning experiences with investigative using STEM activities.
+2)Enrich in our Science learning experiences with investigative using STEM activities.
 -	Dunman High School interns who planned a Recycled car making with our P5 and P6 in 2023
 -	Conducting a mini Greenhouse making as part of NIE research for some students
 -	Making bridges, aluminum tray maze,  during CCA 
 -	Partnering 1 team of Republic Polytechnic students in vermicomposting investigation project 
 -	Workshops on Strawbees with quikbots 
 
-3)	Take care of our school garden
+3)Take care of our school garden
 -	Water the plants
 -	Remove the weeds
 -	Plant new plants
