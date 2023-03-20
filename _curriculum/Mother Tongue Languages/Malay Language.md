@@ -4,41 +4,28 @@ permalink: /curriculum/mother-tongue-languages/malay-language/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-![](/images/ML%2008.jpg)
+### Key Programmes
 
-### Vision
+* Extensive Reading Programme - Bacalah Sayang 
+* MTL Fortnight Activity
+Pupils learn Malay Language in a fun and creative environment. We make learning Malay Language experience exciting.  Malay Language Fortnight or also known as Dwiminggu Bahasa in GMS(P) is a platform for pupils to actively learn Malay Language and the associated culture so as to experience Malay Language as a ‘living language’. Malay Language Fortnight started on 28 February 2022.  A variety of enriching activities lined up for our pupils during these two weeks. It’s a fun way to learn confidence and communication skills. GMS(P) pupils are nurtured in the right learning environment where we impart essential life skills so that they will develop into a well-balanced and happy young generation who values Malay Language and culture. Among the activities which were carried out were Storytelling, the Making of Bunga Rampai, Pantun Recitation, Dikir Barat and The Art of Epok-epok Making. Students as self-directed learners take responsibility for their own learning. They questioned, reflected and persevered in the pursuit of learning during the entire process of acquiring knowledge and learning to appreciate the heritage and culture associated with Malay Language. 
 
-Every Child an Active Learner and Proficient User of MTL
+* Celebration of Festivals 
+For the last 2 years since the pandemic, Hari Raya celebration has been celebrated in a different way in most schools. In GMS(P), we managed to bring on the Hari Raya mood by celebrating it via Zoom. There were quizzes for students to participate in, dance performances by Modern Dance and  a song performance by our talented male teachers for everyone to enjoy. 
 
-### Mission
+![](/images/ml1.png)
 
-To ignite passion in pupils to love the language though heritage and cultural appreciation
+![](/images/ml3.png)
 
-### Overview
+* MTSP - ABLE 
+Mother Tongue is a challenging subject for many students, especially those from mainly English-speaking families. Therefore, in order to help our students overcome this challenge, the Mother Tongue Support Programme (MTSP) was introduced.  Just like LSP, students who need extra help with their Mother Tongues will learn in small groups of five to eight. Classes involve hands-on activities demonstrating “the practical usefulness of the languages”.  Students learn more actively through interactive learning materials such as picture cards. The small class size will allow students to use their Mother Tongue language more confidently.
 
-The Malay Language curriculum aims to inculcate in all our students 3 broad objectives in the teaching and learning of MTL:  
+* P4 Cultural Camp 
+* P3 CPAS  
+* MTL Buddy Reading 
+The MTL Buddy Reading is a collaboration between the Mother Tongue Department and English Department. According to Vygostky, a psychologist best known for his sociocultural theory,  he believed that  social interaction plays a critical role in children's learning. Hence, this programme aims to firstly promote a peer helping culture, while supporting the weaker students in their reading and provide the platform for student leadership. This programme will begin soon. 
+* Cluster/ National Competitions 
+Mohamed Rehaan Bin Mohamed Fazlin’s essay was awarded as among the 35 best essays in National Level (Primary School) during the 2021 essay writing competition. Mohamed Rehaan’s masterpiece was published in Karya Minda Kreatif 2021. This platform provides opportunities for students to showcase their talents, to instil confidence in writing composition, to sharpen students writing skills & techniques and to encourage the creative and fun learning of the Malay Language. 
+* Reading Ambassador 
 
-1) **Communication** – to develop proficient language users who can communicate in a confident, effective and meaningful way in real-life situations.
 
-2) **Culture** – to nurture our students to understand and have a deeper appreciation for their culture and traditions associated with each MTL in our society.
-
-3) **Connection** – to enable our students to connect with communities across Asia who speak and share the language and culture.
-
-### Key Programmes 
-
-| Programme | Language Skills to be Developed | Description |
-|---|---|---|
-| D.E.A.R. (Drop Everything And Read Programme)  |  Reading | The objective of this programme is to instil the love for reading and improve vocabulary and writing development. This programme contains the following components. <br><br>(Supplementary Reading Materials such as Mari Membaca magazines are provided for P2 - P4. Malay Newspaper, Berita Harian GEN- G for P5 & P6)<br><br>Sustained Silent Reading TimeStudents use the pre-assembly time twice a week to read Mother Tongue storybooks. <br><br>Reading Portfolio<br>P2 - P6 students will keep their own Reading Log where they record the Titles of Books read, reflections, character study and new words learnt. At the end of term 4, students who have the highest number of books read will receive an award. |
-| MTL E-Oral  | Spoken Interaction, Speaking | Parents’ Workshop<br><br>Parents of students in P5 are invited for the workshop so that they are well informed of the new MT exam format for PSLE Oral exam. The aim is to share pointers and support parents so that they can guide and coach their children at home.<br><br>OREO Strategy for Students<br>In line with the MOE 21st Century Competencies and Student Outcomes, the OREO strategy is used by the P5 & P6 students to prepare themselves in the conversation for the E-Oral. This strategy allows them to be a confident speaker.<br><br> |
-| P2 Cultural Camp | Listening and Speaking | Lights, Camera, Action!<br><br>P2 students will go through a 3 hours session of speech and drama. We want to inculcate values in our students in a fun way. They will learn moral values and learn to express themselves confidently and develop their language skills. |
-| Mother Tongue Fortnight | Cultural Experiential Learning | The Mother Tongue Fortnight has been carried out on Week 9 & 10 in Term 1 for P1 - P6 students. The objective of this programme is to create a conducive environment to promote MTL usage and learning during MTL class. We provide students with authentic opportunities for them to use MTL and learn about their own culture. They were involved in hands-on activities and exposed to the folklore, poems and batik origin. |
-| WOW Project | Listening, Speaking and Writing | The P2 students participated actively in WOW (Week of Wonder) projects where they explored and learnt more about their culture beyond the classroom routines. Teachers conducted food demos in class to get students excited and engaged them with hands-on activities. |
-| | |
-
-### Other Programmes / Events
-
-1.  Hari Raya Puasa Celebration
-2.  Mother Tongue Fortnight
-3.  Cultural Camp
-4.  Structure Reading Programme
-5.  Engage parents in MTL E-Oral Workshop
