@@ -49,7 +49,7 @@ description: ""
 <figcaption> Class of 1948 with Ms Mitchell </figcaption>
 </figure>
 
-<p style="text-align: justify;">Over the years, the school has established a distinctive Christian culture based on an ethos founded on shared beliefs and values. This is reflected in the following ways:
+<p style="text-align: justify;">Over the years, the school has established a distinctive Christian culture based on an ethos founded on shared beliefs and values. This is reflected in the following ways:<br>
 * The school chaplains are pastors from the Methodist Churches.<br>
 * All members of the Board of Management (BOM) have connections with the Church.<br>
 * Sports houses are named after people from the Methodist Mission.<br>
@@ -74,5 +74,5 @@ description: ""
 
 To God be the Glory! 99 years today, and counting! Amen and Amen.
 
-<p style="text-align: justify;">***"A Christian school is like a family.  It runs on the basic principles of love, tolerance and duty.  It is the responsibility of everyone...that these are maintained..."<br>
+<p style="text-align: justify;"><b>"A Christian school is like a family.  It runs on the basic principles of love, tolerance and duty.  It is the responsibility of everyone...that these are maintained..."</b><br>
 - Rev J V Ayaduray, Chairman of school's first Management Board, 1960.*
