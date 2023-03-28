@@ -148,18 +148,16 @@ description: ""
 
 ### 12) Unacceptable Acts and Behaviour
 
-1. <p style="text-align: justify;">Serious disciplinary action will be taken against students who commit acts that are dangerous and affect the well-being of other students and staff.
-
-These include: <br>
-   - Smoking, drug abuse and gambling of any form  
-   - Vandalism & Arson   
-   - Theft & Shoplifting  
-   - Littering  
-   - Abuse of technology  
-   - Fighting, Assault & Bullying (Physical, Verbal, Cyber)  
-   - Extortion & Gangsterism  
-   - Rudeness, Disrespect and Open Defiance  
-   - Outrage of modesty  
-   - Practical jokes and other acts of carelessness  
-      
-<p style="text-align: justify;">We care for our students and staff and believe that every child can learn and achieve in a conducive environment. In our efforts to achieve our vision and mission, we hope to seek parents' / guardians' cooperation and support.
+1. <p style="text-align: justify;">Serious disciplinary action will be taken against students who commit acts that are dangerous and affect the well-being of other students and staff.<br>
+<p style="text-align: justify;">These include:<br>
+   - Smoking, drug abuse and gambling of any form  <br>
+   - Vandalism & Arson <br>  
+   - Theft & Shoplifting  <br>
+   - Littering  <br>
+   - Abuse of technology<br>  
+   - Fighting, Assault & Bullying (Physical, Verbal, Cyber)  <br>
+   - Extortion & Gangsterism  <br>
+   - Rudeness, Disrespect and Open Defiance  <br>
+   - Outrage of modesty  <br>
+   - Practical jokes and other acts of carelessness  <br>
+<p style="text-align: justify;"><b>We care for our students and staff and believe that every child can learn and achieve in a conducive environment. In our efforts to achieve our vision and mission, we hope to seek parents' / guardians' cooperation and support.</b>
