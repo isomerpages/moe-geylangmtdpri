@@ -14,7 +14,7 @@ description: ""
 
 <p style="text-align: justify;">The white 27-point starburst is inspired by our heritage when the school started with 27 students in 1924. It motivates us to strive for purity, integrity and excellence in our holistic education.  
 
-<p style="text-align: justify;">The colours blue and gold frame our crest and represent heaven and earth respectively, reflecting our heavenly aspirations which are firmly grounded in our earthly realism to **_‘Grow in Friendship, Body and Mind’._**
+<p style="text-align: justify;">The colours blue and gold frame our crest and represent heaven and earth respectively, reflecting our heavenly aspirations which are firmly grounded in our earthly realism to <b>‘Grow in Friendship, Body and Mind’.</b>
 
 ### School Motto
 
