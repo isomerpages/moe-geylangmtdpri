@@ -27,7 +27,7 @@ third_nav_title: Our People
   
 </p><p style="text-align: justify;">I would like to thank all our principals, teachers and staff for their selfless devotion to our students, for their heart and hard work in GMS. Our teachers play a critical role in our students’ formative years, imparting not only knowledge and skills, but also values, beliefs, and habits to nurture our students in character formation. Such a holistic nurturing and learning environment is also possible because of our partners, especially our Parent Support Group, Geylang Chinese Methodist Church and Christalite Methodist Chapel.  
   
-</p><p style="text-align: justify;">To God be the Glory.  
+</p><p style="text-align: justify;">To God be the Glory.  <br><br>
   
 
 <b>Mr Khoong Hock Yun<br>
