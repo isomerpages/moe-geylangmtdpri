@@ -13,7 +13,7 @@ description: ""
   
 </p><p style="text-align: justify;">DFL at GMS(P) was launched in 2011 and has been organising activities to facilitate a 3-pronged approach A.C.T. in mobilising fathers of GMS(P) students to ACT:  <br>
 	* Be&nbsp;<b>A</b>ware of the importance of their roles as husbands and fathers.<br>
-	*<b>C</b>ommit to become good fathers and role models to their children.<br>
+	* <b>C</b>ommit to become good fathers and role models to their children.<br>
 	* Spend&nbsp;<b>T</b>ime to acquire Tools and bring Transformation to lives.
       
 </p><p style="text-align: justify;">A group of fathers from the school got together to form a small committee to plan and organise activities for the movement in the school. We are partially funded by the MCYS and enthusiastically supported by the Principal and Vice-Principal.  
