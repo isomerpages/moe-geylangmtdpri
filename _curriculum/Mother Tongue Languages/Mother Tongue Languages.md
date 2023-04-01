@@ -15,30 +15,25 @@ Nurturing <b>Active Learners</b> and <b>Proficient Users</b>
 </p><p style="text-align: justify;">MTL Curriculum Framework is centred on the goal of engaging students in joy of learning, developing them to become active learners and proficient users of MTL. The three broad objectives of Communication, Culture and Connection undergird the 2021 Pri MTL Curriculum’s Content (Language Skills, Language Knowledge, and Cultural Values), Pedagogy and Assessment.
 	
 ![](/images/MT%20diagram.png)
-	
-# MT Curriculum Objectives : 
-# 
-Students can:
-Communicate more effectively in MTL.
-Appreciate their cultural heritage.
-Connect with wider communities across Asia and the world.
+ </p>
+### MT Curriculum Objectives : 
+Students can:<br>
+* Communicate more effectively in MTL.
+* Appreciate their cultural heritage.
+* Connect with wider communities across Asia and the world.
 
-Language Skills
+Language Skills<br>
 Students will be developed to be competent language users and confident communicators. To achieve these objectives, students have to harness the six language skills (receptive skills), speaking and writing skills (productive skills) and, spoken interaction and written interaction skills )interaction skills).
 
 
 ![](/images/MT%20skills.png)
+	<br>
 	
-	
-**The acquisition of language skills to as high a level as the student is able to, forms the core of the Mother Tongue Department’s Teaching and Learning Framework.**
+<b>The acquisition of language skills to as high a level as the student is able to, forms the core of the Mother Tongue Department’s Teaching and Learning Framework.</b>
 
-<b>Signature Programme Across the 3 MT.&nbsp;</b>
-  
+<b>Signature Programme Across the 3 MT</b><br>
 The department adopted a 3-tiered approach –
 Support, Enrich and Stretch is adopted in achieving this goal.
-	
-
-
 
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
@@ -184,4 +179,4 @@ Support, Enrich and Stretch is adopted in achieving this goal.
   mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
   padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="206"><p style="margin-bottom:0cm;text-align:center;
   line-height:115%;mso-pagination:none" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#53576A" lang="EN-GB">&nbsp;</span></b></p></td></tr></tbody></table></p>
+  Arial;color:#53576A" lang="EN-GB">&nbsp;</span></b></p></td></tr></tbody></table><p></p>
