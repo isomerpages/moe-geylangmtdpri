@@ -3,7 +3,6 @@ title: Dads for Life
 permalink: /about-us/our-partners/dads-for-life/
 description: ""
 ---
-[http://dadsforlife.sg/](http://dadsforlife.sg/)  
 
 ### About Us
 
@@ -28,3 +27,5 @@ description: ""
 <br>
 Myron Wee <br>
 Chairman</p>
+
+[http://dadsforlife.sg/](http://dadsforlife.sg/)  
