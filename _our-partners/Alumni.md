@@ -11,18 +11,18 @@ The results of the election of Office Bearers for the new term 2022-2024 is as f
 
 ### Mission
 
-<p style="text-align: justify;">To see our <b>ex-students</b> and <b>current students</b> of the GM family <b>bonded</b> and <b>blessed</b> through <b>purposeful events</b> that bring back their <b>love</b> for the school.  
+<p style="text-align: justify;">To see our<b>ex-students</b> and <b>current students</b>of the GM family <b>bonded</b> and <b>blessed</b> through <b>purposeful events</b> that bring back their <b>love</b> for the school.  <br>
 
 ### Vision
 
-To raise a group of **passionate** and **active** alumni members in **serving** the **school** and **community** with a sense of **gratefulness** and **belonging**.
+To raise a group of <b>passionate</b> and <b>active</b> alumni members in <b>serving</b> the <b>school</b> and <b>community</b> with a sense of <b>gratefulness</b> and <b>belonging</b>.
 
 ### R.E.A.L Core Values
 
-\- **R**elationship  
-\- **E**xcellent  
-\- **A**chievable and Attitude  
-\- **L**eadership
+\-&nbsp;**R**elationship  
+\-&nbsp;**E**xcellent  
+\-&nbsp;**A**chievable and Attitude  
+\-&nbsp;**L**eadership
 
 ### Alumni Registration Form
 
@@ -31,4 +31,4 @@ To raise a group of **passionate** and **active** alumni members in **servi
 ![](/images/IMG-20190715-WA0012.jpg)
 ![](/images/20190824_122907.jpg)
 ![](/images/IMG-20190824-WA0035.jpg)
-![](/images/IMG-20190824-WA0032.jpg)
+![](/images/IMG-20190824-WA0032.jpg)</p>
