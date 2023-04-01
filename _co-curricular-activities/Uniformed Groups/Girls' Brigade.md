@@ -14,11 +14,11 @@ third_nav_title: Uniformed Groups
 </p><p style="text-align: justify;">Developing each girl and officer to her fullest potential by equipping, empowering and enabling: Every Girl to be a Leader &amp; Every Officer to be a Servant Leader.&nbsp;<br>  
   
 <b>The GB Aim:</b><br>
-<p style="text-align: justify;">To help girls to become followers of the Lord Jesus Christ and through self-control, reverence and a sense of responsibility to find true enrichment of life.&nbsp;
+</p><p style="text-align: justify;">To help girls to become followers of the Lord Jesus Christ and through self-control, reverence and a sense of responsibility to find true enrichment of life.&nbsp;
 
 <br>
 <br>	
-<p style="text-align: center;"><strong>2<sup>nd</sup> Company Girls’ Brigade Student Leadership Structure 2023</strong></p>
+</p><p style="text-align: center;"><strong>2<sup>nd</sup> Company Girls’ Brigade Student Leadership Structure 2023</strong></p>
 
 <table style="border-collapse:collapse;mso-yfti-tbllook:1184" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.75pt"><td style="border:solid black 1.0pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:9.75pt" valign="top" colspan="7"><p style="margin-bottom:0cm;text-align:center;
@@ -148,7 +148,7 @@ third_nav_title: Uniformed Groups
   padding:0cm 5.4pt 0cm 5.4pt;height:29.2pt" valign="top" colspan="6"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Ong Yun Ting</span></p></td></tr></tbody></table><br>
 
-### Teachers-in-charge
+### Teachers-in-charge<br>
 Mrs Ariel Koh (IC) <br>
 Mrs Christabel Chue (2IC) <br>
 Ms Theresa Tong  <br>
@@ -158,7 +158,7 @@ Ms Grace Tan  <br>
 Mdm Tan Ai Cheng (Church Personnel)  <br>
 Ms Rebecca Ting (Church Personnel)<br>
 
-### Achievements
+### Achievements<br>
 **2022 Junior Brigader Brooch Awardee:** <br>
 1.Chloe Goh Qiaoli, P6-5<br>
 (Company Leader)
