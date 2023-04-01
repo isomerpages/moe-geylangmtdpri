@@ -39,8 +39,7 @@ third_nav_title: Our People
   mso-bidi-language:AR-SA"></span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
   border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
   mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Mrs Jennifer Choy,</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Principal, GMS(P)</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  color:black;mso-bidi-language:AR-SA">Mrs Jennifer Choy,</span><br>Principal, GMS(P)<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:4"><td valign="top" style="border:solid black 1.0pt;border-top:none;mso-border-top-alt:
   solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:black;mso-bidi-language:AR-SA">Members</span><span style="font-size:
@@ -63,25 +62,19 @@ third_nav_title: Our People
   solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
   border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
   mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Mr Victor Owyong,&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Principal, GMS(S)</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  color:black;mso-bidi-language:AR-SA">Mr Victor Owyong,&nbsp;<br>Principal, GMS(S)</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:8"><td valign="top" style="border:solid black 1.0pt;border-top:none;mso-border-top-alt:
   solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
   border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
   mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Mr Kim Seah Teck Kim,</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Asst. Education Secretary, MCS</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  color:black;mso-bidi-language:AR-SA">Mr Kim Seah Teck Kim,<br>Asst. Education Secretary, MCS</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:9"><td valign="top" style="border:solid black 1.0pt;border-top:none;mso-border-top-alt:
   solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:black;mso-bidi-language:AR-SA">Ex-Officio Member</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
   border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
   mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Rev Shaun Chong,</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Pastor-in-Charge,</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Christalite Methodist Chapel</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  color:black;mso-bidi-language:AR-SA">Rev Shaun Chong,<br>Pastor-in-Charge,<br>Christalite Methodist Chapel</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes"><td valign="top" style="border:solid black 1.0pt;border-top:none;mso-border-top-alt:
   solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:black;mso-bidi-language:AR-SA">Alumni Representative</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
