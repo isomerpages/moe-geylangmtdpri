@@ -1,5 +1,5 @@
 ---
-title: For Students & Parents
+title: For Students &amp; Parents
 permalink: /useful-links/for-students-n-parents/
 description: ""
 ---
@@ -24,7 +24,7 @@ description: ""
 [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)  
   
 3\. School Library Portal  
-https://schoolibrary.moe.edu.sg/geylangmethodistpri  
+[https://schoolibrary.moe.edu.sg/geylangmethodistpri ](https://schoolibrary.moe.edu.sg/geylangmethodistpri )
   
 ### Parents
   
@@ -35,13 +35,13 @@ https://schoolibrary.moe.edu.sg/geylangmethodistpri
 [https://www.moe.gov.sg/parentkit](https://www.moe.gov.sg/parentkit)  
   
 3\. Ministry of Education (MOE) Website  
-[https://www.moe.gov.sg/](https://www.moe.gov.sg/)   
+[https://www.moe.gov.sg/](https://www.moe.gov.sg/)&nbsp;  
   
 4\. Schoolbag Website  
-[https://www.schoolbag.edu.sg/](https://www.schoolbag.edu.sg/)   
+[https://www.schoolbag.edu.sg/](https://www.schoolbag.edu.sg/)&nbsp;  
   
 5\. Cyber Wellness  
-[https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)   
+[https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)&nbsp;  
   
   
 6\. Name Tag Order  

@@ -146,7 +146,7 @@ third_nav_title: Uniformed Groups
   solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
   mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:29.2pt" valign="top" colspan="6"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ong Yun Ting</span></p></td></tr></tbody></table>
+  &quot;Times New Roman&quot;;color:black">Ong Yun Ting</span></p></td></tr></tbody></table><br>
 
 ### Teachers-in-charge
 Mrs Ariel Koh (IC) <br>
@@ -160,16 +160,16 @@ Ms Rebecca Ting (Church Personnel)<br>
 
 ### Achievements
 **2022 Junior Brigader Brooch Awardee:** <br>
-1\. Chloe Goh Qiaoli, P6-5<br>
+1.Chloe Goh Qiaoli, P6-5<br>
 (Company Leader)
 
-2\. Ong Le Xuan Anabel, P6-3 <br>
+2.Ong Le Xuan Anabel, P6-3 <br>
 (Company Leader)
 
-3\. Kuan Zi Xuan, P6-8 <br>
+3.Kuan Zi Xuan, P6-8 <br>
 (Squad Leader, Flag Raising IC)
 
-4\. Ong Yun Ting, P6-3
+4.Ong Yun Ting, P6-3
 
         
 **Company Award for 2022:** <br>
@@ -181,11 +181,11 @@ Gold Award
 Girls Brigade 2nd Company  
 
 **2021 Junior Brigadier Brooch Awardee:** <br>
-1\. Tan Hui En <br>
-2\. Lai Zi Ting <br>
-3\. Amanda Go <br>
-4\. Gwenda Lim <br>
-5\. Hoh Heu Wen
+1.Tan Hui En <br>
+2.Lai Zi Ting <br>
+3.Amanda Go <br>
+4.Gwenda Lim <br>
+5.Hoh Heu Wen
 
 **Dr Low Guat Tin Challenge 2021** <br>
 <u>Gold</u> <br>

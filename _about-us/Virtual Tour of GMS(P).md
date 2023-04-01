@@ -4,4 +4,5 @@ permalink: /about-us/permalink/
 description: ""
 ---
 ![](/images/Welcome.jpg)
-https://app.lapentor.com/sphere/gmsp-v-tour
+
+[Click here](https://app.lapentor.com/sphere/gmsp-v-tour)

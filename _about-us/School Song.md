@@ -5,9 +5,9 @@ description: ""
 ---
 ### Background of the School Song
 
-The school song was written by Miss Mariam Jean Gruber, a renowned music composer from the World Division of the Board of Missions of the Methodist Church in 1975. Miss Susheela Daniel, daughter of GMGS's longest-serving principal, Mrs S A Daniel, composed the music score for the school song.
+<p style="text-align: justify;">The school song was written by Miss Mariam Jean Gruber, a renowned music composer from the World Division of the Board of Missions of the Methodist Church in 1975. Miss Susheela Daniel, daughter of GMGS's longest-serving principal, Mrs S A Daniel, composed the music score for the school song.
 
-The school song, which has been adapted over time, continues to inspire all and reminds us to remain faithful to the Truths of God.
+<p style="text-align: justify;">The school song, which has been adapted over time, continues to inspire all and reminds us to remain faithful to the Truths of God.
 
 <center>
 <strong><i>In Geylang Methodist we strive </i></strong> <br>
