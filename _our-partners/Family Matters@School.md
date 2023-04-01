@@ -25,19 +25,19 @@ description: ""
 ### Features
 
 </p><p style="text-align: justify;">1.&nbsp;<b>Family Learning</b><br> 
-</p><p style="text-align: justify;">A family that learns together grows together. Therefore, FMS Programmes are designed and planned to promote better parent-child understanding through talks, workshops and activities.  <br>
+</p><p style="text-align: justify;">A family that learns together grows together. Therefore, FMS Programmes are designed and planned to promote better parent-child understanding through talks, workshops and activities.  <br><br>
       
     
 2.&nbsp;<b>Training Parents to be Facilitators</b><br>  
-</p><p style="text-align: justify;">Under FMS, parents volunteers are trained to become parent facilitators. They will provide guidance to other parents and help to facilitate workshops and support groups that aim to impart positive parenting skills.  <br>
+</p><p style="text-align: justify;">Under FMS, parents volunteers are trained to become parent facilitators. They will provide guidance to other parents and help to facilitate workshops and support groups that aim to impart positive parenting skills.  <br><br>
       
     
 3.&nbsp;<b>School Staff’s Family Wellness</b><br>
-</p><p style="text-align: justify;">The school staff are also members of families.&nbsp;FMS&nbsp;will provide them with programme to help them better manage their work and family life. Enhanced family life will translate into higher productivity for the school.  <br>
+</p><p style="text-align: justify;">The school staff are also members of families.&nbsp;FMS&nbsp;will provide them with programme to help them better manage their work and family life. Enhanced family life will translate into higher productivity for the school.  <br><br>
       
     
 4.&nbsp;<b>Students’ Programme</b><br>
-</p><p style="text-align: justify;">FMS&nbsp;empowers students with positive values to empower them in their relationships with others, and thereby facilitate their growth into responsible adults.
+</p><p style="text-align: justify;">FMS&nbsp;empowers students with positive values to empower them in their relationships with others, and thereby facilitate their growth into responsible adults.<br>
   
 
 ### Benefits
