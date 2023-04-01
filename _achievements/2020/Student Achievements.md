@@ -7,13 +7,13 @@ third_nav_title: "2020"
 ### Uniformed Groups
   
 <u><strong> Boys' Brigade </strong></u><br>
-1\. BB J M Fraser Award of Excellence - Gold Award <br>
-2\. BB Week - Gold Award <br>
-3\. BB Week - Lee Soo Ann Challenge (highest collection among Junior companies)  
+1.&nbsp;BB J M Fraser Award of Excellence - Gold Award <br>
+2.&nbsp;BB Week - Gold Award <br>
+3.&nbsp;BB Week - Lee Soo Ann Challenge (highest collection among Junior companies)  
   
 <u><strong> Girls' Brigade </strong></u><br>
-1\. Girls' Brigade Company Award - Gold Award <br>
-2\. Junior Brigadier Brooch (JBB) Award  
+1.&nbsp;Girls' Brigade Company Award - Gold Award <br>
+2.&nbsp;Junior Brigadier Brooch (JBB) Award  
 &nbsp; &nbsp; - Rainie Sng Yue Yin (P6-3)  
 &nbsp; &nbsp; - Teo Si En Joelle (P6-8)  
 &nbsp; &nbsp; - Toh Chen Xi, Michelle (P6-8)
