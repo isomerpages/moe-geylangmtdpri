@@ -18,17 +18,17 @@ third_nav_title: "2020"
 <br>
 ### MOE Service Excellence Awards (MSEA)<br>
 
-</p><p style="text-align: justify;">MSEA recognizes staff who are passionate in service delivery, consistent in serving customers with CARE (Courtesy, Accessibility, Responsiveness and Effectiveness) and inspire colleagues to do likewise. We are proud to have 19 awardees for 2020.&nbsp;
+</p><p style="text-align: justify;">MSEA recognizes staff who are passionate in service delivery, consistent in serving customers with CARE (Courtesy, Accessibility, Responsiveness and Effectiveness) and inspire colleagues to do likewise. We are proud to have 19 awardees for 2020.
 
 </p><p style="text-align: justify;">Congratulations to the following staff for being recipients of the 2020 MOE Service Excellence Awards!  <br>
   
 <b>Platinum Award:</b><br>
-Mr Ong Liang Soon (Operations Manager)  
+Mr Ong Liang Soon (Operations Manager)  <br>
   
 <b>Gold Award:</b><br>
 Mr Han Jew Juan (Operations Manager) <br>
 Ms Nadiah Hana (Year Head, Upper Primary (Covering)) <br>
-Mrs Cheong-Ng May Nar (Counsellor)  
+Mrs Cheong-Ng May Nar (Counsellor)  <br>
   
 <b>Silver Award:</b> <br>
 Mrs Ariel Koh (Subject Head, Student Management) <br>
