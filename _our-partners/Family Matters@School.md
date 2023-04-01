@@ -37,7 +37,7 @@ description: ""
       
     
 4.&nbsp;<b>Students’ Programme</b><br>
-</p><p style="text-align: justify;">FMS&nbsp;empowers students with positive values to empower them in their relationships with others, and thereby facilitate their growth into responsible adults.<br>
+</p><p style="text-align:justify;">FMS&nbsp;empowers students with positive values to empower them in their relationships with others, and thereby facilitate their growth into responsible adults.<br>
   
 ### Benefits
 
