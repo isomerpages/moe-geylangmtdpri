@@ -32,4 +32,4 @@ third_nav_title: Our People
 
 <b>Mr Khoong Hock Yun<br>
 Chairman, Board of Management <br>
-	Geylang Methodist School</b></p>
+Geylang Methodist School</b></p>
