@@ -9,11 +9,11 @@ description: ""
 <p style="text-align: justify;">To enrich students’ learning experiences by taking them out of the classroom to experience how language is used in real-life contexts and bring the world into the classroom through the use of multimodal texts.</p>
 
 ### Mission
-<p style="text-align: justify;">Readers now, Effective Users of the English Language for life
+<p style="text-align: justify;">Readers now, Effective Users of the English Language for life</p>
 
 
 ### Curriculum Structure and Key Programmes
-</p><p style="text-align: justify;">Taking reference from the MOE English Language&nbsp; Syllabus 2020 and aligning to the STELLAR 2.0 (Strategies for English Language Learning and Reading), the school’s EL curriculum is designed for real-life application and the teaching of values and social-emotional competencies. Recognising that every student has a different learning profile, there is explicit teaching in the following areas at different levels.</p>
+<p></p><p style="text-align: justify;">Taking reference from the MOE English Language&nbsp; Syllabus 2020 and aligning to the STELLAR 2.0 (Strategies for English Language Learning and Reading), the school’s EL curriculum is designed for real-life application and the teaching of values and social-emotional competencies. Recognising that every student has a different learning profile, there is explicit teaching in the following areas at different levels.</p>
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="589" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
@@ -163,22 +163,21 @@ description: ""
   border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:23.5pt" valign="top" width="124"><p style="text-align:center;line-height:normal;
   mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes" align="center" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB">Primary 6</span></p></td></tr></tbody></table>
-
+  mso-border-shadow:yes" align="center" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB">Primary 6</span></p></td></tr></tbody></table></strong></p><p><strong>
 
 ### Pedagogical Approaches / Strategies
 
- **STELLAR - Strategies for English Language Learning and Reading**  
+<b>STELLAR - Strategies for English Language Learning and Reading</b> 
 
-<p style="text-align: justify;">STELLAR is a language teaching programme that is designed to help our students to acquire English Language skills through activities in speaking, listening, reading and writing.
+</strong></p><p style="text-align: justify;"><strong>STELLAR is a language teaching programme that is designed to help our students to acquire English Language skills through activities in speaking, listening, reading and writing.
 
-</p><p style="text-align: justify;">One of the main focuses of STELLAR is the use of the Shared Book Approach (SBA), an integrated and balanced language teaching approach that uses motivating and enjoyable books. At the lower primary level, the books are commonly known as “big books” as they are filled with enlarged print and colourful illustrations. At the middle and upper primary levels, the students will be tasked to read different texts that serve different purposes, and they are known as the “STELLAR readers”.
+</strong></p><p style="text-align: justify;"><strong>One of the main focuses of STELLAR is the use of the Shared Book Approach (SBA), an integrated and balanced language teaching approach that uses motivating and enjoyable books. At the lower primary level, the books are commonly known as “big books” as they are filled with enlarged print and colourful illustrations. At the middle and upper primary levels, the students will be tasked to read different texts that serve different purposes, and they are known as the “STELLAR readers”.
 
 **_\[Insert photographs of students engaged in the big book reading\]_**
 
-</p><p style="text-align: justify;">Besides reading for enjoyment and understanding, there is also the Modified Language Experience (MLEA) incorporated into STELLAR where students begin their writing experiences in small groups of mixed abilities. At the lower primary, there are also learning centres where small groups of children at similar levels of progress can gather for the reinforcement and extension of SBA and MLEA.
+</strong></p><p style="text-align: justify;"><strong>Besides reading for enjoyment and understanding, there is also the Modified Language Experience (MLEA) incorporated into STELLAR where students begin their writing experiences in small groups of mixed abilities. At the lower primary, there are also learning centres where small groups of children at similar levels of progress can gather for the reinforcement and extension of SBA and MLEA.
 
-</p><p style="text-align: justify;">The school provides strong support for STELLAR in training the teachers and preparing the teaching resources. It is every English teacher’s desire to nurture and guide the students so that they will be equipped with the skills to communicate effectively in English, both in oral and written forms.
+</strong></p><p style="text-align: justify;"><strong>The school provides strong support for STELLAR in training the teachers and preparing the teaching resources. It is every English teacher’s desire to nurture and guide the students so that they will be equipped with the skills to communicate effectively in English, both in oral and written forms.
 
 &nbsp;_\[Insert photographs of students presenting\]_
-	</p>
+</strong></p>
