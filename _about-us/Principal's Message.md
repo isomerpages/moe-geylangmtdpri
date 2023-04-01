@@ -19,6 +19,6 @@ description: ""
   
 Thank you.  <br>
 
-**Yours Sincerely,**<br>
-  **Mrs Jennifer Choy** <br>
-**Principal**</p>
+<b>Yours Sincerely,</b><br>
+<b>Mrs Jennifer Choy</b> <br>
+<b>Principal</b></p>
