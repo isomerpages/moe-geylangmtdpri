@@ -41,27 +41,40 @@ description: ""
   
 ### Benefits
 
-</p><p style="text-align: justify;">The programmes and activities under&nbsp;FMS&nbsp;are of high quality and evaluation from participants showed that they experienced considerable improvements in their family life after attending SFE programmes.  
+</p><p style="text-align: justify;">The programmes and activities under&nbsp;FMS&nbsp;are of high quality and evaluation from participants showed that they experienced considerable improvements in their family life after attending SFE programmes.  <br>
   
-**For Parents**
-* Better understanding of their children
-* Better parent-child (family) relationships
-* An opportunity to be an FLE advocate and to participate in parent support groups
+<b>For Parents</b><br>
   
-**For Students**
-* Developmet into socially adept individuals equipped with positive life skills.
+* Better understanding of their children<br>
+  
+* Better parent-child (family) relationships<br>
+  
+* An opportunity to be an FLE advocate and to participate in parent support groups<br>
+  
+  
+<b>For Students</b><br>
+  
+* Developmet into socially adept individuals equipped with positive life skills.<br>
+  
 
-### For School Staff
+### For School Staff<br>
 
-</p><p style="text-align: justify;">Better equipped and hence better performance as their personal needs are taken care of.
+</p><p style="text-align: justify;">Better equipped and hence better performance as their personal needs are taken care of.<br>
+  
 
-### For School
+### For School<br>
+  
 
-* An ideal environment for learning and working
-* Better parent-school relationship
-* Happier staff  
+* An ideal environment for learning and working<br>
+  
+* Better parent-school relationship<br>
+  
+* Happier staff  <br>
+  
 
-### For Community
+### For Community<br>
+  
 
-* Benefit from a value-added image as an ideal place to raise a family
+* Benefit from a value-added image as an ideal place to raise a family<br>
+  
 * Increase community bonding and pride</p>
