@@ -27,14 +27,16 @@ description: ""
 ### Singapore Youth Festival Art Exhibition
 [Cat A\_SYF.pdf](/files/Cat%20A_SYF.pdf) <br>
 [Cat B\_SYF.pdf](/files/Cat%20B_SYF.pdf) <br>
-[Cat C_SYF.pdf](/files/Cat%20C_SYF.pdf)<p></p>
+[Cat C_SYF.pdf](/files/Cat%20C_SYF.pdf)<p></p><br>
 #### Category A
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQpTOoOG2J3ocDgg0GIIGgkygQ6H1d1uAzVECCq_L3cOskEzc1l7NGe0UJgs17Z9wN4u1REJSBI3sMO/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe><p></p>
+<br>
 
 #### Category B
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTe8siJg5rUOQqTXuv0N2tkwgbPVP59eHXeEUbAqAQrcZoPvlHZ4-4mRArOesvZ8KYHlcChHW21R1KF/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe><p></p>
+<br>
 
 #### Category C
 
