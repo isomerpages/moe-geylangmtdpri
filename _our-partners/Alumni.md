@@ -15,14 +15,14 @@ The results of the election of Office Bearers for the new term 2022-2024 is as f
 
 ### Vision
 
-To raise a group of <b>passionate</b> and <b>active</b> alumni members in <b>serving</b> the <b>school</b> and <b>community</b> with a sense of <b>gratefulness</b> and <b>belonging</b>.
+To raise a group of <b>passionate</b> and <b>active</b> alumni members in <b>serving</b> the <b>school</b> and <b>community</b> with a sense of <b>gratefulness</b> and <b>belonging</b>.<br>
 
-### R.E.A.L Core Values
+### R.E.A.L Core Values<br>
 
-\-&nbsp;**R**elationship  
-\-&nbsp;**E**xcellent  
-\-&nbsp;**A**chievable and Attitude  
-\-&nbsp;**L**eadership
+- <b>R</b>elationship  <br>
+- <b>E</b>xcellent  <br>
+- <b>A</b>chievable and Attitude<br>  
+- <b>L</b>eadership<br>
 
 ### Alumni Registration Form
 
