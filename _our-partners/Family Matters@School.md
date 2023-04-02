@@ -37,11 +37,11 @@ description: ""
       
     
 4.&nbsp;<b>Students’ Programme</b><br>
-</p><p style="text-align:justify;">FMS&nbsp;empowers students with positive values to empower them in their relationships with others, and thereby facilitate their growth into responsible adults.<br>
+</p><p style="text-align:justify;">FMS&nbsp;empowers students with positive values to empower them in their relationships with others, and thereby facilitate their growth into responsible adults.<br></p>
   
 ### Benefits
 
-</p><p style="text-align: justify;">The programmes and activities under&nbsp;FMS&nbsp;are of high quality and evaluation from participants showed that they experienced considerable improvements in their family life after attending SFE programmes.  <br>
+<p style="text-align: justify;">The programmes and activities under&nbsp;FMS&nbsp;are of high quality and evaluation from participants showed that they experienced considerable improvements in their family life after attending SFE programmes.  <br>
   
 <b>For Parents</b><br>
   
@@ -54,27 +54,24 @@ description: ""
   
 <b>For Students</b><br>
   
-* Developmet into socially adept individuals equipped with positive life skills.<br>
+* Developmet into socially adept individuals equipped with positive life skills.<br></p>
   
 
 ### For School Staff<br>
 
-</p><p style="text-align: justify;">Better equipped and hence better performance as their personal needs are taken care of.<br>
+<p style="text-align: justify;">Better equipped and hence better performance as their personal needs are taken care of.<br></p>
   
 
 ### For School<br>
   
-
 * An ideal environment for learning and working<br>
   
 * Better parent-school relationship<br>
   
-* Happier staff  <br>
-  
+* Happier staff  <br><p></p>
 
 ### For Community<br>
   
-
 * Benefit from a value-added image as an ideal place to raise a family<br>
   
-* Increase community bonding and pride</p>
+* Increase community bonding and pride<p></p>
