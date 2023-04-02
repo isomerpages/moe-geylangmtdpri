@@ -3,7 +3,6 @@ title: Learning for Life Programme (LLP)
 permalink: /curriculum/learning-for-life-programme/
 description: ""
 ---
-
 <p style="text-align: justify;">In <b>GMS(P) Environment Education (Learning for Life, LLP)</b> it is our belief that every staff and student can be an Earth Warrior by Respecting, Loving and Serving the Earth that God has created through practising the 4Rs.<br>
 
 ![](/images/LLP.jpg)<br>
@@ -35,7 +34,7 @@ description: ""
 <br>
 <br>
 <b>Eco-Committee</b><br>
-<p style="text-align: justify;">Our eco-committee was formed which consists of various stakeholders:
+</p><p style="text-align: justify;">Our eco-committee was formed which consists of various stakeholders:
 
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid black .5pt;mso-yfti-tbllook:1024;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
@@ -62,7 +61,7 @@ description: ""
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="347"><p style="line-height:150%" class="MsoNormal"><span lang="EN-SG">Mdm Christine Tan CK</span></p></td><td style="width:7.0cm;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span lang="EN-SG">Environment Education Officer</span><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span lang="EN-SG">LH/ Science, CCE committee</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:260.55pt;border:solid black 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span lang="EN-SG">Environment Education Officer</span></p><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span lang="EN-SG">LH/ Science, CCE committee</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:260.55pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="347"><p style="line-height:150%" class="MsoNormal"><span lang="EN-SG">Ms Deborah Tan</span></p></td><td style="width:7.0cm;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
