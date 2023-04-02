@@ -159,7 +159,7 @@ Mdm Tan Ai Cheng (Church Personnel)  <br>
 Ms Rebecca Ting (Church Personnel)<br><p></p>
 
 ### Achievements<br>
-**2022 Junior Brigader Brooch Awardee:** <br>
+<b>2022 Junior Brigader Brooch Awardee:</b> <br>
 1.Chloe Goh Qiaoli, P6-5<br>
 (Company Leader)
 
@@ -172,22 +172,22 @@ Ms Rebecca Ting (Church Personnel)<br><p></p>
 4.Ong Yun Ting, P6-3
 
         
-**Company Award for 2022:** <br>
+<b>Company Award for 2022:</b> <br>
 Gold Award
  
 
-**Dr Low Guat Tin Challenge 2022** <br>
-**Bronze Award**&nbsp;<br>
+<b>Dr Low Guat Tin Challenge 2022</b><br>
+<b>Bronze Award</b>&nbsp;<br>
 Girls Brigade 2nd Company  
 
-**2021 Junior Brigadier Brooch Awardee:** <br>
+<b>2021 Junior Brigadier Brooch Awardee:</b> <br>
 1.Tan Hui En <br>
 2.Lai Zi Ting <br>
 3.Amanda Go <br>
 4.Gwenda Lim <br>
 5.Hoh Heu Wen
 
-**Dr Low Guat Tin Challenge 2021** <br>
+<b>Dr Low Guat Tin Challenge 2021</b> <br>
 <u>Gold</u> <br>
 Chloe Goh Qiaoli (5-5) <br>Charis Goh Baoting (4-1)
 
