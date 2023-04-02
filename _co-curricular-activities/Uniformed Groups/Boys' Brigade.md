@@ -18,7 +18,7 @@ third_nav_title: Uniformed Groups
 
 </p><p style="text-align: justify;">The boys are also given the opportunities to strive for excellence by representing the school in various national competitions such as the BB Adventure Quest and BB Character Quest in which teamwork and perseverance are also emphasised.
 
-</p><p style="text-align: justify;">With a team of committed teachers, officers and our Boys, our company has consistently excelled in the past decade with its strong track record in the annual JM Fraser Award for Unit Excellence, the highest accolade for BB Companies in Singapore awarded by BB Headquarters (BBHQ).In 2023, Joel Soh Yong En from 6-8 was awarded the Best Boy Award, which is the highest accolade for BB Boys in Singapore awarded by BBHQ every year.<br>
+</p><p style="text-align: justify;">With a team of committed teachers, officers and our Boys, our company has consistently excelled in the past decade with its strong track record in the annual JM Fraser Award for Unit Excellence, the highest accolade for BB Companies in Singapore awarded by BB Headquarters (BBHQ).In 2023, Joel Soh Yong En from 6-8 was awarded the Best Boy Award, which is the highest accolade for BB Boys in Singapore awarded by BBHQ every year.<br></p>
 
 
 ### Achievements&nbsp;<br>
@@ -54,7 +54,7 @@ Adventure Quest 2019- Gold Honour Roll (Overall)<br>
 Adventure Quest 2019-1st Runner-up(Best Placing)<br>
 Boys’ Brigade Week 2019 Gold Honour Roll<br>
 Character Quest 2019 Gold Honour Roll<br>
-J M Fraser Award For Excellence 2019 (YOA 2018) - Gold Honour Roll<br>
+J M Fraser Award For Excellence 2019 (YOA 2018) - Gold Honour Roll<br><p></p>
 
 ### Teachers-in-Charge<br>
 Mrs Anna Quek (Captain) <br>
@@ -65,4 +65,4 @@ Mr Chen Zhi Rong<br>
 Ms Deborah Tan<br>
 Ms Guan Yuan (Church Personnel)<br>
 	
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-oTahjltvoF-2uERUgRC81WNbAbzva3nRlDrh6kIi2IfEjC2-XUIeb5HpyVNsQKy10vv-tTBEgTIw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></p>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-oTahjltvoF-2uERUgRC81WNbAbzva3nRlDrh6kIi2IfEjC2-XUIeb5HpyVNsQKy10vv-tTBEgTIw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe><p></p>
