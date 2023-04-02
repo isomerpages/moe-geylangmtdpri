@@ -34,8 +34,7 @@ description: ""
 <br>
 <br>
 <b>Eco-Committee</b><br>
-</p><p style="text-align: justify;">Our eco-committee was formed which consists of various stakeholders:
-
+</p><p style="text-align: justify;">Our eco-committee was formed which consists of various stakeholders:<br>
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid black .5pt;mso-yfti-tbllook:1024;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
  mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black" width="612" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:260.55pt;border:solid black 1.0pt;
