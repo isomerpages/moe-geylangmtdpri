@@ -13,11 +13,11 @@ description: ""
   
 </p><p style="text-align: justify;">With support from North West, South East and South West CDCs, and Fei Yue Counselling Centre, FMS was piloted in Nanyang and Temasek Primary Schools, and Bartley and Commonwealth Secondary Schools in January 2002. FMS was launched by Dr Yaacob Ibrahim, then Acting Minister for Community Development and Sports on 15 April 2002.  
   
-</p><p style="text-align: justify;">FMS has been well received by parents and participating schools. Since 2002, it has reached close to 2 million people. As at 2010, there are 227 schools in the FMS programme.  
+</p><p style="text-align: justify;">FMS has been well received by parents and participating schools. Since 2002, it has reached close to 2 million people. As at 2010, there are 227 schools in the FMS programme. </p> 
   
 ### Objectives
 
-</p><p style="text-align: justify;">The FMS aims to help bond families and individuals (namely, parents,&nbsp;students and staff) through programmes and activities approved by MCYS.  
+<p></p><p style="text-align: justify;">The FMS aims to help bond families and individuals (namely, parents,&nbsp;students and staff) through programmes and activities approved by MCYS.  
   
 </p><p style="text-align: justify;">The FMS hopes to enhance the quality of family life and indirectly also impact the positive growth of the children in the school. Therefore, we hope to have your full support and participation on the SFE programmes and activities.
 
