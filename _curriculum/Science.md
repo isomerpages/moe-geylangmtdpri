@@ -62,7 +62,7 @@ Learning for Life Program (LLP) on sustainable education</b> <br><p></p>
 <p style="text-align: justify;">Excellence 2000 (E2K) Science Programme Singapore
 This programme is for selected P4 &amp; P5 students who demonstrates keen interest and ability in Science. The programme engages pupils in scientific investigations involving advanced science concepts. It aims to engage pupils in scientific inquiry that will help them to develop the habits, attitudes and dispositions scientists possess as well as gain important 21st century competencies such as critical and inventive thinking and effective communication skills. (Adapted from MOE website)
 
-</p><p style="text-align: justify;">Selected criteria is based on students' Science results and teachers' observations. 
+</p><p style="text-align: justify;">Selection criteria is based on students' Science results and teachers' observations. 
 
 2)&nbsp;Participation in External Events or Competitions</p>
 
