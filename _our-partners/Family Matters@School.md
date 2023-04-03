@@ -19,12 +19,12 @@ description: ""
 
 <p></p><p style="text-align: justify;">The FMS aims to help bond families and individuals (namely, parents,&nbsp;students and staff) through programmes and activities approved by MCYS.  
   
-</p><p style="text-align: justify;">The FMS hopes to enhance the quality of family life and indirectly also impact the positive growth of the children in the school. Therefore, we hope to have your full support and participation on the SFE programmes and activities.
+</p><p style="text-align: justify;">The FMS hopes to enhance the quality of family life and indirectly also impact the positive growth of the children in the school. Therefore, we hope to have your full support and participation on the SFE programmes and activities.</p>
 
   
 ### Features
 
-</p><p style="text-align: justify;">1.&nbsp;<b>Family Learning</b><br> 
+<p></p><p style="text-align: justify;">1.&nbsp;<b>Family Learning</b><br> 
 </p><p style="text-align: justify;">A family that learns together grows together. Therefore, FMS Programmes are designed and planned to promote better parent-child understanding through talks, workshops and activities.  <br><br>
       
     
