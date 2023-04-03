@@ -12,7 +12,7 @@ third_nav_title: Sports &amp; Games
 
 </p><p style="text-align: justify;">Regardless of ability level, every member is given the opportunity to harness his or her potential through training and practice. We aim to equip students to play with confidence and aptitude and provide them with opportunities to do so through friendly and competitive platforms, within the school, or at zonal and national levels.
 
-</p><p style="text-align: justify;">We believe every badminton player is special and will grow in ‘friendship, body and mind’ to reach his or her fullest potential.
+</p><p style="text-align: justify;">We believe every badminton player is special and will grow in ‘friendship, body and mind’ to reach his or her fullest potential.</p>
 
 ### Teachers-in-charge
 
@@ -21,33 +21,33 @@ Mrs Lee Lai Chan (2IC)<br>
 Ms Jolyn Chun <br>
 Mdm Loh Puay San<br>
 
-Coach: Mr Ong Chee Hwa Vincent</p>
+Coach: Mr Ong Chee Hwa Vincent<p></p>
 
 ### Achievements
-**2023 National School Games**<br>
-Badminton Tournament East Zone 2023 (Participation)
+<b>2023 National School Games</b><br>
+Badminton Tournament East Zone 2023 (Participation)<br>
 	
-<u><strong>Senior Boys</strong></u>
-*   Luah Yi Khai (Captain)
-*   Lim Rui Heng (Vice-Captain) 
-*   Joseph Tan Jia Tai    
-*   Muhd Daniyal Bin Samsumaideen    
-*   Danny Edwin William    
-*   Lu Yuchen    
-*   S Agan    
-*   Wong Bo Zheng    
-*   AJ Lai Cheng Yi    
-*   Tan Kai Wen, Ryan    
-*   Tan Wei En Damien    
-*   Wong Yu Xin    
+<u><strong>Senior Boys</strong></u><br>
+*   Luah Yi Khai (Captain)<br>
+*   Lim Rui Heng (Vice-Captain) <br>
+*   Joseph Tan Jia Tai    <br>
+*   Muhd Daniyal Bin Samsumaideen    <br>
+*   Danny Edwin William    <br>
+*   Lu Yuchen    <br>
+*   S Agan    <br>
+*   Wong Bo Zheng   <br> 
+*   AJ Lai Cheng Yi   <br> 
+*   Tan Kai Wen, Ryan    <br>
+*   Tan Wei En Damien    <br>
+*   Wong Yu Xin    <br>
 
 <b>2022 National School Games</b><br>
 	1. <b>Badminton Tournament (Junior Girls) 2022  </b><br>
-    Event: Doubles  
+    Event: Doubles  <br>
     1st in tier 1<br>
 *   &nbsp;Calista Yeo Jie Lin<br>    
 *   &nbsp;Ng Ziqi<br>
 
 2.<b>Badminton Tournament East Zone 2022 (Participation)</b><br>
-*   Senior Boys
+*   Senior Boys<br>
 *   Junior Boys<p></p>
