@@ -68,7 +68,7 @@ description: ""
   
 * Better parent-school relationship<br>
   
-* Happier staff  <br><p></p>
+* Happier staff  <br>
 
 ### For Community<br>
   
