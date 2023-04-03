@@ -32,6 +32,6 @@ Mr Kwek Harvey<br>
 Ms Pearl Saw<br>
 Ms Sun Jinyu<br>
 Ms Sarah-Ann Tan<br>
-Mdm Wong Nuik Yin
+Mdm Wong Nuik Yin</p>
 
-<img src="/images/MSEA%20Logo.png" style="width:80%"></p>
+<img src="/images/MSEA%20Logo.png" style="width:80%"><p></p>
