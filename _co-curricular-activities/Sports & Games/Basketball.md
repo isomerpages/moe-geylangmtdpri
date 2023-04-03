@@ -167,8 +167,7 @@ Coach: Mr Ong Wen Qian<br><p></p>
   line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial;color:black">ZHOU JUNFENG</span></p></td></tr></tbody></table>
 	
-<b>National School Games Basketball 2022  
-(Junior Division)</b><br>
+<b>National School Games Basketball 2022 (Junior Division)</b><br>
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3rd Placing in Tier 1
 
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;mso-yfti-tbllook:
