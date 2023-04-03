@@ -25,44 +25,53 @@ description: ""
 ### Features
 
 </p><p style="text-align: justify;">1.&nbsp;<b>Family Learning</b><br> 
-</p><p style="text-align: justify;">A family that learns together grows together. Therefore, FMS Programmes are designed and planned to promote better parent-child understanding through talks, workshops and activities.  <br>
+</p><p style="text-align: justify;">A family that learns together grows together. Therefore, FMS Programmes are designed and planned to promote better parent-child understanding through talks, workshops and activities.  <br><br>
       
     
 2.&nbsp;<b>Training Parents to be Facilitators</b><br>  
-</p><p style="text-align: justify;">Under FMS, parents volunteers are trained to become parent facilitators. They will provide guidance to other parents and help to facilitate workshops and support groups that aim to impart positive parenting skills.  <br>
+</p><p style="text-align: justify;">Under FMS, parents volunteers are trained to become parent facilitators. They will provide guidance to other parents and help to facilitate workshops and support groups that aim to impart positive parenting skills.  <br><br>
       
     
 3.&nbsp;<b>School Staff’s Family Wellness</b><br>
-</p><p style="text-align: justify;">The school staff are also members of families.&nbsp;FMS&nbsp;will provide them with programme to help them better manage their work and family life. Enhanced family life will translate into higher productivity for the school.  <br>
+</p><p style="text-align: justify;">The school staff are also members of families.&nbsp;FMS&nbsp;will provide them with programme to help them better manage their work and family life. Enhanced family life will translate into higher productivity for the school.  <br><br>
       
     
 4.&nbsp;<b>Students’ Programme</b><br>
-</p><p style="text-align: justify;">FMS&nbsp;empowers students with positive values to empower them in their relationships with others, and thereby facilitate their growth into responsible adults.
+</p><p style="text-align:justify;">FMS&nbsp;empowers students with positive values to empower them in their relationships with others, and thereby facilitate their growth into responsible adults.<br></p>
   
-
 ### Benefits
 
-</p><p style="text-align: justify;">The programmes and activities under&nbsp;FMS&nbsp;are of high quality and evaluation from participants showed that they experienced considerable improvements in their family life after attending SFE programmes.  
+<p style="text-align: justify;">The programmes and activities under&nbsp;FMS&nbsp;are of high quality and evaluation from participants showed that they experienced considerable improvements in their family life after attending SFE programmes.  <br>
   
-**For Parents**
-* Better understanding of their children
-* Better parent-child (family) relationships
-* An opportunity to be an FLE advocate and to participate in parent support groups
+<b>For Parents</b><br>
   
-**For Students**
-* Developmet into socially adept individuals equipped with positive life skills.
+* Better understanding of their children<br>
+  
+* Better parent-child (family) relationships<br>
+  
+* An opportunity to be an FLE advocate and to participate in parent support groups<br>
+  
+  
+<b>For Students</b><br>
+  
+* Developmet into socially adept individuals equipped with positive life skills.<br></p>
+  
 
-### For School Staff
+### For School Staff<br>
 
-</p><p style="text-align: justify;">Better equipped and hence better performance as their personal needs are taken care of.
+<p style="text-align: justify;">Better equipped and hence better performance as their personal needs are taken care of.<br></p>
+  
 
-### For School
+### For School<br>
+  
+* An ideal environment for learning and working<br>
+  
+* Better parent-school relationship<br>
+  
+* Happier staff  <br><p></p>
 
-* An ideal environment for learning and working
-* Better parent-school relationship
-* Happier staff  
-
-### For Community
-
-* Benefit from a value-added image as an ideal place to raise a family
-* Increase community bonding and pride</p>
+### For Community<br>
+  
+* Benefit from a value-added image as an ideal place to raise a family<br>
+  
+* Increase community bonding and pride<p></p>
