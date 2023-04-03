@@ -30,17 +30,17 @@ ICT is used as an enabler for enhanced learning which all departments utilize to
  
 </p><p style="text-align: justify;">Encourage experimentation and innovation through opportunities and stretched programmes
 For students who wish to further enhance their ICT skills, Info-comm Technology Club is a platform which offers game design, drone programming, Microbits, Movie-making, and app development.
-Please click here for Info-comm Technology Club CCA
-	
+Please click here for Info-comm Technology Club CCA</p>
+
 [Info-Comm Technology Club](/co-curricular-activities/cca/clubs-n-societies/info-comm-technology-club/)<br>
 <br>
 <b>Cyber Wellness</b>
-</p><p style="text-align: justify;">While encouraging our students to make use of technology, we recognize the importance of educating our students to be discerning and responsible digital citizens. The inculcation of Cyber Wellness concepts in students, enable students to recognize potential hazards that can take place in the Cyber World and teaches them the skills to protect themselves.
+<p></p><p style="text-align: justify;">While encouraging our students to make use of technology, we recognize the importance of educating our students to be discerning and responsible digital citizens. The inculcation of Cyber Wellness concepts in students, enable students to recognize potential hazards that can take place in the Cyber World and teaches them the skills to protect themselves.
 
-</p><p style="text-align: justify;">Please click here for Cyber Wellness Programme
+</p><p style="text-align: justify;">Please click here for Cyber Wellness Programme</p>
 
 [Cyberwellness Programme](/curriculum/character-n-citizenship-education-cce-1/cyber-wellness-programme/)
-</p>
+<p></p>
 
 ### Pedagogical Approaches / Strategies
 <p></p><p style="text-align: justify;">21st century learners are active and life-long learners. They need skills and competencies pertaining to group-based problem solving and knowledge creation. Self-Directed Learning (SDL) and Collaborative Learning (CoL) are part of the development of the 21CC, as they are learning processes through which our Desired Outcomes of Education can be achieved.&nbsp; The Outcome Goal is that students develop competencies for self-directed and collaborative learning through the effective use of ICT, as well as become discerning and responsible ICT users, so that they can learn and work effectively in the 21st century knowledge-based environment.<br></p>
