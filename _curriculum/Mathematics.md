@@ -108,7 +108,7 @@ description: ""
 
 <p></p><p style="text-align: justify;">At primary level, we teach students to learn and master mathematical concepts using a three-step learning process: concrete, pictorial and abstract. In the concrete step, students engage in hands-on learning experiences using concrete objects such as multilink cubes, paper folding. This is followed by drawing pictorial representations of mathematical concepts. Students then solve mathematical problems in an abstract way by using numbers and symbols.
 
-</p><p style="text-align: justify;">In our department, we practice the four-step problem solving method namely 1) See. 2) Plan. 3) Do and 4) Check, that students can use to tackle the word problems. For Step 2 under planning, we guide and expose the 9 listed heuristics to our students. <br> 
+</p><p style="text-align: justify;">In our department, we practice the four-step problem solving method namely 1) See, 2) Plan, 3) Do and 4) Check, that students can use to tackle the word problems. For Step 2 under planning, we guide and expose the 9 listed <u>heuristics</u> to our students. <br> 
   
 <u>Heuristics</u><br>
 1. Find a pattern  <br>
