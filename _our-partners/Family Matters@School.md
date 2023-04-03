@@ -9,7 +9,7 @@ description: ""
   
 </p><p style="text-align: justify;">FMS adopts a holistic family learning model – equipping parents with effective parenting skills and training them to be parent facilitators, helping the staff of the school to enhance their family life, and providing students with life skills training.  
   
-</p><p style="text-align: justify;">The parent-child relationship has much impact on the child’s academic achievements and positive attitudes / behaviour, regardless of socio-economic status, ethnic / racial background or parents’ education level.  
+</p><p style="text-align: justify;">The parent-child relationship has much impact on the child’s academic achievements and positive attitudes/behaviour, regardless of socio-economic status, ethnic/racial background or parents’ education level.  
   
 </p><p style="text-align: justify;">With support from North West, South East and South West CDCs, and Fei Yue Counselling Centre, FMS was piloted in Nanyang and Temasek Primary Schools, and Bartley and Commonwealth Secondary Schools in January 2002. FMS was launched by Dr Yaacob Ibrahim, then Acting Minister for Community Development and Sports on 15 April 2002.  
   
