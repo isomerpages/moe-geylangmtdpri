@@ -14,6 +14,7 @@ description: ""
 
 ![](/images/five%20pillars%20of%20department.jpg)
 <p></p>
+
 ### Curriculum Structure and Key Programmes
 
 <b>Student Leadership</b> <br>
