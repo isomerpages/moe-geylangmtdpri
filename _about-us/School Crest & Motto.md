@@ -17,4 +17,4 @@ description: ""
 
 ### School Motto
 
-<b>To Grow in Friendship, Body and Mind</b><p></p>
+<b>To Grow in Friendship, Body and Mind</b>
