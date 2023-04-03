@@ -43,8 +43,8 @@ P6- Traditional puppetry (focus on creativity &amp; moral stories) <br>
 Do check out the photographs in the Gallery!<br>
 
 
-</p><p style="text-align: justify;">Tier 1 - Celebrations of Festivals
-Deepavali Celebrations 2021
+</p><p style="text-align: justify;">Tier 1 - Celebrations of Festivals<br>
+Deepavali Celebrations 2021<br>
 Due to SMM measures, Deepavali celebrations took place on the online platform with videos, activities &amp; quizzes produced by the Tamil department teachers who collaborated with the other department teachers. Last year, the team decided to bring the whole school virtually to one of the teacher’s home to learn more about the culture and ways of mannerisms when visiting the Hindu home for celebrations. The medicinal benefits of eating in a banana leaf was explained to the visitor, the types of food placed on the banana leaf and even the way to folding the used banana leaf. The significance of drawing kolam and hanging of mango leaves was something new and interesting for the visitor. <br>
 
 <b>Pongal Festival 2022</b><br>
@@ -77,7 +77,7 @@ Congratulations to all our participants:<br>
 </p><p style="text-align: justify;">SORPOR is an event supported by Tamil Language Council (TRC), Tamil Language Learning &amp; Promotion Committee (TLLPC) and LKY Bilingualism Fund. 2021 was the 7th edition of the series and is organised once in 2 years. Last year, GMS(P) selected students from P5 and P6 to participate for the very first time. There were many teachable moments along with the challenges and joy while the team and the teachers prepared for the competition. Our students emerged confident speakers and honed their knowledge on the given topics. <br></p>
 
 
-### Gallery
+### Gallery<p></p>
 
 
 ### Useful Link
