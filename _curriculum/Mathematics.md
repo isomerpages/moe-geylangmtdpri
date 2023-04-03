@@ -111,7 +111,7 @@ description: ""
 </p><p style="text-align: justify;">In our department, we practice the four-step problem solving method namely 1) See, 2) Plan, 3) Do and 4) Check, that students can use to tackle the word problems. For Step 2 under planning, we guide and expose the 9 listed <u>heuristics</u> to our students. <br> 
   
 <u>Heuristics</u><br>
-1. Find a pattern  <br>
+1.&nbsp;Find a pattern  <br>
 2. Draw a model  <br>
 3. Work backwards <br> 
 4. Make a table / listing  <br>
