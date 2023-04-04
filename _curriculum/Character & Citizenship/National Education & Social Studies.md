@@ -14,11 +14,11 @@ third_nav_title: Character &amp; Citizenship
 
 </p><p style="text-align: justify;">2) Creating experiences that empower students to find their own meaning of what it means to be a Singapore citizen and contribute to the society.
 
-</p><p style="text-align: justify;">3) Inculcating cross-cultural awareness and sensitivity to interact with people of other  cultures.
+</p><p style="text-align: justify;">3) Inculcating cross-cultural awareness and sensitivity to interact with people of other  cultures.</p>
 
 ### Curriculum Structure and Key Programmes&nbsp;
 
-</p><p style="text-align: justify;">To enable us work towards our vision, the NESS curriculum is designed to achieve a maximum learning outcome through focusing on 4 big areas below:</p>
+<p></p><p style="text-align: justify;">To enable us work towards our vision, the NESS curriculum is designed to achieve a maximum learning outcome through focusing on 4 big areas below:</p>
 
 | S/N | Focus | Programmes |
 |---|---|---|
