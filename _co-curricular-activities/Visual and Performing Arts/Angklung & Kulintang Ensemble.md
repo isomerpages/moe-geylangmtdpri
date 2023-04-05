@@ -8,7 +8,7 @@ third_nav_title: Visual and Performing Arts
 
 ### CCA Overview
 **Philosophy &amp; Beliefs:** <br>
-<p style="text-align: justify;">Music for all. Character-building through Music Learning and performance.&nbsp;<br>  
+<p style="text-align: justify;">Music for all. Character-building through Music learning and performance.<br>  
 
 **Focus:**<br>
 </p><p style="text-align: justify;">We aim to inculcate the love of Music and the Performing Arts in pupils through learning and performing of South East Asian and Western instruments. Through performing of Angklung, Kulintang and different Western Percussion instruments, we teach our pupils discipline, perseverance, instrument playing techniques and music theory.<br></p>
