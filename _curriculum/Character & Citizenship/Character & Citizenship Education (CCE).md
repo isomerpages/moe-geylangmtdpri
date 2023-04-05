@@ -69,19 +69,19 @@ e)&nbsp; &nbsp; Responsible Decision Making
   
 </p><p style="text-align: justify;">The teaching and learning of CCE is guided by the following four key principles:  <br>
   
-<b>1) Every Teacher A CCE Teacher</b>  <br>
+<b>1) Every Teacher A CCE Teacher</b> 
 </p><p style="text-align: justify;">a) Teachers will role model and create learning opportunities to shape and instil in every student the core values. They will develop in each of the pupils a sense of self- worth&nbsp; &nbsp; &nbsp; and confidence, a spirit of resilience, care and compassion for others.   <br>
 
-</p><p style="text-align: justify;">b) Teachers will take ownership of their professional development to equip themselves with the expertise and competencies to nurture every student to become an active&nbsp;citizen of good character.  
+</p><p style="text-align: justify;">b) Teachers will take ownership of their professional development to equip themselves with the expertise and competencies to nurture every student to become an active&nbsp;citizen of good character. <br>
   
-<b>2) Values are both taught and caught</b> <br>
+<b>2) Values are both taught and caught</b>
 </p><p style="text-align: justify;">a) Values are taught when they are explicitly expressed through the knowledge and skills encapsulated in the CCE learning outcomes.  <br>
   
 </p><p style="text-align: justify;">b) Values are caught when pupils see values lived out in different learning experiences, first in the role models and significant adults to the, then in their own lives.  <br>
   
 </p><p style="text-align: justify;">c) The quality of teacher- student relationship and a caring environment will be essential to the character of the students.  <br>
   
-<b>3) Engaging Students through varied modes of delivery</b> <br>
+<b>3) Engaging Students through varied modes of delivery</b>
 </p><p style="text-align: justify;">a) Students learn values through instruction, skills practice, role modeling by teachers and peers and positive reinforcement during lesson time and teachable moments.<br>  
 
 </p><p style="text-align: justify;">b) Teachers will also provide learning experiences such as the four core events, VIA, co-curricular activities for the learning and application of values, knowledge, skills and&nbsp;attitudes. <br> 
