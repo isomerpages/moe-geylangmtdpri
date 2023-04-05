@@ -57,8 +57,7 @@ description: ""
 * Developmet into socially adept individuals equipped with positive life skills.<br></p>
   
 
-### For School Staff<br>
-
+### For School Staff
 <p style="text-align: justify;">Better equipped and hence better performance as their personal needs are taken care of.<br></p>
   
 
