@@ -18,14 +18,13 @@ description: ""
 <p style="text-align: justify;">Physical and Health Education in Geylang Methodist School (Primary) aims to develop our students into competent individuals who are able to learn physical skills and healthy habits to enjoy an active and healthy lifestyle.&nbsp;<br>
 
 </p><p style="text-align: justify;">Students in GMS(P) are engaged in interesting physical and sporting activities that focus on fundamental motor skills and impressions leading towards specific movement patterns applicable to an array of skillset found in sports and games skills. The key learning areas found in MOE’s PE syllabus (Primary) are taught and learned by our student’s in their participation in PE. The physical activities are:  <br>
-
-* Dance<br>
-* Sports and Games<br>
-* Gymnastics <br>
-* Physical Health &amp; fitness<br>
-* Outdoor Education<br>
-* Athletics <br>
-* Swimming<br>
+ * Dance<br>
+ * Sports and Games<br>
+ * Gymnastics <br>
+ * Physical Health &amp; fitness<br>
+ * Outdoor Education<br>
+ * Athletics <br>
+ * Swimming<br>
   
 </p><p style="text-align: justify;">Through PE, students live up to the school’s motto of ‘To grow in body, friendship and mind’ and develop 21st century core competencies socio-emotional skills.  <br>
   
