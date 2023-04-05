@@ -45,7 +45,7 @@ Do check out the photographs in the Gallery!<br>
 
 </p><p style="text-align: justify;">Tier 1 - Celebrations of Festivals<br>
 Deepavali Celebrations 2021<br>
-Due to SMM measures, Deepavali celebrations took place on the online platform with videos, activities &amp; quizzes produced by the Tamil department teachers who collaborated with the other department teachers. Last year, the team decided to bring the whole school virtually to one of the teacher’s home to learn more about the culture and ways of mannerisms when visiting the Hindu home for celebrations. The medicinal benefits of eating in a banana leaf was explained to the visitor, the types of food placed on the banana leaf and even the way to folding the used banana leaf. The significance of drawing kolam and hanging of mango leaves was something new and interesting for the visitor. <br>
+Due to SMM measures, Deepavali celebrations took place on the online platform with videos, activities &amp; quizzes produced by the Tamil department teachers who collaborated with the other department teachers. Last year, the team decided to bring the whole school virtually to one of the teacher’s home to learn more about the culture and ways of mannerisms when visiting the Hindu home for celebrations. The medicinal benefits of eating in a banana leaf was explained to the visitor, the types of food placed on the banana leaf and even the way to folding the used banana leaf. The significance of drawing kolam and hanging of mango leaves was something new and interesting for the visitor. <br><br>
 
 <b>Pongal Festival 2022</b><br>
 </p><p style="text-align: justify;">The harvest festival is celebrated over 3 days to give thanks to farmers, their cows and the sun. As an Asian country, the Tamil department teachers believe that our students should have awareness of the significance as rice is our staple food. We planned some interesting activities for our LP, MP and UP students. Videos from Indian Heritage centre were shown during lesson time and students had fun learning new things. At the end of the lesson, <br>
@@ -55,11 +55,11 @@ P5  - Crossword puzzle <br>
 P6 - practised learning how to draw a rice kolam<br>
 
 
-<b>Tier 3 - P3 Cultural Performance Exposure Programme</b>
+<b>Tier 3 - P3 Cultural Performance Exposure Programme</b><br>
 </p><p style="text-align: justify;">Planning in progress for term 3. Look out for more updates then!<br>
 
 
-<b>Tier 2- P4 Cultural Camp</b>
+<b>Tier 2- P4 Cultural Camp</b><br>
 </p><p style="text-align: justify;">The P4 Cultural Camp is scheduled for 25th May. Look out for more updates then!<br>
 
 <b>Tier 3 - National/Cultural Events, Workshops &amp; Competitions</b><br>
