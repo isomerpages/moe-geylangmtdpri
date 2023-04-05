@@ -148,7 +148,7 @@ description: ""
 
 1. <p style="text-align: justify;">Serious disciplinary action will be taken against students who commit acts that are dangerous and affect the well-being of other students and staff.<br>
 </p><p style="text-align: justify;">These include:<br>
-  * Smoking, drug abuse and gambling of any form  <br>
+ * Smoking, drug abuse and gambling of any form  <br>
   * Vandalism &amp; Arson&nbsp;<br>  
   * Theft &amp; Shoplifting  <br>
   * Littering  <br>
