@@ -147,6 +147,7 @@ third_nav_title: Uniformed Groups
   mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:29.2pt" valign="top" colspan="6"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Ong Yun Ting</span></p></td></tr></tbody></table><br>
+<p></p>
 
 ### Teachers-in-charge<br>
 Mrs Ariel Koh (IC) <br>
