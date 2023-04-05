@@ -31,4 +31,4 @@ The results of the election of Office Bearers for the new term 2022-2024 is as f
 ![](/images/IMG-20190715-WA0012.jpg)
 ![](/images/20190824_122907.jpg)
 ![](/images/IMG-20190824-WA0035.jpg)
-![](/images/IMG-20190824-WA0032.jpg)<p></p>
+![](/images/IMG-20190824-WA0032.jpg)
