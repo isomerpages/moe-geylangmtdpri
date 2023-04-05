@@ -158,4 +158,4 @@ description: ""
   * Rudeness, Disrespect and Open Defiance  <br>
   * Outrage of modesty  <br>
   * Practical jokes and other acts of carelessness  <br>
-</p><p style="text-align: justify;"><b>We care for our students and staff and believe that every child can learn and achieve in a conducive environment. In our efforts to achieve our vision and mission, we hope to seek parents' / guardians' cooperation and support.</b></p>
+</p><p style="text-align: justify;"><b>We care for our students and staff and believe that every child can learn and achieve in a conducive environment. In our efforts to achieve our vision and mission, we hope to seek parents'/guardians' cooperation and support.</b></p>
