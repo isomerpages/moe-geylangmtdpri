@@ -21,7 +21,7 @@ Mrs Lee Lai Chan (2IC)<br>
 Ms Jolyn Chun <br>
 Mdm Loh Puay San<br>
 
-Coach: Mr Ong Chee Hwa Vincent<p></p>
+Coach: Mr Ong Chee Hwa Vincent<br>
 
 ### Achievements
 <b>2023 National School Games</b><br>
@@ -50,4 +50,4 @@ Badminton Tournament East Zone 2023 (Participation)<br>
 
 2.<b>Badminton Tournament East Zone 2022 (Participation)</b><br>
 *   Senior Boys<br>
-*   Junior Boys<p></p>
+*   Junior Boys
