@@ -148,14 +148,14 @@ description: ""
 
 1. <p style="text-align: justify;">Serious disciplinary action will be taken against students who commit acts that are dangerous and affect the well-being of other students and staff.<br>
 </p><p style="text-align: justify;">These include:<br>
-   * Smoking, drug abuse and gambling of any form  <br>
-   * Vandalism &amp; Arson&nbsp;<br>  
-   * Theft &amp; Shoplifting  <br>
-   * Littering  <br>
-   * Abuse of technology<br>  
-    *Fighting, Assault &amp; Bullying (Physical, Verbal, Cyber)  <br>
-   * Extortion &amp; Gangsterism  <br>
-   * Rudeness, Disrespect and Open Defiance  <br>
-   * Outrage of modesty  <br>
-   * Practical jokes and other acts of carelessness  <br>
+  * Smoking, drug abuse and gambling of any form  <br>
+  * Vandalism &amp; Arson&nbsp;<br>  
+  * Theft &amp; Shoplifting  <br>
+  * Littering  <br>
+  * Abuse of technology<br>  
+  * Fighting, Assault &amp; Bullying (Physical, Verbal, Cyber)  <br>
+  * Extortion &amp; Gangsterism  <br>
+  * Rudeness, Disrespect and Open Defiance  <br>
+  * Outrage of modesty  <br>
+  * Practical jokes and other acts of carelessness  <br>
 </p><p style="text-align: justify;"><b>We care for our students and staff and believe that every child can learn and achieve in a conducive environment. In our efforts to achieve our vision and mission, we hope to seek parents' / guardians' cooperation and support.</b></p>
