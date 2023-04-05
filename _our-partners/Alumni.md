@@ -22,7 +22,7 @@ The results of the election of Office Bearers for the new term 2022-2024 is as f
 - <b>R</b>elationship  <br>
 - <b>E</b>xcellent  <br>
 - <b>A</b>chievable and Attitude<br>  
-- <b>L</b>eadership<br><p></p>
+- <b>L</b>eadership<br>
 
 ### Alumni Registration Form
 
