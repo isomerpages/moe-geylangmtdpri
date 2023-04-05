@@ -89,4 +89,4 @@ The following students are our podium finishers:</p>
 * C Girls (600m): Rebecca Tan (14th)</p>
 	
 ![](/images/Athletics%20Team%20Photo.jpeg)
-	<p></p>
+	
