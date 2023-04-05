@@ -37,7 +37,7 @@ description: ""
 #### Category B
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTe8siJg5rUOQqTXuv0N2tkwgbPVP59eHXeEUbAqAQrcZoPvlHZ4-4mRArOesvZ8KYHlcChHW21R1KF/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe><p></p>
-<br><p></p>
+<br>
 
 #### Category C
 
