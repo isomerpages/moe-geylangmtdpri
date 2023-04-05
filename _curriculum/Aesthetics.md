@@ -27,7 +27,7 @@ description: ""
 ### Singapore Youth Festival Art Exhibition
 [Cat A\_SYF.pdf](/files/Cat%20A_SYF.pdf) <br>
 [Cat B\_SYF.pdf](/files/Cat%20B_SYF.pdf) <br>
-[Cat C_SYF.pdf](/files/Cat%20C_SYF.pdf)<br><p></p>
+[Cat C_SYF.pdf](/files/Cat%20C_SYF.pdf)<br>
 
 #### Category A
 
