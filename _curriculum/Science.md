@@ -55,7 +55,7 @@ description: ""
 Outdoor learning trail within the school<br>
 Learning Journeys<br>
 School wide Assembly Talks<br>
-Learning for Life Program (LLP) on sustainable education</b> <br><p></p>
+Learning for Life Program (LLP) on sustainable education</b> <br>
 
 ### Other Events / Programmes
 1)&nbsp;Enrichment Programmes
