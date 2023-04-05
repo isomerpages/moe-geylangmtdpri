@@ -16,7 +16,6 @@ third_nav_title: Parent Support Group
 
 So, come join us!    
 
-</p><p style="text-align: justify;">To find out more about PSG, do visit us at GMSP website or you can email us at [psggmsp@gmail.com]. For enrolment, you can download the application form and submit it to the school General Office. We look forward to your support and participation.    
-
+</p><p style="text-align: justify;">To find out more about PSG, do visit us at GMSP website or you can email us at [psggmsp@gmail.com]. For enrolment, you can download the application form and submit it to the school General Office. We look forward to your support and participation.    <br><br>
 <b>Jaslyn Teo</b> <br>
 <b>PSG Chairman</b></p>

@@ -3,12 +3,12 @@ title: Learning for Life Programme (LLP)
 permalink: /curriculum/learning-for-life-programme/
 description: ""
 ---
-<p style="text-align: justify;">In <b>GMS(P) Environment Education (Learning for Life, LLP)</b> it is our belief that every staff and student can be an Earth Warrior by Respecting, Loving and Serving the Earth that God has created through practising the 4Rs.<br>
+<p style="text-align: justify;">In <b>GMS(P) Environment Education (Learning for Life, LLP)</b> it is our belief that every staff and student can be an Earth Warrior by Respecting, Loving and Serving the Earth that God has created through practising the 4Rs.<br></p>
 
 ![](/images/LLP.jpg)<br>
 	
 
-</p><p style="text-align: justify;">The themes and the objectives of Environmental Education as followed:
+<p></p><p style="text-align: justify;">The themes and the objectives of Environmental Education as followed:
 
 </p><p style="text-align: justify;">●&nbsp;&nbsp;&nbsp;&nbsp; To be able to contribute in terms of self and in family units <b>(Empathise)</b>
 
@@ -60,7 +60,9 @@ description: ""
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="347"><p style="line-height:150%" class="MsoNormal"><span lang="EN-SG">Mdm Christine Tan CK</span></p></td><td style="width:7.0cm;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span lang="EN-SG">Environment Education Officer</span></p><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span lang="EN-SG">LH/ Science, CCE committee</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:260.55pt;border:solid black 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span lang="EN-SG">Environment Education Officer,<br> 
+	LH/ Science, <br>
+	CCE committee</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:260.55pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="347"><p style="line-height:150%" class="MsoNormal"><span lang="EN-SG">Ms Deborah Tan</span></p></td><td style="width:7.0cm;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
@@ -87,10 +89,10 @@ description: ""
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span lang="EN-SG">P5 Student Representative</span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:260.55pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="347"><p style="line-height:150%" class="MsoNormal"><span lang="EN-SG">Mr Ong Soon Liang, Mr Donald Teh</span></p></td><td style="width:7.0cm;border-top:none;border-left:none;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="347"><p style="line-height:150%" class="MsoNormal"><span lang="EN-SG">Mr Ong Soon Liang, <br>Mr Donald Teh</span></p></td><td style="width:7.0cm;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span lang="EN-SG">Operations Manager</span></p></td></tr><tr style="mso-yfti-irow:11"><td style="width:260.55pt;border:solid black 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span lang="EN-SG">Operations Manager<br> Operations Manager</span></p></td></tr><tr style="mso-yfti-irow:11"><td style="width:260.55pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="347"><p style="line-height:150%" class="MsoNormal"><span lang="EN-SG">Miss Shirin Gan</span></p></td><td style="width:7.0cm;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:

@@ -2,15 +2,16 @@
 title: Values In Action (VIA)
 permalink: /curriculum/character-n-citizenship-education-cce-1/values-in-action-via/
 description: ""
-third_nav_title: Character & Citizenship
+third_nav_title: Character &amp; Citizenship
 ---
 ![](/images/VIA%20Pic%201.png)
 ![](/images/VIA%20Pic%202.png)
 
-**Objective:** <br>
-<p style="text-align: justify;">To develop the compassionate leader in our students, the school has structured VIA platforms at the various levels for the students to exhibit the values taught.   
+**Objective:**&nbsp;<br>
+<p style="text-align: justify;">To develop the compassionate leader in our students, the school has structured VIA platforms at the various levels for the students to exhibit the values taught.&nbsp;  
   
-<p style="text-align: justify;">Most of the platforms provided are aligned to the CCE curriculum to give students the opportunity to demonstrate the values that were taught during their CCE lessons.
+</p><p style="text-align: justify;">Most of the platforms provided are aligned to the CCE curriculum to give students the opportunity to demonstrate the values that were taught during their CCE lessons.</p>
+
 
 | Level | Theme | VIA Experience |
 |---|---|---|
@@ -22,10 +23,10 @@ third_nav_title: Character & Citizenship
 | Primary 6 | Responsibility to the Nation and the World | Activity 1:  P6 WeeBiz and Microbits Project  |
 | | |
 
-<p style="text-align: justify;">Besides the level VIA experiences, as one of the Student Leadership and CCA outcome is to promote the spirit of service to the community, student leaders as well as students from Primary 3 to 6 are also given platforms during their CCA to initiate or to be involved in VIA experiences that will enable them to use leadership skills or talents to serve for a good cause.  
+<p></p><p style="text-align: justify;">Besides the level VIA experiences, as one of the Student Leadership and CCA outcome is to promote the spirit of service to the community, student leaders as well as students from Primary 3 to 6 are also given platforms during their CCA to initiate or to be involved in VIA experiences that will enable them to use leadership skills or talents to serve for a good cause.  
   
-<p style="text-align: justify;">While carrying out their VIA projects, students are guided by the following guidelines:  
+</p><p style="text-align: justify;">While carrying out their VIA projects, students are guided by the following guidelines:  
   
-<p style="text-align: justify;">- Students can take an ACTION to improve a situation that they care about <br>
-<p style="text-align: justify;">- Students can help to promote Awareness about an important issue/ concern in the community <br>
-<p style="text-align: justify;">- Students can become Advocates to inspire and influence others to make a difference in something that they care about
+</p><p style="text-align: justify;">- Students can take an ACTION to improve a situation that they care about <br>
+</p><p style="text-align: justify;">- Students can help to promote Awareness about an important issue/ concern in the community <br>
+</p><p style="text-align: justify;">- Students can become Advocates to inspire and influence others to make a difference in something that they care about</p>

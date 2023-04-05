@@ -12,10 +12,10 @@ Nurturing <b>Active Learners</b> and <b>Proficient Users</b>
 <p style="text-align: justify;">To develop proficient users of MTL language by creating positive learning experiences, and cultivating the love for Mother Tongue Language, Culture &amp; Tradition in our students.
 
 
-</p><p style="text-align: justify;">MTL Curriculum Framework is centred on the goal of engaging students in joy of learning, developing them to become active learners and proficient users of MTL. The three broad objectives of Communication, Culture and Connection undergird the 2021 Pri MTL Curriculum’s Content (Language Skills, Language Knowledge, and Cultural Values), Pedagogy and Assessment.
+</p><p style="text-align: justify;">MTL Curriculum Framework is centred on the goal of engaging students in joy of learning, developing them to become active learners and proficient users of MTL. The three broad objectives of Communication, Culture and Connection undergird the 2021 Pri MTL Curriculum’s Content (Language Skills, Language Knowledge, and Cultural Values), Pedagogy and Assessment.</p>
 	
 ![](/images/MT%20diagram.png)
- </p>
+ <p></p>
 ### MT Curriculum Objectives : 
 Students can:<br>
 * Communicate more effectively in MTL.
@@ -23,13 +23,13 @@ Students can:<br>
 * Connect with wider communities across Asia and the world.
 
 <b>Language Skills</b><br>
-<p style="text-align: justify;">Students will be developed to be competent language users and confident communicators. To achieve these objectives, students have to harness the six language skills (receptive skills), speaking and writing skills (productive skills) and, spoken interaction and written interaction skills )interaction skills).
+<p style="text-align: justify;">Students will be developed to be competent language users and confident communicators. To achieve these objectives, students have to harness the six language skills (receptive skills), speaking and writing skills (productive skills) and, spoken interaction and written interaction skills )interaction skills).</p>
 
 
 ![](/images/MT%20skills.png)
 	<br>
 	
-</p><p style="text-align: justify;"><b>The acquisition of language skills to as high a level as the student is able to, forms the core of the Mother Tongue Department’s Teaching and Learning Framework.</b>
+<p></p><p style="text-align: justify;"><b>The acquisition of language skills to as high a level as the student is able to, forms the core of the Mother Tongue Department’s Teaching and Learning Framework.</b>
 
 <b>Signature Programme Across the 3 MT</b><br></p><p style="text-align: justify;">The department adopted a 3-tiered approach –
 Support, Enrich and Stretch is adopted in achieving this goal.
