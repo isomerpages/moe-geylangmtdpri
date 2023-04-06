@@ -16,7 +16,7 @@ Ms Tan Ee Peng (IC)<br>
 Mdm Sulistiati  <br> 
 Ms Nabilah  <br> 
 Mr Harvey Kwek  <br> 
-Mrs Melissa Siew<br> <p></p>
+Mrs Melissa Siew<br> 
 
 ### Achievements
 
@@ -24,4 +24,4 @@ Mrs Melissa Siew<br> <p></p>
 
 * </p><p style="text-align: justify;">SYF Art Exhibition - Category A (Primary 1 &amp; 2) artwork was selected for exhibition<br></p>
 	
-![](/images/Art%201.jpg)<p></p>
+![](/images/Art%201.jpg)
