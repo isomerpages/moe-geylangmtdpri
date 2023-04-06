@@ -8,10 +8,10 @@ description: ""
 The results of the election of Office Bearers for the new term 2022-2024 is as follows:
 
 ![](/images/Alumni_Committee%20Photo%202022%20-%202024%20portrait.jpg)
-<p></p>
+
 ### Mission
 
-<p style="text-align: justify;">To see our<b>ex-students</b> and <b>current students</b>of the GM family <b>bonded</b> and <b>blessed</b> through <b>purposeful events</b> that bring back their <b>love</b> for the school.  <br></p>
+<p style="text-align: justify;">To see our <b>ex-students</b> and <b>current students</b> of the GM family <b>bonded</b> and <b>blessed</b> through <b>purposeful events</b> that bring back their <b>love</b> for the school.  <br></p>
 
 ### Vision
 
@@ -22,7 +22,7 @@ The results of the election of Office Bearers for the new term 2022-2024 is as f
 - <b>R</b>elationship  <br>
 - <b>E</b>xcellent  <br>
 - <b>A</b>chievable and Attitude<br>  
-- <b>L</b>eadership<br><p></p>
+- <b>L</b>eadership<br>
 
 ### Alumni Registration Form
 
@@ -31,4 +31,4 @@ The results of the election of Office Bearers for the new term 2022-2024 is as f
 ![](/images/IMG-20190715-WA0012.jpg)
 ![](/images/20190824_122907.jpg)
 ![](/images/IMG-20190824-WA0035.jpg)
-![](/images/IMG-20190824-WA0032.jpg)<p></p>
+![](/images/IMG-20190824-WA0032.jpg)

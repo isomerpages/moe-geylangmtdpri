@@ -18,7 +18,7 @@ third_nav_title: Sports &amp; Games
 
 Mrs Monica Phua (IC)<br>
 Ms Shannon Loh (2IC)&nbsp;<br>
-Mr Michael Goh<br><p></p>
+Mr Michael Goh<br>
 
 ### Achievements  <br>
 	
@@ -89,4 +89,4 @@ The following students are our podium finishers:</p>
 * C Girls (600m): Rebecca Tan (14th)</p>
 	
 ![](/images/Athletics%20Team%20Photo.jpeg)
-	<p></p>
+	

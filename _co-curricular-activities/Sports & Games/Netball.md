@@ -18,7 +18,7 @@ Mdm Fazilah (IC)<br>
 Liu Xianshuli (2IC)<br>
 Ms Kwok Yan Ting
 
-Coach: Ms Haidah Bte Alias<p></p>
+Coach: Ms Haidah Bte Alias
 
 ### Achievements<br>
 <b>National Netball Tournament 2023 for Senior Division (Participation)</b><br>
@@ -86,4 +86,4 @@ Senior Team:<br>
 10. Sylvia Heng (P6-7)<br>
 11. Huang Baiyi (P6-8) <br>
 
-<b>2) Friendly Match with Mayflower Primary School on 1 March 2019</b><p></p>
+<b>2) Friendly Match with Mayflower Primary School on 1 March 2019</b>
