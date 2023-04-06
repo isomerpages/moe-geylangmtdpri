@@ -13,12 +13,12 @@ third_nav_title: Clubs &amp; Societies
 2.&nbsp;&nbsp;&nbsp; Be Responsible<br>
 3.&nbsp;&nbsp;&nbsp; Ready to serve<br>
 
-**Our mission**
+<b>Our mission</b><br>
 * <p style="text-align: justify;"><u>Grow</u> in science knowledge.<br>
 Learn about how Science affects the Environment<br>
-*</p><p style="text-align: justify;"><u>Lead and inspire</u> others to care for the environment<br>
-Be a environmental champions in school
-*</p><p style="text-align: justify;"><u>Serve</u> our school/community<br>
+* </p><p style="text-align: justify;"><u>Lead and inspire</u> others to care for the environment<br>
+Be a environmental champions in school<br>
+* </p><p style="text-align: justify;"><u>Serve</u> our school/community<br>
 Share our knowledge on Environmental Science issues with our schoolmates and community</p>
 
 ### Our CCA activities
@@ -29,17 +29,17 @@ Share our knowledge on Environmental Science issues with our schoolmates and com
 </p><p style="text-align: justify;">* Be Nparks Community in Nature (CIN) programme and design/lead a Biodiversity trail in school garden. <br>
 
 </p><p style="text-align: justify;">2) Enrich in our Science learning experiences with investigative using STEM activities.<br>
-</p><p style="text-align: justify;">-	Dunman High School interns who planned a Recycled car making with our P5 and P6 in 2023<br>
+</p><p style="text-align: justify;">- Dunman High School interns who planned a Recycled car making with our P5 and P6 in 2023<br>
 </p><p style="text-align: justify;">-	Conducting a mini Greenhouse making as part of NIE research for some students<br>
 </p><p style="text-align: justify;">- Making bridges, aluminum tray maze,  during CCA <br>
 </p><p style="text-align: justify;">-	Partnering 1 team of Republic Polytechnic students in vermicomposting investigation project <br>
 </p><p style="text-align: justify;">-	Workshops on Strawbees with quikbots<br> 
 
 </p><p style="text-align: justify;">3) Take care of our school garden<br>
--	Water the plants<br>
--	Remove the weeds<br>
--	Plant new plants<br>
--	Pick up the litter at the garden<br></p>
+*	Water the plants<br>
+*	Remove the weeds<br>
+*	Plant new plants<br>
+*	Pick up the litter at the garden<br></p>
 
 
 ### Teachers-in-charge
@@ -50,7 +50,7 @@ Ms Shirin Gan<br><br>
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTvYUShrwMOjh-5q-S_AqF4MI_aHFNqLkqyRPX13Xm7cNtWissTqc19EGibO76vecjgU4AMGdJ5PSqJ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe><p></p>
 	
 ### Achievements
-Finalists of&nbsp;**SINGAPORE AMAZING FLYING MACHINE COMPETITION 2022**
+Finalists of <b>SINGAPORE AMAZING FLYING MACHINE COMPETITION 2022</b>
 
 | No | Name of student | Class | Awards won |
 |---|---|---|---|
