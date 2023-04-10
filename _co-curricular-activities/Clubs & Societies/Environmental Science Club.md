@@ -19,7 +19,7 @@ Learn about how Science affects the Environment<br>
 * </p><p style="text-align: justify;"><u>Lead and inspire</u> others to care for the environment<br>
 Be a environmental champions in school<br>
 * </p><p style="text-align: justify;"><u>Serve</u> our school/community<br>
-Share our knowledge on Environmental Science issues with our schoolmates and community</p>
+Share our knowledge on Environmental Science issues with our schoolmates and community<br></p>
 
 ### Our CCA activities
 
@@ -57,9 +57,8 @@ Finalists of <b>SINGAPORE AMAZING FLYING MACHINE COMPETITION 2022</b>
 | 1 | THADDEUS HUAN KAI JUN | 5-6 | LEARNING JOURNEY AWARD<br>3rd Place (2nd Runner Up)  |
 | 2 | WONG ZHENG HAO | 5-8 |  |
 | 3 | MUHAMMED HAMDAN BIN KADER | 6-3 | BOOMERANG CHALLENGE AWARD<br>1st Place |
-| 4 | MOHAMED FAROOK AHAMED SUHAIL | 6-6 |
-BOOMERANG CHALLENGE AWARD<br>1st Place |
+| 4 | MOHAMED FAROOK AHAMED SUHAIL | 6-6 |BOOMERANG CHALLENGE AWARD<br>1st Place |
 | 5 | LYU JIGUO | 6-7 | - |
 | 6 | WANG ZIXUAN | 6-8 | - |
 | 7 | RAYE HO XUN YI | 6-8 | - |
-| | | |<p></p>
+| | | |

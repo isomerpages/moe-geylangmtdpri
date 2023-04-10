@@ -12,8 +12,8 @@ third_nav_title: Visual and Performing Arts
 ### Teachers-in-charge
 Mrs Catherine Chong (IC) <br>
 Ms Claudia Chong <br>
-Ms Li Jiarui<p></p>
+Ms Li Jiarui<br>
 
 ### Achievements
 * Singapore Youth Festival 2022 (Certificate of Participation)<br>
-* Singapore Youth Festival 2018 (Certificate of Achievement)  
+* Singapore Youth Festival 2018 (Certificate of Achievement)

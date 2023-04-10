@@ -54,7 +54,7 @@ Adventure Quest 2019- Gold Honour Roll (Overall)<br>
 Adventure Quest 2019-1st Runner-up(Best Placing)<br>
 Boys’ Brigade Week 2019 Gold Honour Roll<br>
 Character Quest 2019 Gold Honour Roll<br>
-J M Fraser Award For Excellence 2019 (YOA 2018) - Gold Honour Roll<br><p></p>
+J M Fraser Award For Excellence 2019 (YOA 2018) - Gold Honour Roll<br>
 
 ### Teachers-in-Charge<br>
 Mrs Anna Quek (Captain) <br>
