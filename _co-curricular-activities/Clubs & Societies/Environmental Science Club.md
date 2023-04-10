@@ -62,4 +62,4 @@ BOOMERANG CHALLENGE AWARD<br>1st Place |
 | 5 | LYU JIGUO | 6-7 | - |
 | 6 | WANG ZIXUAN | 6-8 | - |
 | 7 | RAYE HO XUN YI | 6-8 | - |
-| | | |<p></p>
+| | | |
