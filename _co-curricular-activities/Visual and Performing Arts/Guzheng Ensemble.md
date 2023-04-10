@@ -14,7 +14,7 @@ Ms Lok Jie Jun (IC) <br>
 Mrs Stella Chang (2IC)  <br> 
 Mrs Koh Ching Lee<br>
 	
-Instructor: Ms Wu Shi <p></p><br>
+Instructor: Ms Wu Shi <br>
 
 ### Achievements
 Singapore Youth Festival 2018 - Certificate of Accomplishment
