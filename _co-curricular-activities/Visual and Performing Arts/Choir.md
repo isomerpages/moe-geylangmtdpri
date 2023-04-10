@@ -12,7 +12,7 @@ third_nav_title: Visual and Performing Arts
 ### Teachers-in-charge
 Mrs Serene Goh (IC) <br>
 Ms Tan Cher Hui<br>
-Ms Yang Fei<br><p></p>
+Ms Yang Fei<br>
 
 ### Achievements
 SYF 2018 - Merit Award <br>
