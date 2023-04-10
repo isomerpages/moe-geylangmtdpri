@@ -19,7 +19,7 @@ Learn about how Science affects the Environment<br>
 * </p><p style="text-align: justify;"><u>Lead and inspire</u> others to care for the environment<br>
 Be a environmental champions in school<br>
 * </p><p style="text-align: justify;"><u>Serve</u> our school/community<br>
-Share our knowledge on Environmental Science issues with our schoolmates and community</p>
+Share our knowledge on Environmental Science issues with our schoolmates and community<br></p>
 
 ### Our CCA activities
 
