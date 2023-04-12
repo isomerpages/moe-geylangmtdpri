@@ -22,30 +22,23 @@ description: ""
 ### 2) Hair and Appearance
 
 
-1. <p style="text-align: justify;">Students are to be neatly groomed at all times.  <br>
-    
-2.  </p><p style="text-align: justify;">All students are not allowed to wear make-up or accessories to school.  <br>
-      
-    
-3. </p><p style="text-align: justify;">Students are not allowed to dye their hair or paint their nails.  <br>
-      
-    
-4. </p><p style="text-align: justify;">Hair should be neat at all times and hair fringe should not touch the eyebrows. Inappropriate and flashy hairstyles are not allowed.  <br>
-      
-    
-5. </p><p style="text-align: justify;"><b>All boys must be clean shaven and should not wear sideburns, beards or moustache.</b> <br>
-      
-    
-6.  </p><p style="text-align: justify;"> Boys' hair must not touch the ears, eyebrows and the shirt collar.  <br>
-      
-    
-7. </p><p style="text-align: justify;">Girls with hair touching the collar should have their hair tied up neatly at all times. Simple hair clips or ribbons in dark blue or black may be used.  <br>
-      
-    
-8. </p><p style="text-align: justify;">Students are not allowed to tattoo their bodies.  <br>
-      
-    
-9. </p><p style="text-align: justify;">Students are not allowed to pierce any part of their bodies, except for girls who may pierce their ears and wear only&nbsp;a single ear stud on each ear.<br></p>
+1. <p style="text-align: justify;">Students are to be neatly groomed at all times.<br> </p>
+
+2. <p style="text-align: justify;">All students are not allowed to wear make-up or accessories to school.<br></p>
+
+3. <p style="text-align: justify;">Students are not allowed to dye their hair or paint their nails.<br></p>
+
+4. <p style="text-align: justify;">Hair should be neat at all times and hair fringe should not touch the eyebrows. Inappropriate and flashy hairstyles are not allowed.<br></p>
+
+5. <p style="text-align: justify;"><b>All boys must be clean shaven and should not wear sideburns, beards or moustache.</b><br></p>
+
+6. <p style="text-align: justify;">Boys' hair must not touch the ears, eyebrows and the shirt collar.<br></p>
+
+7. <p style="text-align: justify;">Girls with hair touching the collar should have their hair tied up neatly at all times. Simple hair clips or ribbons in dark blue or black may be used.<br></p>
+
+8. <p style="text-align: justify;">Students are not allowed to tattoo their bodies.<br></p>
+
+9. <p style="text-align: justify;">Students are not allowed to pierce any part of their bodies, except for girls who may pierce their ears and wear only&nbsp;a single ear stud on each ear.<br></p>
       
 ### 3) Attendance and Decorum
 
