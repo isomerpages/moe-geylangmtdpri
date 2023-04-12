@@ -5,25 +5,19 @@ description: ""
 ---
 ### 1) Students' Attire
 
-1. <p style="text-align: justify;"><b>All students are to wear the prescribed school uniform and no modification to the uniform is allowed.</b>  <br>
-      
-    
-2. </p><p style="text-align: justify;">All students are to wear white shoes and white socks to school. Socks must be above the ankles. Ankle socks are not permitted.  <br>
-      
-    
-3. </p><p style="text-align: justify;">P1 and P2 students are allowed to attend school in PE attire on days when they have their PE lessons.  <br>
-      
-    
-4. </p><p style="text-align: justify;">P3 to P6 girls must wear the school skirts/skorts before and after their PE lessons.  <br>
-      
-    
-5. </p><p style="text-align: justify;">All students are to be in their respective CCA uniform/attire every Monday for CCA. They are to change into their PE attire/school uniform after their CCA.  <br>
-      
-    
-6. </p><p style="text-align: justify;">Spectacle frames should be of plain design.  <br>
-      
-    
-7. </p><p style="text-align: justify;">The red GMS(P) T-shirt will only be worn during special school events such as National Day and Chinese New Year celebrations. All students will be informed when they are required to come in the red T-shirt.</p>
+1. <p style="text-align: justify;"><b>All students are to wear the prescribed school uniform and no modification to the uniform is allowed.</b><br></p>
+
+2. <p style="text-align: justify;">All students are to wear white shoes and white socks to school. Socks must be above the ankles. Ankle socks are not permitted.<br> </p>
+
+3. <p style="text-align: justify;">P1 and P2 students are allowed to attend school in PE attire on days when they have their PE lessons.<br></p>
+
+4. <p style="text-align: justify;">P3 to P6 girls must wear the school skirts/skorts before and after their PE lessons.<br></p>
+
+5. <p style="text-align: justify;">All students are to be in their respective CCA uniform/attire every Monday for CCA. They are to change into their PE attire/school uniform after their CCA.<br></p>
+
+6. <p style="text-align: justify;">Spectacle frames should be of plain design.<br></p>
+
+7. <p style="text-align: justify;">The red GMS(P) T-shirt will only be worn during special school events such as National Day and Chinese New Year celebrations. All students will be informed when they are required to come in the red T-shirt.</p>
 
 ### 2) Hair and Appearance
 
