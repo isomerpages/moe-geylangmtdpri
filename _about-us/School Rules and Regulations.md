@@ -61,9 +61,9 @@ description: ""
 
 ### 4) Personal Responsibility
 
-1. <p style="text-align: justify;">Students must be responsible for their personal belongings at all times. <br>
+1. <p style="text-align: justify;">Students must be responsible for their personal belongings at all times.<br></p>
     
-2. </p><p style="text-align: justify;">Students must be punctual for school and all activities.<br></p>
+2. <p style="text-align: justify;">Students must be punctual for school and all activities.<br></p>
       
 
 ### 5) Arrival in School
@@ -73,10 +73,10 @@ description: ""
 
 ### 6) Learning Journeys and Activities Conducted Outside School
 
-1. <p style="text-align: justify;">For Learning Journeys and any other activities that are conducted outside the school premises, teachers-in-charge will issue consent forms.&nbsp;<b>These consent forms must be signed by a parent / guardian and returned to the teacher-in-charge by the deadline stipulated.</b>&nbsp;If a student fails to submit a signed consent form prior to the activity, the student will not be allowed to participate in the activity. Verbal consent will not be accepted.  <br>
+1. <p style="text-align: justify;">For Learning Journeys and any other activities that are conducted outside the school premises, teachers-in-charge will issue consent forms.&nbsp;<b>These consent forms must be signed by a parent / guardian and returned to the teacher-in-charge by the deadline stipulated.</b>&nbsp;If a student fails to submit a signed consent form prior to the activity, the student will not be allowed to participate in the activity. Verbal consent will not be accepted. <br></p>
       
     
-2. </p><p style="text-align: justify;">All students must be in their uniform shirts / blouses or PE shirts and school shorts o skirts / skorts when they are out on Learning Journeys. Track pants are not allowed unless informed by the teachers-in-charge for specific reasons.  <br></p>
+2. <p style="text-align: justify;">All students must be in their uniform shirts / blouses or PE shirts and school shorts o skirts / skorts when they are out on Learning Journeys. Track pants are not allowed unless informed by the teachers-in-charge for specific reasons. <br></p>
       
 
 ### 7) Vacation Leave
