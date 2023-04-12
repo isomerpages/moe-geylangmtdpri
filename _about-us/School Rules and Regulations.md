@@ -42,22 +42,21 @@ description: ""
       
 ### 3) Attendance and Decorum
 
-1. <p style="text-align: justify;">All students are to be present for school unless they are unwell / sick. Absentees must present a valid medical certificate or letter of explanation to their form teacher.<br>
+1. <p style="text-align: justify;">All students are to be present for school unless they are unwell / sick. Absentees must present a valid medical certificate or letter of explanation to their form teacher.<br></p>
 
+2. <p style="text-align: justify;">Attendance at the Pledge Taking and Flag Raising Ceremony is compulsory for all students. <br></p>
     
-2. </p><p style="text-align: justify;">Attendance at the Pledge Taking and Flag Raising Ceremony is compulsory for all students.  <br>
+3. <p style="text-align: justify;"><b>Students who are Singapore Citizens must sing the National Anthem and take the pledge. Students will take the pledge with the right fist placed over the heart.</b><br></p>
     
-3. </p><p style="text-align: justify;"><b>Students who are Singapore Citizens must sing the National Anthem and take the pledge. Students will take the pledge with the right fist placed over the heart.</b>  <br>
+4. <p style="text-align: justify;">Students must be punctual for school and all school activities.<br></p>
     
-4. </p><p style="text-align: justify;">Students must be punctual for school and all school activities.  <br>
+5. <p style="text-align: justify;">All students are to behave and abide by the school and class rules. Their behaviour and attitude must reflect the school's core values.<br></p>
     
-5. </p><p style="text-align: justify;">All students are to behave and abide by the school and class rules. Their behaviour and attitude must reflect the school's core values. <br>
+6. <p style="text-align: justify;">School work is to be handed in on time.<br></p>
     
-6. </p><p style="text-align: justify;">School work is to be handed in on time.  <br>
+7. <p style="text-align: justify;">After arrival in school, no student is allowed to leave the school compound without the permission of his / her class teacher / Principal.<br></p>
     
-7. </p><p style="text-align: justify;">After arrival in school, no student is allowed to leave the school compound without the permission of his / her class teacher / Principal.  <br>    
-    
-8. </p><p style="text-align: justify;">In the event that a student needs to leave the school earlier due to illness or urgent personal matters, only his/her parent/guardian, caregiver or an adult who is related can fetch the student from school. Students are required to obtain permission to leave school before official school dismissal time. Parents are required to sign out their children from the General Office before leaving the school.<br></p>
+8. <p style="text-align: justify;">In the event that a student needs to leave the school earlier due to illness or urgent personal matters, only his/her parent/guardian, caregiver or an adult who is related can fetch the student from school. Students are required to obtain permission to leave school before official school dismissal time. Parents are required to sign out their children from the General Office before leaving the school.<br></p>
       
 
 ### 4) Personal Responsibility
