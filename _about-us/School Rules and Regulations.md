@@ -101,34 +101,34 @@ description: ""
     * Smart devices and electronic gadgets such as smart watches and MP3 players<br>
     * Cards such as playing cards and trading cards<br>  
     * Toys such as toy guns and models<br>  
-    * Others such as chewing gum and cigarettes<br>
+    * Others such as chewing gum and cigarettes<br></p>
       
     
-2. </p><p style="text-align: justify;">Any of the above items found will be confiscated and parents will be informed.<br>
+2. <p style="text-align: justify;">Any of the above items found will be confiscated and parents will be informed.<br></p>
       
     
-3. </p><p style="text-align: justify;"><b>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</b><br></p>
+3. <p style="text-align: justify;"><b>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</b><br></p>
       
 
 
 ### 11) Use of Mobile Phones in School
 
-1. <p style="text-align: justify;">Students are&nbsp;<b>not</b>&nbsp;encouraged to bring their mobile phones to school. However, we do understand that there may be certain circumstances where some parents will need to communicate with their children through their phones.  <br>
+1. <p style="text-align: justify;">Students are&nbsp;<b>not</b>&nbsp;encouraged to bring their mobile phones to school. However, we do understand that there may be certain circumstances where some parents will need to communicate with their children through their phones. <br></p>
 
     
-2. </p><p style="text-align: justify;">Students are only allowed to use their mobile phones at two designated times: before morning assembly and after school. At all other times, mobile phones must be switched off. Permission must be sought from a teacher if students need to use the phones urgently outside the allocated time slots.&nbsp;  <br>
+2. <p style="text-align: justify;">Students are only allowed to use their mobile phones at two designated times: before morning assembly and after school. At all other times, mobile phones must be switched off. Permission must be sought from a teacher if students need to use the phones urgently outside the allocated time slots.&nbsp; <br></p>
 
     
-3. </p><p style="text-align: justify;">Students are to use their mobile phones only at the Foyer (outside the General Office).<br>
+3. <p style="text-align: justify;">Students are to use their mobile phones only at the Foyer (outside the General Office).<br></p>
           
     
-4. </p><p style="text-align: justify;">Students&nbsp;<b>are to use their mobile phones</b>&nbsp;for communication purposes only and not for other activities like taking pictures, listening to music and playing games.<br>
+4. <p style="text-align: justify;">Students&nbsp;<b>are to use their mobile phones</b>&nbsp;for communication purposes only and not for other activities like taking pictures, listening to music and playing games.<br></p>
       
     
-5. </p><p style="text-align: justify;">Students are responsible for their own mobile phones. The school reserves the right NOT to conduct any investigations to recover any lost mobile phones.<br>
+5. <p style="text-align: justify;">Students are responsible for their own mobile phones. The school reserves the right NOT to conduct any investigations to recover any lost mobile phones.<br></p>
       
     
-6. </p><p style="text-align: justify;">Students who abuse the use of their mobile phones will have their phones confiscated by any teacher or member of the school staff.&nbsp;<b>Confiscated phones will only be released to parents / guardians who come personally to the school's General Office to claim them.</b></p><br>
+6. <p style="text-align: justify;">Students who abuse the use of their mobile phones will have their phones confiscated by any teacher or member of the school staff.&nbsp;<b>Confiscated phones will only be released to parents / guardians who come personally to the school's General Office to claim them.</b></p><br>
 
 ### 12) Unacceptable Acts and Behaviour
 
