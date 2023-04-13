@@ -2,7 +2,7 @@
 title: Character &amp; Citizenship Education (CCE)
 permalink: /curriculum/character-n-citizenship-education-cce-1/
 description: ""
-third_nav_title: Character &amp; Citizenship
+third_nav_title: Character & Citizenship
 ---
 ### Vision
 
