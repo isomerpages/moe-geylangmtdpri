@@ -22,23 +22,24 @@ Share our knowledge on Environmental Science issues with our schoolmates and com
 
 ### Our CCA activities
 
-<p style="text-align: justify;">1) Work closely with Nparks to plan and conduct activities for schoolmates during recess.<br>
-           
-</p><p style="text-align: justify;">* Be a Green Champion on World Water Day and Earth Day 
-</p><p style="text-align: justify;">* Be Nparks Community in Nature (CIN) programme and design/lead a Biodiversity trail in school garden. <br>
+<p style="text-align: justify;">1) Work closely with Nparks to plan and conduct activities for schoolmates during recess.<br></p>
 
-</p><p style="text-align: justify;">2) Enrich in our Science learning experiences with investigative using STEM activities.<br>
+* Be a Green Champion on World Water Day and Earth Day 
+* Be Nparks Community in Nature (CIN) programme and design/lead a Biodiversity trail in school garden. <br>
+
+<p></p><p style="text-align: justify;">2) Enrich in our Science learning experiences with investigative using STEM activities.<br>
 </p><p style="text-align: justify;">- Dunman High School interns who planned a Recycled car making with our P5 and P6 in 2023<br>
 </p><p style="text-align: justify;">-	Conducting a mini Greenhouse making as part of NIE research for some students<br>
 </p><p style="text-align: justify;">- Making bridges, aluminum tray maze,  during CCA <br>
 </p><p style="text-align: justify;">-	Partnering 1 team of Republic Polytechnic students in vermicomposting investigation project <br>
 </p><p style="text-align: justify;">-	Workshops on Strawbees with quikbots<br> 
 
-</p><p style="text-align: justify;">3) Take care of our school garden<br>
+</p><p style="text-align: justify;">3) Take care of our school garden<br></p>
+
 *	Water the plants<br>
 *	Remove the weeds<br>
 *	Plant new plants<br>
-*	Pick up the litter at the garden<br></p>
+*	Pick up the litter at the garden<br>
 
 
 ### Teachers-in-charge
