@@ -2,7 +2,7 @@
 title: Cyber Wellness Programme
 permalink: /curriculum/character-n-citizenship-education-cce-1/cyber-wellness-programme/
 description: ""
-third_nav_title: Character &amp; Citizenship
+third_nav_title: Character & Citizenship
 ---
 <p style="text-align: justify;">Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace.
 
