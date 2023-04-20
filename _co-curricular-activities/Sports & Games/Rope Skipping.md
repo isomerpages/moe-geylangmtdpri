@@ -134,4 +134,4 @@ Individual Event (Team Creative):
 |---|---|---|---|
 | Senior Girls | Teo Chien-Yong Chelsea<br>Jasira<br>Shaik Mohamed Shafana Amrin<br>Cheryl Ng Sin Lin (Huang Xinling) | 6-5<br>6-3<br>6-3<br>5-7 | 9th |
 | Junior Girls | Jumica Tan Jia Hui<br>Charlotte Ng Sin Ler (Huang Xinle)<br>Wong Yu Xuan<br>Claudia Teoh Zhi Xuan<br>(Zhao Zhixuan) | 5-2<br>5-1<br>4-8<br>4-7 | 11th |
-| | | |<p></p>
+| | | |

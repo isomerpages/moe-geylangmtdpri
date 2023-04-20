@@ -1,5 +1,5 @@
 ---
-title: Gallery 2023
+title: 2023 Gallery
 permalink: /useful-links/permalink/
 description: ""
 ---
