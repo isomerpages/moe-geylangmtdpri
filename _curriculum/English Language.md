@@ -95,7 +95,7 @@ description: ""
   none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
   yes" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB">&nbsp;</span></p><p style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><i style="mso-bidi-font-style:normal"><span style="font-size:12pt;
-  color:red" lang="EN-GB">[Insert photographs of students engaged in ALP]</span></i></p><p style="margin-left:72.0pt;line-height:normal;mso-pagination:
+  color:red" lang="EN-GB"></span></i></p><p style="margin-left:72.0pt;line-height:normal;mso-pagination:
   none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
   yes" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB">&nbsp;</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:
   normal;mso-pagination:none;mso-list:l5 level1 lfo4;border:none;mso-padding-alt:
@@ -103,20 +103,20 @@ description: ""
   normal;mso-pagination:none;mso-list:l5 level2 lfo4;border:none;mso-padding-alt:
   31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB"><span style="mso-list:Ignore">➢<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-size:12pt" lang="EN-GB">To inculcate good reading habits and writing skills<span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB">&nbsp;</span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><i style="mso-bidi-font-style:normal"><span style="font-size:12pt;
-  color:red" lang="EN-GB">[Insert photographs of students engaged in ERP]</span></i><span style="font-size:12pt" lang="EN-GB"></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB">&nbsp;</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:
+  color:red" lang="EN-GB"></span></i><span style="font-size:12pt" lang="EN-GB"></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB">&nbsp;</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:
   normal;mso-pagination:none;mso-list:l3 level1 lfo5;border:none;mso-padding-alt:
   31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB"><span style="mso-list:Ignore">❖<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-size:12pt" lang="EN-GB">Speak Good English Movement (SGEMS)</span></p><p style="margin-left:72.0pt;text-indent:-18.0pt;line-height:
   normal;mso-pagination:none;mso-list:l3 level2 lfo5;border:none;mso-padding-alt:
   31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB"><span style="mso-list:Ignore">➢<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-size:12pt" lang="EN-GB">To motivate our students to speak grammatically correct English</span></p><p style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB">&nbsp;</span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><i style="mso-bidi-font-style:normal"><span style="font-size:12pt;
-  color:red" lang="EN-GB">[Insert photographs of students engaged in SGEMS]</span></i></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><i style="mso-bidi-font-style:normal"><span style="font-size:12pt;
+  color:red" lang="EN-GB"></span></i></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><i style="mso-bidi-font-style:normal"><span style="font-size:12pt;
   color:red" lang="EN-GB">&nbsp;</span></i></p><p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:
   normal;mso-pagination:none;mso-list:l2 level1 lfo3;border:none;mso-padding-alt:
   31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB"><span style="mso-list:Ignore">❖<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-size:12pt" lang="EN-GB">The World Book Day</span></p><p style="margin-left:72.0pt;text-indent:-18.0pt;line-height:
   normal;mso-pagination:none;mso-list:l2 level2 lfo3;border:none;mso-padding-alt:
   31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB"><span style="mso-list:Ignore">➢<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-size:12pt" lang="EN-GB">To inculcate a love for life-long reading</span></p><p style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB">&nbsp;</span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><i style="mso-bidi-font-style:normal"><span style="font-size:12pt;
-  color:red" lang="EN-GB">[Insert photographs of students engaged in the World Book Day</span></i><span style="font-size:12pt" lang="EN-GB"></span></p></td></tr><tr style="mso-yfti-irow:2;height:23.5pt"><td style="width:93.0pt;border:solid black 1.0pt;
+  color:red" lang="EN-GB"></span></i><span style="font-size:12pt" lang="EN-GB"></span></p></td></tr><tr style="mso-yfti-irow:2;height:23.5pt"><td style="width:93.0pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:23.5pt" valign="top" width="124"><p style="text-align:center;line-height:normal;
   mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
@@ -173,11 +173,8 @@ description: ""
 
 </p><p style="text-align: justify;">One of the main focuses of STELLAR is the use of the Shared Book Approach (SBA), an integrated and balanced language teaching approach that uses motivating and enjoyable books. At the lower primary level, the books are commonly known as “big books” as they are filled with enlarged print and colourful illustrations. At the middle and upper primary levels, the students will be tasked to read different texts that serve different purposes, and they are known as the “STELLAR readers”.
 
-**_\[Insert photographs of students engaged in the big book reading\]_**
 
 </p><p style="text-align: justify;">Besides reading for enjoyment and understanding, there is also the Modified Language Experience (MLEA) incorporated into STELLAR where students begin their writing experiences in small groups of mixed abilities. At the lower primary, there are also learning centres where small groups of children at similar levels of progress can gather for the reinforcement and extension of SBA and MLEA.
 
 </p><p style="text-align: justify;">The school provides strong support for STELLAR in training the teachers and preparing the teaching resources. It is every English teacher’s desire to nurture and guide the students so that they will be equipped with the skills to communicate effectively in English, both in oral and written forms.
-
-&nbsp;_\[Insert photographs of students presenting\]_
 </p>
