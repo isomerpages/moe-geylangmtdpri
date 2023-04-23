@@ -43,7 +43,7 @@ description: ""
 <p style="text-align: justify;">Miss Emma Eaton Walker worked as a professional teacher and school principal in the USA before coming to Singapore. She was an established professional and was introduced to the Methodist missions work through the Methodist Missions Conference. Miss Walker taught at the Anglo-Chinese School and overseeing women’s work at Geylang Chinese Church, and was also made Superintendent of the Sunday School at Geylang Methodist Church and Principal of the Oldham Hall Day School, before becoming the first Principal of GMGS. Miss Walker was a member of GMGS’s building fund committee (also known as a subscription committee) for a new school building for GMGS in 1927.
 
 </p><figure>
-<img src="images/4%20Class%20of%201948%20with%20Ms%20Mitchell.jpg" style="width:100%">
+<img src="/images/4%20Class%20of%201948%20with%20Ms%20Mitchell.jpg">
 <figcaption> Class of 1948 with Ms Mitchell </figcaption>
 </figure>
 
