@@ -22,7 +22,7 @@ description: ""
 </p><figure>
 <img src="/images/3%20New%20School%20Extension%20Hall%20and%20Classroom.jpg">
 <figcaption> New school extension of hall and classroom </figcaption>
-</figure>
+</figure><br>
 
 ### Many Helping Hands
 
