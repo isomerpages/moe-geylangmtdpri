@@ -32,6 +32,8 @@ description: ""
 [Form.sg](https://form.gov.sg/#!/)  
   
 [Resource Booking Service](https://rbs.avero-tech.com/)  
+
+[GMS(P) PD Site](https://sites.google.com/moe.edu.sg/gmsp-pdt-site/resources/edtech-resources)
   
 
 ### Useful Links
