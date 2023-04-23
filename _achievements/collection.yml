@@ -2,7 +2,7 @@ collections:
   achievements:
     output: true
     order:
-      - 2023/Student Achievements u.md
+      - 2023/Student Achievements.md
       - 2023/Staff Achievements u.md
       - 2023/.keep
       - 2022/.keep
