@@ -1,6 +1,6 @@
 ---
 title: 2023 Gallery
-permalink: /useful-links/permalink/
+permalink: /useful-links/2023-gallery/
 description: ""
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQGdp3ooLX7Escqmy9t996enUA4Br9FMpPbsbxu9T5x3Ft_miXR1NSAO2LI-SwK2Jd6djPT0C4Q_uPy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
