@@ -6,14 +6,14 @@ description: ""
 ![](/images/EL%201.jpg)
 
 ### Vision
-<p style="text-align: justify;">To enrich students’ learning experiences by taking them out of the classroom to experience how language is used in real-life contexts and bring the world into the classroom through the use of multimodal texts.</p>
+<p style="text-align: justify;">Every GMS(P) student is an informed, competent, confident and empathetic communicator in reading and writing.</p>
 
 ### Mission
-<p style="text-align: justify;">Readers now, Effective Users of the English Language for life</p>
+<p style="text-align: justify;">To enrich students’ learning experiences by taking them out of the classroom to experience how language is used in real-life contexts and bring the world into the classroom through the use of multimodal texts. </p>
 
 
 ### Curriculum Structure and Key Programmes
-<p></p><p style="text-align: justify;">Taking reference from the MOE English Language&nbsp; Syllabus 2020 and aligning to the STELLAR 2.0 (Strategies for English Language Learning and Reading), the school’s EL curriculum is designed for real-life application and the teaching of values and social-emotional competencies. Recognising that every student has a different learning profile, there is explicit teaching in the following areas at different levels.</p>
+<p style="text-align: justify;">Taking reference from the MOE English Language&nbsp; Syllabus 2020 and aligning to the STELLAR 2.0 (Strategies for English Language Learning and Reading), the school’s EL curriculum is designed for real-life application and the teaching of values and social-emotional competencies. Recognising that every student has a different learning profile, there is explicit teaching in the following areas at different levels.</p>
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="589" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
