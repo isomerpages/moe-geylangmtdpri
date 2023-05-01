@@ -12,19 +12,19 @@ third_nav_title: Mother Tongue Languages
 Programmes for Tamil Language @GMS(P) as follows:
 </p>
 ### Level Targeted programmes-<br>
-1.<p style="text-align: justify;"><b>Buddy Reading Programme for Lower Primary</b>: A programme to support selected students in lower primary in reading during pre-assembly periods. Buddies are guided by teachers and are provided with reading materials.<br>
+1.&nbsp;<p style="text-align: justify;"><b>Buddy Reading Programme for Lower Primary</b>: A programme to support selected students in lower primary in reading during pre-assembly periods. Buddies are guided by teachers and are provided with reading materials.<br>
 
-2.</p><p style="text-align: justify;"><b>Mother Tongue Support Programme (MTSP) for Middle Primary</b>: A targeted programme from MOE to uplift selected students who require more reinforcement of their foundation years. Our Tamil teachers are trained to conduct this programme and it is conducted weekly after curriculum time.<br>
+2.&nbsp;</p><p style="text-align: justify;"><b>Mother Tongue Support Programme (MTSP) for Middle Primary</b>: A targeted programme from MOE to uplift selected students who require more reinforcement of their foundation years. Our Tamil teachers are trained to conduct this programme and it is conducted weekly after curriculum time.<br>
     
-3.</p><p style="text-align: justify;"><b>DEAR (Drop Everything And Read Programme)</b>: A programme aimed to enthuse and support targeted students in Primary 3 in their Oracy skills using Shared Book Approach. Students enjoyed the weekly sessions and developed their interest in reading and vocabulary building.<br>
+3.&nbsp;</p><p style="text-align: justify;"><b>DEAR (Drop Everything And Read Programme)</b>: A programme aimed to enthuse and support targeted students in Primary 3 in their Oracy skills using Shared Book Approach. Students enjoyed the weekly sessions and developed their interest in reading and vocabulary building.<br>
     
-4.</p><p style="text-align: justify;"><b>Higher Mother Tongue Programme for Middle Primary</b>: GMS(P) was one of the participating schools for the trial of this programme. The aim of this programme is to further stretch students with good language proficiency. Three of our current P6 Higher Mother Tongue students have been involved in the trial programme since 2020. Their keen interest for Tamil language is evident during their participation in class and written work.</p>
+4.&nbsp;</p><p style="text-align: justify;"><b>Higher Mother Tongue Programme for Middle Primary</b>: GMS(P) was one of the participating schools for the trial of this programme. The aim of this programme is to further stretch students with good language proficiency. Three of our current P6 Higher Mother Tongue students have been involved in the trial programme since 2020. Their keen interest for Tamil language is evident during their participation in class and written work.</p>
 
 ### Programmes for all levels:
 
-5.<p style="text-align: justify;"><b>TRP (Tamil Reading Programme)</b>: D.E.A.R. has evolved to the current programme as recorded stories for all students on a fortnightly basis. The themes for these stories are based on moral values and culture where students are engaged dialogically in discussions.<br>
+5.&nbsp;<p style="text-align: justify;"><b>TRP (Tamil Reading Programme)</b>: D.E.A.R. has evolved to the current programme as recorded stories for all students on a fortnightly basis. The themes for these stories are based on moral values and culture where students are engaged dialogically in discussions.<br>
     
-6.</p><p style="text-align: justify;"><b>MTL Reading Ambassadors</b>: The Reading Ambassadors are reading enthusiasts who support their Tamil teachers during TRP sessions, manage the reading corners at Tamil class, promote suitable book titles and library visits.&nbsp;<br>
+6.&nbsp;</p><p style="text-align: justify;"><b>MTL Reading Ambassadors</b>: The Reading Ambassadors are reading enthusiasts who support their Tamil teachers during TRP sessions, manage the reading corners at Tamil class, promote suitable book titles and library visits.&nbsp;<br>
     
 
 7.</p><p style="text-align: justify;"><b>Pongal Festival (Term 1)</b>:&nbsp; As an Asian country, the Tamil department teachers believe that our students should have awareness of the significance as rice is our staple food. We plan some interesting activities for our LP, MP and UP students. Videos from Indian Heritage centre are shown during lesson time and students had fun learning new things. At the end of the lesson,
