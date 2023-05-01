@@ -11,10 +11,10 @@ third_nav_title: Mother Tongue Languages
 
 Programmes for Tamil Language @GMS(P) as follows:
 </p>
-### Level Targeted programmes-<br>
+### Level Targeted programmes-<p></p>
 1.&nbsp;<p style="text-align: justify;"><b>Buddy Reading Programme for Lower Primary</b>: A programme to support selected students in lower primary in reading during pre-assembly periods. Buddies are guided by teachers and are provided with reading materials.<br>
 
-2.</p><p style="text-align: justify;"><b>Mother Tongue Support Programme (MTSP) for Middle Primary</b>: A targeted programme from MOE to uplift selected students who require more reinforcement of their foundation years. Our Tamil teachers are trained to conduct this programme and it is conducted weekly after curriculum time.<br>
+2.&nbsp;</p><p style="text-align: justify;"><b>Mother Tongue Support Programme (MTSP) for Middle Primary</b>: A targeted programme from MOE to uplift selected students who require more reinforcement of their foundation years. Our Tamil teachers are trained to conduct this programme and it is conducted weekly after curriculum time.<br>
     
 3. </p><p style="text-align: justify;"><b>DEAR (Drop Everything And Read Programme)</b>: A programme aimed to enthuse and support targeted students in Primary 3 in their Oracy skills using Shared Book Approach. Students enjoyed the weekly sessions and developed their interest in reading and vocabulary building.<br>
     
