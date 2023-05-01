@@ -44,7 +44,7 @@ In 2021, the team decided to bring the whole school virtually to one of the teac
 Over the years, our enthusiastic students have been participating in national and cluster events. They have made our school proud with their participations and we would also like to take this opportunity to thank their parents for their utmost support and cooperation. They have been a strong pillar to our students working hand in hand with the Tamil language teachers.<br>
 
   
-Congratulations to all our participants:  
+<b><u>Congratulations to all our participants:</u></b> <br>
 1.&nbsp;Tamizhodu Vilaiyaadu Competition 2018 – Emerged as Quarter Final Winners  <br>
 2.&nbsp;Tamil Translation Workshop for Primary 5 students in April 2018  <br>
 3.&nbsp;Code &amp; Play Programming workshop for Primary 5 students in September 2018  <br>
