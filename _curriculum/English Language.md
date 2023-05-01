@@ -3,8 +3,7 @@ title: English Language
 permalink: /curriculum/english-language/
 description: ""
 ---
-![](/images/EL%201.jpg)
-
+![](/images/el_picture2.jpg)
 ### Vision
 <p style="text-align: justify;">Every GMS(P) student is an informed, competent, confident and empathetic communicator in reading and writing.</p>
 
