@@ -14,9 +14,9 @@ Programmes for Tamil Language @GMS(P) as follows:
 ### Level Targeted programmes-<br>
 1.&nbsp;<p style="text-align: justify;"><b>Buddy Reading Programme for Lower Primary</b>: A programme to support selected students in lower primary in reading during pre-assembly periods. Buddies are guided by teachers and are provided with reading materials.<br>
 
-2.&nbsp;</p><p style="text-align: justify;"><b>Mother Tongue Support Programme (MTSP) for Middle Primary</b>: A targeted programme from MOE to uplift selected students who require more reinforcement of their foundation years. Our Tamil teachers are trained to conduct this programme and it is conducted weekly after curriculum time.<br>
+2. </p><p style="text-align: justify;"><b>Mother Tongue Support Programme (MTSP) for Middle Primary</b>: A targeted programme from MOE to uplift selected students who require more reinforcement of their foundation years. Our Tamil teachers are trained to conduct this programme and it is conducted weekly after curriculum time.<br>
     
-3.&nbsp;</p><p style="text-align: justify;"><b>DEAR (Drop Everything And Read Programme)</b>: A programme aimed to enthuse and support targeted students in Primary 3 in their Oracy skills using Shared Book Approach. Students enjoyed the weekly sessions and developed their interest in reading and vocabulary building.<br>
+3. </p><p style="text-align: justify;"><b>DEAR (Drop Everything And Read Programme)</b>: A programme aimed to enthuse and support targeted students in Primary 3 in their Oracy skills using Shared Book Approach. Students enjoyed the weekly sessions and developed their interest in reading and vocabulary building.<br>
     
 4.&nbsp;</p><p style="text-align: justify;"><b>Higher Mother Tongue Programme for Middle Primary</b>: GMS(P) was one of the participating schools for the trial of this programme. The aim of this programme is to further stretch students with good language proficiency. Three of our current P6 Higher Mother Tongue students have been involved in the trial programme since 2020. Their keen interest for Tamil language is evident during their participation in class and written work.</p>
 
