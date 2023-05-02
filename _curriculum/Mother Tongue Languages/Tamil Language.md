@@ -41,9 +41,9 @@ Programmes for Tamil Language @GMS(P) as follows:
     
 In 2021, the team decided to bring the whole school virtually to one of the teacher’s home to learn more about the culture and ways of mannerisms when visiting the Hindu home for celebrations. The medicinal benefits of eating in a banana leaf was explained to the visitor, the types of food placed on the banana leaf and even the way to folding the used banana leaf. The significance of drawing kolam and hanging of mango leaves was something new and interesting for the visitor.<br>
 
-10.&nbsp;</p><p style="text-align: justify;"><b>National/Cultural Events, Workshops &amp; Competitions</b>
+</p><p style="text-align: justify;">10.&nbsp;<b>National/Cultural Events, Workshops &amp; Competitions</b>
 Over the years, our enthusiastic students have been participating in national and cluster events. They have made our school proud with their participations and we would also like to take this opportunity to thank their parents for their utmost support and cooperation. They have been a strong pillar to our students working hand in hand with the Tamil language teachers.<br>
-
+<br>
   
 <b><u>Congratulations to all our participants:</u></b> <br>
 1.&nbsp;Tamizhodu Vilaiyaadu Competition 2018 – Emerged as Quarter Final Winners  <br>
