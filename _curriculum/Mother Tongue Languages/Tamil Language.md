@@ -73,26 +73,3 @@ Over the years, our enthusiastic students have been participating in national an
 <p></p>
 
 
-<table>
-	<tbody><tr>
-			<td><b>Levels</b></td>
-			<td><b>Themes covered</b></td>
-		</tr>
-		<tr>
-			<td>Primary 1 &amp; 2</td>
-			<td>Colouring of Pictures on Pongal festival and class talk</td>
-		</tr>
-		<tr>
-			<td>Primary 3 &amp; 4</td>
-			<td>Create greeting cards for their friends and family</td>
-		</tr>
-		<tr>
-			<td>Primary 5</td>
-			<td>Watch videos and complete crossword puzzles</td>
-		</tr>
-		<tr>
-			<td>Primary 6</td>
-			<td>Practice on drawing traditional rice kolam</td>
-		</tr>
-		<tr></tr>
-	</tbody></table>
