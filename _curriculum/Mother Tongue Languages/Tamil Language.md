@@ -13,7 +13,7 @@ Programmes for Tamil Language @GMS(P) as follows:
 </p>
 ### Level Targeted programmes
 
-<p style="text-align: justify;">1.&nbsp; <b>Buddy Reading Programme for Lower Primary</b>: A programme to support selected students in lower primary in reading during pre-assembly periods. Buddies are guided by teachers and are provided with reading materials.<br>
+<p style="text-align: justify;">1.&nbsp;<b>Buddy Reading Programme for Lower Primary</b>: A programme to support selected students in lower primary in reading during pre-assembly periods. Buddies are guided by teachers and are provided with reading materials.<br>
 
 </p><p style="text-align: justify;">2.&nbsp;<b>Mother Tongue Support Programme (MTSP) for Middle Primary</b>: A targeted programme from MOE to uplift selected students who require more reinforcement of their foundation years. Our Tamil teachers are trained to conduct this programme and it is conducted weekly after curriculum time.<br>
     
