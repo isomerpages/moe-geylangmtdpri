@@ -71,3 +71,29 @@ Over the years, our enthusiastic students have been participating in national an
 7.&nbsp;Tamil Quiz Show - Vasantham Super Kids 2021- Primary 5 students  <br>
 8.&nbsp;Sorpor organised by TRC 2021- Participants in Qualifying Rounds<br>
 <p></p>
+
+<div>
+		</div><table>
+	<tbody><tr>
+			<td><b>Levels</b></td>
+			<td><b>Themes covered</b></td>
+		</tr>
+		<tr>
+			<td>Primary 1 &amp; 2</td>
+			<td>Colouring of Pictures on Pongal festival and class talk</td>
+		</tr>
+		<tr>
+			<td>Primary 3 &amp; 4</td>
+			<td>Create greeting cards for their friends and family</td>
+		</tr>
+		<tr>
+			<td>Primary 5</td>
+			<td>Watch videos and complete crossword puzzles</td>
+		</tr>
+		<tr>
+			<td>Primary 6</td>
+			<td>Practice on drawing traditional rice kolam</td>
+		</tr>
+		<tr></tr>
+	
+	</tbody></table>
