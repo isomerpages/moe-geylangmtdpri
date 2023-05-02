@@ -43,7 +43,7 @@ third_nav_title: Mother Tongue Languages
     
 In 2021, the team decided to bring the whole school virtually to one of the teacher’s home to learn more about the culture and ways of mannerisms when visiting the Hindu home for celebrations. The medicinal benefits of eating in a banana leaf was explained to the visitor, the types of food placed on the banana leaf and even the way to folding the used banana leaf. The significance of drawing kolam and hanging of mango leaves was something new and interesting for the visitor.<br>
 
-<p></p><p style="text-align: justify;">10.&nbsp;<b>National/Cultural Events, Workshops &amp; Competitions</b>
+10 \.&nbsp;<b>National/Cultural Events, Workshops &amp; Competitions</b>
 Over the years, our enthusiastic students have been participating in national and cluster events. They have made our school proud with their participations and we would also like to take this opportunity to thank their parents for their utmost support and cooperation. They have been a strong pillar to our students working hand in hand with the Tamil language teachers.<br>
 <br>
   
@@ -56,4 +56,4 @@ Over the years, our enthusiastic students have been participating in national an
 6.&nbsp;Kolam Ayer CC - Inter-School Virtual Tamil Language Competition 2021- Participation certs &amp; token  <br>
 7.&nbsp;Tamil Quiz Show - Vasantham Super Kids 2021- Primary 5 students  <br>
 8.&nbsp;Sorpor organised by TRC 2021- Participants in Qualifying Rounds<br>
-</p>
+<p></p>
