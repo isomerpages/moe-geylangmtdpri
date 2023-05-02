@@ -72,8 +72,8 @@ Over the years, our enthusiastic students have been participating in national an
 8.&nbsp;Sorpor organised by TRC 2021- Participants in Qualifying Rounds<br>
 <p></p>
 
-<div>
-		</div><table>
+
+<table>
 	<tbody><tr>
 			<td><b>Levels</b></td>
 			<td><b>Themes covered</b></td>
@@ -95,5 +95,4 @@ Over the years, our enthusiastic students have been participating in national an
 			<td>Practice on drawing traditional rice kolam</td>
 		</tr>
 		<tr></tr>
-	
 	</tbody></table>
