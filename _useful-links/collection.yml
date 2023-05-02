@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - School Canteen.md
       - E Learning Day (26 April 2023).md
       - Calendar of Events.md
       - Forms.md
