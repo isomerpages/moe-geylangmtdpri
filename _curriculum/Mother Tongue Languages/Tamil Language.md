@@ -9,8 +9,8 @@ third_nav_title: Mother Tongue Languages
 <img src="/images/TL%20diagram.png" style="width:70%"><br>
 <p style="text-align: center;">The Tamil Language framework<br>
 
-Programmes for Tamil Language @GMS(P) as follows:
-</p>
+</p>Programmes for Tamil Language @GMS(P) as follows:
+<p></p>
 ### Level Targeted programmes
 
 <p style="text-align: justify;">1.&nbsp;<b>Buddy Reading Programme for Lower Primary</b>: A programme to support selected students in lower primary in reading during pre-assembly periods. Buddies are guided by teachers and are provided with reading materials.<br>
