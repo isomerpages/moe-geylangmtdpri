@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: Geylang Methodist School (Primary)
 locations:
   - address:
-      - GMS(P)
       - 4, Geylang East Central
       - Singapore 389706
+      - ""
     operating_hours: []
     maps_link: https://www.google.com/maps?q=GMPS+4,+Geylang+East+Central+Singapore+389706
     title: Address
