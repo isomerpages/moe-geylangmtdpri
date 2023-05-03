@@ -3,7 +3,8 @@ title: Science
 permalink: /curriculum/science/
 description: ""
 ---
-![](/images/Science%20Banner%201.jpeg)
+![](/images/sc%20pic3.jpeg)
+
 
 ### Vision
 
@@ -16,7 +17,7 @@ description: ""
 
 <p style="text-align: justify;">The science curriculum in GMS(P) is guided by the MOE Science curriculum framework (2023).<br></p>
 
-![](/images/science.png)
+<img style="width:70%" src="/images/science.png">
 
 <p style="text-align: justify;">Central to the goal of science education is to provide students with a strong foundation in Science for life and society.<br><br>
 
@@ -68,4 +69,4 @@ This programme is for selected P4 &amp; P5 students who demonstrates keen intere
 
 ### Gallery
 
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMQrC39SRvIgfuYLdM5n2GZSphOXlfLwd3FRGYXbnrsJlwcGBNp2rFwvUeVgNnf7bSXwMz3wv3cBCO/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSIm-skwX6Kc0NIgSqrTVg9s0Ekx3gq-M_RUNHVVVsg_SHNq0Ik1sYkdLU8wsE0xhrE_gYzwecstBa8/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
