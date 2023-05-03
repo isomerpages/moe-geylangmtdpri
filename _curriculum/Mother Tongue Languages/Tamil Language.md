@@ -52,8 +52,7 @@ third_nav_title: Mother Tongue Languages
 | Primary 6  | Traditional puppetry (focus on creativity &amp; moral stories)  |
 |   |   |
 
-</p><p style="text-align: justify;">9 .&nbsp;<b>Celebration of Festival : Deepavali (Term 4)</b>
-    
+</p><p style="text-align: justify;">9 .&nbsp;<b>Celebration of Festival : Deepavali (Term 4)</b><br>
 In 2021, the team decided to bring the whole school virtually to one of the teacher’s home to learn more about the culture and ways of mannerisms when visiting the Hindu home for celebrations. The medicinal benefits of eating in a banana leaf was explained to the visitor, the types of food placed on the banana leaf and even the way to folding the used banana leaf. The significance of drawing kolam and hanging of mango leaves was something new and interesting for the visitor.<br>
 
 </p><p style="text-align: justify;">10 .&nbsp;<b>National/Cultural Events, Workshops &amp; Competitions</b>
