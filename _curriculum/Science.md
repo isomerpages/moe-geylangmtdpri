@@ -16,7 +16,7 @@ description: ""
 
 <p style="text-align: justify;">The science curriculum in GMS(P) is guided by the MOE Science curriculum framework (2023).<br></p>
 
-![](/images/science.png)
+<img src="/images/science.png" style="width:70%">
 
 <p style="text-align: justify;">Central to the goal of science education is to provide students with a strong foundation in Science for life and society.<br><br>
 
