@@ -20,10 +20,10 @@ third_nav_title: Mother Tongue Languages
 </p><p style="text-align: justify;">3 .&nbsp;<b>DEAR (Drop Everything And Read Programme)</b>: A programme aimed to enthuse and support targeted students in Primary 3 in their Oracy skills using Shared Book Approach. Students enjoyed the weekly sessions and developed their interest in reading and vocabulary building.<br>
     
 </p><p style="text-align: justify;">4 .&nbsp;<b>Higher Mother Tongue Programme for Middle Primary</b>: GMS(P) was one of the participating schools for the trial of this programme. The aim of this programme is to further stretch students with good language proficiency. Three of our current P6 Higher Mother Tongue students have been involved in the trial programme since 2020. Their keen interest for Tamil language is evident during their participation in class and written work.
-
+</p>
 ### Programmes for all levels:
 
-</p><p style="text-align: justify;">5 .&nbsp;<b>TRP (Tamil Reading Programme)</b>: D.E.A.R. has evolved to the current programme as recorded stories for all students on a fortnightly basis. The themes for these stories are based on moral values and culture where students are engaged dialogically in discussions.<br>
+<p></p><p style="text-align: justify;">5 .&nbsp;<b>TRP (Tamil Reading Programme)</b>: D.E.A.R. has evolved to the current programme as recorded stories for all students on a fortnightly basis. The themes for these stories are based on moral values and culture where students are engaged dialogically in discussions.<br>
     
 </p><p style="text-align: justify;">6 .&nbsp;<b>MTL Reading Ambassadors</b>: The Reading Ambassadors are reading enthusiasts who support their Tamil teachers during TRP sessions, manage the reading corners at Tamil class, promote suitable book titles and library visits.&nbsp;<br>
     
