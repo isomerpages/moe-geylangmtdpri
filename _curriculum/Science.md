@@ -3,7 +3,8 @@ title: Science
 permalink: /curriculum/science/
 description: ""
 ---
-![](/images/Science%20Banner%201.jpeg)
+![](/images/sc%20pic3.jpeg)
+
 
 ### Vision
 
