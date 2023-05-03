@@ -7,11 +7,10 @@ third_nav_title: Mother Tongue Languages
 <p style="text-align: justify;">Learning in the Mother tongue is also crucial for improving other critical thinking skills, second language learning, and literacy skills. The Tamil language department in collaboration with the other MT departments @ GMS(P) instills the passion and use of the language to our students through various school-based programmes, activities and beyond. We believe our students will continue to love Tamil Language and render it as a “living language” in years to come.<br></p>
 
 <img src="/images/TL%20diagram.png" style="width:50%"><br>
-<p style="text-align: center;">The Tamil Language framework<br>
+<p style="text-align: center;"><b>The Tamil Language framework</b><br><br>
 	
 </p>Programmes for Tamil Language @GMS(P) as follows:
 <p></p>
-
 ### Level Targeted programmes
 
 1 \.&nbsp;<b>Buddy Reading Programme for Lower Primary</b>: A programme to support selected students in lower primary in reading during pre-assembly periods. Buddies are guided by teachers and are provided with reading materials.<br>
@@ -71,5 +70,3 @@ Over the years, our enthusiastic students have been participating in national an
 7.&nbsp;Tamil Quiz Show - Vasantham Super Kids 2021- Primary 5 students  <br>
 8.&nbsp;Sorpor organised by TRC 2021- Participants in Qualifying Rounds<br>
 <p></p>
-
-
