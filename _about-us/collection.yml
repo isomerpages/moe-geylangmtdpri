@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Bus.md
-      - School Canteen.md
       - Principal's Message.md
       - Our Rich Heritage.md
       - Vision, Mission & Values.md
@@ -24,3 +22,5 @@ collections:
       - Virtual Tour of GMS(P).md
       - Location and Contact Information.md
       - Non Financial Information.md
+      - School Canteen.md
+      - School Bus.md
