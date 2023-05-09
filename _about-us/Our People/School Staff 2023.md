@@ -28,9 +28,9 @@ third_nav_title: Our People
 <table style="border-collapse:
  collapse;width:497pt" width="663" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:2084;width:43pt" width="57"> <col style="mso-width-source:userset;mso-width-alt:10642;width:218pt" width="291"> <col style="mso-width-source:userset;mso-width-alt:11520;width:236pt" width="315"></colgroup><tbody><tr style="height:15.0pt" height="20"><td style="height:15.0pt;mso-ignore:colspan;
 									 width:261pt" width="348" colspan="2" height="20"><b>Student Welfare Education Officer</b></td><td style="width:236pt" width="315"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl65" height="20">SWEO</td><td style="border-left:none" class="xl65">Ms Teo Yan Yan Jasmine</td><td style="border-left:none" class="xl66"><a href="mailto:teo_yan_yan_jasmine@moe.edu.sg">teo_yan_yan_jasmine@moe.edu.sg</a></td></tr></tbody></table>
-	<br>
-	<br>
-	<br>
+<br>
+<br>
+<br>
 	 
 
 <table style="border-collapse:
