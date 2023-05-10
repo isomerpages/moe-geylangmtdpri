@@ -22,16 +22,16 @@ description: ""
 
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-* Address: 4, Geylang East Central, Singapore 389706
+* Address: 4, Geylang East Central,&nbsp;Singapore 389706
 * Contact No: 6748 6746
 * Email: gmsp@moe.edu.sg
 * Contact Person: Mdm Mildred Lek  
 
 **How to get there?**
-	* Nearest MRT: Aljunied MRT (EW9 line) – 3 minutes walking distance from Exit B
-* Bus number: 134, 80, 155 - 1 minute walking distance
+* Nearest MRT: Aljunied MRT (EW9 line) <br>- 3 minutes walking distance from Exit B
+* Bus number: 134, 80, 155 <br>- 1 minute walking distance
 
-**Interest applicants must meet the following criteria:**
+**Interested applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 * Able to provide good service and quality food with prices determined in consultation with the school.
 * Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
