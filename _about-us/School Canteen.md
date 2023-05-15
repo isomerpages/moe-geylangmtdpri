@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-|      |    |   |
+| Chinese Rice Stall | 26 May 2023 | Mixed rice is acceptable. |
 
 
 **Application Procedure**
