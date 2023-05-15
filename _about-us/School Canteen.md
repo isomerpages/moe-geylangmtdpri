@@ -7,13 +7,13 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-|      |    |   |
+| Chinese Rice Stall | 26 May 2023 | Mixed rice is acceptable. |
 
 
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-* [Application Form]
+* [Application Form](/files/application%20form.pdf)
 
 2. Attach the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
