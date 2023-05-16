@@ -1,28 +1,10 @@
 ---
 title: School Bus
-permalink: /school-bus/
+permalink: /about-us/school-bus-rates/
 description: ""
 ---
-#### School Bus Advertisement
+#### School Bus Service
+#### 
 
-To apply, please refer to the Service Requirements and the Application Procedure below.
-
-**Service Requirements**
-1.	[Call for Proposal] 
- 
-2.	[Agreement for Appointment of School Bus Operator] 
-
-**Application Procedure**
-
-1. Complete the [Call for Proposal - Annex A] 
-
-2. Submit the completed Call for Proposal – Annex A by closing date, [closing date] , to the School’s General Office.
-
-* Address: 4, Geylang East Central,&nbsp;Singapore 389706
-* Contact No: 6748 6746
-* Email: gmsp@moe.edu.sg
-* Contact Person: Mdm Mildred Lek  
-
-**How to get there?**
-* Nearest MRT: Aljunied MRT (EW9 line) <br>– 3 minutes walking distance from Exit B
-* Bus number: 134, 80, 155 <br>- 1 minute walking distance
+School Bus Operator and Bus Fare <br><br>
+[School Bus Service](/files/gmsp%20school%20bus%20services.pdf)
