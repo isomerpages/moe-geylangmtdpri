@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Bus.md
       - Principal's Message.md
       - Our Rich Heritage.md
       - Vision, Mission & Values.md
@@ -24,3 +23,4 @@ collections:
       - Location and Contact Information.md
       - Non Financial Information.md
       - School Canteen.md
+      - School Bus.md
