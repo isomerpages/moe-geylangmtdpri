@@ -14,17 +14,17 @@ Afternoon: 1pm - 2pm <br>
 
 </p><p style="text-align: justify;">For parents who are driving, we strongly encourage you to drop your child off safely at the HDB carpark next to Gate 3, to facilitate their safe entry into the school premises. This continues even when it rains. Only authorised cars will be allowed to enter the school premises after 7am.<br>
 
-----------------------------------------------------------------<br></p>
+</p><p style="text-align: center;">----------------------------------------------------------------<br></p>
 
 #### Traffic Advisory
 Dear Parent/Guardian,<br>
 <p style="text-align: justify;">Please do not stop your vehicle along the road outside Gate 1 or the bus bay to alight your child/ward. This will cause inconvenience to others. Before 7am: Alight your child/ward at drop-off point inside the school via Gate 1. After 7am: Alight your child/ward at Blk 120 HDB carpark adjacent to Gate 3. You may drive into the carpark via Geylang East Ave 1 (S380120).<br>
 
-----------------------------------------------------------------<br></p>
+</p><p style="text-align: center;">----------------------------------------------------------------<br></p>
 
 #### Updates to PSLE Scoring System
 Please click [here](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html) for more information. <br>
-----------------------------------------------------------------<br><p></p>
+<p style="text-align: center;">----------------------------------------------------------------<br></p><p></p>
 
 #### Photography and Videos
 Please click [here](https://staging.d33dbb0ee5w4xi.amplifyapp.com/about-us/school-policy/assessment-policy/photography-and-videos) to read more about the school's policy on the use of photography and videos.
