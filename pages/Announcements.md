@@ -24,7 +24,6 @@ Dear Parent/Guardian,<br>
 
 #### Updates to PSLE Scoring System
 Please click [here](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html) for more information. <br>
-
 ----------------------------------------------------------------<br><p></p>
 
 #### Photography and Videos
