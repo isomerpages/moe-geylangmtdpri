@@ -73,4 +73,4 @@ description: ""
   
 * Benefit from a value-added image as an ideal place to raise a family<br>
   
-* Increase community bonding and pride<p></p>
+* Increase community bonding and pride
