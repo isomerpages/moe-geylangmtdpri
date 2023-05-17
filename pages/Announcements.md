@@ -24,7 +24,7 @@ Dear Parent/Guardian,<br>
 
 #### Updates to PSLE Scoring System
 Please click [here](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html) for more information. <br>
-<p style="text-align: center;">----------------------------------------------------------------<br></p><p></p>
+<p style="text-align: center;">----------------------------------------------------------------<br></p>
 
 #### Photography and Videos
 Please click [here](https://staging.d33dbb0ee5w4xi.amplifyapp.com/about-us/school-policy/assessment-policy/photography-and-videos) to read more about the school's policy on the use of photography and videos.
