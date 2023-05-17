@@ -102,9 +102,9 @@ description: ""
 * Smart devices and electronic gadgets such as smart watches and MP3 players<br>
 * Cards such as playing cards and trading cards<br>
 * Toys such as toy guns and models<br>
-* Others such as chewing gum and cigarettes</p>
+* Others such as chewing gum and cigarettes<br>
 
-2. <p style="text-align: justify;">Any of the above items found will be confiscated and parents will be informed.<br></p>
+2. </p><p style="text-align: justify;">Any of the above items found will be confiscated and parents will be informed.<br></p>
 
 3. <p style="text-align: justify;"><b>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</b><br></p>
       
