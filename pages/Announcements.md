@@ -31,4 +31,4 @@ Please click [here](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html) 
 <h4 style="color:blue;">Photography and Videos</h4>
 
 
-Please click [here](https://staging.d33dbb0ee5w4xi.amplifyapp.com/about-us/school-policy/assessment-policy/photography-and-videos) to read more about the school's policy on the use of photography and videos.
+Please click [here](/about-us/school-policy/photography-and-videos/) to read more about the school's policy on the use of photography and videos.
