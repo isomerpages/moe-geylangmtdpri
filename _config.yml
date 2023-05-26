@@ -2,8 +2,8 @@ title: Geylang Methodist School (Primary)
 url: https://geylangmethodistpri.moe.edu.sg
 favicon: /images/GMSP Logo - Colour.png
 colors:
-  primary-color: "#2d3377"
-  secondary-color: "#e1be41"
+  primary-color: "#e1be41"
+  secondary-color: "#2d3377"
   media-colors:
     - title: media-color-one
       color: "#dd292f"
