@@ -1,5 +1,5 @@
 ---
-title: For Students &amp; Parents
+title: For Students & Parents
 permalink: /useful-links/for-students-n-parents/
 description: ""
 ---
@@ -46,3 +46,6 @@ description: ""
   
 6\. Name Tag Order  
 [https://www.schooluniforms.sg/gmsp-primary-name-tag](https://www.schooluniforms.sg/gmsp-primary-name-tag)
+
+7\. Lower Primary Parents' Chinese Language Workshop - Slides
+[Lower Pri Parents' CL Workshop](/files/lower%20primary%20parents'%20cl%20workshop.pdf)
