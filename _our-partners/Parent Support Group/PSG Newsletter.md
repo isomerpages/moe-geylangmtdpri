@@ -11,7 +11,7 @@ third_nav_title: Parent Support Group
 [GMS(P) PSG Newsletter - Nov 2022](/files/gms(p)%20psg%20newsletter%20-%20nov%202022.pdf)
 
 ### May 2022
-
+[GMS(P) PSG Newsletter - May 2022](/files/gms(p)%20psg%20newsletter%20-%20may%202022.pdf)
 
 ### July 2021
 
