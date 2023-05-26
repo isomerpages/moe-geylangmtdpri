@@ -47,5 +47,5 @@ description: ""
 6\. Name Tag Order  
 [https://www.schooluniforms.sg/gmsp-primary-name-tag](https://www.schooluniforms.sg/gmsp-primary-name-tag)
 
-7\. Lower Primary Parents' Chinese Language Workshop - Slides
+7\. Lower Primary Parents' Chinese Language Workshop - Slides<br>
 [Lower Pri Parents' CL Workshop](/files/lower%20primary%20parents'%20cl%20workshop.pdf)
