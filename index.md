@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "Geylang Methodist School (Primary) "
+title: Geylang Methodist School (Primary)
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -15,7 +15,7 @@ sections:
           url: /announcements/
         - title: Contact
           description: ""
-          url: ""
+          url: /about-us/location-map-and-contact-information/
         - title: Calendar
           description: ""
           url: /useful-links/calendar-of-events/
