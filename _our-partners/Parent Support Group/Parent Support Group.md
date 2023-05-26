@@ -12,7 +12,9 @@ third_nav_title: Parent Support Group
 
 </p><p style="text-align: justify;">The PSG Team endeavors to continue our partnership with the school to provide a holistic education and personal development for the students. It is the PSG's belief that in being supportive partners of the school, this will enable us to nurture our GMS(P) students to be contributors in the community. Together we tap on each other’s strengths to make GMS(P) a more vibrant environment for the students.&nbsp; We trust that you will find joining the PSG an enriching and worthwhile experience. So why wait, come join us today.
 
-</p><p style="text-align: justify;">To find out more about PSG, do visit us at GMS(P) website or you can email us at psggmsp@gmail.com. For enrolment, you can download the application form and submit it to our PSG email. We look forward to your continuous support and participation.    <br><br>
+</p><p style="text-align: justify;">To find out more about PSG, do visit us at GMS(P) website or you can email us at <a href="mailto:psggmsp@gmail.com">psggmsp@gmail.com</a>  For enrolment, you can download the application form and submit it to our PSG email. We look forward to your continuous support and participation.    <br><br>
 
+
+	
 <b>Bryan Tung</b> <br>
 <b>PSG Chairman</b></p>
