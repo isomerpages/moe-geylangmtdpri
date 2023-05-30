@@ -7,7 +7,7 @@ description: ""
 
 
 
-<h4 style="color:blue;">2023 PSLE - EXAMINATION RULES AND REGULATIONS FOR CANDIDATES</h4>
+<h4 style="color:blue;">2023 PSLE - Examination Rules and Regulations for Candidates</h4>
 
 
 [Click here](https://www.seab.gov.sg/docs/default-source/national-examinations/psle/psle_instructions_for_candidates.pdf)
