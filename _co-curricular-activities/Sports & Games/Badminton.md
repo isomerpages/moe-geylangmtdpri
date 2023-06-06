@@ -2,7 +2,7 @@
 title: Badminton
 permalink: /co-curricular-activities/cca/sports-n-games/badminton/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 ![](/images/photo%20badminton%201.jpg)
 
