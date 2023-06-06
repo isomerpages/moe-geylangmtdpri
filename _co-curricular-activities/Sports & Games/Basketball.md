@@ -2,7 +2,7 @@
 title: Basketball
 permalink: /co-curricular-activities/cca/sports-n-games/basketball/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 ![](/images/BasB1.jpg)
 ### CCA Overview  
