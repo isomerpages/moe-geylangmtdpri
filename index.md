@@ -22,7 +22,7 @@ sections:
         - title: QUICKLINKS
           description: ""
           url: https://www.facebook.com/GMSPrimary/
-      background: /images/IMG-20210708-WA0007.jpg
+      background: /images/gmspribanner.gif
   - infopic:
       title: A day in GMS(P)
       button: Click here for video
