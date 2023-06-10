@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Geylang Methodist School (Primary)
       subtitle: To Inspire Minds, Nurture Character & Touch Community
       key_highlights:
         - title: ANNOUNCEMENTS
