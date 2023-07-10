@@ -30,7 +30,7 @@ Mr Ho Sin Lin<br><br>
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdOxzkbqt-DcqIdZjVYrvkgoWbyRFMHCfccBx3P4YE_AEN2mtxNB4TKcsCdAxwns6qpeT4RtWudBD2/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe><p></p>
 
 ### Achievements<br>
- 1.Participation in Junior and Senior categories of the 2019 East Zone Football Championships<br>
-2.  Top 8 in the 2018 East Zone Football Championships (Senior category)<br>
-3.  Champions of the 2018 Queensway Secondary Invitational Tournament<br>
-4.  Participation in the inaugural Football Association of Singapore Futsal Challenge<br>
+ 
+1.  Top 8 in the 2018 East Zone Football Championships (Senior category)<br>
+2.  Champions of the 2018 Queensway Secondary Invitational Tournament<br>
+3.  Participation in the inaugural Football Association of Singapore Futsal Challenge<br>

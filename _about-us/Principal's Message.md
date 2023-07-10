@@ -15,10 +15,10 @@ description: ""
   
 </p><p style="text-align: justify;">As a school family, we are extremely thankful for the strong support given by our board members, parents, alumni and the community. Such positive partnership based on trust, mutual respect and collaboration is crucial in helping each child learn, grow and excel, both at home and in school.  
   
-</p><p style="text-align: justify;">Finally, we hope you have found the information helpful. Should you need more details, please write in to gmsp@moe.edu.sg and we will assist you. We look forward to welcoming your child to our school. GMSP is an exciting place to Grow in Friendship, Body and Mind - the school motto that is ever so endearing.  <br>
+</p><p style="text-align: justify;">Finally, we hope you have found the information helpful. Should you need more details, please write in to gmsp@moe.edu.sg and we will assist you. We look forward to welcoming your child to our school. GMS(P) is an exciting place to Grow in Friendship, Body and Mind - the school motto that is ever so endearing.  <br>
   
-Thank you.  <br>
+Thank you.  <br><br>
 
-<b>Yours Sincerely,</b><br>
+<b>Yours sincerely,</b><br>
 <b>Mrs Jennifer Choy</b> <br>
 <b>Principal</b></p>
