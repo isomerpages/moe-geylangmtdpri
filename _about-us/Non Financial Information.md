@@ -25,5 +25,5 @@ description: ""
 
 | | 
 | -------- | 
-| **Board Members** <br> Chairman:&nbsp;Mr. Khoong Hock Yun <br> Honorary Secretary: Mr. Victor Owyong <br> Assistant Honorary Secretary: Mrs Jennifer Choy <br> Honorary Treasurer: Wong Kwang Yong <br> Members: Mr. Tay Kah Ann Peter <br> Members: Mr. Chou Fang Soong <br> Members: Mr. Kim Seah Teck Kim <br> Members: Dr. Raymond Teo Cheng Soon <br> Members: Mdm. Ng Cher Siang, Cheryl <br><br> Key Employee :&nbsp;Mrs Jennifer Choy, Principal <br><br> **Auditor** <br> T &amp; C Partners |
+| **Board Members** <br> Chairman:&nbsp;Mr. Khoong Hock Yun <br> Honorary Secretary: Mr. Victor Owyong <br> Honorary Secretary: Mrs Jennifer Choy <br> Honorary Treasurer: Wong Kwang Yong <br> Members: Mr. Tay Kah Ann Peter <br> Members: Mr. Kim Seah Teck Kim <br> Members: Dr. Raymond Teo Cheng Soon <br> Members: Mdm. Ng Cher Siang, Cheryl <br><br> Key Employee :&nbsp;Mrs Jennifer Choy, Principal <br><br> **Auditor** <br> T &amp; C Partners |
 | |
