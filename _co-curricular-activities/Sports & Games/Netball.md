@@ -7,7 +7,7 @@ third_nav_title: Sports & Games
 ![](/images/Netball.jpg)
 
 ### CCA Overview
-<p style="text-align: justify;">The GMSP Netball provides an enriching experience for the players to grow into a confident and resilient individual. We believe in developing the holistic education experience of every player through nurturing interest, developing talent, cultivating zest for life, strengthen friendship and build character.
+<p style="text-align: justify;">The GMS(P) Netball provides an enriching experience for the players to grow into a confident and resilient individual. We believe in developing the holistic education experience of every player through nurturing interest, developing talent, cultivating zest for life, strengthen friendship and build character.
 
 </p><p style="text-align: justify;">The GMSP Netball CCA comprises of both the recreational and school team. Through this CCA, every player is given the opportunity and exposure to the game proper either through the participation in the netball carnivals, friendly matches with other school or zonal netball competitions.
 
