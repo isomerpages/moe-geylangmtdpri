@@ -8,7 +8,7 @@ third_nav_title: Sports & Games
 
 ### CCA Overview  
 
-<p style="text-align: justify;">The Athletics CCA in GMSP is based upon the core Olympic motto of 'Citius, Altius, Fortius' (Faster, Higher, Stronger).&nbsp; We aim to nurture each athlete to be fundamentally stronger both physically and mentally. Regardless of their individual starting points, each athlete is given the opportunity to maximise their potential through friendly and competitive platforms, both zonal and nation-wide.
+<p style="text-align: justify;">The Athletics CCA in GMS(P) is based upon the core Olympic motto of 'Citius, Altius, Fortius' (Faster, Higher, Stronger).&nbsp; We aim to nurture each athlete to be fundamentally stronger both physically and mentally. Regardless of their individual starting points, each athlete is given the opportunity to maximise their potential through friendly and competitive platforms, both zonal and nation-wide.
 
 </p><p style="text-align: justify;">In alignment with the national framework of developing all-rounded athletes, all members of the CCA are given opportunities to hone their sprinting, throwing and jumping skills through regular training sessions.&nbsp; During the off-season, athletes are also exposed to other games and sports through cross-training, a tool which also encourages a strong team spirit and sense of belonging to the CCA.
 
@@ -89,4 +89,3 @@ The following students are our podium finishers:</p>
 * C Girls (600m): Rebecca Tan (14th)</p>
 	
 ![](/images/Athletics%20Team%20Photo.jpeg)
-	
