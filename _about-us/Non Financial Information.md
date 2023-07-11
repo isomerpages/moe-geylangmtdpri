@@ -20,7 +20,7 @@ description: ""
 
 | | |
 | -------- | -------- | 
-| **Vision:** <img src="/images/Sch%20Vision.jpg" style="width:200px;"> <br>  **Mission:**<br> To Inspire Minds,&nbsp;Nurture Character &amp; Touch Commuinity| **Programs/Activities** <br> • **P.R.A.I.S.E @ MY&nbsp;SINGAPURA**<br> • **Applied Learning Programme** <br> • **Learning for Life Programme** | 
+| **Vision:** <img src="/images/Sch%20Vision.jpg" style="width:200px;"> <br>  **Mission:**<br> To Inspire Minds,&nbsp;Nurture Character &amp; Touch Commuinity| **Programs/Activities** <br> • **P.R.A.I.S.E @ MY&nbsp;SINGAPURA**<br> • **Applied Learning Programme** <br> • **Learning for Life Programme - GMS(P) Environment Education** | 
 | | |
 
 | | 
