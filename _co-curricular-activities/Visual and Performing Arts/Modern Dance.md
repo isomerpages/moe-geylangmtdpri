@@ -9,7 +9,7 @@ third_nav_title: Visual and Performing Arts
 ### CCA Overview
 <p style="text-align: justify;">In Modern Dance, we believe that with the right attitude and determination, EVERYONE CAN DANCE! Through this CCA, we hope that students will be able to express themselves using their talents, showing who they can be.&nbsp;
 
-</p><p style="text-align: justify;">Modern Dance at GMSP comprises of students both with and without dance backgrounds. Dance holds a special place in these children’s hearts and often fills it with joy.&nbsp;
+</p><p style="text-align: justify;">Modern Dance at GMS(P) comprises of students both with and without dance backgrounds. Dance holds a special place in these children’s hearts and often fills it with joy.&nbsp;
 
 </p><p style="text-align: justify;">GMSP dancers work towards a common goal of attaining excellence with joy. New friendships are forged in the process, as we strive to overcome various challenges as a team. Modern Dance is more than just an aesthetic art form. A strong set of values is instilled in very one of our dancers as they embark on their journey.&nbsp;
 

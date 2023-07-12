@@ -8,7 +8,7 @@ third_nav_title: Sports & Games
 
 ### CCA Overview
 
-<p style="text-align: justify;">Football CCA in GMSP believes in giving all our boys as much exposure as possible to nurture their interest in the sport, and through it, build up the character of all our players. We place a big emphasis on teamwork and encouraging one another no matter what challenges we face.<br>
+<p style="text-align: justify;">Football CCA in GMS(P) believes in giving all our boys as much exposure as possible to nurture their interest in the sport, and through it, build up the character of all our players. We place a big emphasis on teamwork and encouraging one another no matter what challenges we face.<br>
 
 </p><p style="text-align: justify;">Starting 2023, Football CCA in GMS(P) will embark on the Schools Football Academy (SFA) programme in collaboration with the Football Association of Singapore (FAS) as part of the nation’s Unleash The Roar (UTR) project aimed at improving football at all levels in Singapore. <br>
 
