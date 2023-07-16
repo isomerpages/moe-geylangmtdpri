@@ -11,7 +11,8 @@ third_nav_title: Our People
 </p><p style="text-align: justify;">The BOM acknowledges the work of the staff and has implemented the five-year Long Service Award since 2005. It also initiated the re-naming of the school to better reflect the oneness of the GM family of schools. The BOM led in the re-designing of the school crest launched in Aug 2007.
 
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="624" style="width:468.0pt;border-collapse:collapse;mso-yfti-tbllook:1184"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td valign="top" style="border:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span><p></p><table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="624" style="width:468.0pt;border-collapse:collapse;mso-yfti-tbllook:1184"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td valign="top" style="border:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:black;mso-bidi-language:AR-SA">Chairman</span><span style="font-size:
   12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-language:AR-SA"></span></p></td><td valign="top" style="border:solid black 1.0pt;border-left:none;mso-border-left-alt:
@@ -75,11 +76,4 @@ third_nav_title: Our People
   border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
   mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:black;mso-bidi-language:AR-SA">Rev Shaun Chong,<br>Pastor-in-Charge,<br>Christalite Methodist Chapel</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes"><td valign="top" style="border:solid black 1.0pt;border-top:none;mso-border-top-alt:
-  solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Alumni Representative</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Ms Teo Sek Jen</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td></tr></tbody></table></p>
