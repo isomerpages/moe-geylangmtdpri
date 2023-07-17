@@ -106,13 +106,13 @@ description: ""
 
 2. </p><p style="text-align: justify;">Any of the above items found will be confiscated and parents will be informed.<br>
 
-3. </p><p style="text-align: justify;"><b>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</b><br></p>
+3. </p><p style="text-align: justify;"><b>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</b><br>
       
 
 
 ### 11) Use of Mobile Phones in School
 
-1. <p style="text-align: justify;">Students are&nbsp;<b>not</b>&nbsp;encouraged to bring their mobile phones to school. However, we do understand that there may be certain circumstances where some parents will need to communicate with their children through their phones. <br></p>
+1. </p><p style="text-align: justify;">Students are&nbsp;<b>not</b>&nbsp;encouraged to bring their mobile phones to school. However, we do understand that there may be certain circumstances where some parents will need to communicate with their children through their phones. <br></p>
 
     
 2. <p style="text-align: justify;">Students are only allowed to use their mobile phones at two designated times: before morning assembly and after school. At all other times, mobile phones must be switched off. Permission must be sought from a teacher if students need to use the phones urgently outside the allocated time slots.&nbsp; <br></p>
