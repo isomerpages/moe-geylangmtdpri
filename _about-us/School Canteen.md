@@ -27,7 +27,7 @@ description: ""
 * Email: gmsp@moe.edu.sg
 * Contact Person: Mdm Mildred Lek  
 
-**How to get there?**
+**How to get to GMS(P)?**
 * Nearest MRT: Aljunied MRT (EW9 line) <br>- 3 minutes walking distance from Exit B
 * Bus number: 134, 80, 155 <br>- 1 minute walking distance
 
