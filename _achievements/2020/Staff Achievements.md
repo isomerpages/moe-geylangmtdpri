@@ -4,19 +4,19 @@ permalink: /achievements/2020/staff-achievements/
 description: ""
 third_nav_title: "2020"
 ---
-### Caring Teacher Award (National Level)
+<h4 style="color:blue;">Caring Teacher Award (National Level)</h4>
 
 <p style="text-align: justify;">Our heartiest congratulations to Ms Tan Li Ling, a recipient of the Caring Teacher Award 2020 (National Level)!</p>
 
 ![](/images/Caring%20Teacher%20Award%20-%20Tan%20Li%20Ling.jpg)
 
-### National Day Awards (The Commendation Medal)
+<h4 style="color:blue;">National Day Awards (The Commendation Medal)</h4>
 
 <p></p><p style="text-align: justify;">Our heartiest congratulations to Mrs Beverly Toh and Mrs Anna Quek who were conferred the Commendation Medal (Pingat Kepujian) this year. They have distinguished themselves through commendable performance and conduct, and have shown high care for our young charges. </p>
 
 ![](/images/National%20Day%20Awards.png)
 <br><p></p>
-### MOE Service Excellence Awards (MSEA)<br>
+<h4 style="color:blue;">MOE Service Excellence Awards (MSEA)<br></h4>
 
 <p></p><p style="text-align: justify;">MSEA recognizes staff who are passionate in service delivery, consistent in serving customers with CARE (Courtesy, Accessibility, Responsiveness and Effectiveness) and inspire colleagues to do likewise. We are proud to have 19 awardees for 2020.
 
