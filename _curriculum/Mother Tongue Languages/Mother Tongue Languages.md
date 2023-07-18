@@ -23,7 +23,7 @@ Students can:<br>
 * Connect with wider communities across Asia and the world.
 
 <b>Language Skills</b><br>
-<p style="text-align: justify;">Students will be developed to be competent language users and confident communicators. To achieve these objectives, students have to harness the six language skills (receptive skills), speaking and writing skills (productive skills) and, spoken interaction and written interaction skills )interaction skills).</p>
+<p style="text-align: justify;">Students will be developed to be competent language users and confident communicators. To achieve these objectives, students have to harness the six language skills (receptive skills), speaking and writing skills (productive skills) and, spoken interaction and written interaction skills (interaction skills).</p>
 
 
 ![](/images/MT%20skills.png)
