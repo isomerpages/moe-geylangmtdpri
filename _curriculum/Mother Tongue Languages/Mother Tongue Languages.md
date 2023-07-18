@@ -4,11 +4,11 @@ permalink: /curriculum/mother-tongue-languages/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-### Vision:
+<h4 style="color:blue;">Vision:</h4>
 Nurturing <b>Active Learners</b> and <b>Proficient Users</b>
 
 
-### Mission:
+<h4 style="color:blue;">Mission:</h4>
 <p style="text-align: justify;">To develop proficient users of MTL language by creating positive learning experiences, and cultivating the love for Mother Tongue Language, Culture &amp; Tradition in our students.
 
 
@@ -16,7 +16,7 @@ Nurturing <b>Active Learners</b> and <b>Proficient Users</b>
 	
 ![](/images/MT%20diagram.png)
  <p></p>
-### MT Curriculum Objectives : 
+<h4 style="color:blue;">MT Curriculum Objectives :</h4> 
 Students can:<br>
 * Communicate more effectively in MTL.
 * Appreciate their cultural heritage.
