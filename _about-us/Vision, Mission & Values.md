@@ -3,16 +3,15 @@ title: Vision, Mission & Values
 permalink: /about-us/vision-mission-n-values/
 description: ""
 ---
-<h3 style="color:blue;">School Vision
+<h3 style="color:blue;">School Vision</h3>
 
 <img style="width:70%" src="/images/GMSP%20Values.png">
 
-</h3><h3 style="color:blue;">School Mission
-<br><p></p>
-</h3><h5 style="color:black;">To Inspire Minds, Nurture Character &amp; Touch Community
+<h3 style="color:blue;">School Mission</h3>
+<br>
+<strong>To Inspire Minds, Nurture Character &amp; Touch Community</strong>
 
-</h5><h3 style="color:blue;">Core Values (INSPIRE)
-</h3><h5 style="color:black;">Our seven core values form the acronym&nbsp;<u>INSPIRE</u>
+<h3 style="color:blue;">Core Values (INSPIRE)</h3><strong>Our seven core values form the acronym&nbsp;<u>INSPIRE</u></strong>
 
 <strong><u> In</u></strong>tegrity<br>
 <strong><u>S</u></strong>ervanthood <br>
@@ -21,8 +20,8 @@ Grat<strong><u>i</u></strong>tude &amp; Grac<strong><u>i</u></strong>ousness <br
 <strong><u>R</u></strong>espect <br>
 <strong><u>E</u></strong>xcellence
 
-</h5><h3 style="color:blue;">Themes for the Year
-</h3><h6 style="color:black;">
+<h3 style="color:blue;">Themes for the Year
+</h3>
 	
 | Year | Theme | 
 | -------- | -------- | 
@@ -32,4 +31,4 @@ Grat<strong><u>i</u></strong>tude &amp; Grac<strong><u>i</u></strong>ousness <br
 | 2020 | <strong><u>Colossians 4:6</u>&nbsp; &nbsp;&nbsp;<u>SEASONED WITH SALT</u></strong> <br> Let your&nbsp;conversation be always full of grace,&nbsp;seasoned with salt,&nbsp;so that you may know how to answer everyone. |
 | 2019 | <strong><u>1 Timothy 4:12</u>&nbsp; &nbsp;&nbsp;<u>BEING A GOOD INFLUENCE TO SELF AND OTHERS</u></strong> <br> Don’t let anyone look down on you because you are young, but set an example for the believers in&nbsp;speech, in&nbsp;conduct, in love, in faith and in purity. |
 | 2018 | <strong><u>1 Thessalonians 5:18</u>&nbsp; &nbsp;&nbsp;<u>GIVE THANKS</u></strong> <br> … give thanks in all circumstances; for this is the will of God in Christ Jesus for you. |
-| |</h6>
+| |
