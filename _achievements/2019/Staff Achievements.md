@@ -4,7 +4,7 @@ permalink: /achievements/2019/staff-achievements/
 description: ""
 third_nav_title: "2019"
 ---
-### Most Inspiring Tamil Teachers Award 2019
+<h4 style="color:blue;">Most Inspiring Tamil Teachers Award </h4>
 
 
 
@@ -12,7 +12,7 @@ third_nav_title: "2019"
 
 <p style="text-align: justify;">Our heartiest congratulations to our Tamil Language Coordinator, Mrs Nantheini Elangovan, who is one of the recipients of the Most Inspiring Tamil Teachers Award 2019.&nbsp;This award is jointly organised by Tamil Murasu (TM), Singapore Tamil Teachers' Union (TTSU) and the Tamil Language Learning and Promotion Committee (TLLPC). This award serves to recognise the stellar performance of Tamil Language teachers for their role in educating and promoting Tamil Language among their students.&nbsp;&nbsp;</p>
 
-### MOE Service Excellence Award (MSEA)
+<h4 style="color:blue;">MOE Service Excellence Award (MSEA)</h4>
 
 <p></p><p style="text-align: justify;">MSEA recognizes staff who are passionate in service delivery, consistent in serving customers with CARE (Courtesy, Accessibility, Responsiveness and Effectiveness) and inspire colleagues to do likewise. We are proud to have 12 awardees for 2019.&nbsp;
 
