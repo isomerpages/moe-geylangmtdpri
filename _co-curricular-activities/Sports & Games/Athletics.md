@@ -6,7 +6,7 @@ third_nav_title: Sports & Games
 ---
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Y39B-_Y7XMFtfiizuhKd3APCmSFrE0um-MQhi9VL4axv5ZmtNfdx67iJ52bSSfvNu2iL3r_9-B5b/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
-### CCA Overview  
+<h4 style="color:blue;">CCA Overview </h4>
 
 <p style="text-align: justify;">The Athletics CCA in GMS(P) is based upon the core Olympic motto of 'Citius, Altius, Fortius' (Faster, Higher, Stronger).&nbsp; We aim to nurture each athlete to be fundamentally stronger both physically and mentally. Regardless of their individual starting points, each athlete is given the opportunity to maximise their potential through friendly and competitive platforms, both zonal and nation-wide.
 
@@ -14,13 +14,13 @@ third_nav_title: Sports & Games
 
 </p><p style="text-align: justify;">We believe that each athlete is unique in terms of their aspirations and potential.&nbsp; Through the myriad of learning opportunities offered in Athletics, we strive to be the platform for members to grow in friendship, body and mind.<br></p>
 
-### Teachers-in-charge <br>
+<h4 style="color:blue;">Teachers-in-charge</h4> <br>
 
 Mrs Monica Phua (IC)<br>
 Ms Shannon Loh (2IC)&nbsp;<br>
 Mr Michael Goh<br>
 
-### Achievements  <br>
+<h4 style="color:blue;">Achievements</h4>  <br>
 	
 <b>Singapore Sports School Primary Schools Invitational Meet</b><br>
 <p></p><p style="text-align: justify;">Eight students participated in this meet on 11th and 12th March 2023. They are Cao Hang Ryan (P5-8), Chloe Chan Si Kei (P5-7), Kaelynn Lim (P6-7), Lim Xuan Qi Nathanael (P4-8), Muhammad Akmal (P5-4), Nurin Iman Nina Binte Abdullah (P6-2), Takahashi Sachiko and Wong Wen Jie Roy (P6-8).<br>
