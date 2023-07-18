@@ -104,13 +104,13 @@ description: ""
 * Toys such as toy guns and models<br>
 * Others such as chewing gum and cigarettes<br>
 
-2.</p><p style="text-align: justify;">Any of the above items found will be confiscated and parents will be informed.<br>
+2.</p><p></p><p style="text-align: justify;">Any of the above items found will be confiscated and parents will be informed.<br>
 
-3.</p><p style="text-align: justify;"><b>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</b><br>
+3.</p><p></p><p style="text-align: justify;"><b>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</b><br>
       
 
 
-</p><h4 style="color:blue;">11) Use of Mobile Phones in School</h4>
+</p><p></p><h4 style="color:blue;">11) Use of Mobile Phones in School</h4>
 
 1. <p></p><p style="text-align: justify;">Students are&nbsp;<b>not</b>&nbsp;encouraged to bring their mobile phones to school. However, we do understand that there may be certain circumstances where some parents will need to communicate with their children through their phones. <br></p>
 
