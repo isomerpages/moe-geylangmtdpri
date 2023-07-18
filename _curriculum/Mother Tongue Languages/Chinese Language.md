@@ -156,7 +156,7 @@ The CL curriculum aims to:
   mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
   90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">&nbsp;</span></p></td></tr></tbody></table>
 
-<h4 style="color:blue;">SUMMARY OF CHINESE PROGRAMME</h4>
+<h4 style="color:blue;">Summary of Chinese Programme</h4>
  
 1\. Chinese New Year Celebration <br>
 2\. Mother Tongue Fortnight <br>
@@ -164,4 +164,4 @@ The CL curriculum aims to:
 4\. Structure Reading Programme <br>
 5\. Engage parents in MTL E-Oral Workshop
 
-<h4 style="color:blue;">GALLERY</h4>
+<h4 style="color:blue;">Gallery</h4>
