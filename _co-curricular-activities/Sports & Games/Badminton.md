@@ -6,7 +6,7 @@ third_nav_title: Sports & Games
 ---
 ![](/images/photo%20badminton%201.jpg)
 
-### CCA Overview  
+<h4 style="color:blue;">CCA Overview </h4>
 
 <p style="text-align: justify;">To be part of Badminton CCA in GMS(P) is to be part of a family that foregrounds the importance of values such as perseverance, teamwork and respect in sports. We seek to cultivate good character and ignite passion in the sport of badminton. 
 
@@ -14,7 +14,7 @@ third_nav_title: Sports & Games
 
 </p><p style="text-align: justify;">We believe every badminton player is special and will grow in ‘friendship, body and mind’ to reach his or her fullest potential.</p>
 
-### Teachers-in-charge
+<h4 style="color:blue;">Teachers-in-charge</h4>
 
 Mdm Ros’mariati Bte Sulaiman (IC)<br>
 Mrs Lee Lai Chan (2IC)<br>
@@ -23,7 +23,7 @@ Mdm Loh Puay San<br>
 
 Coach: Mr Ong Chee Hwa Vincent<br>
 
-### Achievements
+<h4 style="color:blue;">Achievements</h4>
 <b>2023 National School Games</b><br>
 Badminton Tournament East Zone 2023 (Participation)<br>
 	
