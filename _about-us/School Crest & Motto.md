@@ -1,10 +1,10 @@
 ---
-title: School Crest &amp; Motto
+title: School Crest & Motto
 permalink: /about-us/school-crest-n-motto/
 description: ""
 ---
-### School Crest
-
+<h3 style="color:blue;">School Crest
+</h3><h6 style="color:black;">
 <img src="/images/GMSP%20Logo%20-%20Colour.png" style="width:50%">
 
 <p style="text-align: justify;">The School Crest is the embodiment of our aims and aspirations for Geylang Methodist School. The shield offers protection and reminds us of the Lord God who is our strength, our help and our shield.
@@ -17,4 +17,4 @@ description: ""
 
 ### School Motto
 
-<b>To Grow in Friendship, Body and Mind</b>
+<b>To Grow in Friendship, Body and Mind</b></h6>
