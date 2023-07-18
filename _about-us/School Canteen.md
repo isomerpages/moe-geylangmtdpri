@@ -3,7 +3,7 @@ title: School Canteen
 permalink: /school-canteen/
 description: ""
 ---
-#### School Canteen Advertisement
+<h4 style="color:blue;">School Canteen Advertisement</h4>
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
@@ -27,7 +27,7 @@ description: ""
 * Email: gmsp@moe.edu.sg
 * Contact Person: Mdm Mildred Lek  
 
-**How to get there?**
+**How to get to GMS(P)?**
 * Nearest MRT: Aljunied MRT (EW9 line) <br>- 3 minutes walking distance from Exit B
 * Bus number: 134, 80, 155 <br>- 1 minute walking distance
 

@@ -15,14 +15,14 @@ description: ""
   
 </p><p style="text-align: justify;">FMS has been well received by parents and participating schools. Since 2002, it has reached close to 2 million people. As at 2010, there are 227 schools in the FMS programme. </p> 
   
-### Objectives
+<h4 style="color:blue;">Objectives</h4>
 
 <p></p><p style="text-align: justify;">The FMS aims to help bond families and individuals (namely, parents,&nbsp;students and staff) through programmes and activities approved by MCYS.  
   
 </p><p style="text-align: justify;">The FMS hopes to enhance the quality of family life and indirectly also impact the positive growth of the children in the school. Therefore, we hope to have your full support and participation on the SFE programmes and activities.</p>
 
   
-### Features
+<h4 style="color:blue;">Features</h4>
 
 <p></p><p style="text-align: justify;">1.&nbsp;<b>Family Learning</b><br> 
 </p><p style="text-align: justify;">A family that learns together grows together. Therefore, FMS Programmes are designed and planned to promote better parent-child understanding through talks, workshops and activities.  <br><br>
@@ -39,7 +39,7 @@ description: ""
 4.&nbsp;<b>Students’ Programme</b><br>
 </p><p style="text-align:justify;">FMS&nbsp;empowers students with positive values to empower them in their relationships with others, and thereby facilitate their growth into responsible adults.<br></p>
   
-### Benefits
+<h4 style="color:blue;">Benefits</h4>
 
 <p style="text-align: justify;">The programmes and activities under&nbsp;FMS&nbsp;are of high quality and evaluation from participants showed that they experienced considerable improvements in their family life after attending SFE programmes.  <br>
   
@@ -57,11 +57,11 @@ description: ""
 * Developmet into socially adept individuals equipped with positive life skills.<br></p>
   
 
-### For School Staff
+<h4 style="color:blue;">For School Staff</h4>
 <p style="text-align: justify;">Better equipped and hence better performance as their personal needs are taken care of.<br></p>
   
 
-### For School<br>
+<h4 style="color:blue;">For School</h4><br>
   
 * An ideal environment for learning and working<br>
   
@@ -69,7 +69,7 @@ description: ""
   
 * Happier staff  <br>
 
-### For Community<br>
+<h4 style="color:blue;">For Community</h4><br>
   
 * Benefit from a value-added image as an ideal place to raise a family<br>
   

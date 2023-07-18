@@ -3,7 +3,7 @@ title: School Rules and Regulations
 permalink: /about-us/school-rules-and-regulations/
 description: ""
 ---
-### 1) Students' Attire
+<h4 style="color:blue;">1) Students' Attire</h4>
 
 1. <p style="text-align: justify;"><b>All students are to wear the prescribed school uniform and no modification to the uniform is allowed.</b><br></p>
 
@@ -19,7 +19,7 @@ description: ""
 
 7. <p style="text-align: justify;">The red GMS(P) T-shirt will only be worn during special school events such as National Day and Chinese New Year celebrations. All students will be informed when they are required to come in the red T-shirt.</p>
 
-### 2) Hair and Appearance
+<h4 style="color:blue;">2) Hair and Appearance</h4>
 
 
 1. <p style="text-align: justify;">Students are to be neatly groomed at all times.<br> </p>
@@ -40,7 +40,7 @@ description: ""
 
 9. <p style="text-align: justify;">Students are not allowed to pierce any part of their bodies, except for girls who may pierce their ears and wear only&nbsp;a single ear stud on each ear.<br></p>
       
-### 3) Attendance and Decorum
+<h4 style="color:blue;">3) Attendance and Decorum</h4>
 
 1. <p style="text-align: justify;">All students are to be present for school unless they are unwell / sick. Absentees must present a valid medical certificate or letter of explanation to their form teacher.<br></p>
 
@@ -59,19 +59,19 @@ description: ""
 8. <p style="text-align: justify;">In the event that a student needs to leave the school earlier due to illness or urgent personal matters, only his/her parent/guardian, caregiver or an adult who is related can fetch the student from school. Students are required to obtain permission to leave school before official school dismissal time. Parents are required to sign out their children from the General Office before leaving the school.<br></p>
       
 
-### 4) Personal Responsibility
+<h4 style="color:blue;">4) Personal Responsibility</h4>
 
 1. <p style="text-align: justify;">Students must be responsible for their personal belongings at all times.<br></p>
     
 2. <p style="text-align: justify;">Students must be punctual for school and all activities.<br></p>
       
 
-### 5) Arrival in School
+<h4 style="color:blue;">5) Arrival in School</h4>
 
-1. <p style="text-align: justify;">For safety reasons, students should proceed to the School Hall for Silent Reading from 7.05 a.m. onwards if they are already in school. All students must be in school by 7.30 a.m. Any student entering school premises after the National Anthem and Pledge will be considered late.<br></p>
+<p style="text-align: justify;">For safety reasons, students should proceed to the School Hall for Silent Reading from 7.05 a.m. onwards if they are already in school. All students must be in school by 7.30 a.m. Any student entering school premises after the National Anthem and Pledge will be considered late.<br></p>
       
 
-### 6) Learning Journeys and Activities Conducted Outside School
+<h4 style="color:blue;">6) Learning Journeys and Activities Conducted Outside School</h4>
 
 1. <p style="text-align: justify;">For Learning Journeys and any other activities that are conducted outside the school premises, teachers-in-charge will issue consent forms.&nbsp;<b>These consent forms must be signed by a parent / guardian and returned to the teacher-in-charge by the deadline stipulated.</b>&nbsp;If a student fails to submit a signed consent form prior to the activity, the student will not be allowed to participate in the activity. Verbal consent will not be accepted. <br></p>
       
@@ -79,23 +79,23 @@ description: ""
 2. <p style="text-align: justify;">All students must be in their uniform shirts / blouses or PE shirts and school shorts o skirts / skorts when they are out on Learning Journeys. Track pants are not allowed unless informed by the teachers-in-charge for specific reasons. <br></p>
       
 
-### 7) Vacation Leave
+<h4 style="color:blue;">7) Vacation Leave</h4>
 
-1. <p style="text-align: justify;">Curriculum time is important. Students are not allowed to take leave during term time to go on holiday. Parents are advised to plan vacation leave to coincide with school vacations. In addition, parents must declare their children's travel plans to the school should the school request for the information.<br></p>
+<p style="text-align: justify;">Curriculum time is important. Students are not allowed to take leave during term time to go on holiday. Parents are advised to plan vacation leave to coincide with school vacations. In addition, parents must declare their children's travel plans to the school should the school request for the information.<br></p>
       
 
-### 8) Movement in School
+<h4 style="color:blue;">8) Movement in School</h4>
 
-1. <p style="text-align: justify;">All students should move in a quiet and orderly manner at all times. They are to move according to their class in&nbsp;a single file / in twos and always keep to their left.<br></p>
+<p style="text-align: justify;">All students should move in a quiet and orderly manner at all times. They are to move according to their class in&nbsp;a single file / in twos and always keep to their left.<br></p>
       
     
 
-### 9) Recess Times
+<h4 style="color:blue;">9) Recess Times</h4>
 
-1. <p style="text-align: justify;">Food should be consumed ONLY in the canteen. No playing and shouting is allowed in and around classrooms. All students are to be at the designated assembly areas five minutes before the end of their recess.<br></p>
+<p style="text-align: justify;">Food should be consumed ONLY in the canteen. No playing and shouting is allowed in and around classrooms. All students are to be at the designated assembly areas five minutes before the end of their recess.<br></p>
 
 
-### 10) Prohibited Items
+<h4 style="color:blue;">10) Prohibited Items</h4>
 
 1. <p style="text-align: justify;">Items that interfere with students' learning should not be brought to school, including the following:<br>
 
@@ -104,15 +104,15 @@ description: ""
 * Toys such as toy guns and models<br>
 * Others such as chewing gum and cigarettes<br>
 
-2. </p><p style="text-align: justify;">Any of the above items found will be confiscated and parents will be informed.<br></p>
+2. </p><p style="text-align: justify;">Any of the above items found will be confiscated and parents will be informed.<br>
 
-3. <p style="text-align: justify;"><b>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</b><br></p>
+3. </p><p style="text-align: justify;"><b>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</b><br>
       
 
 
-### 11) Use of Mobile Phones in School
+</p><h4 style="color:blue;">11) Use of Mobile Phones in School</h4>
 
-1. <p style="text-align: justify;">Students are&nbsp;<b>not</b>&nbsp;encouraged to bring their mobile phones to school. However, we do understand that there may be certain circumstances where some parents will need to communicate with their children through their phones. <br></p>
+1. <p></p><p style="text-align: justify;">Students are&nbsp;<b>not</b>&nbsp;encouraged to bring their mobile phones to school. However, we do understand that there may be certain circumstances where some parents will need to communicate with their children through their phones. <br></p>
 
     
 2. <p style="text-align: justify;">Students are only allowed to use their mobile phones at two designated times: before morning assembly and after school. At all other times, mobile phones must be switched off. Permission must be sought from a teacher if students need to use the phones urgently outside the allocated time slots.&nbsp; <br></p>
@@ -129,9 +129,9 @@ description: ""
     
 6. <p style="text-align: justify;">Students who abuse the use of their mobile phones will have their phones confiscated by any teacher or member of the school staff.&nbsp;<b>Confiscated phones will only be released to parents / guardians who come personally to the school's General Office to claim them.</b></p><br>
 
-### 12) Unacceptable Acts and Behaviour
+<h4 style="color:blue;">12) Unacceptable Acts and Behaviour</h4>
 
-1. <p style="text-align: justify;">Serious disciplinary action will be taken against students who commit acts that are dangerous and affect the well-being of other students and staff.<br></p>
+<p style="text-align: justify;">Serious disciplinary action will be taken against students who commit acts that are dangerous and affect the well-being of other students and staff.<br></p>
 
 <p style="text-align: justify;">These include:<br>
 	
