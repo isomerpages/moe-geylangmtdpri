@@ -10,6 +10,6 @@ description: ""
 </p><p style="text-align: justify;">GMS(P) wishes everyone peace, health and safety as we transit into work and play under the new normal!&nbsp;<br>
 </p>	
 <h4 style="color:blue;">Devotion Sharing<br></h4>
-by Reverend Shaun Chong
+**by Reverend Shaun Chong**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ubZiLJjR9Q0" height="315" width="560"></iframe><p></p>
