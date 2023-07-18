@@ -68,7 +68,7 @@ description: ""
 
 <h4 style="color:blue;">5) Arrival in School</h4>
 
-1. <p style="text-align: justify;">For safety reasons, students should proceed to the School Hall for Silent Reading from 7.05 a.m. onwards if they are already in school. All students must be in school by 7.30 a.m. Any student entering school premises after the National Anthem and Pledge will be considered late.<br></p>
+<p style="text-align: justify;">For safety reasons, students should proceed to the School Hall for Silent Reading from 7.05 a.m. onwards if they are already in school. All students must be in school by 7.30 a.m. Any student entering school premises after the National Anthem and Pledge will be considered late.<br></p>
       
 
 <h4 style="color:blue;">6) Learning Journeys and Activities Conducted Outside School</h4>
@@ -81,18 +81,18 @@ description: ""
 
 <h4 style="color:blue;">7) Vacation Leave</h4>
 
-1. <p style="text-align: justify;">Curriculum time is important. Students are not allowed to take leave during term time to go on holiday. Parents are advised to plan vacation leave to coincide with school vacations. In addition, parents must declare their children's travel plans to the school should the school request for the information.<br></p>
+<p style="text-align: justify;">Curriculum time is important. Students are not allowed to take leave during term time to go on holiday. Parents are advised to plan vacation leave to coincide with school vacations. In addition, parents must declare their children's travel plans to the school should the school request for the information.<br></p>
       
 
 <h4 style="color:blue;">8) Movement in School</h4>
 
-1. <p style="text-align: justify;">All students should move in a quiet and orderly manner at all times. They are to move according to their class in&nbsp;a single file / in twos and always keep to their left.<br></p>
+<p style="text-align: justify;">All students should move in a quiet and orderly manner at all times. They are to move according to their class in&nbsp;a single file / in twos and always keep to their left.<br></p>
       
     
 
 <h4 style="color:blue;">9) Recess Times</h4>
 
-1. <p style="text-align: justify;">Food should be consumed ONLY in the canteen. No playing and shouting is allowed in and around classrooms. All students are to be at the designated assembly areas five minutes before the end of their recess.<br></p>
+<p style="text-align: justify;">Food should be consumed ONLY in the canteen. No playing and shouting is allowed in and around classrooms. All students are to be at the designated assembly areas five minutes before the end of their recess.<br></p>
 
 
 <h4 style="color:blue;">10) Prohibited Items</h4>
@@ -131,7 +131,7 @@ description: ""
 
 <h4 style="color:blue;">12) Unacceptable Acts and Behaviour</h4>
 
-1. <p style="text-align: justify;">Serious disciplinary action will be taken against students who commit acts that are dangerous and affect the well-being of other students and staff.<br></p>
+<p style="text-align: justify;">Serious disciplinary action will be taken against students who commit acts that are dangerous and affect the well-being of other students and staff.<br></p>
 
 <p style="text-align: justify;">These include:<br>
 	
