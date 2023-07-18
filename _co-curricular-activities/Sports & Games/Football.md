@@ -6,7 +6,7 @@ third_nav_title: Sports & Games
 ---
 ![](/images/FB27-min.jpg)
 
-### CCA Overview
+<h4 style="color:blue;">CCA Overview</h4>
 
 <p style="text-align: justify;">Football CCA in GMS(P) believes in giving all our boys as much exposure as possible to nurture their interest in the sport, and through it, build up the character of all our players. We place a big emphasis on teamwork and encouraging one another no matter what challenges we face.<br>
 
@@ -20,7 +20,7 @@ third_nav_title: Sports & Games
 </p><p style="text-align: justify;">On the 4th of March 2023, thirty of our football boys were invited to be a part of the FIFA “Football For Schools” festival at the Jalan Besar Stadium. This festival was held to commemorate the launch of the FIFA Football For Schools app in Singapore and our boys had the opportunity to experience first-hand the professionally-crafted training sessions found in the app. It was an exciting day of football learning and fun for all involved and we look forward to more such opportunities for our students.<br></p>
 
 
-### Teachers-in-charge
+<h4 style="color:blue;">Teachers-in-charge</h4>
 
 Mr Christopher Maik (IC) <br>
 Mr Kenneth Kor (2IC)  <br>
@@ -29,7 +29,7 @@ Mr Ho Sin Lin<br><br>
 	
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdOxzkbqt-DcqIdZjVYrvkgoWbyRFMHCfccBx3P4YE_AEN2mtxNB4TKcsCdAxwns6qpeT4RtWudBD2/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe><p></p>
 
-### Achievements<br>
+<h4 style="color:blue;">Achievements</h4><br>
  
 1.  Top 8 in the 2018 East Zone Football Championships (Senior category)<br>
 2.  Champions of the 2018 Queensway Secondary Invitational Tournament<br>
