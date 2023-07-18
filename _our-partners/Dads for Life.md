@@ -3,8 +3,7 @@ title: Dads for Life
 permalink: /about-us/our-partners/dads-for-life/
 description: ""
 ---
-
-### About Us
+<h4 style="color:blue;">About Us</h4>
 
 <p style="text-align: justify;">CDads for Life (DFL) is a national fathers movement that seeks to inspire, mobilise and involve fathers to become good influencers in their children's lives... for life!  
   
@@ -28,4 +27,4 @@ description: ""
 Myron Wee <br>
 Chairman</p>
 
-[http://dadsforlife.sg/](http://dadsforlife.sg/)  
+[http://dadsforlife.sg/](http://dadsforlife.sg/)
