@@ -110,7 +110,7 @@ description: ""
       
 
 
-</p><p></p><h4 style="color:blue;">11) Use of Mobile Phones in School</h4>
+</p><h4 style="color:blue;">11) Use of Mobile Phones in School</h4>
 
 1. <p></p><p style="text-align: justify;">Students are&nbsp;<b>not</b>&nbsp;encouraged to bring their mobile phones to school. However, we do understand that there may be certain circumstances where some parents will need to communicate with their children through their phones. <br></p>
 
