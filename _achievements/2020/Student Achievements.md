@@ -4,7 +4,7 @@ permalink: /achievements/2020/student-achievements/
 description: ""
 third_nav_title: "2020"
 ---
-### Uniformed Groups
+<h4 style="color:blue;">Uniformed Groups</h4>
   
 <u><strong> Boys' Brigade </strong></u><br>
 1.&nbsp;BB J M Fraser Award of Excellence - Gold Award <br>
@@ -20,7 +20,7 @@ third_nav_title: "2020"
 		
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSD4zMHQJh28wfRIKsWAWlcg2jK2UIrU7O4exbueOTIYAz13XRhrUgZw_jWQX3el2CK9tT-d1TF-pEC/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
-### 3rd Text Recital Competition for Primary and Secondary Schools
+<h4 style="color:blue;">3rd Text Recital Competition for Primary and Secondary Schools</h4>
 
 1)&nbsp;Weng Yexiang (P2-9) Silver Award
 
