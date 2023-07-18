@@ -1,18 +1,18 @@
 ---
-title: Character &amp; Citizenship Education (CCE)
+title: Character & Citizenship Education (CCE)
 permalink: /curriculum/character-n-citizenship-education-cce-1/
 description: ""
 third_nav_title: Character & Citizenship
 ---
-### Vision
+<h4 style="color:blue;">Vision</h4>
 
 <p style="text-align: justify;">To develop citizens of good character, ready to lead and serve</p>
 
-### Mission
+<h4 style="color:blue;">Mission</h4>
 
 <p></p><p style="text-align: justify;">To inculcate values and equip students with social emotional competencies and skills to be good individuals and useful citizens</p>
 
-### Overview
+<h4 style="color:blue;">Overview</h4>
 
 <p></p><p style="text-align: justify;"><b>CCE is central to the framework for the 21st Century Competencies and Student Outcomes.&nbsp;( Refer to Figure below) It emphasises the interconnectedness of the core values, social and emotional competencies and civic literacy, global awareness and cross-cultural skills that are crucial for character and citizenship development in our pupils.</b></p>
 
@@ -36,7 +36,7 @@ third_nav_title: Character & Citizenship
   
 </p><p style="text-align: justify;">8. Demonstrate the ability to reflect on and respond to community, national and global issues, and to make informed and responsible decisions as a citizen.  </p>
 
-### Curriculum Structure and Key Programmes
+<h4 style="color:blue;">Curriculum Structure and Key Programmes</h4>
 
 <p></p><p style="text-align: justify;">In GMS(P), the CCE programme is rooted in the following school values: Integrity, Servanthood, Perseverance, Gratitude , Graciousness and Respect and Excellence and is supported by equipping the students with the following Social and Emotional competencies:  
  
@@ -50,7 +50,7 @@ e)&nbsp; &nbsp; Responsible Decision Making
 
 ![](/images/CCE%20Pic%202.png)
 
-### Pedagogical Approaches / Strategies
+<h4 style="color:blue;">Pedagogical Approaches / Strategies</h4>
 
 **CCE Curriculum:** <br>
 <p></p><p style="text-align: justify;">The Character and Citizenship Education (CCE) curriculum was launched on 2 January 2014 by Education Minister Heng Swee Keat. A key feature of these textbooks is 'family time', which suggests activities for parents to bond with their children.  <br>
@@ -93,6 +93,6 @@ e)&nbsp; &nbsp; Responsible Decision Making
   
 </p><p style="text-align: justify;">c) Effective communication of the school’s CCE programme and the provision of platforms for parents’ active involvement in schools will help parents become engaged partners.<br></p>
 
-### Other Events / Programmes
+<h4 style="color:blue;">Other Events / Programmes</h4>
 
 <p style="text-align: justify;">In GMS(P), students are recognised for their efforts in demonstrating the values taught through nominations by teachers and peers in platforms such as the Values Extraordinaire Award, ECHA Award, MWee Award and LKY Award. Over the years, these Awards have helped to spur our students to internalize the values taught and to demonstrate them through their daily lives and actions.</p>
