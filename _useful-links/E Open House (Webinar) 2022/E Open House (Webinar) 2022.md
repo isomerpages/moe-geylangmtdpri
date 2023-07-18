@@ -13,7 +13,8 @@ third_nav_title: E Open House (Webinar) 2022
 
 <p></p>
 
-**Places within the School** <br>(https://staging.d33dbb0ee5w4xi.amplifyapp.com/useful-links/e-open-house-webinar-2022/places-within-the-school/)**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+**Places within the School[ ](/useful-links/e-open-house-webinar-2022/places-within-the-school/)**
+(/useful-links/e-open-house-webinar-2022/places-within-the-school/)** <br>
 
 **School Leaders' Time**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/00eHWHg-_d8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
