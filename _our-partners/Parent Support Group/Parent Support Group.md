@@ -4,7 +4,7 @@ permalink: /about-us/our-partners/parent-support-group/
 description: ""
 third_nav_title: Parent Support Group
 ---
-### Chairman's Message
+<h4 style="color:blue;">Chairman's Message</h4>
 
 <p style="text-align: justify;">    The GMS(P) Parent Support Group (PSG) has come a long way since its humble beginnings, we believe at the heart of every successful and fulfilling parenting journey lies the support of a strong community and communication is crucial between all key stakeholders within the GMS(P) family between School Leadership Team &amp; Staffs, PSG, Parent Volunteers (PVs) and Students.
 
