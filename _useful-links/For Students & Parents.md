@@ -3,7 +3,7 @@ title: For Students & Parents
 permalink: /useful-links/for-students-n-parents/
 description: ""
 ---
-### 2023 Booklists
+<h4 style="color:blue;">2023 Booklists</h4>
 
 * [Primary 1](/files/Primary%201.pdf)<br>
 * [Primary 2](/files/Primary%202.pdf)<br>
@@ -15,7 +15,8 @@ description: ""
 * [Primary 6 (4F)](/files/Primary%206%20(4F).pdf)<br>
 * [Primary 6 (4S)](/files/Primary%206%20(4S).pdf)<br>
 * [Primary 6 (4S_HMT)](/files/Primary%206%20(4S_HMT).pdf)<br>
-### Students
+
+<h4 style="color:blue;">Students</h4>
   
 1\. Singapore Student Learning Space (SLS)  
 [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)  
@@ -26,7 +27,7 @@ description: ""
 3\. School Library Portal  
 [https://schoolibrary.moe.edu.sg/geylangmethodistpri ](https://schoolibrary.moe.edu.sg/geylangmethodistpri )
   
-### Parents
+<h4 style="color:blue;">Parents</h4>
   
 1\. Parents' Gateway  
 [https://pg.moe.edu.sg/](https://pg.moe.edu.sg/)  
