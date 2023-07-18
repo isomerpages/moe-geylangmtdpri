@@ -6,15 +6,15 @@ third_nav_title: Mother Tongue Languages
 ---
 ![](/images/CL%20Pic%201.jpeg)
 
-### Vision
+<h4 style="color:blue;">Vision</h4>
 
 To develop love &amp; appreciation of MT Language &amp; Culture
 
-### Mission
+<h4 style="color:blue;">Mission</h4>
 
 Every Child an Active Learner and Proficient User of MTL
 
-### Overview
+<h4 style="color:blue;">Overview</h4>
 
 The Chinese Language (CL) curriculum aims to develop students into proficient language users who can communicate in a confident, effective and meaningful way in real-life situations.  
   
@@ -26,11 +26,11 @@ The CL curriculum aims to:
 
 3)&nbsp;Create an Immersive Environment to support language &amp; Cultural appreciation.<br>
 
-### Curriculum Structure and Key Programme
+<h4 style="color:blue;">Curriculum Structure and Key Programme</h4>
 
 ![](/images/Capture1.jpg)
 
-### Pedagogical Approaches / Strategies
+<h4 style="color:blue;">Pedagogical Approaches / Strategies</h4>
 
  <table style="margin-left:-5.4pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1024;mso-padding-alt:
@@ -156,7 +156,7 @@ The CL curriculum aims to:
   mso-border-shadow:yes" class="MsoNormal"><span style="font-size:14.0pt;line-height:
   90%;mso-bidi-font-family:Calibri;color:black" lang="EN-GB">&nbsp;</span></p></td></tr></tbody></table>
 
-### SUMMARY OF CHINESE PROGRAMME
+<h4 style="color:blue;">SUMMARY OF CHINESE PROGRAMME</h4>
  
 1\. Chinese New Year Celebration <br>
 2\. Mother Tongue Fortnight <br>
@@ -164,4 +164,4 @@ The CL curriculum aims to:
 4\. Structure Reading Programme <br>
 5\. Engage parents in MTL E-Oral Workshop
 
-### GALLERY
+<h4 style="color:blue;">GALLERY</h4>
