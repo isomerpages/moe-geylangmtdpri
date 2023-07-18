@@ -1,20 +1,20 @@
 ---
-title: Physical &amp; Health Education
+title: Physical & Health Education
 permalink: /curriculum/physical-n-health-education/
 description: ""
 ---
 ![](/images/Chest%20Pass%20in%20PE.jpeg)
 
-### Vision
+<h4 style="color:blue;">Vision</h4>
 <p style="text-align: justify;">Every pupil to be developed physically, cognitively and socially.</p>
 
-### Mission
+<h4 style="color:blue;">Mission</h4>
 <p></p><p style="text-align: justify;">To equip pupils with the knowledge, skills and attitudes to pursue and enjoy a physically active and healthy lifestyle.</p>
 
-### Overview
+<h4 style="color:blue;">Overview</h4>
 <p></p><p style="text-align: justify;">In order to achieve the desired outcomes, we have adopted a 3-pronged approach:&nbsp;<b>Equip, Enthuse, Expose</b></p>
 
-### Curriculum Structure and Key Programmes
+<h4 style="color:blue;">Curriculum Structure and Key Programmes</h4>
 <p style="text-align: justify;">Physical and Health Education in Geylang Methodist School (Primary) aims to develop our students into competent individuals who are able to learn physical skills and healthy habits to enjoy an active and healthy lifestyle.&nbsp;<br>
 
 </p><p style="text-align: justify;">Students in GMS(P) are engaged in interesting physical and sporting activities that focus on fundamental motor skills and impressions leading towards specific movement patterns applicable to an array of skillset found in sports and games skills. The key learning areas found in MOE’s PE syllabus (Primary) are taught and learned by our student’s in their participation in PE. The physical activities are:  <br>
@@ -36,7 +36,7 @@ description: ""
 	4.  Swimsafer Programme<br>
 5.  Inter-Class Games, and lots more ☺<br></p>
 
-### Pedagogical Approaches / Strategies
+<h4 style="color:blue;">Pedagogical Approaches / Strategies</h4>
 <p style="text-align: justify;">In striving towards holistic education, the PE Department has adopted a framework for the learning of Physical &amp; Health Education based on the school’s:<br>
 * Strategic Thrust 1: Nurturing the whole child<br>
 * Strategic Thrust 4:&nbsp; Enhance Home-School-Community partnership to support student learning and development<br></p>
