@@ -3,19 +3,19 @@ title: Student Management and Discipline
 permalink: /curriculum/student-management-and-discipline/
 description: ""
 ---
-### Vision
+<h4 style="color:blue;">Vision</h4>
 <p style="text-align: justify;">To provide the competencies and support needed by our students to meet their current developmental needs and beyond.</p>
 
-### Mission
+<h4 style="color:blue;">Mission</h4>
 <p style="text-align: justify;">Every GMS(P) student a socially and emotionally competent individual who is confident to face his/her future challenges.</p>
 
-### Overview
+<h4 style="color:blue;">Overview</h4>
 <p style="text-align: justify;">The Student Management and Discipline Department aims to support our students' social, emotional and mental well-being through the five key pillars, namely student leadership, discipline, counselling, learning and behavioural support, and financial assistance.</p>
 
 ![](/images/five%20pillars%20of%20department.jpg)
 <p></p>
 
-### Curriculum Structure and Key Programmes
+<h4 style="color:blue;">Curriculum Structure and Key Programmes</h4>
 
 <b>Student Leadership</b> <br>
 <p style="text-align: justify;">In GMS(P), we strongly believe that it is important for our students to experience tiered leadership opportunities. </p>
@@ -50,7 +50,7 @@ description: ""
 <b>Financial Assistance</b> <br>
 <p style="text-align: justify;">Together with MOE, GMS(P) provides financial assistance to our students so that they can benefit from the best opportunities in education. There are various financial assistance schemes available. Students may be eligible if they meet the specific criteria.&nbsp;  </p>
 
-### Pedagogical Approaches / Strategies
+<h4 style="color:blue;">Pedagogical Approaches / Strategies</h4>
 
 <p style="text-align: justify;">The Tiered System of Support (TSS) is a whole-school systematic framework to guide us in identifying needs, organising resources and planning support for our students.</p>
 
