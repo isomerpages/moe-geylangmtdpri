@@ -4,7 +4,7 @@ permalink: /curriculum/mother-tongue-languages/malay-language/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-### Key Programmes
+<h4 style="color:blue;">Key Programmes</h4>
 
 * Extensive Reading Programme - Bacalah Sayang 
 * <p style="text-align: justify;"> MTL Fortnight Activity<br>
