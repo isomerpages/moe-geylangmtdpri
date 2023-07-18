@@ -3,7 +3,7 @@ title: School Canteen
 permalink: /school-canteen/
 description: ""
 ---
-#### School Canteen Advertisement
+<h4 style="color:blue;">School Canteen Advertisement</h4>
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
