@@ -22,7 +22,7 @@ third_nav_title: Character & Citizenship
 
 <p></p>
 
-### Gallery
+<h4 style="color:blue;">Gallery</h4>
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStQmqeBa63AuFmdwkI6jy0sM0PCDF0yjHJTLnuvynGjDfJ8VIGvY0rh6uQwlp3ubqv_EY5m5CmFqWU/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe><p></p>
 
