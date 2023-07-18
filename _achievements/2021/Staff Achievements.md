@@ -4,7 +4,7 @@ permalink: /achievements/2021/staff-achievements/
 description: ""
 third_nav_title: "2021"
 ---
-### Environmental Education
+<h4 style="color:blue;">Environmental Education</h4>
 
 <p style="text-align: justify;">Our school's Learning for Life Programme (LLP) integrates environmental education into our Science curriculum. In line with this, this year our school has received the Green&nbsp;Schools @ South East Award - Sustained Excellence Honorary. This award is given to schools who have at least 3 years of sustained excellence.
 
@@ -16,14 +16,14 @@ Mr Teo Ser Leng <br>
 Mrs Wong Chia Peng <br><br>
 </p>
 	
-### National Day Awards (The Commendation Medal)<br>
+<h4 style="color:blue;">National Day Awards (The Commendation Medal)<br></h4>
 
 <p></p><p style="text-align: justify;">Our heartiest congratulations to Ms Joylynn Lim who was conferred the Commendation Medal (Pingat Kepujian) this year. <br> 
-  </p>
-### National Day Awards (The Long Service Medal)<br>
+</p>
+<h4 style="color:blue;"> National Day Awards (The Long Service Medal)<br></h4>
 <p></p><p style="text-align: justify;">Our heartiest congratulations to Mdm Loh Puay San who was conferred the Long Service Medal (Pingat Bakti Setia) this year.<br>
 </p>
-### Community in Bloom Awards<br>
+<h4 style="color:blue;">Community in Bloom Awards<br></h4>
 
 <img src="/images/CIB%20Gold%20Award.jpg" style="width:100%">
 
