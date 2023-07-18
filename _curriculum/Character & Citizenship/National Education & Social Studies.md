@@ -1,12 +1,12 @@
 ---
-title: National Education &amp; Social Studies
+title: National Education & Social Studies
 permalink: /curriculum/character-n-citizenship-education-cce-1/national-education-n-social-studies/
 description: ""
 third_nav_title: Character & Citizenship
 ---
 ![](/images/NESS%2001.jpg)
 
-### Overview
+<h4 style="color:blue;">Overview</h4>
 
 <p style="text-align: justify;">The National Education and Social Studies (NESS) curriculum in Geylang Methodist School (Primary) aims to develop pupils to function effectively as global citizens who stay rooted to Singapore through:
 
@@ -16,7 +16,7 @@ third_nav_title: Character & Citizenship
 
 </p><p style="text-align: justify;">3) Inculcating cross-cultural awareness and sensitivity to interact with people of other  cultures.</p>
 
-### Curriculum Structure and Key Programmes&nbsp;
+<h4 style="color:blue;">Curriculum Structure and Key Programmes&nbsp;</h4>
 
 <p></p><p style="text-align: justify;">To enable us work towards our vision, the NESS curriculum is designed to achieve a maximum learning outcome through focusing on 4 big areas below:</p>
 
