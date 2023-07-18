@@ -4,7 +4,7 @@ permalink: /achievements/2022/student-achievements/
 description: ""
 third_nav_title: "2022"
 ---
-### CCA
+<h4 style="color:blue;">CCA</h4>
 
 | No | CCA | Name of Competition / Award | Awardees |
 |:---:|:---:|:---:|:---:|
@@ -14,10 +14,10 @@ third_nav_title: "2022"
 | 4.  | Rope Skipping  |  **National School Games Rope Skipping Competition 2022**<br>(Senior Division)<br><br>Event: Double Dutch (Boys)<br>2nd position<br><br><br>**National School Games Rope Skipping Competition 2022**<br>(Junior Division)<br><br>Event: Double Dutch (Boys)<br>2nd position<br><br><br><br><br><br><br>Event: Double Dutch (Mixed)<br>2nd position<br><br><br><br><br><br>Event: Double Dutch (Girls)<br>5th position<br><br><br><br><br>Event: Individual Double Under<br>7th position<br><br>Event: Individual Freestyle<br>7th position<br> | Tan Zi Heng (P6-7)<br>Soon Zhi Bin (P6-7)<br>Zhuo Xin David (P6-4)<br>Chea Dong Shing (P6-2)<br><br><br><br><br><br>Wong Wei Jun (P5-2)<br>Teo Tiat Bing Jenson (P4-7)<br>Theodore Ong Huan Long (P4-7)<br>Ang Kayden (P4-1)<br>Jayden Koh Jia Jun (P4-5)<br><br><br>Goh En Li (P5-1)<br>Bai Junjie (P5-8)<br>Ong Min Zhen (P5-6)<br>Angela Wong Xinyu (P5-3)<br>Jayden Koh Jia Jun (P4-5)<br><br><br>Wang Yinuo (P5-5)<br>Kylie Look Hui Jia (P5-7)<br>Chong Hui Xin, Zoe (P5-3)<br>Sophia Tan Hui Ying (P5-8)<br><br><br>Bai Junjie (P5-8)<br><br><br>Bai Junjie (P5-8) |
 |  5. |  Badminton |   **National School Games Badminton 2022<br>(Junior Division)**<br><br>Event: Doubles<br>1st in tier 1 |  <br><br><br><br>Calista Yeo Jie Lin (P5-7)<br>Ng Ziqi (P5-7) |
 | 6.  |  Basketball |  **National School Games Basketball 2022<br>(Junior Division)**<br><br><br>1st in tier 1<br><br><br><br><br> |  Kwok Hoi Nam (P4-3)<br>Nguyen Quoc Thang (P4-6)<br>Ordonio Red Flores (P4-7)<br>Kong Jun Ze Zander (P5-2)<br>Bu Yung Xuan (P5-3)<br>Kyler Shyu Kei Yu (P5-4)<br>Tan Ding Feng (P5-6)<br>Aaron Thow Min Jie (P5-7)<br>Zumbrunnen Charles Sheng (P5-7)<br>Shen Hangfeng (P5-8)<br>Zhou Junfeng (P5-8) |
-| 7.  | Track and Field  | **National School Games Track & Field 2022<br>(Junior Division)**<br><br>Event: 120 metres<br>3rd Place<br><br>Event: Vertical Jump<br>1st Place<br>2nd Place<br><br>Event: Long Jump with Take off zone<br>3rd Place | <br><br><br><br>Lock Sheng Herng (P5-5) <br><br><br>Lock Sheng Herng (P5-5)<br>Jerry Ang Min Zhe (P5-4)<br><br><br><br>Chloe Chan Si Kei (P4-8) |
+| 7.  | Track and Field  | **National School Games Track &amp; Field 2022<br>(Junior Division)**<br><br>Event: 120 metres<br>3rd Place<br><br>Event: Vertical Jump<br>1st Place<br>2nd Place<br><br>Event: Long Jump with Take off zone<br>3rd Place | <br><br><br><br>Lock Sheng Herng (P5-5) <br><br><br>Lock Sheng Herng (P5-5)<br>Jerry Ang Min Zhe (P5-4)<br><br><br><br>Chloe Chan Si Kei (P4-8) |
 | | |
 
-### Competition
+<h4 style="color:blue;">Competition</h4>
 
 | No | Name of Competition / Awards | Awardees |
 |---|---|---|
