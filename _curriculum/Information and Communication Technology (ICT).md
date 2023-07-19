@@ -5,18 +5,18 @@ description: ""
 ---
 ![](/images/ict%20pic.jpg)
 
-### Vision
+<h4 style="color:blue;">Vision</h4>
 
 <p style="text-align: justify;">Nurturing Future-ready and Responsible Digital Citizens in an ICT-mediated environment</p>
 
-### Mission
+<h4 style="color:blue;">Mission</h4>
 
 <p></p><p style="text-align: justify;">1.  	To deepen learning in an innovative ICT environment to foster engaging experiences<br>
 </p><p style="text-align: justify;">2.  	To sharpen the use of ICT in Teaching and learning practices through professional development of teachers
 </p><p style="text-align: justify;">3.  	To strengthen the focus on Cyber Wellness and New Media Literacies</p>
 
 
-### Overview
+<h4 style="color:blue;">Overview</h4>
 
 <p></p><p style="text-align: justify;">National Digital Literacy Programme (NDLP) aims to equip our students with Digital Literacies.
 MOE launched the National Digital Literacy Programme (NDLP) for schools and Institutes of Higher Learning to help students strengthen their digital literacy in March 2020.
@@ -25,7 +25,7 @@ MOE launched the National Digital Literacy Programme (NDLP) for schools and Inst
 
 ![](/images/ICT.png)
 
-### Curriculum and Key Programmes
+<h4 style="color:blue;">Curriculum and Key Programmes</h4>
 
 <p></p><p style="text-align: justify;">Nurturing the whole child
 ICT is used as an enabler for enhanced learning which all departments utilize to achieve a holistic education for the students. We hope to provide opportunities for our students to be joyful and responsible digital learners through a range of quality learning experiences with technology. Students will be given more opportunities to hone their abilities in being self-directed and independent, and in the process, develop stronger passion and intrinsic motivation in learning.
@@ -47,7 +47,7 @@ Please click here for Info-comm Technology Club CCA</p>
 [Cyberwellness Programme](/curriculum/character-n-citizenship-education-cce-1/cyber-wellness-programme/)
 <p></p>
 
-### Pedagogical Approaches / Strategies
+<h4 style="color:blue;">Pedagogical Approaches / Strategies</h4>
 
 <p></p><p style="text-align: justify;">21st century learners are active and life-long learners. They need skills and competencies pertaining to group-based problem solving and knowledge creation. Self-Directed Learning (SDL) and Collaborative Learning (CoL) are part of the development of the 21CC, as they are learning processes through which our Desired Outcomes of Education can be achieved.&nbsp; The Outcome Goal is that students develop competencies for self-directed and collaborative learning through the effective use of ICT, as well as become discerning and responsible ICT users, so that they can learn and work effectively in the 21st century knowledge-based environment.<br></p>
 

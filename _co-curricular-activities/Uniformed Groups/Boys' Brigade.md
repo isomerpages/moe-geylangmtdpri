@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 ![](/images/BB_Picture4.jpg)
 
-### CCA Overview&nbsp;
+<h4 style="color:blue;">CCA Overview</h4>
 
 <p style="text-align: justify;">The Boys’ Brigade (BB) is a CCA that focuses on the development of the youth. Its mission is to nurture youth, based on sound values, to lead and serve. We believe in training up a child to be disciplined and to be God fearing. Our motto is Sure and Steadfast and it is taken from Hebrews 6:19 of the bible (KJV).
 
@@ -21,7 +21,7 @@ third_nav_title: Uniformed Groups
 </p><p style="text-align: justify;">With a team of committed teachers, officers and our Boys, our company has consistently excelled in the past decade with its strong track record in the annual JM Fraser Award for Unit Excellence, the highest accolade for BB Companies in Singapore awarded by BB Headquarters (BBHQ).In 2023, Joel Soh Yong En from 6-8 was awarded the Best Boy Award, which is the highest accolade for BB Boys in Singapore awarded by BBHQ every year.<br></p>
 
 
-### Achievements&nbsp;<br>
+<h4 style="color:blue;">Achievements</h4><br>
 <b>2023</b> <br>
 Tan Boon Chian Medal Best Boy 20223-Joel Soh Yong En(6-8)  <br>
 Adventure Quest, Gold Honour Roll - P6 BB Boys  <br>
@@ -56,7 +56,7 @@ Boys’ Brigade Week 2019 Gold Honour Roll<br>
 Character Quest 2019 Gold Honour Roll<br>
 J M Fraser Award For Excellence 2019 (YOA 2018) - Gold Honour Roll<br>
 
-### Teachers-in-Charge<br>
+<h4 style="color:blue;">Teachers-in-Charge</h4><br>
 Mrs Anna Quek (Captain) <br>
 Mr Calvin Eng (IC) <br> 
 Ms Sarah-Ann Tan (2IC) <br> 

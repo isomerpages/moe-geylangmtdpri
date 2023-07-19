@@ -5,21 +5,21 @@ description: ""
 ---
 ![](/images/Math%20Page%20Photo%201.jpg)
 
-### Vision
+<h4 style="color:blue;">Vision</h4>
 
 <p style="text-align: justify;">Every GMS(P) Student An Analytical Lifelong Problem-Solver</p>
 
-### Mission
+<h4 style="color:blue;">Mission</h4>
 
 <p></p><p style="text-align: justify;">To equip students with the concepts, skills and disposition so that they can learn and apply Mathematics joyfully with their peers</p>
 
-### Overview
+<h4 style="color:blue;">Overview</h4>
 
 <p></p><p style="text-align: justify;">In GMS(P), we strongly believe that all students can learn mathematics, given the appropriate instruction and opportunity to learn. The belief that they can learn mathematics drives student effort. Our dedicated teachers help their students by ensuring that they experience success in learning mathematics. When students see that they can learn mathematics by putting in effort, they will develop a growth mind-set.
 
 </p><p style="text-align: justify;">The Mathematics curriculum aims to nurture students to be confident and effective problem-solvers. We advocate incorporating a variety of approaches and activities to make learning of mathematics both engaging and fun for our young ones. And we also need to garner parents’ support to reinforce basic numeracy concepts at home.</p>
 
-### Curriculum Structure and Key Programmes
+<h4 style="color:blue;">Curriculum Structure and Key Programmes</h4>
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:74.75pt;border:solid windowtext 1.0pt;
@@ -104,7 +104,7 @@ description: ""
   EN-SG" lang="EN-SG">- Raffles Institution Mathematics World Contest (Selected students)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
   EN-SG" lang="EN-SG">- Remediation Support</span></p></td></tr></tbody></table><p></p>
 
-### Pedagogical Approaches / Strategies
+<h4 style="color:blue;">Pedagogical Approaches / Strategies</h4>
 
 <p></p><p style="text-align: justify;">At primary level, we teach students to learn and master mathematical concepts using a three-step learning process: concrete, pictorial and abstract. In the concrete step, students engage in hands-on learning experiences using concrete objects such as multilink cubes, paper folding. This is followed by drawing pictorial representations of mathematical concepts. Students then solve mathematical problems in an abstract way by using numbers and symbols.
 

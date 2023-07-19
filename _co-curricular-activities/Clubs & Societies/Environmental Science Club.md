@@ -2,11 +2,11 @@
 title: Environmental Science Club
 permalink: /co-curricular-activities/cca/clubs-n-societies/environmental-science-club/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
 ![](/images/ESC8.png)
 
-### CCA Overview
+<h4 style="color:blue;">CCA Overview</h4>
 
 **Our key motto**<br>
 1.&nbsp;&nbsp;&nbsp; Be Gracious<br>
@@ -20,7 +20,7 @@ Learn about how Science affects the Environment<br></p>
 * <p style="text-align: justify;"><u>Serve</u> our school/community<br>
 Share our knowledge on Environmental Science issues with our schoolmates and community<br></p>
 
-### Our CCA activities
+ <h4 style="color:blue;">Our CCA activities</h4>
 
 <p style="text-align: justify;">1) Work closely with Nparks to plan and conduct activities for schoolmates during recess.<br></p>
 
@@ -42,14 +42,14 @@ Share our knowledge on Environmental Science issues with our schoolmates and com
 *	Pick up the litter at the garden<br>
 
 
-### Teachers-in-charge
+<h4 style="color:blue;">Teachers-in-charge</h4>
 Mdm Christine Tan (I/C)<br>
 Mrs Wong Chia Peng<br>
 Ms Shirin Gan<br><br>
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTvYUShrwMOjh-5q-S_AqF4MI_aHFNqLkqyRPX13Xm7cNtWissTqc19EGibO76vecjgU4AMGdJ5PSqJ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe><p></p>
 	
-### Achievements
+<h4 style="color:blue;">Achievements</h4>
 Finalists of <b>SINGAPORE AMAZING FLYING MACHINE COMPETITION 2022</b>
 
 | No | Name of student | Class | Awards won |

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports & Games
 ---
 ![](/images/BasB1.jpg)
-### CCA Overview  
+<h4 style="color:blue;">CCA Overview</h4>
 <p style="text-align: justify;">Objectives of Basketball CCA are:<br>
 </p><p style="text-align: justify;">*   To enable students to understand and apply the basic rules of basketball.<br>
 </p><p style="text-align: justify;">*   To enable students (ranging from beginners to advanced players) to learn and apply skills such as movement skills, ball skills, attacking skills, defending skills, shooting skills and game strategies.<br>
@@ -15,14 +15,14 @@ third_nav_title: Sports & Games
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXGNqlQpZUnn017aoSsi3OcL826EMbV1Kg8FhG3hP6DDeihp8678DK89OLXpK0i2IWd6Ug-x0oI5Z3/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </p>
 
-### Teachers-in-charge<br>
+<h4 style="color:blue;">Teachers-in-charge</h4><br>
 Mr Sim Wei Zhang (IC)<br>
 Mr Fahmi Bin Sahar (2IC)<br>
 Ms Clara Lim<br>
 
 Coach: Mr Ong Wen Qian<br>
 
-### Achievements<br>
+<h4 style="color:blue;">Achievements</h4><br>
 <b>National School Games Basketball 2023 (Senior Division)</b><br>
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5th Placing in East Zone
 

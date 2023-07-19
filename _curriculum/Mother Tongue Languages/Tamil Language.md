@@ -12,7 +12,7 @@ third_nav_title: Mother Tongue Languages
 </p>Programmes for Tamil Language @GMS(P) as follows:
 <p></p>
 
-### Level Targeted programmes
+<h4 style="color:blue;">Level Targeted programmes</h4>
 
 <p style="text-align: justify;">1 .&nbsp;<b>Buddy Reading Programme for Lower Primary</b>: A programme to support selected students in lower primary in reading during pre-assembly periods. Buddies are guided by teachers and are provided with reading materials.<br>
 
@@ -23,7 +23,7 @@ third_nav_title: Mother Tongue Languages
 </p><p style="text-align: justify;">4 .&nbsp;<b>Higher Mother Tongue Programme for Middle Primary</b>: GMS(P) was one of the participating schools for the trial of this programme. The aim of this programme is to further stretch students with good language proficiency. Three of our current P6 Higher Mother Tongue students have been involved in the trial programme since 2020. Their keen interest for Tamil language is evident during their participation in class and written work.
 </p>
 
-### Programmes for all levels:
+<h4 style="color:blue;">Programmes for all levels:</h4>
 
 <p></p><p style="text-align: justify;">5 .&nbsp;<b>TRP (Tamil Reading Programme)</b>: D.E.A.R. has evolved to the current programme as recorded stories for all students on a fortnightly basis. The themes for these stories are based on moral values and culture where students are engaged dialogically in discussions.<br>
     

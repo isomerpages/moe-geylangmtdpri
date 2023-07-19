@@ -6,11 +6,11 @@ third_nav_title: Sports & Games
 ---
 ![](/images/RS11.jpg)
 
-### CCA Overview
+<h4 style="color:blue;">CCA Overview</h4>
 
 <p style="text-align: justify;">The Rope Skipping CCA aims to inculcate the 4Ds, namely Determination, Discipline, Diligence and Dedication, in our skippers through our weekly sessions. Skippers will be trained to equip themselves with the various Level 1, 2 and 3 skipping skills progressively. Skippers who exhibit talent, as well as the 4Ds, will also be able to represent the school to showcase their talent by participating in the annual National Rope Skipping Championships.</p>
 
-### Teachers-in-charge
+<h4 style="color:blue;">Teachers-in-charge</h4>
 
 Mdm Hanitha Shamsudeen (IC)<br>
 Mrs Tan Siew Kuan (2IC)<br>
@@ -20,7 +20,7 @@ Coach: Mr Don Lui<br><br>
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSskiyl_Qph_izCL058nuQdN0cqvoEfH_ocC9f5fehFHCvKoJnXSmCp55zpwl3n0MZC-dCtUVrwQWJE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe><br>
 	
-### Achievements
+<h4 style="color:blue;">Achievements</h4>
 
 **National School Games Rope&nbsp;Skipping&nbsp;Competition 2022 (Senior Division)**
 

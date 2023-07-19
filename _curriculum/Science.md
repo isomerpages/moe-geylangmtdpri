@@ -6,14 +6,14 @@ description: ""
 ![](/images/sc%20pic3.jpeg)
 
 
-### Vision
+<h4 style="color:blue;">Vision</h4>
 
 <p style="text-align: justify;">Inspired by values, enculturated in the practices of science</p>
 
-### Mission
+<h4 style="color:blue;">Mission</h4>
 <p style="text-align: justify;">To inspire Scientific learning based on ethical reasoning and impact the society positively<br></p>
 
-### Overview
+<h4 style="color:blue;">Overview</h4>
 
 <p style="text-align: justify;">The science curriculum in GMS(P) is guided by the MOE Science curriculum framework (2023).<br></p>
 
@@ -40,7 +40,7 @@ description: ""
 * Relating Science, Technology, Society and Environment (STSE)<br>
 </p>
 
-### Pedagogical Approaches / Strategies<br>
+<h4 style="color:blue;">Pedagogical Approaches / Strategies</h4><br>
 <p></p><p style="text-align: justify;">Inquiry-Based Approach is adopted in our teaching and learning of science. This approach is built on the premise that students are inquirers of learning, and teachers’ as facilitators of the learning process.<br>
 
 </p><p style="text-align: justify;">The 3C Pedagogical framework is adopted to guide teachers in designing and enacting meaningful inquiry lessons in the classroom.
@@ -50,7 +50,7 @@ description: ""
 
 <p style="text-align: justify;">Harnessing the affordance of ICT and our school facilities, the department also incorporate learning outside the classroom through our Sensory Gardens and Eco-Gardens. This helps us to engage students, arouse their curiosity and develop their process skills such as observation skills and questioning.</p>
   
-### Science Programmes
+<h4 style="color:blue;">Science Programmes</h4>
 
 <b>Inquiry learning in P3 to P6 science classrooms<br>
 Outdoor learning trail within the school<br>
@@ -58,7 +58,7 @@ Learning Journeys<br>
 School wide Assembly Talks<br>
 Learning for Life Program (LLP) on sustainable education</b> <br>
 
-### Other Events / Programmes
+<h4 style="color:blue;">Other Events / Programmes</h4>
 1)&nbsp;Enrichment Programmes
 <p style="text-align: justify;">Excellence 2000 (E2K) Science Programme Singapore
 This programme is for selected P4 &amp; P5 students who demonstrates keen interest and ability in Science. The programme engages pupils in scientific investigations involving advanced science concepts. It aims to engage pupils in scientific inquiry that will help them to develop the habits, attitudes and dispositions scientists possess as well as gain important 21st century competencies such as critical and inventive thinking and effective communication skills. (Adapted from MOE website)<br>
@@ -67,6 +67,6 @@ This programme is for selected P4 &amp; P5 students who demonstrates keen intere
 
 2)&nbsp;Participation in External Events or Competitions</p>
 
-### Gallery
+<h4 style="color:blue;">Gallery</h4>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSIm-skwX6Kc0NIgSqrTVg9s0Ekx3gq-M_RUNHVVVsg_SHNq0Ik1sYkdLU8wsE0xhrE_gYzwecstBa8/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>

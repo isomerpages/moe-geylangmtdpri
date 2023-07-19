@@ -4,14 +4,14 @@ permalink: /curriculum/english-language/
 description: ""
 ---
 ![](/images/el_picture2.jpg)
-### Vision
+<h4 style="color:blue;">Vision</h4>
 <p style="text-align: justify;">Every GMS(P) student is an informed, competent, confident and empathetic communicator in reading and writing.</p>
 
-### Mission
+<h4 style="color:blue;">Mission</h4>
 <p style="text-align: justify;">To enrich students’ learning experiences by taking them out of the classroom to experience how language is used in real-life contexts and bring the world into the classroom through the use of multimodal texts. </p>
 
 
-### Curriculum Structure and Key Programmes
+<h4 style="color:blue;">Curriculum Structure and Key Programmes</h4>
 <p style="text-align: justify;">Taking reference from the MOE English Language&nbsp; Syllabus 2020 and aligning to the STELLAR 2.0 (Strategies for English Language Learning and Reading), the school’s EL curriculum is designed for real-life application and the teaching of values and social-emotional competencies. Recognising that every student has a different learning profile, there is explicit teaching in the following areas at different levels.</p>
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="589" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
@@ -164,7 +164,7 @@ description: ""
   mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes" align="center" class="MsoNormal"><span style="font-size:12pt" lang="EN-GB">Primary 6</span></p></td></tr></tbody></table></strong></p>
 
-### Pedagogical Approaches / Strategies
+<h4 style="color:blue;">Pedagogical Approaches / Strategies</h4>
 
 <b>STELLAR - Strategies for English Language Learning and Reading</b> 
 

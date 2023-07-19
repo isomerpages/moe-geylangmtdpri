@@ -15,6 +15,6 @@ description: ""
 
 </p><p style="text-align: justify;">The colours blue and gold frame our crest and represent heaven and earth respectively, reflecting our heavenly aspirations which are firmly grounded in our earthly realism to&nbsp;<b>‘Grow in Friendship, Body and Mind’.</b></p>
 
-### School Motto
+<h4 style="color:blue;">School Motto</h4>
 
 <b>To Grow in Friendship, Body and Mind</b>

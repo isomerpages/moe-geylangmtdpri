@@ -24,7 +24,7 @@ description: ""
 <figcaption> New school extension of hall and classroom </figcaption>
 </figure><br>
 
-### Many Helping Hands
+<h4 style="color:blue;">Many Helping Hands</h4>
 
 <p style="text-align: justify;">Of the many helping hands that supported the building of the school, one missionary and one educator played pivotal roles in starting the school – Reverend Floyd Sullivan and Miss Emma Eaton Walker.
 

@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 ![](/images/GBPicture1.jpg)
 
-### CCA Overview
+<h4 style="color:blue;">CCA Overview</h4>
 <img src="/images/GB%20Mission.png" style="width:150%">
 <p style="text-align: justify;">The Girls' Brigade is a uniformed group that seeks to help girls achieve their fullest potential through positive character building and activities. We aim to develop each girl to her fullest potential by equipping, empowering and enabling every girl to be a leader.&nbsp;<br><br>
 
@@ -149,7 +149,7 @@ third_nav_title: Uniformed Groups
   &quot;Times New Roman&quot;;color:black">Ong Yun Ting</span></p></td></tr></tbody></table><br>
 <p></p>
 
-### Teachers-in-charge<br>
+<h4 style="color:blue;">Teachers-in-charge</h4><br>
 Mrs Ariel Koh (IC) <br>
 Mrs Christabel Chue (2IC) <br>
 Ms Theresa Tong  <br>
@@ -160,7 +160,7 @@ Mdm Tan Ai Cheng (Church Personnel)  <br>
 Ms Rebecca Ting (Church Personnel)<br>
 <p></p>
 
-### Achievements<br>
+<h4 style="color:blue;">Achievements</h4><br>
 <b>2022 Junior Brigader Brooch Awardee:</b> <br>
 1.Chloe Goh Qiaoli, P6-5<br>
 (Company Leader)
