@@ -105,11 +105,12 @@ third_nav_title: Our People
 
 | Allied Educators |  |  |
 |---|---|---|
-| School Counsellor | Mrs Cheong May Nar | ng_may_nar@moe.edu.sg |
+| Senior School Counsellor | Mrs Cheong May Nar | ng_may_nar@moe.edu.sg |
 | School Counsellor (Part-Time) | Mrs Christina Chan | christina_chan@moe.edu.sg |
-| SEN Officers | 1. Mdm Agnes Yap | yap_kwee_lan_agnes@moe.edu.sg |
-|   | 2. Ms Sim Chen Yen |   |
-|   | 3. Ms Salamiah Mohd Sani | salamiah_mohd_sani@moe.edu.sg |
+| SEN Officers | 1. Ms Sim Chen Yen | sim_chen_yen@moe.edu.sg |
+|   | 2. Ms Salamiah Mohd San | salamiah_mohd_sani@moe.edu.sg  |
+|   | 3. Ms Nur Azlinah Binte Mohamed Ali |  nur_azlinah_mohamed_ali@moe.edu.sg |
+|   | 4. Ms Sharon Soh  | soh_sharon_a@moe.edu.sg |
 | Allied Educator (T&amp;L) | Mr Seah Keng Swee | seah_keng_swee@moe.edu.sg |
  
 <br>
