@@ -99,7 +99,7 @@ third_nav_title: Our People
 | P6-8 | Mrs Serene Ong (Mdm Choa Shiling) | choa_shiling@moe.edu.sg |
 |   | Mrs Sylvia Foo (Mdm Chee Siew Khing) |  |
 
-<br><br>
+<br>
 
 | Allied Educators |  |  |
 |---|---|---|
@@ -137,10 +137,7 @@ third_nav_title: Our People
 |   | 5. Mdm Ling Chin Ping |  |
 	
 <br>
-<br>
 	    
-
-
 
 | Support Staff |  |
 |---|---|
