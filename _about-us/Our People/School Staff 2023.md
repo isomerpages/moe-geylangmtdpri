@@ -110,27 +110,48 @@ third_nav_title: Our People
 |   | 3. Ms Salamiah Mohd Sani | salamiah_mohd_sani@moe.edu.sg |
 | Allied Educator (T&amp;L) | Mr Seah Keng Swee | seah_keng_swee@moe.edu.sg |
  
-<br><br>
+<br>
 	
 
 | Student Welfare Education Officer |  |  |
 |---|---|---|
 | SWEO | Ms Teo Yan Yan Jasmine | teo_yan_yan_jasmine@moe.edu.sg |
-<br>
-<br>
+
 <br>
 	 
 
-<table border="0" cellpadding="0" cellspacing="0" width="663" style="border-collapse:
- collapse;width:497pt"><colgroup><col width="57" style="mso-width-source:userset;mso-width-alt:2084;width:43pt"> <col width="291" style="mso-width-source:userset;mso-width-alt:10642;width:218pt"> <col width="315" style="mso-width-source:userset;mso-width-alt:11520;width:236pt"></colgroup><tbody><tr height="20" style="height:15.0pt"><td height="20" colspan="2" width="348" style="height:15.0pt;mso-ignore:colspan;
-									 width:261pt"><b>Executive &amp; Administrative Staff</b></td><td width="315" style="width:236pt"></td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt">Admin Manager</td><td class="xl65" style="border-left:none">Mdm Mildred Lek</td><td class="xl66" style="border-left:none"><a href="mailto:lek_chew_peng@moe.edu.sg">lek_chew_peng@moe.edu.sg</a></td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">Operations Manager</td><td class="xl65" style="border-top:none;border-left:none">1. Mr Ong Liang Soon</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:ong_liang_soon@moe.edu.sg">ong_liang_soon@moe.edu.sg</a></td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">&nbsp;</td><td class="xl65" style="border-top:none;border-left:none">2. Mr Donald Teh&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:Teh_Sing_Wan@moe.edu.sg">Teh_Sing_Wan@moe.edu.sg</a></td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">Administrative Executive</td><td class="xl65" style="border-top:none;border-left:none">1. Ms Lynn Yeo</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:yeo_cin_cin_lynn@moe.edu.sg">yeo_cin_cin_lynn@moe.edu.sg</a></td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">&nbsp;</td><td class="xl65" style="border-top:none;border-left:none">2. Mdm Daphne Chan&nbsp;</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:chan_shu_hui_daphne@moe.edu.sg">chan_shu_hui_daphne@moe.edu.sg</a></td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">&nbsp;</td><td class="xl65" style="border-top:none;border-left:none">3. Ms Grace Chan Siew Ling</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:chan_siew_ling_grace@moe.edu.sg">chan_siew_ling_grace@moe.edu.sg</a></td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">MSO</td><td class="xl65" style="border-top:none;border-left:none">1. Ms Angeline Wee&nbsp;</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:Wee_Meow_Cheng@moe.edu.sg">Wee_Meow_Cheng@moe.edu.sg</a></td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">&nbsp;</td><td class="xl65" style="border-top:none;border-left:none">2. Ms Portia Yeong</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:Yeong_Bee_Kiean@moe.edu.sg">Yeong_Bee_Kiean@moe.edu.sg</a></td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">OSO</td><td class="xl65" style="border-top:none;border-left:none">1. Mdm Wong Nuik Yin</td><td class="xl65" style="border-top:none;border-left:none">&nbsp;</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">&nbsp;</td><td class="xl65" style="border-top:none;border-left:none">2. Mdm Chua Kim Kee</td><td class="xl65" style="border-top:none;border-left:none">&nbsp;</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">&nbsp;</td><td class="xl65" style="border-top:none;border-left:none">3. Mdm Ong Geok Eng</td><td class="xl65" style="border-top:none;border-left:none">&nbsp;</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">&nbsp;</td><td class="xl65" style="border-top:none;border-left:none">4. Mdm Malliga d/o Suppiah</td><td class="xl65" style="border-top:none;border-left:none">&nbsp;</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">&nbsp;</td><td class="xl65" style="border-top:none;border-left:none">5. Mdm Ling Chin Ping</td><td class="xl65" style="border-top:none;border-left:none">&nbsp;</td></tr></tbody></table>
+| Executive &amp; Administrative Staff |  |  |
+|---|---|---|
+| Admin Manager | Mdm Mildred Lek | lek_chew_peng@moe.edu.sg |
+| Operations Manager | 1. Mr Ong Liang Soon | ong_liang_soon@moe.edu.sg |
+|   | 2. Mr Donald Teh         | Teh_Sing_Wan@moe.edu.sg |
+| Administrative Executive | 1. Ms Lynn Yeo | yeo_cin_cin_lynn@moe.edu.sg |
+|   | 2. Mdm Daphne Chan  | chan_shu_hui_daphne@moe.edu.sg |
+|   | 3. Ms Grace Chan Siew Ling | chan_siew_ling_grace@moe.edu.sg |
+| MSO | 1. Ms Angeline Wee  | Wee_Meow_Cheng@moe.edu.sg |
+|   | 2. Ms Portia Yeong | Yeong_Bee_Kiean@moe.edu.sg |
+| OSO | 1. Mdm Wong Nuik Yin |   |
+|   | 2. Mdm Chua Kim Kee |   |
+|   | 3. Mdm Ong Geok Eng |   |
+|   | 4. Mdm Malliga d/o Suppiah |   |
+|   | 5. Mdm Ling Chin Ping |  |
 	
-<br>
 <br>
 <br>
 	    
 
 
 
-<table border="0" cellpadding="0" cellspacing="0" width="465" style="border-collapse:
- collapse;width:349pt"><colgroup><col width="210" style="mso-width-source:userset;mso-width-alt:7680;width:158pt"> <col width="255" style="mso-width-source:userset;mso-width-alt:9325;width:191pt"></colgroup><tbody><tr height="20" style="height:15.0pt"><td height="20" width="210" style="height:15.0pt;width:158pt"><b>Support Staff</b></td><td width="255" style="width:191pt"></td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt">Media Resource Library (MRL)</td><td class="xl65" style="border-left:none">Ms Lee Eng Hee</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">ICT Desktop Engineer (DE)</td><td class="xl65" style="border-top:none;border-left:none">1. Mr Mohammad Nazwan Bin Suwandi</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">&nbsp;</td><td class="xl65" style="border-top:none;border-left:none">2. Mr Yusran Bin Eusope</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">Science Lab Assistant</td><td class="xl65" style="border-top:none;border-left:none">Ms Rohaidah Basri</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">Receptionist</td><td class="xl65" style="border-top:none;border-left:none">Ms Tan Suan Cheok</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">Care Corner</td><td class="xl65" style="border-top:none;border-left:none">Mdm Sarina Binti Mail</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">Christian Ministry Staff</td><td class="xl65" style="border-top:none;border-left:none">1. Mdm Tan Ai Cheng</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">&nbsp;</td><td class="xl65" style="border-top:none;border-left:none">2.&nbsp;Mdm Rebecca Ting</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">Security Officer</td><td class="xl65" style="border-top:none;border-left:none">1. Mr Steven Tan</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">&nbsp;</td><td class="xl65" style="border-top:none;border-left:none">2. Mr Rahman</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl65" style="height:15.0pt;border-top:none">&nbsp;</td><td class="xl65" style="border-top:none;border-left:none">3. Mr Sulaiman Bin Salleh</td></tr></tbody></table>
+| Support Staff |  |
+|---|---|
+| Media Resource Library (MRL) | Ms Lee Eng Hee |
+| ICT Desktop Engineer (DE) | 1. Mr Mohammad Nazwan Bin Suwandi |
+|   | 2. Mr Yusran Bin Eusope |
+| Science Lab Assistant | Ms Rohaidah Basri |
+| Receptionist | Ms Tan Suan Cheok |
+| Care Corner | Mdm Sarina Binti Mail |
+| Christian Ministry Staff | 1. Mdm Tan Ai Cheng |
+|   | 2. Mdm Rebecca Ting |
+| Security Officer | 1. Mr Steven Tan |
+|   | 2. Mr Rahman |
+|   | 3. Mr Sulaiman Bin Salleh |
