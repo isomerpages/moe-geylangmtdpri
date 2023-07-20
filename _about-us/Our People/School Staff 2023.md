@@ -30,6 +30,7 @@ third_nav_title: Our People
 |   | Mr Harrie Desianto B Mohd Hussien  | harrie_desianto_mohd_hussien@moe.edu.sg |
 |   | Ms Zhao Yunluan  | zhao_yunluan@moe.edu.sg |
 | P2-3 | Mr Sufian Dadula | mohamed_sufian_mohamed_sol@moe.edu.sg |
+|   | Ms Tan Cher Hui  | tan_cher_hui@moe.edu.sg |
 | P2-4 | Ms Siti Raudah Iskandar  | Siti_raudah_iskandar@moe.edu.sg |
 |   | Ms Denyse Ong San San | ong_san_san_denyse@moe.edu.sg |
 | P2-5 | Ms Jolyn Chun Chor Wan  | Chun_chor_wan_jolyn@moe.edu.sg |
