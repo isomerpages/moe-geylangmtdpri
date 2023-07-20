@@ -67,6 +67,7 @@ third_nav_title: Our People
 |   | Mdm Hanitha Shamsudeen | hanitha_shamsudeen@moe.edu.sg |
 | P4-7 | Ms Claudia Chong | claudia_chong_xin_jie@moe.edu.sg |
 | P4-8 | Ms Sarah-Ann Tan Liang Ling | tan_liang_ling_sarah-ann@moe.edu.sg |
+|   | Ms Wang Xuan-xin | wang_xuan-xin@moe.edu.sg |
 | P5-1 | Mr Chen Zhirong | chen_zhirong@moe.edu.sg |
 |   | Mdm Chia Hwee See, Jill | jill_chia@moe.edu.sg |
 | P5-2 | Mdm Sabrina Banu Bte Mohammed Sidik | sabrina_banu_mohammed_sidik@moe.edu.sg |
