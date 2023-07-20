@@ -62,7 +62,7 @@ third_nav_title: Our People
 | P4-4 | Mrs Wong Chia Peng (Mdm Tan Chia Peng) | tan_chia_peng@moe.edu.sg |
 |   | Ms Teo Yan Yan Jasmine | teo_yan_yan_jasmine@moe.edu.sg |
 | P4-5 | Ms Shirin Gan | gan_jia_hui_shirin@moe.edu.sg |
-|   | Mr Harrie Desianto B Mohd Hussien  | harrie_desianto_mohd_hussien@moe.edu.sg |
+|   | Mdm Lim Siow Yen Sharon  | lim_siow_yen_sharon@moe.edu.sg |
 | P4-6 | Mdm Cynthia Sun Lai Ling | sun_lai_ling_cynthia@moe.edu.sg |
 |   | Mdm Hanitha Shamsudeen | hanitha_shamsudeen@moe.edu.sg |
 | P4-7 | Ms Claudia Chong | claudia_chong_xin_jie@moe.edu.sg |
