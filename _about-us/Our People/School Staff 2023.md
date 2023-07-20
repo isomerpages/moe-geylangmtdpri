@@ -38,8 +38,8 @@ third_nav_title: Our People
 |   | Mr Fahmi Bin Sahar  | fahmi_sahar@moe.edu.sg |
 | P2-7 | Ms Ler Yu Min  | ler_yu_min@moe.edu.sg |
 |   | Mrs Nantheini Elangovan (Mdm Nantheini Naidu d/o Yengadayson) | yengadayson_nantheini@moe.edu.sg |
-| P2-8 | Ms Tan Cher Hui  | tan_cher_hui@moe.edu.sg |
-|   | Mrs Chan Wai Leng (Mdm Goh Wai Leng)  | goh_wai_leng@moe.edu.sg |
+| P2-8 | Mrs Chan Wai Leng (Mdm Goh Wai Leng)  | goh_wai_leng@moe.edu.sg |
+|   | Ms Seah Sze Tong Tina  | seah_sze_tong_tina@moe.edu.sg |
 | P2-9 | Mdm Tan Yin Huay, Cherine | tan_yin_huay_cherine@moe.edu.sg |
 |   | Mdm Loh Puay San | loh_puay_san@moe.edu.sg |
 | P3-1 | Mdm Chow Fong Yee | chow_fong_yee@moe.edu.sg |
