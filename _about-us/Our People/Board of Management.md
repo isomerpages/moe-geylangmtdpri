@@ -10,70 +10,18 @@ third_nav_title: Our People
   
 </p><p style="text-align: justify;">The BOM acknowledges the work of the staff and has implemented the five-year Long Service Award since 2005. It also initiated the re-naming of the school to better reflect the oneness of the GM family of schools. The BOM led in the re-designing of the school crest launched in Aug 2007.
 
+	
+| |  |  |
+|---|---|---|
+| <b>Chairman | Mr Khoong Hock Yun |
+| <b>Vice Chairman | Mr Chou Fang Soong |
+| <b>Treasurer | Mr Wong Kwong Yong |
+| <b>Secretary | Mrs Jennifer Choy, Principal, GMS(P)|
+|<b> Members | Mdm Ng Cher Siang, Cheryl |
+|  | Mr Tay Kah Ann Peter |
+|  | Dr Raymond Teo Cheng Soon |
+|  | Mr Victor Owyong,&nbsp;Principal, GMS(S) |
+|  | Mr Kim Seah Teck Kim, Asst. Education Secretary, MCS |
+| <b>Ex-Officio Member | Rev Shaun Chong,  Pastor-in-Charge,  Christalite Methodist Chapel |
 
-<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span><p></p><table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="624" style="width:468.0pt;border-collapse:collapse;mso-yfti-tbllook:1184"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td valign="top" style="border:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Chairman</span><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-language:AR-SA"></span></p></td><td valign="top" style="border:solid black 1.0pt;border-left:none;mso-border-left-alt:
-  solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Mr Khoong Hock Yun</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:1"><td valign="top" style="border:solid black 1.0pt;border-top:none;mso-border-top-alt:
-  solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Vice Chairman</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Mr Chou Fang Soong</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:2"><td valign="top" style="border:solid black 1.0pt;border-top:none;mso-border-top-alt:
-  solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Treasurer</span><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-language:AR-SA"></span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Mr Wong Kwong Yong</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:3"><td valign="top" style="border:solid black 1.0pt;border-top:none;mso-border-top-alt:
-  solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Secretary</span><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-language:AR-SA"></span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Mrs Jennifer Choy,</span><br>Principal, GMS(P)<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:4"><td valign="top" style="border:solid black 1.0pt;border-top:none;mso-border-top-alt:
-  solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Members</span><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-language:AR-SA"></span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Mdm Ng Cher Siang, Cheryl</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:5"><td valign="top" style="border:solid black 1.0pt;border-top:none;mso-border-top-alt:
-  solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Mr Tay Kah Ann Peter</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:6"><td valign="top" style="border:solid black 1.0pt;border-top:none;mso-border-top-alt:
-  solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Dr Raymond Teo Cheng Soon</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:7"><td valign="top" style="border:solid black 1.0pt;border-top:none;mso-border-top-alt:
-  solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Mr Victor Owyong,&nbsp;<br>Principal, GMS(S)</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:8"><td valign="top" style="border:solid black 1.0pt;border-top:none;mso-border-top-alt:
-  solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Mr Kim Seah Teck Kim,<br>Asst. Education Secretary, MCS</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:9"><td valign="top" style="border:solid black 1.0pt;border-top:none;mso-border-top-alt:
-  solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Ex-Officio Member</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:AR-SA">Rev Shaun Chong,<br>Pastor-in-Charge,<br>Christalite Methodist Chapel</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-language:AR-SA"></span></p></td></tr></tbody></table></p>
+</b></b></b></b></b></b></p>

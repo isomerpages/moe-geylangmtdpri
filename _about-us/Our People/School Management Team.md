@@ -4,7 +4,7 @@ permalink: /about-us/our-people/school-management-team/
 description: ""
 third_nav_title: Our People
 ---
-[ ](jennifer_han@schools.gov.sg)<h4 style="color:blue;">School Management Team</h4>
+<h4 style="color:blue;">School Management Team</h4>
 
 | NAME | DESIGNATION | EMAIL |
 |---|---|---|
