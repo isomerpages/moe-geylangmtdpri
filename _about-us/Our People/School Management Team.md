@@ -10,7 +10,7 @@ third_nav_title: Our People
 |---|---|---|
 | Mrs Jennifer Choy | Principal | jennifer_han@schools.gov.sg |
 | Mr Anthony Lua | Vice-Principal | lua_ee_ping@schools.gov.sg |
-| Mrs Cherlyn Neo | Vice-Principal | neo_hui_en_cherlyn@schools.gov.sg |
+| Mrs Cherlyn Tan | Vice-Principal | neo_hui_en_cherlyn@schools.gov.sg |
 | Mdm Mildred Lek | Admin Manager  | lek_chew_peng@schools.gov.sg |
 | Mrs Liow Lay Suan | School Staff Developer | lee_lay_suan@moe.edu.sg |
 | Ms Tng Li Ling | Year Head<br>(Upper Pri) | tng_li_ling@moe.edu.sg |
