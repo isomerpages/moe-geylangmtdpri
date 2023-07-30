@@ -34,7 +34,12 @@ description: ""
 [Resource Booking Service](https://rbs.avero-tech.com/)  
 
 [GMS(P) PD Site](https://sites.google.com/moe.edu.sg/gmsp-pdt-site/resources/edtech-resources)
-  
+ 
+[GMS(P) Incident Report Form](https://go.gov.sg/gmspincidentreportform)
+
+[GMS(P) Incident Report (Follow Up)](https://go.gov.sg/incidentreportfollowup)
+
+
 
 <h4 style="color:blue;">Useful Links</h4>
 
