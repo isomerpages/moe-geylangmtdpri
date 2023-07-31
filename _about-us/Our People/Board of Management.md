@@ -22,3 +22,4 @@ third_nav_title: Our People
 |  | Mr Victor Owyong,&nbsp;Principal, GMS(S) |
 |  | Mr Kim Seah Teck Kim, Asst. Education Secretary, MCS |
 | <b>Ex-Officio Member</b> | Rev Shaun Chong,  Pastor-in-Charge,  Christalite Methodist Chapel |
+| |  |  |
