@@ -95,23 +95,33 @@ description: ""
 <p style="text-align: justify;">Food should be consumed ONLY in the canteen. No playing and shouting is allowed in and around classrooms. All students are to be at the designated assembly areas five minutes before the end of their recess.<br></p>
 
 
+
+
 <h4 style="color:blue;">10) Prohibited Items</h4>
 
-1. <p style="text-align: justify;"> Items that interfere with students' learning should not be brought to school, including the following:</p>
-
-<ul style="text-align: justify;">
-    <li>Smart devices and electronic gadgets such as smart watches and MP3 players</li>
-    <li>Cards such as playing cards and trading cards</li>
-    <li>Toys such as toy guns and models</li>
-    <li>Others such as chewing gum and cigarettes</li>
-</ul>
-
-2. <p style="text-align: justify;">  Any of the above items found will be confiscated, and parents will be informed.
-</p>
-
-3.  <p style="text-align: justify;"> <b>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</b>
-</p>
-
+<ol>
+		<li>
+				<p style="text-align: justify;">
+						Items that interfere with students' learning should not be brought to school, including the following:
+				</p>
+				<ul style="text-align: justify;">
+						<li>Smart devices and electronic gadgets such as smart watches and MP3 players</li>
+						<li>Cards such as playing cards and trading cards</li>
+						<li>Toys such as toy guns and models</li>
+						<li>Others such as chewing gum and cigarettes</li>
+				</ul>
+		</li>
+		<li>
+				<p style="text-align: justify;">
+						Any of the above items found will be confiscated, and parents will be informed.
+				</p>
+		</li>
+		<li>
+				<p style="text-align: justify;">
+						<b>All students are not allowed to have any weapon in their possession. They are also not allowed to bring any weapon-like item intended to cause harm to others.</b>
+				</p>
+		</li>
+</ol>
 
 <p></p><h4 style="color:blue;">11) Use of Mobile Phones in School</h4>
 
