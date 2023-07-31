@@ -97,8 +97,7 @@ description: ""
 
 <h4 style="color:blue;">10) Prohibited Items</h4>
 
-<p style="text-align: justify;">
-    1. Items that interfere with students' learning should not be brought to school, including the following:
+1. <p style="text-align: justify;"> Items that interfere with students' learning should not be brought to school, including the following:
 </p>
 
 <ul style="text-align: justify;">
@@ -108,12 +107,10 @@ description: ""
     <li>Others such as chewing gum and cigarettes</li>
 </ul>
 
-<p style="text-align: justify;">
-    2. Any of the above items found will be confiscated, and parents will be informed.
+2. <p style="text-align: justify;">  Any of the above items found will be confiscated, and parents will be informed.
 </p>
 
-<p style="text-align: justify;">
-    <b>3. All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</b>
+3.  <p style="text-align: justify;"> <b>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</b>
 </p>
 
 
