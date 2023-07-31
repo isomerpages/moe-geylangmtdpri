@@ -97,12 +97,12 @@ description: ""
 
 <h4 style="color:blue;">10) Prohibited Items</h4>
 
-1. <p style="text-align: justify;">Items that interfere with students' learning should not be brought to school, including the following:<br>
+1. <p style="text-align: justify;">Items that interfere with students' learning should not be brought to school, including the following:<br></p>
 
 * Smart devices and electronic gadgets such as smart watches and MP3 players<br>
 * Cards such as playing cards and trading cards<br>
 * Toys such as toy guns and models<br>
-* Others such as chewing gum and cigarettes</p>
+* Others such as chewing gum and cigarettes
 
 2. <p style="text-align: justify;">Any of the above items found will be confiscated and parents will be informed.</p>
 
