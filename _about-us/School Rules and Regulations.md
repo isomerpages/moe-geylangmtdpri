@@ -97,8 +97,7 @@ description: ""
 
 <h4 style="color:blue;">10) Prohibited Items</h4>
 
-1. <p style="text-align: justify;"> Items that interfere with students' learning should not be brought to school, including the following:
-</p>
+1. <p style="text-align: justify;"> Items that interfere with students' learning should not be brought to school, including the following:</p>
 
 <ul style="text-align: justify;">
     <li>Smart devices and electronic gadgets such as smart watches and MP3 players</li>
