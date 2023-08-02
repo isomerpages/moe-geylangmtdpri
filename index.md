@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: To Inspire Minds, Nurture Character & Touch Community
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
@@ -21,7 +20,7 @@ sections:
         - title: QUICKLINKS
           description: ""
           url: https://www.facebook.com/GMSPrimary/
-      background: /images/banner pic.jpg
+      background: /images/v2banner pic.jpg
   - infopic:
       title: A day in GMS(P)
       button: Click here for video
