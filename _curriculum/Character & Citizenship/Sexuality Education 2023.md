@@ -226,8 +226,10 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 <p style="text-align: justify;">8.  &nbsp;&nbsp; &nbsp;P6 Parents have been informed of the Sexuality Education Lessons for 2023, through Parents Gateway in October 2022.<br> 
 
+	
 [MOE Sexuality Education in Schools 2022 2023 Letter to Parents 29 October 2022.pdf](https://geylangmethodistpri.moe.edu.sg/qql/slot/u176/2023/MOE%20Sexuality%20Education%20in%20Schools%202022%20%202023%20Letter%20to%20Parents%2029%20October%202022.pdf)   
 
+	
 </p><p style="text-align: justify;">9.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons.<br>
 
 </p><p style="text-align: justify;">10.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable&nbsp;[here]. The completed opt-out form is to be submitted to the General Office by February 2023.<br>
