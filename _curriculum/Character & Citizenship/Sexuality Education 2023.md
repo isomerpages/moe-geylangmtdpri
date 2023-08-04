@@ -28,11 +28,11 @@ third_nav_title: Character & Citizenship
 
 </p><p style="text-align: justify;">(d)&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended&nbsp;pregnancies. Casual sex can harm and hurt you and your loved ones.<br>
 
-</p><p style="text-align: justify;">You may click </p>[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.<br>
+</p><p style="text-align: justify;">You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.<br>
 
 <b>Overview of Geylang Methodist School (Primary)’s Sexuality Education Programme for 2023</b>
 
-<p style="text-align: justify;">4.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click &lt;[here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.<br>
+</p><p style="text-align: justify;">4.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click &lt;[here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.<br>
 
 5.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;The subjects that incorporate topics on sexuality include:<br>
 
@@ -48,7 +48,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 </p><p style="text-align: justify;"><strong>At Geylang Methodist School (Primary), the following Sexuality Education lessons will be taught in&nbsp;2023:<br>
 
-	<b>2023 Sexuality Education Lessons in CCE 2021</b>                                                                           
+<b>2023 Sexuality Education Lessons in CCE 2021</b>                                                                           
 </strong></p><p style="text-align: center;"><strong><strong>Primary 5
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -225,7 +225,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 <b>Information for Parents</b>
 
 <p style="text-align: justify;">8.  &nbsp;&nbsp; &nbsp;P6 Parents have been informed of the Sexuality Education Lessons for 2023, through Parents Gateway in October 2022.<br> 
-	&lt;
+
 [MOE Sexuality Education in Schools 2022 2023 Letter to Parents 29 October 2022.pdf](https://geylangmethodistpri.moe.edu.sg/qql/slot/u176/2023/MOE%20Sexuality%20Education%20in%20Schools%202022%20%202023%20Letter%20to%20Parents%2029%20October%202022.pdf)   
 
 </p><p style="text-align: justify;">9.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons.<br>
