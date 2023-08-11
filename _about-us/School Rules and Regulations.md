@@ -140,7 +140,7 @@ description: ""
 5. <p style="text-align: justify;">Students are responsible for their own mobile phones. The school reserves the right NOT to conduct any investigations to recover any lost mobile phones.<br></p>
       
     
-6. <p style="text-align: justify;">Students who abuse the use of their mobile phones will have their phones confiscated by any teacher or member of the school staff.&nbsp;<b>Confiscated phones will only be released to parents / guardians who come personally to the school's General Office to claim them.</b></p><br>
+6. <p style="text-align: justify;">Students who abuse the use of their mobile phones will have their phones confiscated by any teacher or member of the school staff.&nbsp;<b>Confiscated phones will only be released to parents / guardians who come personally to the school's General Office to claim them.</b></p>
 
 <h4 style="color:blue;">12) Unacceptable Acts and Behaviour</h4>
 
