@@ -122,12 +122,12 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 <b>Information for Parents</b>
 
-</b></b></strong></strong></strong></p><p style="text-align: justify;"><strong><strong><strong><b><b>8.  &nbsp;&nbsp; &nbsp;P6 Parents have been informed of the Sexuality Education Lessons for 2023, through Parents Gateway in October 2022.<br></b></b></strong></strong></strong></p><strong><strong><strong><b><b>
+</b></b></strong></strong></strong></p><p style="text-align: justify;"><strong><strong><strong><b><b><strong><strong><strong><b>8. &nbsp;&nbsp; &nbsp;P6 Parents have been informed of the Sexuality Education Lessons for 2023, through Parents Gateway in October 2022.<br></b></strong></strong></strong></b></b></strong></strong></strong></p><b><b>
 
-<a href="files/Sexuality%20Education%20Letter%20for%20P6%20Parents%202022.pdf">MOE Sexuality Education in Schools 2022-2023 Letter to Parents (29 October 2022).pdf</a>
+<strong><strong><strong><b><a href="files/Sexuality%20Education%20Letter%20for%20P6%20Parents%202022.pdf">MOE Sexuality Education in Schools 2022-2023 Letter to Parents (29 October 2022).pdf</a></b></strong></strong></strong>
 
-<p style="text-align: justify;">9.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons.<br>
+<p style="text-align: justify;"><strong><b>9.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons.<br></b></strong></p>
 
-</p><p style="text-align: justify;">10.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable&nbsp;[here]. The completed opt-out form is to be submitted to the General Office by February 2023.<br>
+<p style="text-align: justify;"><strong><b>10.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable&nbsp;[here]. The completed opt-out form is to be submitted to the General Office by February 2023.<br></b></strong></p>
 
-</p><p style="text-align: justify;">11.&nbsp; &nbsp;&nbsp;  Parents&nbsp;can contact Mrs Beverly Toh (HOD CCE) &amp; Mrs Christabel Chue&nbsp; (Sexuality Education Coordinator) at Tel: 6748 6746 for discussion or to seek clarification about the school’s Sexuality Education programme.</p></b></b></strong></strong></strong>
+<p style="text-align: justify;"><strong><b>11.&nbsp; &nbsp;&nbsp; Parents&nbsp;can contact Mrs Beverly Toh (HOD CCE) &amp; Mrs Christabel Chue&nbsp; (Sexuality Education Coordinator) at Tel: 6748 6746 for discussion or to seek clarification about the school’s Sexuality Education programme.</b></strong></p></b></b>
