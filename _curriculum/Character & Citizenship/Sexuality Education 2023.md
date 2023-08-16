@@ -84,111 +84,36 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 	
 </strong></strong></p><p style="text-align: center;"><strong><strong><strong>Primary 6
 
-<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
- mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
- 0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:49.4pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="66"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt">CCE (FTGP) THEME</span></b></p></td><td style="width:70.85pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="94"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt">LESSON TITLE / DURATION</span></b></p></td><td style="width:290.6pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="387"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt">LESSON OVERVIEW</span></b></p></td><td style="width:56.65pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="76"><p style="margin-bottom:0cm;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><b><span style="font-size:12.0pt">TIME PERIOD</span></b></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal;outline: 0px" align="center" class="MsoNormal"><b style="outline: 0px"><span style="outline: 0px"><span style="font-size:12.0pt">(e.g. Term 1 Week 2)<span style="outline: 0px"></span></span></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:49.4pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="66"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Growing Years</span><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;mso-bidi-font-family:Calibri"></span></p></td><td style="width:70.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="94"><p style="margin-bottom:0cm;text-align:justify;line-height:
-  18.0pt" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Are We More than Friends?</span><span style="mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black"></span></p><p style="margin-bottom:0cm;text-align:justify;line-height:
-  18.0pt;outline: 0px" class="MsoNormal"><span style="outline: 0px"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Lesson 1</span></span><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black"></span></p><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal;outline: 0px" class="MsoNormal"><span style="outline: 0px"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">(60 min)</span></span><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri"></span></p></td><td style="width:290.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="387"><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing&nbsp;</span><span style="outline: 0px"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-SG" lang="EN-SG">feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</span></span><span style="mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"></span></p></td><td style="width:56.65pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="76"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Term 1 Week 1</span><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;mso-bidi-font-family:Calibri"></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:49.4pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="66"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri">&nbsp;</span></p></td><td style="width:70.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="94"><p style="margin-bottom:0cm;text-align:justify;line-height:
-  18.0pt" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Are We More than Friends?</span><span style="mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black"></span></p><p style="margin-bottom:0cm;text-align:justify;line-height:
-  18.0pt;outline: 0px" class="MsoNormal"><span style="outline: 0px"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Lesson 2</span></span><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black"></span></p><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal;outline: 0px" class="MsoNormal"><span style="outline: 0px"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">(60 min)</span></span><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri"></span></p></td><td style="width:290.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="387"><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</span><span style="mso-ascii-font-family:
-  Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"></span></p></td><td style="width:56.65pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="76"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Term 1 Week 1</span><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;mso-bidi-font-family:Calibri"></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:49.4pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="66"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri">&nbsp;</span></p></td><td style="width:70.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="94"><p style="margin-bottom:0cm;text-align:justify;line-height:
-  18.0pt" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Did You Know?&nbsp;<b style="outline: 0px">*</b></span><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black"></span></p><p style="margin-bottom:0cm;text-align:justify;line-height:
-  18.0pt;outline: 0px" class="MsoNormal"><span style="outline: 0px"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">(60 min)</span></span><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black"></span></p><span style="outline: 0px"><p style="margin-bottom:0cm;text-align:justify;line-height:
-  18.0pt;outline: 0px" class="MsoNormal"><span style="outline: 0px"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span></span><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black"></span></p><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal;outline: 0px" class="MsoNormal"><span style="outline: 0px"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span></span><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri"></span></p></span></td><td style="width:290.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="387"><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘<b style="outline: 0px">Stop-Think-Do’.</b></span><span style="mso-ascii-font-family:
-  Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
-  color:black"></span></p><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal;outline: 0px" class="MsoNormal"><span style="outline: 0px"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span></span><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black"></span></p><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal;outline: 0px" class="MsoNormal"><span style="outline: 0px"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></span><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri"></span></p></td><td style="width:56.65pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="76"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Term 1 W</span>eek 1<span style="mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;mso-bidi-font-family:Calibri"></span></p></td></tr></tbody></table></strong></strong></strong></p>
+<table>
+<thead>
+  <tr>
+    <th>CCE (FTGP) THEME</th>
+    <th>LESSON TITLE / DURATION</th>
+    <th>LESSON OVERVIEW</th>
+    <th>TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Growing Years</td>
+    <td>Are We More than Friends?<br>Lesson 1<br>(60 min)</td>
+    <td>In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
+    <td>Term 1 Week 1</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Are We More than Friends?<br>Lesson 2<br>(60 min)</td>
+    <td>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
+    <td>Term 1 Week 1</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Did You Know? *<br>(60 min) <br> </td>
+    <td>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br> <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td>Term 1 Week 1</td>
+  </tr>
+</tbody>
+</table>
 
 <b>Please Note:</b>
 
@@ -196,7 +121,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 <b>Information for Parents</b>
 
-<p style="text-align: justify;">8.  &nbsp;&nbsp; &nbsp;P6 Parents have been informed of the Sexuality Education Lessons for 2023, through Parents Gateway in October 2022.<br></p>
+</b></b></strong></strong></strong></p><p style="text-align: justify;"><strong><strong><strong><b><b>8.  &nbsp;&nbsp; &nbsp;P6 Parents have been informed of the Sexuality Education Lessons for 2023, through Parents Gateway in October 2022.<br></b></b></strong></strong></strong></p><strong><strong><strong><b><b>
 
 <a href="files/Sexuality%20Education%20Letter%20for%20P6%20Parents%202022.pdf">MOE Sexuality Education in Schools 2022-2023 Letter to Parents (29 October 2022).pdf</a>
 
@@ -204,4 +129,4 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 </p><p style="text-align: justify;">10.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable&nbsp;[here]. The completed opt-out form is to be submitted to the General Office by February 2023.<br>
 
-</p><p style="text-align: justify;">11.&nbsp; &nbsp;&nbsp;  Parents&nbsp;can contact Mrs Beverly Toh (HOD CCE) &amp; Mrs Christabel Chue&nbsp; (Sexuality Education Coordinator) at Tel: 6748 6746 for discussion or to seek clarification about the school’s Sexuality Education programme.</p></b></b>
+</p><p style="text-align: justify;">11.&nbsp; &nbsp;&nbsp;  Parents&nbsp;can contact Mrs Beverly Toh (HOD CCE) &amp; Mrs Christabel Chue&nbsp; (Sexuality Education Coordinator) at Tel: 6748 6746 for discussion or to seek clarification about the school’s Sexuality Education programme.</p></b></b></strong></strong></strong>
