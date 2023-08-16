@@ -51,7 +51,6 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 <b>2023 Sexuality Education Lessons in CCE 2021</b>            
                                                                
 </strong></p><p style="text-align: center;"><strong><strong>Primary 5
-<br><br>
 <table>
 <thead>
   <tr>
@@ -86,7 +85,6 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 <br>
 	
 </strong></strong></p><p style="text-align: center;"><strong><strong><strong>Primary 6
-<br><br>
 <table>
 <thead>
   <tr>
