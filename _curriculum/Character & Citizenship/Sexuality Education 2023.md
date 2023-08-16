@@ -28,7 +28,8 @@ third_nav_title: Character & Citizenship
 
 </p><p style="text-align: justify;">(d)&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended&nbsp;pregnancies. Casual sex can harm and hurt you and your loved ones.<br>
 
-</p><p style="text-align: justify;">You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.<br>
+</p><p style="text-align: justify;">You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a>
+ for more information on MOE Sexuality Education.<br>
 
 <b>Overview of Geylang Methodist School (Primary)’s Sexuality Education Programme for 2023</b>
 
