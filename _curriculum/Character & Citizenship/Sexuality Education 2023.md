@@ -51,64 +51,36 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 <b>2023 Sexuality Education Lessons in CCE 2021</b>                                                                           
 </strong></p><p style="text-align: center;"><strong><strong>Primary 5
 
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:52.2pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="70"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt">CCE (FTGP) THEME</span></b><span style="font-size:12.0pt"></span></p></td><td style="width:46.8pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="62"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt">LESSON TITLE / DURATION</span></b><span style="font-size:12.0pt"></span></p></td><td style="width:312.4pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="417"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt">LESSON OVERVIEW</span></b><span style="font-size:12.0pt"></span></p></td><td style="width:56.1pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="75"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt">TIME PERIOD</span></b></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt">(e.g. Term 1 Week 2)</span></b><span style="font-size:12.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:52.2pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="70"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt">Growing Years</span></p></td><td style="width:46.8pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="62"><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal" class="MsoNormal"><span style="font-size:12.0pt">The Changes in Me</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt">(60 min)</span></p></td><td style="width:312.4pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="417"><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal" class="MsoNormal"><span style="font-size:12.0pt">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.</span></p><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal" class="MsoNormal"><span style="font-size:12.0pt">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="75"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt">Term 4 Week 5</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:52.2pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="70"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td><td style="width:46.8pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="62"><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal" class="MsoNormal"><span style="font-size:12.0pt">Did You Know?</span><span style="font-size:12.0pt;mso-bidi-language:AR-SA"></span></p><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal" class="MsoNormal"><span style="font-size:12.0pt">(60 min)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td><td style="width:312.4pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="417"><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal" class="MsoNormal"><span style="font-size:12.0pt">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’.</b></span></p><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal" class="MsoNormal"><span style="font-size:12.0pt">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="75"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt">Term 4 Week 7</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:52.2pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="70"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td><td style="width:46.8pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="62"><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal" class="MsoNormal"><span style="font-size:12.0pt">Keeping Myself Safe</span><span style="font-size:12.0pt;mso-bidi-language:AR-SA"></span></p><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal" class="MsoNormal"><span style="font-size:12.0pt">(60 min)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td><td style="width:312.4pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="417"><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal" class="MsoNormal"><span style="font-size:12.0pt">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.</span></p><p style="margin-bottom:0cm;text-align:justify;line-height:
-  normal" class="MsoNormal"><span style="font-size:12.0pt">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="75"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt">Term 4 Week 8</span></p></td></tr></tbody></table>
+<table>
+<thead>
+  <tr>
+    <th>CCE (FTGP) THEME</th>
+    <th>LESSON TITLE / DURATION</th>
+    <th>LESSON OVERVIEW</th>
+    <th>TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Growing Years</td>
+    <td>The Changes in Me<br>(60 min)</td>
+    <td>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td>Term 4 Week 5</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Did You Know?<br>(60 min)<br> </td>
+    <td>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td>Term 4 Week 7</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Keeping Myself Safe<br>(60 min)<br> </td>
+    <td>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td>Term 4 Week 8</td>
+  </tr>
+</tbody>
+</table>
 	
 </strong></strong></p><p style="text-align: center;"><strong><strong><strong>Primary 6
 
