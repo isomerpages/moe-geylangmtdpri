@@ -119,10 +119,10 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 
 <b>Please Note:</b> 
-
 <br>
-
-<b>For&nbsp;2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.</b>&nbsp; <b>Information for Parents</b>
+<b>For&nbsp;2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.</b>&nbsp; <br>
+<br>
+<b>Information for Parents</b>
 
 </strong></strong></strong></p><p style="text-align: justify;"><strong><strong><strong><strong><strong><strong><b><strong><strong><strong><b>8. &nbsp;&nbsp; &nbsp;P6 Parents have been informed of the Sexuality Education Lessons for 2023, through Parents Gateway in October 2022.<br></b></strong></strong></strong></b></strong></strong></strong></strong></strong></strong></p><b><strong><strong><strong><b><a href="files/Sexuality%20Education%20Letter%20for%20P6%20Parents%202022.pdf">MOE Sexuality Education in Schools 2022-2023 Letter to Parents (29 October 2022).pdf</a></b></strong></strong></strong></b>
 <p style="text-align: justify;"><strong><b>9.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons.<br></b></strong></p>
