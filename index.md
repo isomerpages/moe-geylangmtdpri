@@ -30,4 +30,7 @@ sections:
   - infopic:
       title: Well Wishes for P6 by PSG
       image: /images/psg wishes for 2023 p6.jpg
+  - infopic:
+      image: /images/p6 wishes by psg members.jpg
+      alt: Image alt text
 ---
