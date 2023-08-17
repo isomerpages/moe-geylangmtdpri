@@ -28,9 +28,6 @@ sections:
       image: /images/A day in GMSP_thumbnail.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: Well Wishes for P6 by PSG
+      image: /images/psg wishes for 2023 p6.jpg
 ---
