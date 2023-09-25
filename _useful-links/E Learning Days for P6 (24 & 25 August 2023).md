@@ -5,9 +5,11 @@ description: ""
 ---
 Dear Parents/Guardians,
 
-Appended are the lesson plans for E-Learning Days for P6 only on&nbsp;**24 &amp; 25 August 2023**:
+Appended are the lesson plans for Semester 2 E-Learning Days for **P5** on **28 &amp; 29 September 2023**:
 
-[24 August 2023](/files/E%20Learning%20Days%20for%20P6%20Aug2023/p6_%20e-learning%202023%20lesson%20plans%20for%2024%20aug%202023.pdf)
-<br>
-[25 August 2023](/files/E%20Learning%20Days%20for%20P6%20Aug2023/p6_%20e-learning%202023%20lesson%20plans%20for%2025%20aug%202023.pdf)
+[P5_ e-learning 2023 day 1 lesson plans for 28 sept](/files/p5_%20e-learning%202023%20day%201%20lesson%20plans%20for%2028%20sept.pdf)
+
+[P5_ e-learning 2023 day 2 lesson plans for 29 sept](/files/p5_%20e-learning%202023%20day%202%20lesson%20plans%20for%2029%20sept.pdf)
+
+
 <br>
