@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2023 Gallery/.keep
-      - Example Title.md
       - Calendar of Events.md
       - Forms.md
       - For Students & Parents.md
