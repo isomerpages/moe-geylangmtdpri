@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - 2023 Gallery/2023 Gallery.md
-      - 2023 Gallery/Example Title.md
+      - 2023 Gallery/Chinese New Year.md
       - 2023 Gallery/.keep
       - Calendar of Events.md
       - Forms.md
