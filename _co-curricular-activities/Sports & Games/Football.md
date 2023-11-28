@@ -3,6 +3,7 @@ title: Football
 permalink: /co-curricular-activities/cca/sports-n-games/football/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ![](/images/FB27-min.jpg)
 
@@ -16,7 +17,7 @@ third_nav_title: Sports & Games
 
 </p><p style="text-align: justify;">GMS(P) school team players also have the opportunity to participate in the National School Games, as well as friendly matches and invitationals. Our other Football CCA students also get to experience the element of competition in the form of our very own internal Eagles Premier League. <br>
 <br>
-<b>Highlight:</b><br>
+<b>Highlight:</b>
 </p><p style="text-align: justify;">On the 4th of March 2023, thirty of our football boys were invited to be a part of the FIFA “Football For Schools” festival at the Jalan Besar Stadium. This festival was held to commemorate the launch of the FIFA Football For Schools app in Singapore and our boys had the opportunity to experience first-hand the professionally-crafted training sessions found in the app. It was an exciting day of football learning and fun for all involved and we look forward to more such opportunities for our students.<br></p>
 
 
