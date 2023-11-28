@@ -9,7 +9,8 @@ variant: markdown
 This is largely led by Ms Christine Tan and her team of very enthusiastic &amp; dedicated colleagues.<br>
 
 
-2) <b>National Day Awards 2023</b><br><br>
+2) <b>National Day Awards 2023</b><br>
+
 | Name | Award | 
 | -------- | -------- |
 | Mr Jason Wong     | The Commendation Medal    | 
