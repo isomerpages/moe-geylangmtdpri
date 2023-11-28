@@ -15,5 +15,4 @@ This is largely led by Ms Christine Tan and her team of very enthusiastic &amp; 
 | -------- | -------- |
 | Mr Jason Wong     | The Commendation Medal    | 
 | Mr Wong Wai Lit     | Long Service Award   | 
-|Mdm Priscilla Lim     | Long Service Award    | 
-
+|Mdm Priscilla Lim     | Long Service Award    |
