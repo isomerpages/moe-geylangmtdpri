@@ -22,7 +22,6 @@ variant: markdown
 
 
 <h4 style="color:blue;">Teachers-in-charge</h4>
-
 Mr Christopher Maik (IC) <br>
 Mr Kenneth Kor (2IC)  <br>
 Mr Hidayat<br>
