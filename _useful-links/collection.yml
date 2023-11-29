@@ -2,12 +2,19 @@ collections:
   useful-links:
     output: true
     order:
+      - 2023 Gallery/.keep
+      - 2023 Gallery/P1 First Day in School.md
+      - 2023 Gallery/Chinese New Year.md
+      - 2023 Gallery/Chinese New Year Recess Activities.md
+      - 2023 Gallery/99km in 1 hour.md
+      - 2023 Gallery/Founders' Day.md
+      - 2023 Gallery/Sports Carnival.md
+      - 2023 Gallery/2023 Gallery.md
       - Calendar of Events.md
       - Forms.md
       - For Students & Parents.md
       - For Teachers.md
       - From the Pastor's Heart.md
       - Annual Publication.md
-      - 2023 Gallery.md
       - 2022 Gallery.md
       - 2021 Gallery.md
