@@ -3,6 +3,7 @@ title: Board of Management
 permalink: /about-us/our-people/board-of-management/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <p style="text-align: justify;">The Board of Management (BOM) is appointed on a 3-year term by the Bishop of the Methodist Church. The BOM meets with Church leaders to discuss how they can contribute towards providing&nbsp;GMS&nbsp;students with a wholesome education, with emphasis on the core values of the school. </p>
 
@@ -15,7 +16,7 @@ third_nav_title: Our People
 | <b>Chairman</b> | Mr Khoong Hock Yun |
 | <b>Vice Chairman</b> | Mr Chou Fang Soong |
 | <b>Treasurer</b> | Mr Wong Kwong Yong |
-| <b>Secretary</b> | Mrs Jennifer Choy, Principal, GMS(P)|
+| <b>Secretary</b> | Mrs Daphne Yeoh, Principal, GMS(P)|
 |<b> Members</b> | Mdm Ng Cher Siang, Cheryl |
 |  | Mr Tay Kah Ann Peter |
 |  | Dr Raymond Teo Cheng Soon |
