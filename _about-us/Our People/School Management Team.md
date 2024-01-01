@@ -26,7 +26,7 @@ variant: markdown
 | Mr Lee Wei Te | Head of Department<br>(Infocomm Technology) |lee_wei_te@moe.edu.sg|
 | Ms Jill Chia | Head of Department<br>(Special Education Needs) |jill_chia@moe.edu.sg|
 | Ms Wendy Lin | Level Head<br>(English Language) | wendy_lin_miao_jing@moe.edu.sg |
-| Ms Wendy Lin | Level Head<br>(English Language) | wendy_lin_miao_jing@moe.edu.sg |
+| Mrs Ryna Raaj | Level Head<br>(English Language) | k_b_ryna_mahindapala@moe.edu.sg@moe.edu.sg |
 | Mdm Christine Tan | Level Head (Science) | tan_chor_kheng@moe.edu.sg |
 | Mrs Nantheini Elangovan | Subject Head<br>(Tamil Language) | yengadayson_nantheini@moe.edu.sg  |
 | Mrs Anna Quek | Subject Head (Discipline) | lai_szi_ern_anna@moe.edu.sg |
