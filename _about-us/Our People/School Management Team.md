@@ -30,15 +30,12 @@ variant: markdown
 | Mdm Christine Tan | Level Head (Science) | tan_chor_kheng@moe.edu.sg |
 | Mrs Nantheini Elangovan | Subject Head<br>(Tamil Language) | yengadayson_nantheini@moe.edu.sg  |
 | Mrs Anna Quek | Subject Head (Discipline) | lai_szi_ern_anna@moe.edu.sg |
-| Mrs Ariel Koh  | Subject Head (Special Education Needs)  | ariel_zhuang_shuyi@moe.edu.sg |
 | Mrs Christabel Chue (Mdm Chua Khar Loo) | Subject Head<br>(Std Wellbeing) | chua_khar_loo_christabel@moe.edu.sg |
-| Mrs Christabel Chue (Mdm Chua Khar Loo) | Subject Head<br>(Std Wellbeing) | chua_khar_loo_christabel@moe.edu.sg |
+| Mrs Joanne Yak | Subject Head<br>(CCE) | joanne_yak@moe.edu.sg |
 | Mr Sim Wei Zhang | Subject Head (Physical &amp; Health Education) (Int) | sim_wei_zhang@moe.edu.sg |
 | Mrs Wong Chia Peng (Mdm Tan Chia Peng) | Level Head<br>(Mathematics) (Int) | tan_chia_peng@moe.edu.sg |
 | Ms Tet Chiu Wah (Mrs Stella Chang) | Level Head<br>(Chinese Language) (Int) | tet_chiu_wah@moe.edu.sg |
 | Mdm Hanitha Shamsudeen | Subject Head (ICT) (Int) | hanitha_shamsudeen@moe.edu.sg|
-| Mdm Sulistiati Bte Idrus | P1 Level Manager (Int) | sulistiati_idrus@moe.edu.sg|
-| Mr Sufian Dadula | P2 Level Manager (Int)| mohamed_sufian_mohamed_sol@moe.edu.sg|
 | | | 
 
 ### Teacher-Leaders
