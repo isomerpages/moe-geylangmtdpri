@@ -31,7 +31,7 @@ variant: markdown
 
 </p><figure>
 <img src="/images/Reverend%20Sullivan.jpg" style="width:80%">
-<figcaption> Reverend Floyd Sullivan </figcaption>
+<figcaption> Reverend Floyd Herman Sullivan </figcaption>
 </figure>
 
 <p style="text-align: justify;">With Reverend Sullivan’s strong support and oversight, the setting up of GMGS was facilitated during his tenure as District Superintendant of the Methodist Church in Singapore. Reverend Sullivan also personally read the dedicatory service of the new building of the Geylang Methodist Church and Geylang Methodist Girls’ School in the founding.
