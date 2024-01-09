@@ -2,6 +2,7 @@
 title: Learning for Life Programme (LLP)
 permalink: /curriculum/learning-for-life-programme/
 description: ""
+variant: markdown
 ---
 <p style="text-align: justify;">In <b>GMS(P) Environment Education (Learning for Life, LLP)</b> it is our belief that every staff and student can be an Earth Warrior by Respecting, Loving and Serving the Earth that God has created through practising the 4Rs.<br></p>
 
@@ -42,12 +43,13 @@ description: ""
   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN-SG">Position</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:260.55pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="347"><p style="line-height:150%" class="MsoNormal"><span lang="EN-SG">Mrs Jennifer Choy</span></p></td><td style="width:7.0cm;border-top:none;border-left:none;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="347"><p style="line-height:150%" class="MsoNormal"><span lang="EN-SG">Mrs Daphne Yeoh</span></p></td><td style="width:7.0cm;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span lang="EN-SG">Advisor / Principal</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:260.55pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="347"><p style="line-height:150%" class="MsoNormal"><span lang="EN-SG">Mrs Cherlyn Tan</span></p></td><td style="width:7.0cm;border-top:none;border-left:none;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="347"><p style="line-height:150%" class="MsoNormal"><span lang="EN-SG">Mrs Cherlyn Tan / 
+<br>Ms Alison Ang</span></p></td><td style="width:7.0cm;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span lang="EN-SG">Advisor / Vice-Principal</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:260.55pt;border:solid black 1.0pt;
@@ -94,7 +96,7 @@ description: ""
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span lang="EN-SG">Operations Manager<br> Operations Manager</span></p></td></tr><tr style="mso-yfti-irow:11"><td style="width:260.55pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="347"><p style="line-height:150%" class="MsoNormal"><span lang="EN-SG">Miss Shirin Gan</span></p></td><td style="width:7.0cm;border-top:none;border-left:none;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="347"><p style="line-height:150%" class="MsoNormal"><span lang="EN-SG">Miss Shirin Gan<br>Mdm Nurulhuda Bte Abbas</span></p></td><td style="width:7.0cm;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span lang="EN-SG">CCA Teacher</span></p></td></tr><tr style="mso-yfti-irow:12;mso-yfti-lastrow:yes"><td style="width:260.55pt;border:solid black 1.0pt;

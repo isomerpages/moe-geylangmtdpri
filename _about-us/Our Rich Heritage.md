@@ -2,6 +2,7 @@
 title: Our Rich Heritage
 permalink: /about-us/our-rich-heritage/
 description: ""
+variant: markdown
 ---
 <p style="text-align: justify;">The school was started in 1924 as Geylang Methodist Girls' School (GMGS) in the humble beginnings of a small, sparsely furnished but functional classroom converted from the extra space carved out from the premises of Geylang Chinese Methodist Church. The setting up of a school for girls was an initiative of the Methodist Episcopal Mission in pre-war Singapore, and it sought to provide education for girls in an impoverished Geylang area, and be a beacon of light for the students and community.
 
@@ -26,11 +27,11 @@ description: ""
 
 <h4 style="color:blue;">Many Helping Hands</h4>
 
-<p style="text-align: justify;">Of the many helping hands that supported the building of the school, one missionary and one educator played pivotal roles in starting the school – Reverend Floyd Sullivan and Miss Emma Eaton Walker.
+<p style="text-align: justify;">Of the many helping hands that supported the building of the school, one missionary and one educator played pivotal roles in starting the school – Reverend Floyd Herman Sullivan and Miss Emma Eaton Walker.
 
 </p><figure>
 <img src="/images/Reverend%20Sullivan.jpg" style="width:80%">
-<figcaption> Reverend Floyd Sullivan </figcaption>
+<figcaption> Reverend Floyd Herman Sullivan </figcaption>
 </figure>
 
 <p style="text-align: justify;">With Reverend Sullivan’s strong support and oversight, the setting up of GMGS was facilitated during his tenure as District Superintendant of the Methodist Church in Singapore. Reverend Sullivan also personally read the dedicatory service of the new building of the Geylang Methodist Church and Geylang Methodist Girls’ School in the founding.
