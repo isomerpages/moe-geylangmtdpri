@@ -12,7 +12,7 @@ variant: markdown
 | Mrs Daphne Yeoh  | Principal | daphne_leong@schools.gov.sg |
 | Mr Anthony Lua | Vice-Principal | lua_ee_ping@schools.gov.sg |
 | Mrs Cherlyn Tan | Vice-Principal | neo_hui_en_cherlyn@schools.gov.sg |
-| Ms  Alison Ang Siok Phing  | Vice-Principal | @schools.gov.sg |
+| Ms  Alison Ang Siok Phing  | Vice-Principal | alison_ang@schools.gov.sg |
 | Mdm Mildred Lek | Admin Manager  | lek_chew_peng@schools.gov.sg |
 | Mrs Beverly Toh | School Staff Developer | low_pei_lin_beverly@moe.edu.sg |
 | Ms Tng Li Ling | Year Head<br>(Upper Pri) | tng_li_ling@moe.edu.sg |
