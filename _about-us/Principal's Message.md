@@ -16,5 +16,4 @@ variant: markdown
 
 <b>Mrs Daphne Yeoh<br>
 Principal</b>
-
 ![](/images/Gm100_logo.png)
