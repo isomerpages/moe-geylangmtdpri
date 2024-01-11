@@ -6,7 +6,7 @@ variant: markdown
 ---
 <p style="text-align: justify;">Geylang Methodist School (Primary) is a Christian mission school with a rich heritage, offering a robust values-based education designed to inspire minds, nurture character and touch the community.</p>
 
-<p style="text-align: justify;">The year 2024 holds a special significance for us as we joyously commemorate our centennial anniversary with the theme “Celebrating God’s Goodness”. Drawing inspiration from Psalm 100:5 – “For the Lord is good; his steadfast love endures forever, and his faithfulness to all generations”, we reflect on God’s enduring love for each one of us and his unwavering faithfulness to our school over the decades.</p>
+<p style="text-align: justify;">The year 2024 holds a special significance for us as we joyously commemorate our centennial anniversary with the theme <b><i>“Celebrating God’s Goodness”</i></b>. Drawing inspiration from <b><i>Psalm 100:5 – “For the Lord is good; his steadfast love endures forever, and his faithfulness to all generations”</i></b>, we reflect on God’s enduring love for each one of us and his unwavering faithfulness to our school over the decades.</p>
 
 <p style="text-align: justify;">Throughout this monumental year, we have planned heritage projects and celebrations in collaboration with our Board of Management and key partners. These initiatives aim to provide students with insights into the values exemplified by our founders and pioneering leaders, inspiring a commitment to being a beacon in the community.</p>
 
