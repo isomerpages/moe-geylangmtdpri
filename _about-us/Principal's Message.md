@@ -15,5 +15,7 @@ variant: markdown
 <p style="text-align: justify;">We look forward to sharing the warmth and values of the Geylang Methodist family with you. Whether you are a prospective student, parent or community member, we extend an invitation to explore our school through this website and learn more about the legacy and commitment that define Geylang Methodist School (Primary).</p>
 
 <b>Mrs Daphne Yeoh<br>
-Principal</b>
-![](/images/Gm100_logo.png)
+Principal</b><br>
+<img src="/images/Gm100_logo.png” style=">
+
+<img src="/images/Gm100\_logo.png” style=">
