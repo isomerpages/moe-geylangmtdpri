@@ -14,5 +14,7 @@ Rooted in these values, GMS(P) continues to provide a holistic education to nurt
 
 We look forward to sharing the warmth and values of the Geylang Methodist family with you. Whether you are a prospective student, parent or community member, we extend an invitation to explore our school through this website and learn more about the legacy and commitment that define Geylang Methodist School (Primary).
 
-Mrs Daphne Yeoh
-Principal	
+**Mrs Daphne Yeoh
+Principal	**
+
+![](/images/Gm100_logo.png)
