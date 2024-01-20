@@ -3,6 +3,7 @@ title: Girls' Brigade
 permalink: /co-curricular-activities/cca/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/GBPicture1.jpg)
 
@@ -150,13 +151,7 @@ third_nav_title: Uniformed Groups
 <p></p>
 
 <h4 style="color:blue;">Teachers-in-charge</h4><br>
-Mrs Ariel Koh (IC) <br>
-Mrs Christabel Chue (2IC) <br>
-Ms Theresa Tong  <br>
-Ms Sun Jinyu  <br>
-Ms Grace Tan  <br>
-  
-Mdm Tan Ai Cheng (Church Personnel)  <br>
+Ms Theresa Tong (IC)<br> Ms Sun Jinyu (2IC)<br> Mrs Ariel Koh<br> Mrs Christabel Chue<br> Ms Deborah Tan<br> Ms Wendy Lin<br><br>
 Ms Rebecca Ting (Church Personnel)<br>
 <p></p>
 
