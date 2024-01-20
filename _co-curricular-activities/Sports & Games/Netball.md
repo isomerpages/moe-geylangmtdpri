@@ -3,6 +3,7 @@ title: Netball
 permalink: /co-curricular-activities/cca/sports-n-games/netball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ![](/images/Netball.jpg)
 
@@ -16,7 +17,9 @@ third_nav_title: Sports & Games
 <h4 style="color:blue;">Teachers-in-charge</h4>
 Mdm Fazilah (IC)<br>
 Liu Xianshuli (2IC)<br>
-Ms Kwok Yan Ting
+Ms Kwok Yan Ting<br>
+Mdm Nantheini<br>
+
 
 Coach: Ms Haidah Bte Alias
 
