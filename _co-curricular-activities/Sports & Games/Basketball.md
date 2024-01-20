@@ -3,6 +3,7 @@ title: Basketball
 permalink: /co-curricular-activities/cca/sports-n-games/basketball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ![](/images/BasB1.jpg)
 <h4 style="color:blue;">CCA Overview</h4>
@@ -17,8 +18,9 @@ third_nav_title: Sports & Games
 
 <h4 style="color:blue;">Teachers-in-charge</h4><br>
 Mr Sim Wei Zhang (IC)<br>
-Mr Fahmi Bin Sahar (2IC)<br>
+Ms Grace Tan (2IC)<br>
 Ms Clara Lim<br>
+Ms Pang Chong Lei<br>
 
 Coach: Mr Ong Wen Qian<br>
 
