@@ -25,8 +25,8 @@ variant: markdown
 Mr Christopher Maik (IC) <br>
 Mr Kenneth Kor (2IC)  <br>
 Mr Hidayat<br>
-Mr Ho Sin Lin<br><br>
-	
+Mr Ho Sin Lin<br>
+Mr Chen Zhi Rong	<br><br>
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdOxzkbqt-DcqIdZjVYrvkgoWbyRFMHCfccBx3P4YE_AEN2mtxNB4TKcsCdAxwns6qpeT4RtWudBD2/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe><p></p>
 
 <h4 style="color:blue;">Achievements</h4><br>
