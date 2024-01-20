@@ -3,6 +3,7 @@ title: Rope Skipping
 permalink: /co-curricular-activities/cca/sports-n-games/rope-skipping/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ![](/images/RS11.jpg)
 
@@ -13,8 +14,8 @@ third_nav_title: Sports & Games
 <h4 style="color:blue;">Teachers-in-charge</h4>
 
 Mdm Hanitha Shamsudeen (IC)<br>
-Mrs Tan Siew Kuan (2IC)<br>
-Ms Ler Yu Min<br>
+Ms Shannon Loh (2IC)<br>
+Ms Sabrina<br>
 
 Coach: Mr Don Lui<br><br>
 
