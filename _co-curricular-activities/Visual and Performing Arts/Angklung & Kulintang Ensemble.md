@@ -3,6 +3,7 @@ title: Angklung & Kulintang Ensemble
 permalink: /co-curricular-activities/cca/visual-n-performing-arts/angklung-n-kulintang-ensemble/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2EaZZGm_SG54a7g7ckfUZMN5ubTqottSV3isgUJShtls8I-yeaM4c59XN7OSpqVxtFj7uLMjghj7e/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
@@ -15,8 +16,8 @@ third_nav_title: Visual and Performing Arts
 
 <h4 style="color:blue;">### Teachers-in-charge</h4>
 Mr Yeo Wee Kiong (IC) <br>
-Mrs Nantheini Elangovan (2IC) <br>
-Mr Haresh<br>
+Mr Haresh (2IC) <br>
+Mdm Kalaivani<br>
 
 Instructors: <br>
 Mr Lee Wen Xiang<br>
