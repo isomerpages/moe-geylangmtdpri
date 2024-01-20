@@ -1,0 +1,4 @@
+collections:
+  gm100:
+    output: true
+    order: []
