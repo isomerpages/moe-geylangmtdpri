@@ -3,6 +3,7 @@ title: Modern Dance
 permalink: /co-curricular-activities/cca/visual-n-performing-arts/modern-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRhf7XQqKypXSdHhD9HJpQ9DhlcordozwK85_VXTC25rTN9e_Eve5LtKr_i9CrKmSp53QuiP5E32sNk/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="600" height="500" allowfullscreen="true"></iframe>
 
@@ -17,9 +18,9 @@ third_nav_title: Visual and Performing Arts
 
 <h4 style="color:blue;">Teachers-in-charge</h4>
 
-Mdm Laila (IC) <br>
-Mdm Wong Lee Jiun <br>
-Mdm Kalaivani<br><br>
+Mrs Koh Ching Lee (IC)<br>
+Mdm Wong Chia Peng (2IC)<br>
+Ms Tan Li Ling<br><br>
 
 Instructor: Ms Ida<br>
 <p style="text-align: justify;">Our lovely instructor, Ms Ida, has 15 years of experience teaching ballet. She first learned ballet in the 1970’s at the once renowned Old National Theatre. She began her Jazz Ballet journey in 1979 and moved on to complete her graded studies in classical ballet. An accomplished dancer and instructor, Ms Ida has won a national competition with her choreography. Lively, loving and encouraging in nature, she is well loved by the kids and inspires them to give their best at all times.</p>
