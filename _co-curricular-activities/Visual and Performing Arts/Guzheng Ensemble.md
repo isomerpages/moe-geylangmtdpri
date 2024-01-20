@@ -3,6 +3,7 @@ title: Guzheng Ensemble
 permalink: /co-curricular-activities/cca/visual-n-performing-arts/guzheng-ensemble/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ0eypKxi_W7yAImeNls46_kOqV7hVpXPVCUXloKY3GtRcqMijXvL5HRkNVGGBGXpolECWOpnIyGp9S/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
@@ -12,7 +13,7 @@ third_nav_title: Visual and Performing Arts
 <h4 style="color:blue;">Teachers-in-charge</h4>
 Ms Lok Jie Jun (IC) <br> 
 Mrs Stella Chang (2IC)  <br> 
-Mrs Koh Ching Lee<br>
+Ms Wang Xuan-Xin<br>
 	
 Instructor: Ms Wu Shi <br>
 
