@@ -1,0 +1,14 @@
+logo: /images/gmsp logo with words_v2.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Achievements
+    collection: achievements
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-Curricular Activities
+    collection: co-curricular-activities
+  - title: GM100
+    collection: gm100
+  - title: Useful Links
+    collection: useful-links

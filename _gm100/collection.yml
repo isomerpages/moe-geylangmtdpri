@@ -1,0 +1,5 @@
+collections:
+  gm100:
+    output: true
+    order:
+      - GM100 Tree Planting Day.md

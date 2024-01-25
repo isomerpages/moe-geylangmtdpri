@@ -1,0 +1,19 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - 2023/Student Achievements.md
+      - 2023/Staff Achievements.md
+      - 2023/.keep
+      - 2022/.keep
+      - 2022/Staff Achievements.md
+      - 2022/Student Achievements.md
+      - 2021/.keep
+      - 2021/Staff Achievements.md
+      - 2021/Student Achievement.md
+      - 2020/.keep
+      - 2020/Staff Achievements.md
+      - 2020/Student Achievements.md
+      - 2019/.keep
+      - 2019/Staff Achievements.md
+      - 2019/Student Achievements.md

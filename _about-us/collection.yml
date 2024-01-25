@@ -1,0 +1,26 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our Rich Heritage.md
+      - Vision, Mission & Values.md
+      - School Crest & Motto.md
+      - School Song.md
+      - Student's Creed.md
+      - School Rules and Regulations.md
+      - School Policy/.keep
+      - School Policy/Homework Policy.md
+      - School Policy/Assessment Policy.md
+      - School Policy/Photography and Videos.md
+      - Our People/.keep
+      - Our People/Board of Management.md
+      - Our People/Chairman's Message.md
+      - Our People/School Management Team.md
+      - Our People/School Staff 2024.md
+      - Our Partners.md
+      - Virtual Tour of GMS(P).md
+      - Location and Contact Information.md
+      - Non Financial Information.md
+      - School Canteen.md
+      - School Bus.md
