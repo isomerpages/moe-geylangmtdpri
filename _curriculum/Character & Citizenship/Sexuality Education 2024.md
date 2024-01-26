@@ -251,9 +251,7 @@ third_nav_title: Character & Citizenship
 <p></p><p style="text-align: justify;">9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
     out of the Sexuality Education lessons need to complete an opt-out form.
     This form will be communicated &nbsp;to parents at the start of the year
-    via Parents Gateway and is also downloadable <u>here</u> (Upload parents
-    opt-out form found in Annex <strong>A</strong> and insert a hyperlink for
-    parents to download the form). The completed opt-out form is to be submitted
+    via Parents Gateway and is also downloadable <u>[here](https://go.gov.sg/2024optout)</u>. The completed opt-out form is to be submitted
     by 09/02/2024.</p>
 <p></p><p style="text-align: justify;">10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school personnel,
     Mrs Joanne Yak (SH CCE) at Tel: 6748 6746 for discussion or to seek clarification
