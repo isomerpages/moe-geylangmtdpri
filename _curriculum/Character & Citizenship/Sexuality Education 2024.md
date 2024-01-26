@@ -25,11 +25,11 @@ third_nav_title: Character & Citizenship
 <p>&nbsp;</p>
 <p></p><p style="text-align: justify;">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
     Education are:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.</a>
+<p></p><p style="text-align: justify;">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide students to make wise, informed and responsible decisions on sexuality matters.</a>
+<p></p><p style="text-align: justify;">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide students to make wise, informed and responsible decisions on sexuality matters.
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</a>
+<p></p><p style="text-align: justify;">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.
 </p>
 <p>&nbsp;</p>
 <p></p><p style="text-align: justify;">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
