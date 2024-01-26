@@ -84,9 +84,9 @@ third_nav_title: Character & Citizenship
 <p></p>
 <p><strong>At GEYLANG METHODIST SCHOOL (PRIMARY), the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
 </p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p></p><p style="text-align: center;"><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
 </p>
-<p style="text-align: center;"></p><p><strong>Primary 5</strong>
+<p></p><p style="text-align: center;"><strong>Primary 5</strong>
 </p>
 <table>
     <tbody>
@@ -176,9 +176,9 @@ third_nav_title: Character & Citizenship
 <p><strong><br></strong>
 </p>
 <p></p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p></p><p style="text-align: center;"><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
 </p>
-<p><strong>Primary 6</strong>
+<p></p><p style="text-align: center;"><strong>Primary 6</strong>
 </p><p><strong>&nbsp;</strong>
 </p>
 <table>
