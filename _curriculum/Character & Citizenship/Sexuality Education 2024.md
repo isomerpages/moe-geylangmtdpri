@@ -73,8 +73,6 @@ third_nav_title: Character & Citizenship
     integrity of the family. Our students require close guidance so that they
     can respond with discernment to the sexual messages in the media and other
     sources.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p></p><p style="text-align: justify;">7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons are
     taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons,
     students will learn healthy ways to manage the physiological, social and
@@ -87,8 +85,6 @@ third_nav_title: Character & Citizenship
 <p><strong>At GEYLANG METHODIST SCHOOL (PRIMARY), the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
 </p>
 <p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <p><strong>Primary 5</strong>
 </p>
