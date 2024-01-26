@@ -27,7 +27,7 @@ third_nav_title: Character & Citizenship
     Education are:</p>
 <p></p><p style="text-align: justify;">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.
 </p>
-<p></p><p style="text-align: justify;">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide students to make wise, informed and responsible decisions on sexuality matters.
+<p></p><p style="text-align: justify;">(b) Guide students to make wise, informed and responsible decisions on sexuality matters.
 </p>
 <p></p><p style="text-align: justify;">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.
 </p>
@@ -86,7 +86,7 @@ third_nav_title: Character & Citizenship
 </p>
 <p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
 </p>
-<p><strong>Primary 5</strong>
+<p style="text-align: center;"></p><p><strong>Primary 5</strong>
 </p>
 <table>
     <tbody>
