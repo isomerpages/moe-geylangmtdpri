@@ -12,7 +12,7 @@ third_nav_title: Character & Citizenship
 <p><strong>Moe Sexuality Education in Schools</strong>
 </p>
 <p>&nbsp;</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
+<p></p><p style="text-align: justify;">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
     aims to enable students to understand the physiological, social and emotional
     changes they experience as they mature, develop healthy and rewarding relationships
     with others, including those with members of the opposite sex, and make
@@ -23,7 +23,7 @@ third_nav_title: Character & Citizenship
     on respect for the values and beliefs of the different ethnic and religious
     communities in Singapore on sexuality issues.</p>
 <p>&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
+<p></p><p style="text-align: justify;">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
     Education are:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.</a>
 </p>
@@ -32,17 +32,17 @@ third_nav_title: Character & Citizenship
 <p><a rel="noopener noreferrer nofollow" target="_blank">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</a>
 </p>
 <p>&nbsp;</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
+<p></p><p style="text-align: justify;">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
     Sexuality Education are:</p>
 <p>&nbsp;</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
+<p></p><p style="text-align: justify;">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
     respect yourself as you love and respect others;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
+<p></p><p style="text-align: justify;">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
     positive relationships based on love and respect (which are the foundation
     for strong families);</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
+<p></p><p style="text-align: justify;">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
     decisions for yourself, your family and society; and</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
+<p></p><p style="text-align: justify;">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
     before marriage is the best protection against STIs/HIV and unintended
     pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>&nbsp;</p>
@@ -52,19 +52,19 @@ third_nav_title: Character & Citizenship
 </p>
 <p><strong>Overview of GEYLANG METHODIST SCHOOL (PRIMARY)’s Sexuality Education Programme for 2024</strong>
 </p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
+<p></p><p style="text-align: justify;">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
     in a holistic manner through the school curriculum. The content for Sexuality
     Education is grouped into five main themes: Human Development, Interpersonal
     Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
     Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
     information on the scope of Sexuality Education in the school curriculum.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
+<p></p><p style="text-align: justify;">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
     on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
     (CCE)</p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the
+<p></p><p style="text-align: justify;">6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the
     onset of puberty. With better nutrition and improved health care, children
     are reaching puberty at a younger age and have to grapple with physical,
     emotional and psychological changes in themselves. The implication is that
@@ -77,7 +77,7 @@ third_nav_title: Character & Citizenship
     sources.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons are
+<p></p><p style="text-align: justify;">7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons are
     taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons,
     students will learn healthy ways to manage the physiological, social and
     emotional changes in their growing years. They learn to build healthy and
@@ -88,8 +88,6 @@ third_nav_title: Character & Citizenship
 <p></p>
 <p><strong>At GEYLANG METHODIST SCHOOL (PRIMARY), the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
 </p>
-<p>&nbsp;</p>
-<p></p>
 <p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
 </p>
 <p><strong>&nbsp;</strong>
@@ -186,11 +184,8 @@ third_nav_title: Character & Citizenship
 <p></p>
 <p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Primary 6</strong>
-</p>
-<p><strong>&nbsp;</strong>
+</p><p><strong>&nbsp;</strong>
 </p>
 <table>
     <tbody>
