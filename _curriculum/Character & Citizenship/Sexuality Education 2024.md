@@ -32,9 +32,7 @@ third_nav_title: Character & Citizenship
 <p></p><p style="text-align: justify;">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.
 </p>
 <p>&nbsp;</p>
-<p></p><p style="text-align: justify;">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
-    Sexuality Education are:</p>
-<p>&nbsp;</p>
+<p></p><p style="text-align: justify;">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of Sexuality Education are:</p>
 <p></p><p style="text-align: justify;">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
     respect yourself as you love and respect others;</p>
 <p></p><p style="text-align: justify;">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
