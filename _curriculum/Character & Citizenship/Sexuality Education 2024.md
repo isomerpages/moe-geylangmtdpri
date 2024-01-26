@@ -252,17 +252,17 @@ third_nav_title: Character & Citizenship
 </table>
 <p><strong><br>Information for Parents</strong>
 </p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
+<p></p><p style="text-align: justify;">8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
     out of Sexuality Education lessons, and/or supplementary Sexuality Education
     programmes by MOE-approved external providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+<p></p><p style="text-align: justify;">9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
     out of the Sexuality Education lessons need to complete an opt-out form.
     This form will be communicated &nbsp;to parents at the start of the year
     via Parents Gateway and is also downloadable <u>here</u> (Upload parents
     opt-out form found in Annex <strong>A</strong> and insert a hyperlink for
     parents to download the form). The completed opt-out form is to be submitted
     by 09/02/2024.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school personnel,
+<p></p><p style="text-align: justify;">10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school personnel,
     Mrs Joanne Yak (SH CCE) at Tel: 6748 6746 for discussion or to seek clarification
     about the school’s Sexuality Education programme.</p>
 <p></p>
