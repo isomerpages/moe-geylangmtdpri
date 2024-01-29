@@ -2,7 +2,6 @@
 title: Sexuality Education 2023
 permalink: /curriculum/sexuality-education-2023/
 description: ""
-third_nav_title: Character & Citizenship
 ---
 **GEYLANG METHODIST SCHOOL (PRIMARY)**
 

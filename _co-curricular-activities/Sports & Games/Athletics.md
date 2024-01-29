@@ -3,6 +3,7 @@ title: Athletics
 permalink: /co-curricular-activities/cca/sports-n-games/athletics/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Y39B-_Y7XMFtfiizuhKd3APCmSFrE0um-MQhi9VL4axv5ZmtNfdx67iJ52bSSfvNu2iL3r_9-B5b/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
@@ -17,8 +18,8 @@ third_nav_title: Sports & Games
 <h4 style="color:blue;">Teachers-in-charge</h4> <br>
 
 Mrs Monica Phua (IC)<br>
-Ms Shannon Loh (2IC)&nbsp;<br>
-Mr Michael Goh<br>
+Mr Fahmi (2IC)<br>
+Ms Dian Fatihah Bin Ismail<br>
 
 <h4 style="color:blue;">Achievements</h4>  <br>
 	

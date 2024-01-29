@@ -3,6 +3,7 @@ title: Art & Crafts Club
 permalink: /co-curricular-activities/cca/visual-n-performing-arts/art-n-crafts-club/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 ![](/images/2023%20Art%20Club_school%20website-min.jpg)
 
@@ -13,9 +14,9 @@ third_nav_title: Visual and Performing Arts
 <h4 style="color:blue;">Teachers-in-charge</h4>
 
 Ms Tan Ee Peng (IC)<br> 
-Mdm Sulistiati  <br> 
-Ms Nabilah  <br> 
-Mr Harvey Kwek  <br> 
+Mdm Sulistiati  (2IC)<br> 
+Ms Renuka  <br> 
+Ms Nabilah <br> 
 Mrs Melissa Siew<br> 
 
 <h4 style="color:blue;">Achievements</h4>

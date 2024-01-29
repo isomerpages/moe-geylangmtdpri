@@ -1,7 +1,8 @@
 ---
 title: 2021 Gallery
-permalink: /useful-links/2021-gallery/
+permalink: /permalink/
 description: ""
+variant: tiptap
 ---
 <h3 style="color:blue;">P1 Transition
 

@@ -3,6 +3,7 @@ title: Choir
 permalink: /co-curricular-activities/cca/visual-n-performing-arts/choir/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <img src="/images/Capture2.jpg" style="width:60%">
 
@@ -11,8 +12,8 @@ third_nav_title: Visual and Performing Arts
 
 <h4 style="color:blue;">Teachers-in-charge</h4>
 Mrs Serene Goh (IC) <br>
-Ms Tan Cher Hui<br>
-Ms Yang Fei<br>
+Mdm Wong Lee Jiun (2IC)<br>
+Ms Tan Cher Hui <br>
 
 <h4 style="color:blue;">Achievements</h4>
 SYF 2018 - Merit Award <br>

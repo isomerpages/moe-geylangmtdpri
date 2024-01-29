@@ -3,6 +3,7 @@ title: Boys' Brigade
 permalink: /co-curricular-activities/cca/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/BB_Picture4.jpg)
 
@@ -61,8 +62,8 @@ Mrs Anna Quek (Captain) <br>
 Mr Calvin Eng (IC) <br> 
 Ms Sarah-Ann Tan (2IC) <br> 
 Mr Harvey Kwek&nbsp;<br> 
-Mr Chen Zhi Rong<br>
-Ms Deborah Tan<br>
+Mr Michael Goh<br>
+Mrs Joanne Yak<br>
 Ms Guan Yuan (Church Personnel)<br>
 	
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-oTahjltvoF-2uERUgRC81WNbAbzva3nRlDrh6kIi2IfEjC2-XUIeb5HpyVNsQKy10vv-tTBEgTIw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe><p></p>
