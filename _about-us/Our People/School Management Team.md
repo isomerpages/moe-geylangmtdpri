@@ -17,7 +17,7 @@ variant: markdown
 | Mrs Beverly Toh | School Staff Developer | low_pei_lin_beverly@moe.edu.sg |
 | Ms Tng Li Ling | Year Head<br>(Upper Pri) | tng_li_ling@moe.edu.sg |
 | Mrs Tok Bing Hwee | Year Head (Middle Pri) | tan_bing_hwee@moe.edu.sg |
-| Mrs Ariel Koh | Asst. Year Head (Middle Pri) (int) | ariel_zhuang_shuyi@moe.edu.sg|
+| Mrs Ariel Koh | Asst. Year Head (Middle Pri) | ariel_zhuang_shuyi@moe.edu.sg|
 | Mrs Chen Yan Xi  | Year Head (Lower Pri) | sim_yan_xi@moe.edu.sg |
 | Ms Tan Li Ling | Asst. Year Head (Lower Pri) | tan_li_ling@moe.edu.sg |
 | Ms Pearl Saw | Head of Department (Mathematics) | saw_pearl@moe.edu.sg |
