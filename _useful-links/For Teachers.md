@@ -2,6 +2,7 @@
 title: For Teachers
 permalink: /useful-links/for-teachers/
 description: ""
+variant: markdown
 ---
 <h4 style="color:blue;">MOE</h4>
 
@@ -32,6 +33,8 @@ description: ""
 [Form.sg](https://form.gov.sg/#!/)  
   
 [Resource Booking Service](https://rbs.avero-tech.com/)  
+
+[Appraiser Webapp](https://go.gov.sg/appraiser)
 
 [GMS(P) PD Site](https://sites.google.com/moe.edu.sg/gmsp-pdt-site/resources/edtech-resources)
  
