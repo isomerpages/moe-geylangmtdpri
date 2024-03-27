@@ -2,12 +2,13 @@
 title: Alumni
 permalink: /about-us/our-partners/alumni/
 description: ""
+variant: markdown
 ---
 <h4 style="color:blue;">Election of Office Bearers</h4>
 
 The results of the election of Office Bearers for the new term 2022-2024 is as follows:
 
-![](/images/Alumni_Committee%20Photo%202022%20-%202024%20portrait.jpg)
+![](/images/Alumni.png)
 
 <h4 style="color:blue;">Mission</h4>
 
