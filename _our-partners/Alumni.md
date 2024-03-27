@@ -6,7 +6,7 @@ variant: markdown
 ---
 <h4 style="color:blue;">Election of Office Bearers</h4>
 
-The results of the election of Office Bearers for the new term 2022-2024 is as follows:
+The results of the election of Office Bearers for the new term 2024-2026 is as follows:
 
 ![](/images/Alumni.png)
 
