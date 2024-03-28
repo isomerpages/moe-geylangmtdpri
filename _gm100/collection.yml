@@ -2,4 +2,5 @@ collections:
   gm100:
     output: true
     order:
+      - Centennial Celebration.md
       - GM100 Tree Planting Day.md
