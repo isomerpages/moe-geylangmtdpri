@@ -2,5 +2,4 @@ collections:
   gm100:
     output: true
     order:
-      - infopic.md
       - GM100 Tree Planting Day.md
