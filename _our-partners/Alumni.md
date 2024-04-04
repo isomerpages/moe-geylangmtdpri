@@ -25,9 +25,7 @@ The results of the election of Office Bearers for the new term 2024-2026 is as f
 - <b>A</b>chievable and Attitude<br>  
 - <b>L</b>eadership<br>
 
-<h4 style="color:blue;">Alumni Registration Form</h4>
 
-[GMSP Alumni Registration Form.pdf](/files/GMSP%20Alumni%20Registration%20Form.pdf)
 
 ![](/images/IMG-20190715-WA0012.jpg)
 ![](/images/20190824_122907.jpg)
