@@ -27,10 +27,10 @@ third_nav_title: "2024"
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Boys’ Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,6 +38,15 @@ third_nav_title: "2024"
 </td>
 <td rowspan="1" colspan="1">
 <p>Patrick Yeo (P6-8)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bronze roll</p>
+<p>Adventure Quest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 6 boys</p>
 </td>
 </tr>
 <tr>
@@ -94,6 +103,20 @@ third_nav_title: "2024"
 <p>
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
