@@ -14,7 +14,7 @@ area, and be a beacon of light for the students and community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/1%20Site%20of%20School%201927.jpg">
 </div>
-<p><em><sub>Site of school 1927</sub></em>
+<p><em><sub></sub></em></p><p style="text-align: center;"><em>Site of school 1927</em>
 </p>
 <p style="text-align: justify;">The early years were a struggle. There was no land nor funds to build
 the school. Undeterred, the school’s early founders continued to go house-to-house
@@ -23,7 +23,7 @@ of the church provided supervision and strong support to the school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/2%20Site%20of%20School%201927%201.jpg">
 </div>
-<p><em><sup>Site of school 1927</sup></em>
+<p><em><sup></sup></em></p><p style="text-align: center;"><em>Site of school 1927</em>
 </p>
 <p style="text-align: justify;">With financial support of many well-wishers and the Methodist Churches,
 the school grew from strength to strength. To meet increasing enrolment,
@@ -35,7 +35,7 @@ co-educational. The schools were later renamed Geylang Methodist Schools
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/3%20New%20School%20Extension%20Hall%20and%20Classroom.jpg">
 </div>
-<p><em><sub>New school extension of hall and classroom</sub></em>
+<p><em><sub></sub></em></p><p style="text-align: center;"><em>New school extension of hall and classroom</em>
 </p>
 <p></p>
 <h4>Many Helping Hands</h4>
@@ -43,15 +43,15 @@ co-educational. The schools were later renamed Geylang Methodist Schools
 missionary and one educator played pivotal roles in starting the school
 – Reverend Floyd Herman Sullivan and Miss Emma Eaton Walker.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Reverend%20Sullivan.jpg">
+<img style="width: 55%;" height="auto" width="100%" src="/images/Reverend%20Sullivan.jpg">
 </div>
-<p><em><sub>Photograph of Reverend Floyd Herman Sullivan</sub></em>
+<p><em><sub></sub></em></p><p style="text-align: center;"><em>Photograph of Reverend Floyd Herman Sullivan</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Rev_Floyd_col.jpg">
 </div>
-<p><em><sub>Painting of Reverend Floyd Herman Sullivan</sub></em>
+<p><em><sub></sub></em></p><p style="text-align: center;"><em>Painting of Reverend Floyd Herman Sullivan</em>
 </p>
 <p style="text-align: justify;">With Reverend Sullivan’s strong support and oversight, the setting up
 of GMGS was facilitated during his tenure as District Superintendant of
@@ -59,15 +59,15 @@ the Methodist Church in Singapore. Reverend Sullivan also personally read
 the dedicatory service of the new building of the Geylang Methodist Church
 and Geylang Methodist Girls’ School in the founding.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Emma%20Eaton%20Walker.png">
+<img style="width: 55%;" height="auto" width="100%" src="/images/Emma%20Eaton%20Walker.png">
 </div>
-<p><em><sub>Photograph of Miss Emma Eaton Walker</sub></em>
+<p><em><sub></sub></em></p><p style="text-align: center;"><em>Photograph of Miss Emma Eaton Walker</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Emma_Walker_col.jpg">
 </div>
-<p><em><sub>Painting of Miss Emma Eaton Walker</sub></em>
+<p><em><sub></sub></em></p><p style="text-align: center;"><em>Painting of Miss Emma Eaton Walker</em>
 </p>
 <p></p>
 <p style="text-align: justify;">Miss Emma Eaton Walker worked as a professional teacher and school principal
@@ -82,7 +82,7 @@ committee) for a new school building for GMGS in 1927.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/4%20Class%20of%201948%20with%20Ms%20Mitchell.jpg">
 </div>
-<p><em><sub>Class of 1948 with Ms Mitchell</sub></em>
+<p><em><sub></sub></em></p><p style="text-align: center;"><em>Class of 1948 with Ms Mitchell</em>
 </p>
 <p style="text-align: justify;">Over the years, the school has established a distinctive Christian culture
 based on an ethos founded on shared beliefs and values. This is reflected
@@ -106,9 +106,9 @@ of GMGS from 1949 - 1950.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/5%20Staff%201957.jpg">
 </div>
-<p><em><sub>Staff of 1957</sub></em>
+<p><em><sub></sub></em></p><p style="text-align: center;"><em>Staff of 1957</em>
 </p>
-<p style="text-align: justify;">Today, 99 years after our humble beginnings, Geylang Methodist School
+<p style="text-align: justify;">Today, 100 years after our humble beginnings, Geylang Methodist School
 (Primary) now has more than 1600 students. We are deeply appreciative of
 the strong support given by our partners and well-wishers. With the new
 building extension and facilities, we are finally able to function as a
@@ -118,7 +118,7 @@ beacon of light in this Geylang community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/IMG-20210708-WA0007.jpg">
 </div>
-<p><em><sub>Our present school building</sub></em>
+<p><em><sub></sub></em></p><p style="text-align: center;"><em>Our present school building</em>
 </p>
 <p style="text-align: justify;">As a school, we treasure every milestone in our journey as a forward step
 in the legacy that many helping hands and hearts have bequeathed to us
@@ -126,7 +126,7 @@ in their love, service and faithfulness to God. This legacy will and must
 continue to live on through our words and deeds, our actions and thoughts.
 As a GM family, we will continue to GROW, SERVE and LEAD with joy, through
 Friendship, Body and Mind!</p>
-<p style="text-align: justify;">To God be the Glory! 99 years today, and counting! Amen and Amen.</p>
+<p style="text-align: justify;">To God be the Glory! 100 years today, and counting! Amen and Amen.</p>
 <p></p>
-<p><strong>"A Christian school is like a family.&nbsp; It runs on the basic principles of love, tolerance and duty.&nbsp; It is the responsibility of everyone...that these are maintained..."</strong> 
-<br>- Rev J V Ayaduray, Chairman of school's first Management Board, 1960.*</p>
+<p><strong></strong></p><p style="text-align: center;"><strong>"A Christian school is like a family.&nbsp; It runs on the basic principles of love, tolerance and duty.&nbsp; It is the responsibility of everyone...that these are maintained..."</strong> 
+<br></p><p style="text-align: right;"><i>- Rev J V Ayaduray, Chairman of school's first Management Board, 1960.</i></p>
