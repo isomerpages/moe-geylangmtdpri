@@ -100,9 +100,6 @@ third_nav_title: "2024"
 <td rowspan="1" colspan="1">
 <p>Silver Award&nbsp;</p>
 <p>for accomplishments in 2023</p>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
