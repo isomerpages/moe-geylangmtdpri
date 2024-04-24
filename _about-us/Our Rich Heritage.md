@@ -4,7 +4,7 @@ permalink: /about-us/our-rich-heritage/
 description: ""
 variant: markdown
 ---
-<p>The school was started in 1924 as Geylang Methodist Girls' School (GMGS)
+<p style="text-align: justify;">The school was started in 1924 as Geylang Methodist Girls' School (GMGS)
 in the humble beginnings of a small, sparsely furnished but functional
 classroom converted from the extra space carved out from the premises of
 Geylang Chinese Methodist Church. The setting up of a school for girls
@@ -16,7 +16,7 @@ area, and be a beacon of light for the students and community.</p>
 </div>
 <p><em><sub>Site of school 1927</sub></em>
 </p>
-<p>The early years were a struggle. There was no land nor funds to build
+<p style="text-align: justify;">The early years were a struggle. There was no land nor funds to build
 the school. Undeterred, the school’s early founders continued to go house-to-house
 to canvass for students. From the very beginning, missionaries and pastors
 of the church provided supervision and strong support to the school.</p>
@@ -25,7 +25,7 @@ of the church provided supervision and strong support to the school.</p>
 </div>
 <p><em><sup>Site of school 1927</sup></em>
 </p>
-<p>With financial support of many well-wishers and the Methodist Churches,
+<p style="text-align: justify;">With financial support of many well-wishers and the Methodist Churches,
 the school grew from strength to strength. To meet increasing enrolment,
 GMGS grew and expanded to form Geylang Methodist Primary School and Geylang
 Methodist Secondary School in 1984 along Geylang East Central, where both
@@ -39,7 +39,7 @@ co-educational. The schools were later renamed Geylang Methodist Schools
 </p>
 <p></p>
 <h4>Many Helping Hands</h4>
-<p>Of the many helping hands that supported the building of the school, one
+<p style="text-align: justify;">Of the many helping hands that supported the building of the school, one
 missionary and one educator played pivotal roles in starting the school
 – Reverend Floyd Herman Sullivan and Miss Emma Eaton Walker.</p>
 <div class="isomer-image-wrapper">
@@ -53,7 +53,7 @@ missionary and one educator played pivotal roles in starting the school
 </div>
 <p><em><sub>Painting of Reverend Floyd Herman Sullivan</sub></em>
 </p>
-<p>With Reverend Sullivan’s strong support and oversight, the setting up
+<p style="text-align: justify;">With Reverend Sullivan’s strong support and oversight, the setting up
 of GMGS was facilitated during his tenure as District Superintendant of
 the Methodist Church in Singapore. Reverend Sullivan also personally read
 the dedicatory service of the new building of the Geylang Methodist Church
@@ -70,7 +70,7 @@ and Geylang Methodist Girls’ School in the founding.</p>
 <p><em><sub>Painting of Miss Emma Eaton Walker</sub></em>
 </p>
 <p></p>
-<p>Miss Emma Eaton Walker worked as a professional teacher and school principal
+<p style="text-align: justify;">Miss Emma Eaton Walker worked as a professional teacher and school principal
 in the USA before coming to Singapore. She was an established professional
 and was introduced to the Methodist missions work through the Methodist
 Missions Conference. Miss Walker taught at the Anglo-Chinese School and
@@ -84,7 +84,7 @@ committee) for a new school building for GMGS in 1927.</p>
 </div>
 <p><em><sub>Class of 1948 with Ms Mitchell</sub></em>
 </p>
-<p>Over the years, the school has established a distinctive Christian culture
+<p style="text-align: justify;">Over the years, the school has established a distinctive Christian culture
 based on an ethos founded on shared beliefs and values. This is reflected
 in the following ways:
 <br>* The school chaplains are pastors from the Methodist Churches.
@@ -108,7 +108,7 @@ of GMGS from 1949 - 1950.
 </div>
 <p><em><sub>Staff of 1957</sub></em>
 </p>
-<p>Today, 99 years after our humble beginnings, Geylang Methodist School
+<p style="text-align: justify;">Today, 99 years after our humble beginnings, Geylang Methodist School
 (Primary) now has more than 1600 students. We are deeply appreciative of
 the strong support given by our partners and well-wishers. With the new
 building extension and facilities, we are finally able to function as a
@@ -120,13 +120,13 @@ beacon of light in this Geylang community.</p>
 </div>
 <p><em><sub>Our present school building</sub></em>
 </p>
-<p>As a school, we treasure every milestone in our journey as a forward step
+<p style="text-align: justify;">As a school, we treasure every milestone in our journey as a forward step
 in the legacy that many helping hands and hearts have bequeathed to us
 in their love, service and faithfulness to God. This legacy will and must
 continue to live on through our words and deeds, our actions and thoughts.
 As a GM family, we will continue to GROW, SERVE and LEAD with joy, through
 Friendship, Body and Mind!</p>
-<p>To God be the Glory! 99 years today, and counting! Amen and Amen.</p>
+<p style="text-align: justify;">To God be the Glory! 99 years today, and counting! Amen and Amen.</p>
 <p></p>
 <p><strong>"A Christian school is like a family.&nbsp; It runs on the basic principles of love, tolerance and duty.&nbsp; It is the responsibility of everyone...that these are maintained..."</strong> 
 <br>- Rev J V Ayaduray, Chairman of school's first Management Board, 1960.*</p>
