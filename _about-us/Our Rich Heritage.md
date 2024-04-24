@@ -49,7 +49,7 @@ missionary and one educator played pivotal roles in starting the school
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Rev_Floyd_col.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Rev_Floyd_col.jpg">
 </div>
 <p><em><sub>Painting of Reverend Floyd Herman Sullivan</sub></em>
 </p>
@@ -65,7 +65,7 @@ and Geylang Methodist Girls’ School in the founding.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Emma_Walker_col.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Emma_Walker_col.jpg">
 </div>
 <p><em><sub>Painting of Miss Emma Eaton Walker</sub></em>
 </p>
