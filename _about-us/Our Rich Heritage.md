@@ -43,13 +43,13 @@ co-educational. The schools were later renamed Geylang Methodist Schools
 missionary and one educator played pivotal roles in starting the school
 – Reverend Floyd Herman Sullivan and Miss Emma Eaton Walker.</p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/Reverend%20Sullivan.jpg">
+<img style="width: 75%;" height="auto" width="100%" src="/images/Reverend%20Sullivan.jpg">
 </div>
 <p><em><sub>Photograph of Reverend Floyd Herman Sullivan</sub></em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rev_Floyd_col.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Rev_Floyd_col.jpg">
 </div>
 <p><em><sub>Painting of Reverend Floyd Herman Sullivan</sub></em>
 </p>
@@ -59,13 +59,13 @@ the Methodist Church in Singapore. Reverend Sullivan also personally read
 the dedicatory service of the new building of the Geylang Methodist Church
 and Geylang Methodist Girls’ School in the founding.</p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/Emma%20Eaton%20Walker.png">
+<img style="width: 75%;" height="auto" width="100%" src="/images/Emma%20Eaton%20Walker.png">
 </div>
 <p><em><sub>Photograph of Miss Emma Eaton Walker</sub></em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Emma_Walker_col.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Emma_Walker_col.jpg">
 </div>
 <p><em><sub>Painting of Miss Emma Eaton Walker</sub></em>
 </p>
