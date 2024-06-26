@@ -1041,18 +1041,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5. Ms Sharon Soh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">soh_sharon_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Allied Educator (T&amp;L)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1119,6 +1107,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Teh_Sing_Wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_sing_wan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wan Zulkiflee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wan_zulkiflee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wan_zulkiflee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1198,7 +1198,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2. Mdm Chua Kim Kee</p>
+<p>2. Mdm Malliga d/o Suppiah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1209,29 +1209,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3. Mdm Ong Geok Eng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4. Mdm Malliga d/o Suppiah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5. Mdm Ling Chin Ping</p>
+<p>3. Mdm Ling Chin Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1293,7 +1271,7 @@ variant: tiptap
 <p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Suan Cheok</p>
+<p>Ms Diamond Tan Suan Cheok</p>
 </td>
 </tr>
 <tr>
