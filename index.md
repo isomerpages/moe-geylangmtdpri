@@ -22,9 +22,9 @@ sections:
           url: https://www.facebook.com/GMSPrimary/
       background: /images/banner _ claudia.jpg
   - infopic:
-      title: Infopic
+      title: GMS(P) Centennial Concert 2024
       id: infopic
-      button: Click Here
+      button: Click here to buy for ticket
       url: https://ticketmaster.sg/activity/detail/24sg_centennial
       image: /images/Centennial_Concert_2024.jpg
       alt: Image alt text
