@@ -22,6 +22,13 @@ sections:
           url: https://www.facebook.com/GMSPrimary/
       background: /images/banner _ claudia.jpg
   - infopic:
+      title: Infopic
+      id: infopic
+      button: Click Here
+      url: https://ticketmaster.sg/activity/detail/24sg_centennial
+      image: /images/Centennial_Concert_2024.jpg
+      alt: Image alt text
+  - infopic:
       title: A day in GMS(P)
       button: Click here for video
       url: https://youtu.be/P2naDv7Zcws
