@@ -3,5 +3,6 @@ title: PSG Organisation Chart
 permalink: /about-us/our-partners/parent-support-group/psg-organisation-chart/
 description: ""
 third_nav_title: Parent Support Group
+variant: markdown
 ---
-<img src="/images/gms(p)%20psg%20committee%20members.jpg" style="width:500%">
+![GMSP PSG Committee Members](/images/gms_p__psg_committee_members.jpg)
