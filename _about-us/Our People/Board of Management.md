@@ -17,10 +17,10 @@ variant: markdown
 | <b>Vice Chairman</b> | Mr Chou Fang Soong |
 | <b>Treasurer</b> | Mr Wong Kwong Yong |
 | <b>Secretary</b> | Mrs Daphne Yeoh, Principal, GMS(P)|
+|  | Mr Victor Owyong,&nbsp;Principal, GMS(S)|
 |<b> Members</b> | Mdm Ng Cher Siang, Cheryl |
 |  | Mr Tay Kah Ann Peter |
 |  | Dr Raymond Teo Cheng Soon |
-|  | Mr Victor Owyong,&nbsp;Principal, GMS(S) |
 |  | Mr Kim Seah Teck Kim, Asst. Education Secretary, MCS |
 | <b>Ex-Officio Member</b> | Rev Shaun Chong,  Pastor-in-Charge,  Christalite Methodist Chapel |
 | |  |  |
