@@ -24,8 +24,8 @@ sections:
   - infopic:
       title: GMS(P) Centennial Concert 2024
       id: infopic
-      button: Click here to buy ticket
-      url: https://ticketmaster.sg/activity/detail/24sg_centennial
+      button: Click here for video
+      url: https://youtu.be/xkQ5a4QEj9Y
       image: /images/Centennial_Concert_2024.jpg
       alt: Image alt text
   - infopic:
