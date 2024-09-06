@@ -10,9 +10,9 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **Service Requirements**  
   
-**1.**    [Call for Proposal](/files/1__2024_GMSP_Call_for_Proposals__For_Single_Bus_Service___final_.pdf) \
-**2.**    [Terms & Conditions for School Bus Operator to Provide School Bus Services](/files/3__2024_GMSP_T_C_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service_.pdf) \
-**3.**    [Request for School Bus Services]((/files/2__2024_GMSP_Information_from_Vendor__For_Single_Bus_Service_.pdf))
+**1.**    [Call for Proposal](/files/1__2024_GMSP_Call_for_Proposals__For_Single_Bus_Service___final_.pdf)\
+**2.**    [Terms & Conditions for School Bus Operator to Provide School Bus Services](/files/3__2024_GMSP_T_C_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service_.pdf)\
+**3.**    [Request for School Bus Services](/files/2__2024_GMSP_Information_from_Vendor__For_Single_Bus_Service_.pdf)
 
 **Application Procedure**  
   
