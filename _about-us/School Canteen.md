@@ -8,7 +8,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Rice Stall | 26 May 2023 | Mixed rice is acceptable. |
+| |  |  |
 
 
 **Application Procedure**
@@ -46,4 +46,3 @@ variant: markdown
 *   Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 *   Possess catering experience or experience operating in a school environment.
 *   Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
-
