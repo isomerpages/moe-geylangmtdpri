@@ -2,12 +2,13 @@
 title: School Canteen
 permalink: /school-canteen/
 description: ""
+variant: markdown
 ---
 <h4 style="color:blue;">School Canteen Advertisement</h4>
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Rice Stall | 26 May 2023 | Mixed rice is acceptable. |
+| |  |  |
 
 
 **Application Procedure**
@@ -32,17 +33,16 @@ description: ""
 * Bus number: 134, 80, 155 <br>- 1 minute walking distance
 
 **Interested applicants must meet the following criteria:**
-* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
-* Able to provide good service and quality food with prices determined in consultation with the school.
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
-* Able to maintain high standard of food safety and personal hygiene.
-* Healthy and fit to operate the stall.
 
+*   Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
+*   Able to provide good service and quality food with prices determined in consultation with the school.
+*   Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see&nbsp;[link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+*   Able to maintain high standard of food safety and personal hygiene.
+*   Healthy and fit to operate the stall.  
+    
 
 **Applicants should preferably fulfil the following criteria:**
-* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
-* Possess catering experience or experience operating in a school environment.
-* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). 
 
-
-*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
+*   Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
+*   Possess catering experience or experience operating in a school environment.
+*   Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
