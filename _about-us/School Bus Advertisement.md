@@ -15,29 +15,17 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **Application Procedure**  
   
 **1.**    Complete the [Call for Proposal - Annex A](https://www.canossacatholicpri.moe.edu.sg/files/School%20Canteen%20and%20School%20Bus/Call_for_Proposal___Annex_A__Information_from_Vendor_.pdf)  
-**2.**    Submit the completed Call for Proposal – Annex A by closing date, **6 September 2024, 5pm** , to the School’s General Office.
+**2.**    Submit the completed Call for Proposal – Annex A by closing date, **16 September 2024, 5pm** , to the School’s General Office.
 
-*   **Address:**    1 Sallim Road, Singapore 387621
-*   **Contact Number:**    +65 6844 1418
-*   **Email:**    [ccps@moe.edu.sg](mailto:ccps@moe.edu.sg)
-*   **Contact Person:**    Mdm Faezah
+* Address: 4, Geylang East Central,&nbsp;Singapore 389706
+* Contact No: 6748 6746
+* Email: gmsp@moe.edu.sg
+* Contact Person: Mdm Mildred Lek 
 
-**How to get there?**  
+**How to get to GMS(P)?**
+
+*   Nearest MRT: Aljunied MRT (EW9 line)  
+    \- 3 minutes walking distance from Exit B
+*   Bus number: 134, 80, 155  
+    \- 1 minute walking distance
   
-**1.**   Nearest MRT station: Mattar Station (7-minute walk)   
-**2.**   Buses to take:  
-
-| **Aljunied Road (Same side as CCPS)**  
-Bus Stop B70029 | 62, 64, 100 |
-| --- | --- |
-| **Aljunied Road (Opposite CCPS)**  
-Bus Stop B70021 | 61, 62, 64, 65, 100, 135, 154, 155 |
-| **Merpati Road (After Jalan Anggerek)**  
-Bus Stop B70151 | 40, 61, 63, 65, 135, 154, 155, 158 |
-| **Merpati Road (Opp Mattar Station Exit A)**  
-Bus Stop B70161 | 40, 61, 63, 65, 135, 154, 155, 158 |
-| **Mattar Road (After Grace Baptist Church)**  
-Bus Stop B70241 | 40, 61, 63, 65, 135, 154, 155, 158  
- |
-| **Opp Macpherson (Station Exit A)**  
-Bus Stop B70379 | 61, 63, 65, 66, 135, 154, 158 |
