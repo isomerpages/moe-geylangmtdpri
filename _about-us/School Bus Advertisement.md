@@ -4,6 +4,8 @@ permalink: /about-us/school-bus-rates/
 description: ""
 variant: markdown
 ---
+# **School Bus Advertisement**
+
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 **Service Requirements**  
@@ -28,4 +30,3 @@ To apply, please refer to the Service Requirements and the Application Procedure
     \- 3 minutes walking distance from Exit B
 *   Bus number: 134, 80, 155  
     \- 1 minute walking distance
-  
