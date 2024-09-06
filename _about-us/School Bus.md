@@ -21,7 +21,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 * Address: 4, Geylang East Central,&nbsp;Singapore 389706
 * Contact No: 6748 6746
-* Email: gmsp@moe.edu.sg
+* Email: [gmsp@moe.edu.sg](gmsp@moe.edu.sg)
 * Contact Person: Mdm Mildred Lek 
 
 **How to get to GMS(P)?**
