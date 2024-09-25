@@ -25,9 +25,9 @@ respective lesson plans are in the links below:</p>
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.geylangmethodistpri.moe.edu.sg/files/P3__E_Learning_2024_Day_1_Lesson_Plans__template__for_30_Sept.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>30 September 2024 (Monday)</u></a>
+<p><a href="/files/P3__E_Learning_2024_Day_1_Lesson_Plans_for_30_Sept.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>30 September 2024 (Monday)</u></a>
 </p>
-<p><a href="https://www.geylangmethodistpri.moe.edu.sg/files/P3__E_Learning_2024_Day_2_Lesson_Plans__template__for_1_Oct.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1 October 2024 (Tuesday)</u></a>
+<p><a href="/files/P3__E_Learning_2024_Day_2_Lesson_Plans_for_1_Oct.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1 October 2024 (Tuesday)</u></a>
 </p>
 </td>
 </tr>
@@ -36,9 +36,9 @@ respective lesson plans are in the links below:</p>
 <p>P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.geylangmethodistpri.moe.edu.sg/files/P4__E_Learning_2024_Day_1_Lesson_Plans__template__for_30_Sept.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>30 September 2024 (Monday)</u></a>
+<p><a href="/files/P4__E_Learning_2024_Day_1_Lesson_Plans_for_30_Sept.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>30 September 2024 (Monday)</u></a>
 </p>
-<p><a href="https://www.geylangmethodistpri.moe.edu.sg/files/P4__E_Learning_2024_Day_2_Lesson_Plans__template__for_1_Oct.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1 October 2024 (Tuesday)</u></a>
+<p><a href="/files/P4__E_Learning_2024_Day_2_Lesson_Plans_for_1_Oct.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1 October 2024 (Tuesday)</u></a>
 </p>
 </td>
 </tr>
