@@ -4,8 +4,8 @@ permalink: /p3-p4-elearning-30-sep-2024-to-1-oct-2024/
 variant: tiptap
 description: ""
 ---
-<p>P3 to P5 students will have e-learning on selected days. The respective
-lesson plans are in the links below:</p>
+<p>P3 &amp; P4 students will have e-learning on 30 Sep and 1 Oct 2024. The
+respective lesson plans are in the links below:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
