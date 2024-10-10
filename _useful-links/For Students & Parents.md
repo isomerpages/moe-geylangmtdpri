@@ -38,7 +38,7 @@ variant: markdown
 7\. Lower Primary Parents' Chinese Language Workshop - Slides<br>
 [Lower Pri Parents' CL Workshop](/files/lower%20primary%20parents'%20cl%20workshop.pdf)
 
-8\. Students admitting in 2025 (Administrative information)
+8\. Students admitting in 2025 (Administrative information)<br>
 [Click here for the Google site](https://sites.google.com/moe.edu.sg/gmsp-p1studenthub?usp=sharing)
 
 
