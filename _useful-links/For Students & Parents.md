@@ -4,8 +4,6 @@ permalink: /useful-links/for-students-n-parents/
 description: ""
 variant: markdown
 ---
-
-
 <h4 style="color:blue;">Students</h4>
   
 1\. Singapore Student Learning Space (SLS)  
@@ -41,7 +39,7 @@ variant: markdown
 [Lower Pri Parents' CL Workshop](/files/lower%20primary%20parents'%20cl%20workshop.pdf)
 
 8\. Students admitting in 2025 (Administrative information)
-https://sites.google.com/moe.edu.sg/gmsp-p1studenthub?usp=sharing
+https://sites.google.com/moe.edu.sg/gmsp-p1studenthub?usp=sharing[https://sites.google.com/moe.edu.sg/gmsp-p1studenthub?usp=sharing](https://sites.google.com/moe.edu.sg/gmsp-p1studenthub?usp=sharing)
 
 
 
@@ -58,5 +56,3 @@ https://sites.google.com/moe.edu.sg/gmsp-p1studenthub?usp=sharing
 * [Primary 6 (4F)](/files/Primary%206%20(4F).pdf)<br>
 * [Primary 6 (4S)](/files/Primary%206%20(4S).pdf)<br>
 * [Primary 6 (4S_HMT)](/files/Primary%206%20(4S_HMT).pdf)<br>
-
-
