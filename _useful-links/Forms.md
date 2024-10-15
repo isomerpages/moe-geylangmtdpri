@@ -2,6 +2,7 @@
 title: Forms
 permalink: /useful-links/forms/
 description: ""
+variant: markdown
 ---
 <h4 style="color:blue;">Name Tag Order Link</h4>
 
@@ -14,3 +15,7 @@ description: ""
 <h4 style="color:blue;">PSG Registration Form</h4>
 
 [PSG Registration Form.pdf](/files/PSG%20Registration%20Form.pdf)
+
+<h4 style="color:blue;">Transfer Wait List Application Form</h4>
+
+[GMS(P) Transfer Wait List Application Form](https://form.gov.sg/628f37af8e57b300122d0c62)
