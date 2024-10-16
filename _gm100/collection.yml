@@ -2,5 +2,6 @@ collections:
   gm100:
     output: true
     order:
+      - Centeninial Thanksgiving Dinner.md
       - Centennial Celebration.md
       - GM100 Tree Planting Day.md
