@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - School Bus Vendor.md
       - Calendar of Events.md
       - Forms.md
       - For Students & Parents.md

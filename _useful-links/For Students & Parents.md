@@ -14,6 +14,12 @@ variant: markdown
   
 3\. School Library Portal  
 [https://schoolibrary.moe.edu.sg/geylangmethodistpri ](https://schoolibrary.moe.edu.sg/geylangmethodistpri )
+
+4\. Tingkle Friend
+
+[https://www.tinklefriend.sg/]
+
+(https://www.tinklefriend.sg/)
   
 <h4 style="color:blue;">Parents</h4>
   
