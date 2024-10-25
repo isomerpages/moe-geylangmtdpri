@@ -17,9 +17,9 @@ variant: markdown
 
 4\. Tingkle Friend
 
-[https://www.tinklefriend.sg/]
+[https://www.tinklefriend.sg/](https://www.tinklefriend.sg/)
 
-(https://www.tinklefriend.sg/)
+
   
 <h4 style="color:blue;">Parents</h4>
   
