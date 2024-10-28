@@ -269,8 +269,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Up to 2km</p>
-</td>
+<p>
+</p></td>
 <td rowspan="1" colspan="1">
 <p></p><center>$165<p></p>
 </center></td>
