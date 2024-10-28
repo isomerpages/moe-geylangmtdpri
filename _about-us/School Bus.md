@@ -42,7 +42,7 @@ variant: markdown
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">long@longlim.com</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">gmps@bkktravel.com</a>
 </p>
 </td>
 </tr>
@@ -60,8 +60,8 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="2" colspan="1">
-<p valign="middle"></p><center>DISTANCE<p></p>
+<th valign="middle" rowspan="2" colspan="1">
+<p></p><center>DISTANCE<p></p>
 </center></th>
 <th rowspan="1" colspan="2">
 <p></p><center>Up to 15-seater<p></p>
@@ -159,25 +159,25 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Up to 2 km</p>
-</td>
+<p></p><center>Up to 2 km<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$5 per trip</p>
-</td>
+<p></p><center>$5 per trip<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$5 per trip</p>
-</td>
+<p></p><center>$5 per trip<p></p>
+</center></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&gt;2 - 4 km</p>
-</td>
+<p></p><center>&gt;2 - 4 km<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$6 per trip</p>
-</td>
+<p></p><center>$6 per trip<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$6 per trip</p>
-</td>
+<p></p><center>$6 per trip<p></p>
+</center></td>
 </tr>
 </tbody>
 </table>
@@ -225,7 +225,7 @@ variant: markdown
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">long@longlim.com</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">gmsp@bkktravel.com</a>
 </p>
 </td>
 </tr>
@@ -243,12 +243,12 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="2" colspan="1">
+<th valign="middle" rowspan="2" colspan="1">
 <p>DISTANCE</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>Up to 15-seater</p>
-</th>
+<p></p><center>Up to 15-seater<p></p>
+</center></th>
 <th rowspan="1" colspan="2">
 <p>bigger than 15 seater</p>
 </th>
