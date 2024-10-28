@@ -314,14 +314,14 @@ variant: markdown
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Distance Range Category</p>
-</th>
+<p></p><center>Distance Range Category<p></p>
+</center></th>
 <th rowspan="1" colspan="1">
-<p>Up to 15 seater (per trip)</p>
-</th>
+<p></p><center>Up to 15 seater (per trip)<p></p>
+</center></th>
 <th rowspan="1" colspan="1">
-<p>larger than 15 seater (per trip)</p>
-</th>
+<p></p><center>larger than 15 seater (per trip)<p></p>
+</center></th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
