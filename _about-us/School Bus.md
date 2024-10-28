@@ -244,62 +244,62 @@ variant: markdown
 <tbody>
 <tr>
 <th valign="middle" rowspan="2" colspan="1">
-<p>DISTANCE</p>
-</th>
+<p></p><center>DISTANCE<p></p>
+</center></th>
 <th rowspan="1" colspan="2">
 <p></p><center>Up to 15-seater<p></p>
 </center></th>
 <th rowspan="1" colspan="2">
-<p>bigger than 15 seater</p>
-</th>
+<p></p><center>bigger than 15 seater<p></p>
+</center></th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Way Trip</p>
-</td>
+<p></p><center>1-Way Trip<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>2-Way Trip</p>
-</td>
+<p></p><center>2-Way Trip<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>1-Way Trip</p>
-</td>
+<p></p><center>1-Way Trip<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>2-way Trip</p>
-</td>
+<p></p><center>2-way Trip<p></p>
+</center></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Up to 2km</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$165</p>
-</td>
+<p></p><center>$165<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$190</p>
-</td>
+<p></p><center>$190<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$155</p>
-</td>
+<p></p><center>$155<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$180</p>
-</td>
+<p></p><center>$180<p></p>
+</center></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&gt;2-4km</p>
-</td>
+<p></p><center>&gt;2-4km<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$215</p>
-</td>
+<p></p><center>$215<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$240</p>
-</td>
+<p></p><center>$240<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$195</p>
-</td>
+<p></p><center>$195<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$220</p>
-</td>
+<p></p><center>$220<p></p>
+</center></td>
 </tr>
 </tbody>
 </table>
@@ -325,25 +325,25 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Up to 2 km</p>
-</td>
+<p></p><center>Up to 2 km<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$5 per trip</p>
-</td>
+<p></p><center>$5 per trip<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$5 per trip</p>
-</td>
+<p></p><center>$5 per trip<p></p>
+</center></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&gt;2 - 4 km</p>
-</td>
+<p></p><center>&gt;2 - 4 km<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$6 per trip</p>
-</td>
+<p></p><center>$6 per trip<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$6 per trip</p>
-</td>
+<p></p><center>$6 per trip<p></p>
+</center></td>
 </tr>
 </tbody>
 </table>
