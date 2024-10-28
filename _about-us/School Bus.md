@@ -61,62 +61,62 @@ variant: markdown
 <tbody>
 <tr>
 <th rowspan="2" colspan="1">
-<p>DISTANCE</p>
-</th>
+<p valign="middle"></p><center>DISTANCE<p></p>
+</center></th>
 <th rowspan="1" colspan="2">
-<p>Up to 15-seater</p>
-</th>
+<p></p><center>Up to 15-seater<p></p>
+</center></th>
 <th rowspan="1" colspan="2">
-<p>larger than 15 seater</p>
-</th>
+<p></p><center>larger than 15 seater<p></p>
+</center></th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Way Trip</p>
-</td>
+<p></p><center>1-Way Trip<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>2-Way Trip</p>
-</td>
+<p></p><center>2-Way Trip<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>1-Way Trip</p>
-</td>
+<p></p><center>1-Way Trip<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>2-way Trip</p>
-</td>
+<p></p><center>2-way Trip<p></p>
+</center></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Up to 2km</p>
-</td>
+<p></p><center>Up to 2km<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$165</p>
-</td>
+<p></p><center>$165<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$190</p>
-</td>
+<p></p><center>$190<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$155</p>
-</td>
+<p></p><center>$155<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$180</p>
-</td>
+<p></p><center>$180<p></p>
+</center></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&gt;2-4km</p>
-</td>
+<p></p><center>&gt;2-4km<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$215</p>
-</td>
+<p></p><center>$215<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$240</p>
-</td>
+<p></p><center>$240<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$195</p>
-</td>
+<p></p><center>$195<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>$220</p>
-</td>
+<p></p><center>$220<p></p>
+</center></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
