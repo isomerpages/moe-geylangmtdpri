@@ -22,5 +22,5 @@ variant: markdown
 |  | Mr Tay Kah Ann Peter |
 |  | Dr Raymond Teo Cheng Soon |
 |  | Mr Kim Seah Teck Kim, Asst. Education Secretary, MCS |
-| <b>Ex-Officio Member</b> | Rev Shaun Chong,  Pastor-in-Charge,  Christalite Methodist Chapel |
+| <b>Ex-Officio Member</b> | Rev Tay Li Ping,  Pastor-in-Charge,  Christalite Methodist Chapel |
 | |  |  |
