@@ -804,6 +804,48 @@ Mathematics and
 <br>P6-8</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<h4>Asia Pacific Mathematical Olympiad for Primary Schools</h4>
+<p>The Asia Pacific Mathematical Olympiad aims to promote greater interest
+in Mathematics and
+<br>sharpen their problem-solving abilities.
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>BRONZE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ARYA CHONG HAN WEN BASU
+<br>P6-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p></p>
