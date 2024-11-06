@@ -481,35 +481,49 @@ School Games and achieved the following:</p>
 <p>1st (Tier 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SELVARAYAR SUBHIKSHA P4-3</p>
+<p>SELVARAYAR SUBHIKSHA
+<br>P4-3</p>
 <p></p>
-<p>LEOW XIN LING P4-8</p>
+<p>LEOW XIN LING
+<br>P4-8</p>
 <p></p>
-<p>TAN YI LE, CARYL P4-8</p>
+<p>TAN YI LE, CARYL
+<br>P4-8</p>
 <p></p>
-<p>S SABEERA P5-4</p>
+<p>S SABEERA
+<br>P5-4</p>
 <p></p>
-<p>YU JING THEA P5-4</p>
+<p>YU JING THEA
+<br>P5-4</p>
 <p></p>
-<p>MIU CHIN PIN EN P5-5</p>
+<p>MIU CHIN PIN EN
+<br>P5-5</p>
 <p></p>
-<p>NUR QAIREEN PUTRI ZULKIFLI P5-6</p>
+<p>NUR QAIREEN PUTRI ZULKIFLI
+<br>P5-6</p>
 <p></p>
-<p>TAN YUN XUAN P5-6</p>
+<p>TAN YUN XUAN
+<br>P5-6</p>
 <p></p>
-<p>HO KEE HUAN P5-7</p>
+<p>HO KEE HUAN
+<br>P5-7</p>
 <p></p>
-<p>LOW YU EN ARIANNE P5-7</p>
+<p>LOW YU EN ARIANNE
+<br>P5-7</p>
 <p></p>
-<p>TAN EE SHIN GWEN P5-7</p>
+<p>TAN EE SHIN GWEN
+<br>P5-7</p>
 <p></p>
 <p>TANIA LOEI KAI RU P5-7</p>
 <p></p>
-<p>CHOO ENG HEE KRISTIN P5-8</p>
+<p>CHOO ENG HEE KRISTIN
+<br>P5-8</p>
 <p></p>
-<p>LIN LEI P5-8</p>
+<p>LIN LEI
+<br>P5-8</p>
 <p></p>
-<p>TAN XIN RUI P5-8</p>
+<p>TAN XIN RUI
+<br>P5-8</p>
 </td>
 </tr>
 <tr>
