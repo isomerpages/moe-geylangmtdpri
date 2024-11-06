@@ -593,10 +593,32 @@ are very thankful for the strong commitment and support from the sponsors.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Goh Rui Jie
+<br>P5-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Kong Choi Hang
+<br>P6-3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Suthakar Danesh
+<br>P5-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Yen Ann
+<br>P6-3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Yuyan
+<br>P5-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Julia Ming Xinyi Scott
+<br>P6-4</p>
 </td>
 </tr>
 <tr>
@@ -604,7 +626,8 @@ are very thankful for the strong commitment and support from the sponsors.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>He Junyi Justin
+<br>P6-5</p>
 </td>
 </tr>
 <tr>
@@ -612,7 +635,8 @@ are very thankful for the strong commitment and support from the sponsors.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yoong Min Shan, Roycelene
+<br>P6-5</p>
 </td>
 </tr>
 <tr>
@@ -620,7 +644,8 @@ are very thankful for the strong commitment and support from the sponsors.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ezzah Mursyiedah Binte Erwan
+<br>P6-6</p>
 </td>
 </tr>
 <tr>
@@ -628,7 +653,8 @@ are very thankful for the strong commitment and support from the sponsors.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mikayla Lai Wen Qi
+<br>P6-8</p>
 </td>
 </tr>
 <tr>
@@ -636,31 +662,8 @@ are very thankful for the strong commitment and support from the sponsors.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Nicole Lian
+<br>P6-8</p>
 </td>
 </tr>
 <tr>
@@ -673,4 +676,14 @@ are very thankful for the strong commitment and support from the sponsors.
 </tr>
 </tbody>
 </table>
+<h4>Math Competitions</h4>
+<p>We congratulate our students who did well in recent Mathematics competitions.</p>
+<p><strong>Raffles Mathematical Olympiad</strong>
+</p>
+<p>The Raffles Mathematical Olympiad aims to promote students' interest in
+Mathematics and
+<br>develop their problem-solving abilities.</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
