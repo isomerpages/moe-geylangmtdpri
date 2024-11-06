@@ -75,8 +75,8 @@ and in creating awareness about environmental issues.</p>
 <p>The Methodist Schools Long Service Award (10 years and Retirement)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ros'mariati Bte</p>
-<p>Sulaiman</p>
+<p>Mdm Ros'mariati Bte
+<br>Sulaiman</p>
 </td>
 </tr>
 <tr>
