@@ -553,13 +553,45 @@ School Games and achieved the following:</p>
 <br>P6-8</p>
 </td>
 </tr>
+</tbody>
+</table>
+<h3>Maximise Your Potential Award</h3>
+<p>We wish to congratulate the following P5 and P6 students, who were given
+the Maximise Your Potential Award. These students have displayed potential
+in a range of domains, including academic, arts and sports.</p>
+<p>This award is unique to GMS(P) and is sponsored by a team of well-wishers
+who are committed to supporting students who demonstrate potential, through
+financial support and mentoring. This award is in its 21st year, and we
+are very thankful for the strong commitment and support from the sponsors.
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nur Adawiyah Binti Muhammad Ghazali
+<br>P5-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Jun Wei, Dylan
+<br>P6-1</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daniel Cheong Boh Le
+<br>P5-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chin Jing Le
+<br>P6-3</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -574,6 +606,8 @@ School Games and achieved the following:</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -588,6 +622,8 @@ School Games and achieved the following:</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -602,6 +638,8 @@ School Games and achieved the following:</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -616,12 +654,6 @@ School Games and achieved the following:</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -630,20 +662,8 @@ School Games and achieved the following:</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
