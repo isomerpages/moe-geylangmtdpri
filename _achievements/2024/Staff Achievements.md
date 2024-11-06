@@ -89,4 +89,116 @@ and in creating awareness about environmental issues.</p>
 </tr>
 </tbody>
 </table>
+<h4>MOE Service Excellence Award (MSEA)</h4>
+<p>Congratulations to the following colleagues for their achievement of the
+MOE Service Excellence Award (MSEA):</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="9" colspan="1">
+<p><strong>GOLD</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Christopher Maik</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gina Widjaya</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Grace Chan Siew Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hanitha Shamsudeen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kor Kiat Kiang Kenneth</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Loh Yi Qun Shannon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong San San Denyse</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wendy Lin Miao Jing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yeo Cin Cin Lynn</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8" colspan="1">
+<p><strong>SILVER</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Zhirong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clara Lim Ying Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Claudia Chong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Grace Tan Enhui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kwok Yan Ting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monica Phua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Salamiah Binte Mohamed Sani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sulistiati Idrus</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
