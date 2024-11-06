@@ -1025,5 +1025,41 @@ and promote technology for positive impact.</p>
 <p>Our P4 students and the P6 Art Club members participated in this year’s
 Schools Digital Media</p>
 <p>Awards 2024 – Yummybuddies Comic Strip Art Competition (Primary Category).</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Winners in Comic Strip titled Stop Cyber-Bullying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chee Jung En
+<br>P6-3</p>
+<p>Stop Kong Choi Hang
+<br>P6-3</p>
+<p>Weng Leqi
+<br>P6-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
