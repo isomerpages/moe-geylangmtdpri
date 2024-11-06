@@ -1046,7 +1046,7 @@ Schools Digital Media</p>
 <td rowspan="1" colspan="1">
 <p>Chee Jung En
 <br>P6-3</p>
-<p>Stop Kong Choi Hang
+<p>Kong Choi Hang
 <br>P6-3</p>
 <p>Weng Leqi
 <br>P6-8</p>
@@ -1054,10 +1054,15 @@ Schools Digital Media</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Winners in Comic Strip titled Sketchy Links</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Angela Chew Yin Sian
+<br>P4-7</p>
+<p>Serol Eloise Wong
+<br>P4-7</p>
+<p>Chow Weng Han
+<br>P4-7</p>
 </td>
 </tr>
 </tbody>
