@@ -513,6 +513,62 @@ School Games and achieved the following:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Football (Junior Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st (Tier 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KEAVE LIM KAI BOON
+<br>P4-1</p>
+<p></p>
+<p>MUHAMMAD NAIM BIN MUHAMMAD SYAWAL
+<br>P4-4</p>
+<p></p>
+<p>MARCEL NICOLAS DO
+<br>P4-5</p>
+<p></p>
+<p>MUHAMMAD TAJ ADDIN BIN YUSRI
+<br>P5-1</p>
+<p></p>
+<p>SEAN QUINTUS TANDIAN
+<br>P5-1</p>
+<p></p>
+<p>MUHAMMAD RAZIQ KHAN BIN MOHAMMAD RUSHIDI
+<br>P5-2</p>
+<p></p>
+<p>HAZIQ BIN MUHAMMAD HEDHIR
+<br>P5-3</p>
+<p></p>
+<p>KISHOR KARTHIKAS
+<br>P5-3</p>
+<p></p>
+<p>KUBOTA AKITARO
+<br>P5-3</p>
+<p></p>
+<p>KAYAN AJMER S/O MOHAMED KAMIL
+<br>P5-4</p>
+<p></p>
+<p>LU JINCHENG
+<br>P5-4</p>
+<p></p>
+<p>ZAYYAN IMAN BIN MOHD NIZAM
+<br>P5-5</p>
+<p></p>
+<p>SUTHAKAR DANESH P5-7</p>
+<p></p>
+<p>TRISTAN JAMES KNORR
+<br>P5-7</p>
+<p></p>
+<p>TEVIN JAY SINGH
+<br>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Basketball
 <br>(Senior Boys)</p>
 </td>
@@ -551,6 +607,62 @@ School Games and achieved the following:</p>
 <br>P6-7</p>
 <p>Mathis Allano
 <br>P6-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball (Junior Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st (Tier 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IAN GOH
+<br>P4-1</p>
+<p></p>
+<p>ALTON ONG
+<br>P4-3</p>
+<p></p>
+<p>TAN DING XUAN
+<br>P4-3</p>
+<p></p>
+<p>ALDEN KOH ZHI EN
+<br>P4-6</p>
+<p></p>
+<p>TAN JIT HENG
+<br>P4-8</p>
+<p></p>
+<p>JAVIER NG RUI XIN P5-1</p>
+<p></p>
+<p>SOH KUN WEI ISAAC
+<br>P5-1</p>
+<p></p>
+<p>CYRIL RAPHEAL LEE CHENG KANG
+<br>P5-3</p>
+<p></p>
+<p>MOHAMED ASRAF MOHAMED AZFAR
+<br>P5-3</p>
+<p></p>
+<p>NOAH LIAU TIAN BOON
+<br>P5-3</p>
+<p></p>
+<p>CYRUS XENO LEE CHENG TAI
+<br>P5-4</p>
+<p></p>
+<p>HU YUYI
+<br>P5-4</p>
+<p></p>
+<p>ZHOU ZERUI
+<br>P5-5</p>
+<p></p>
+<p>CHUNG ZHI SHAN
+<br>P5-8</p>
+<p></p>
+<p>SIM GUAN YOU JAYAN
+<br>P5-8</p>
 </td>
 </tr>
 </tbody>
