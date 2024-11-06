@@ -1041,7 +1041,8 @@ Schools Digital Media</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Winners in Comic Strip titled Stop Cyber-Bullying</p>
+<p><strong>Winners in Comic Strip titled Stop Cyber-Bullying</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chee Jung En
@@ -1054,7 +1055,8 @@ Schools Digital Media</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Winners in Comic Strip titled Sketchy Links</p>
+<p><strong>Winners in Comic Strip titled Sketchy Links</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Angela Chew Yin Sian
