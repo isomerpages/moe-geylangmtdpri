@@ -686,44 +686,58 @@ Mathematics and
 <p>Junior Category for P4 &amp; P5 Students:
 <br>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>HIGH DISTINCTION AWARD</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Sim Guan You Jayan P5-8</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>HIGH DISTINCTION AWARD</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sim Guan You Jayan P5-8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Sim Guan You Jayan
+<br>P5-8</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>DISTINCTION AWARD</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Zhao Zihao
+<br>P5-2</p>
+<p>Tong Yu Zi
+<br>P5-7</p>
+<p>Pang Xianle Evan
+<br>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MERIT</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lucas Yu Zecheng
+<br>P4-7</p>
+<p>Chew Jinhui
+<br>P4-8</p>
+<p>Le Thien Thanh An
+<br>P4-8</p>
+<p>Ho Kee Huan
+<br>P5-7</p>
+<p>Chua Elliot Nirvan Cua
+<br>P5-8</p>
+<p>Chung Zhi Shan
+<br>P5-8</p>
+<p>Fedora Ling Yu Qing
+<br>P5-8</p>
+<p>Lin Lei
+<br>P5-8</p>
 </td>
 </tr>
 </tbody>
