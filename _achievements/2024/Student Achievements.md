@@ -774,10 +774,34 @@ Mathematics and
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>MERIT</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Jun Wei, Dylan
+<br>P6-1</p>
+<p>He Junyi Justin
+<br>P6-5</p>
+<p>Arya Chong Han Wen Basu
+<br>P6-7</p>
+<p>Kenzi Mi’raq Bin Nor Azarizal
+<br>P6-7</p>
+<p>Sim Hengle Asher
+<br>P6-7</p>
+<p>Viyasa Prakan
+<br>P6-7</p>
+<p>Annsh Dutt
+<br>P6-8</p>
+<p>Chan Sze Yin Jacquelyn
+<br>P6-8</p>
+<p>Mikayla Lai Wen Qi
+<br>P6-8</p>
+<p>Sim Jing Yi
+<br>P6-8</p>
+<p>Weng Leqi
+<br>P6-8</p>
+<p>Wong Yi Hog, Maximus
+<br>P6-8</p>
 </td>
 </tr>
 </tbody>
