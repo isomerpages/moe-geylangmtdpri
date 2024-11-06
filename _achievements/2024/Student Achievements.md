@@ -683,7 +683,7 @@ are very thankful for the strong commitment and support from the sponsors.
 <p>The Raffles Mathematical Olympiad aims to promote students' interest in
 Mathematics and
 <br>develop their problem-solving abilities.</p>
-<p>Junior Category for P4 &amp; P5 Students:
+<p><u>Junior Category for P4 &amp; P5 Students:</u> 
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -742,6 +742,44 @@ Mathematics and
 </tr>
 </tbody>
 </table>
+<p><u>Open Category for P6 Students:</u>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DISTINCTION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chin Jing Le
+<br>P6-3</p>
+<p>Edward Kyuseok Corbett Pick
+<br>P6-7</p>
+<p>Tung Ziqi
+<br>P6-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
