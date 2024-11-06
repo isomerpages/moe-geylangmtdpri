@@ -1015,6 +1015,15 @@ in Mathematics and
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4>Drone Odyssey Challenge</h4>
+<p>A team of P5 students participated in the Drone Odyssey Challenge 2024
+and was awarded the Best Strategy Award. This is the first time the school
+has participated in this competition. The theme of the competition is 'Drones
+for Good’ and it is focused on utilising drones to address future challenges
+and promote technology for positive impact.</p>
+<h4>School Digital Media Awards</h4>
+<p>Our P4 students and the P6 Art Club members participated in this year’s
+Schools Digital Media</p>
+<p>Awards 2024 – Yummybuddies Comic Strip Art Competition (Primary Category).</p>
 <p></p>
 <p></p>
