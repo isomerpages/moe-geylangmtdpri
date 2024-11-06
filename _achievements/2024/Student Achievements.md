@@ -118,8 +118,16 @@ third_nav_title: "2024"
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="4">
+<p><strong>National School Games</strong>
+</p>
+<p>We congratulate our students who have participated in the recent National
+School Games and achieved the following:</p>
+</td>
+</tr>
+<tr>
 <td rowspan="6" colspan="1">
-<p>3</p>
+<p>1</p>
 </td>
 <td rowspan="6" colspan="1">
 <p>Rope Skipping</p>
@@ -186,7 +194,7 @@ third_nav_title: "2024"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Visual &amp; Performing Arts</p>
@@ -218,7 +226,7 @@ third_nav_title: "2024"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Taekwondo</p>
@@ -250,7 +258,7 @@ third_nav_title: "2024"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Track and Field</p>
@@ -422,7 +430,7 @@ third_nav_title: "2024"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Netball
@@ -463,7 +471,7 @@ third_nav_title: "2024"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Football
@@ -505,13 +513,44 @@ third_nav_title: "2024"
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Basketball
+<br>(Senior Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Top 4
+<br>(League 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Shi Guiyu
+<br>P5-1</p>
+<p>Li Zhuoyao
+<br>P5-4</p>
+<p>Kwok Hoi Nam
+<br>P6-1</p>
+<p>Chan Yu Quen, Adrien
+<br>P6-1</p>
+<p>Tan Ding Wei
+<br>P6-1</p>
+<p>Wallace Tan Chang Sheng
+<br>P6-1</p>
+<p>Cheng Chen Yi
+<br>P6-5</p>
+<p>Mohamed Akeem
+<br>P6-5</p>
+<p>Nguyen Quoc Thang
+<br>P6-5</p>
+<p>Samuel Low Yu Xiang
+<br>P6-5</p>
+<p>Ezekiel Deren Goh-Lian Ebenezer
+<br>P6-6</p>
+<p>Choo Guan Lin Zac
+<br>P6-7</p>
+<p>Ordonio Red Flores
+<br>P6-7</p>
+<p>Viyasa Prakan
+<br>P6-7</p>
+<p>Mathis Allano
+<br>P6-8</p>
 </td>
 </tr>
 <tr>
