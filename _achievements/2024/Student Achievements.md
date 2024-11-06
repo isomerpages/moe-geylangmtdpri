@@ -683,7 +683,51 @@ are very thankful for the strong commitment and support from the sponsors.
 <p>The Raffles Mathematical Olympiad aims to promote students' interest in
 Mathematics and
 <br>develop their problem-solving abilities.</p>
+<p>Junior Category for P4 &amp; P5 Students:
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>HIGH DISTINCTION AWARD</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sim Guan You Jayan P5-8</p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sim Guan You Jayan P5-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
