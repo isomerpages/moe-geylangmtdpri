@@ -286,6 +286,9 @@ efforts in fostering a culture of environmental awareness and action.
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VandaAward1.png">
+</div>
 <p></p>
 <p></p>
 </td>
@@ -312,9 +315,6 @@ efforts in fostering a culture of environmental awareness and action.
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VandaAward1.png">
-</div>
 <p></p>
 <p></p>
 <p></p>
