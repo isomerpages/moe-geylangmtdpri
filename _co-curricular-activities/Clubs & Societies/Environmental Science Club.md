@@ -3,7 +3,7 @@ title: Environmental Science Club
 permalink: /co-curricular-activities/cca/clubs-n-societies/environmental-science-club/
 description: ""
 third_nav_title: Clubs & Societies
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESC8.png">
@@ -263,9 +263,8 @@ investigation project
 </tbody>
 </table>
 <h5>Green School Award 2023</h5>
-<table style="minWidth: 150px">
+<table style="minWidth: 125px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -288,8 +287,7 @@ efforts in fostering a culture of environmental awareness and action.
 </td>
 <td rowspan="1" colspan="2">
 <p></p>
-![](/images/VandaAward1.png)
-
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -313,4 +311,10 @@ efforts in fostering a culture of environmental awareness and action.
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VandaAward1.png">
+</div>
+<p></p>
+<p></p>
 <p></p>
