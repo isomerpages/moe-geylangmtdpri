@@ -305,7 +305,7 @@ efforts in fostering a culture of environmental awareness and action.
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GreenSchools_SouthEastAward.png">
+<img style="width: 208px" height="auto" width="208px" alt="" src="/images/GreenSchools_SouthEastAward.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
