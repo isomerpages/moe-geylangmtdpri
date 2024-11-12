@@ -289,7 +289,7 @@ efforts in fostering a culture of environmental awareness and action.
 <td rowspan="1" colspan="2">
 <p></p>
 
-<img style="width:100%" height="auto" width="100%" alt="" src="/images/VandaAward1.png">
+<img style="width:100%" height="100%" width="100%" alt="" src="/images/VandaAward1.png">
 
 </td>
 </tr>
