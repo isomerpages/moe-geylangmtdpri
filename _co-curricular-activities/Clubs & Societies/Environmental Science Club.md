@@ -314,7 +314,7 @@ efforts in fostering a culture of environmental awareness and action.
 </tr>
 </tbody>
 </table>
-<img style="width: 100%" align="right&quot;" height="auto" width="208px" alt="" src="/images/VandaAward1.png"><p>We are proud to announce that Geylang Methodist School (Primary) has been
+<img style="width: 100%" align="right" height="auto" width="208px" alt="" src="/images/VandaAward1.png"><p>We are proud to announce that Geylang Methodist School (Primary) has been
 honored with the Green School Award 2023, receiving the prestigious Vanda
 Miss Joaquim Award, by Singapore Environmental Council.
 <br>This award is given to schools that have demonstrated exceptional commitment
