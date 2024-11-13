@@ -49,7 +49,6 @@ variant: tiptap
 <li>
 <p><a href="/files/2025_Booklist/Primary_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
 </p>
-<p></p>
 </li>
 <li>
 <p><a href="/files/2025_Booklist/Primary_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
@@ -64,7 +63,6 @@ variant: tiptap
 <li>
 <p><a href="/files/2025_Booklist/Primary_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
 </p>
-<p></p>
 </li>
 <li>
 <p><a href="/files/2025_Booklist/Primary_4__HMT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 HMT</a>
