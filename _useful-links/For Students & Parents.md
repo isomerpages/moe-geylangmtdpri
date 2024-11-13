@@ -2,63 +2,104 @@
 title: For Students & Parents
 permalink: /useful-links/for-students-n-parents/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<h4 style="color:blue;">Students</h4>
-  
-1\. Singapore Student Learning Space (SLS)  
-[https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)  
-  
-2\. Student iCON  
-[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)  
-  
-3\. School Library Portal  
-[https://schoolibrary.moe.edu.sg/geylangmethodistpri ](https://schoolibrary.moe.edu.sg/geylangmethodistpri )
-
-4\. Tingkle Friend
-
-[https://www.tinklefriend.sg/](https://www.tinklefriend.sg/)
-
-
-  
-<h4 style="color:blue;">Parents</h4>
-  
-1\. Parents' Gateway  
-[https://pg.moe.edu.sg/](https://pg.moe.edu.sg/)  
-  
-2\. Ministry of Education (MOE) Parent Kit  
-[https://www.moe.gov.sg/parentkit](https://www.moe.gov.sg/parentkit)  
-  
-3\. Ministry of Education (MOE) Website  
-[https://www.moe.gov.sg/](https://www.moe.gov.sg/)&nbsp;  
-  
-4\. Schoolbag Website  
-[https://www.schoolbag.edu.sg/](https://www.schoolbag.edu.sg/)&nbsp;  
-  
-5\. Cyber Wellness  
-[https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)&nbsp;  
-    
-6\. Name Tag Order  
-[https://www.schooluniforms.sg/gmsp-primary-name-tag](https://www.schooluniforms.sg/gmsp-primary-name-tag)
-
-7\. Lower Primary Parents' Chinese Language Workshop - Slides<br>
-[Lower Pri Parents' CL Workshop](/files/lower%20primary%20parents'%20cl%20workshop.pdf)
-
-8\. Primary 1 Student Hub (Administrative information)<br>
-[Click here for the Google site](https://sites.google.com/moe.edu.sg/gmsp-p1studenthub?usp=sharing)
-
-
-
-
-<h4 style="color:blue;">2025 Booklists</h4>
-
-* [Primary 1](/files/Primary%201.pdf)<br>
-* [Primary 2](/files/Primary%202.pdf)<br>
-* [Primary 3](/files/Primary%203.pdf)<br>
-* [Primary 4](/files/Primary%204.pdf)<br>
-* [Primary 5 (4F)](/files/Primary%205%20(4F).pdf)<br>
-* [Primary 5 (4S)](/files/Primary%205%20(4S).pdf)<br>
-* [Primary 5 (4S_HMT)](/files/Primary%205%20(4S_HMT).pdf)<br>
-* [Primary 6 (4F)](/files/Primary%206%20(4F).pdf)<br>
-* [Primary 6 (4S)](/files/Primary%206%20(4S).pdf)<br>
-* [Primary 6 (4S_HMT)](/files/Primary%206%20(4S_HMT).pdf)<br>
+<h4>Students</h4>
+<p>1. Singapore Student Learning Space (SLS)
+<br><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
+</p>
+<p>2. Student iCON
+<br><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
+</p>
+<p>3. School Library Portal
+<br><a href="https://schoolibrary.moe.edu.sg/geylangmethodistpri" rel="noopener noreferrer nofollow" target="_blank">https://schoolibrary.moe.edu.sg/geylangmethodistpri</a>
+</p>
+<p>4. Tingkle Friend</p>
+<p><a href="https://www.tinklefriend.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.tinklefriend.sg/</a>
+</p>
+<h4>Parents</h4>
+<p>1. Parents' Gateway
+<br><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/</a>
+</p>
+<p>2. Ministry of Education (MOE) Parent Kit
+<br><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit</a>
+</p>
+<p>3. Ministry of Education (MOE) Website
+<br><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/</a>&nbsp;</p>
+<p>4. Schoolbag Website
+<br><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/</a>&nbsp;</p>
+<p>5. Cyber Wellness
+<br><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf</a>&nbsp;</p>
+<p>6. Name Tag Order
+<br><a href="https://www.schooluniforms.sg/gmsp-primary-name-tag" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/gmsp-primary-name-tag</a>
+</p>
+<p>7. Lower Primary Parents' Chinese Language Workshop - Slides
+<br><a href="/files/lower%20primary%20parents'%20cl%20workshop.pdf" rel="noopener noreferrer nofollow" target="_blank">Lower Pri Parents' CL Workshop</a>
+</p>
+<p>8. Primary 1 Student Hub (Administrative information)
+<br><a href="https://sites.google.com/moe.edu.sg/gmsp-p1studenthub?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click here for the Google site</a>
+</p>
+<h4>2025 Booklists</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025_Booklist/Primary_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
+<br>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_Booklist/Primary_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
+</p>
+<p></p>
+</li>
+<li>
+<p><a href="/files/2025_Booklist/Primary_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
+<br>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_Booklist/Primary_3__HMT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 HMT</a>
+<br>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_Booklist/Primary_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
+</p>
+<p></p>
+</li>
+<li>
+<p><a href="/files/2025_Booklist/Primary_4__HMT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 HMT</a>
+<br>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_Booklist/Primary_5__4F_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (4F)</a>
+<br>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_Booklist/Primary_5__4S_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (4S)</a>
+<br>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_Booklist/Primary_5__4S_HMT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (4S_HMT)</a>
+<br>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_Booklist/Primary_6__4F_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 (4F)</a>
+<br>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_Booklist/Primary_6__4S_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 (4S)</a>
+<br>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_Booklist/Primary_6__4S_HMT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 (4S_HMT)</a>
+<br>
+</p>
+</li>
+</ul>
+<p></p>
