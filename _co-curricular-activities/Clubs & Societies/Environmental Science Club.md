@@ -263,7 +263,7 @@ investigation project
 </tbody>
 </table>
 <h5>Green School Award 2023</h5>
-<img style="width: 208px" align="right" height="auto" width="208px" alt="" src="/images/VandaAward1.png"><p>We are proud to announce that Geylang Methodist School (Primary) has been
+<img style="width: 208px" align="right" height="auto" width="208px" alt="" src="/images/VandaAward1.png">We are proud to announce that Geylang Methodist School (Primary) has been
 honored with the Green School Award 2023, receiving the prestigious Vanda
 Miss Joaquim Award, by Singapore Environmental Council.
 <br>This award is given to schools that have demonstrated exceptional commitment
@@ -271,7 +271,7 @@ to environmental sustainability, achieving an overall score of more than
 90%. We are thrilled that our school has been recognized for our collective
 efforts in fostering a culture of environmental awareness and action.
 <br>The award was presented at the SGA Ceremony held at Punggol One on 6 November
-2024.</p>
+2024.
 
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GreenSchools_SouthEastAward.png">
