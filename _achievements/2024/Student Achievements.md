@@ -623,7 +623,7 @@ School Games and achieved the following:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basketball
@@ -720,6 +720,42 @@ School Games and achieved the following:</p>
 <p></p>
 <p>SIM GUAN YOU JAYAN
 <br>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Table Tennis
+<br>(Junior Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singles Tier 1</p>
+<p>2nd Position</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Zhicheng
+<br>P3-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton
+<br>(Junior Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singles Tier 1</p>
+<p>3rd Position</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elize Lum Lai Yuet
+<br>P4-3</p>
+<p>Wang Ziyu
+<br>P5-7</p>
 </td>
 </tr>
 </tbody>
@@ -1015,6 +1051,8 @@ in Mathematics and
 </tr>
 </tbody>
 </table>
+<h4>2024 Wizard School Challenge (Mathematics - KooBits)</h4>
+<p>1st Runner Up of top 3 schools with the highest Challenge Points</p>
 <h4>Drone Odyssey Challenge</h4>
 <p>A team of P5 students participated in the Drone Odyssey Challenge 2024
 and was awarded the Best Strategy Award. This is the first time the school
@@ -1065,6 +1103,55 @@ Schools Digital Media</p>
 <br>P4-7</p>
 <p>Chow Weng Han
 <br>P4-7</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Uniform Groups</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Boys' Brigade</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>2024 Character Quest</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Boys' Brigade 21J
+<br>Silver Honour Roll</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Girls' Brigade</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024 Dr. Low Guat Tin Challenge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
