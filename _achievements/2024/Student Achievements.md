@@ -1062,6 +1062,140 @@ in Mathematics and
 </table>
 <h4>2024 Wizard School Challenge (Mathematics - KooBits)</h4>
 <p>1st Runner Up of top 3 schools with the highest Challenge Points</p>
+<h4>2024 Primary Mathematics Project Competition</h4>
+<p>Issac Pang of P5-8 won the outstanding award for P5 Physical Game Design
+category</p>
+<h4>Singapore Primary Science Olympiad 2024 by NUS High School</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choo Eng Hee Kristin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jarif Samuel Khan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Ee Shin Gwen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wang Ziyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Zee Yew Gregory</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lin Heng Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Zee Han Corey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Xin Rui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tevin Jay Singh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pang Xianle Evan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Drone Odyssey Challenge</h4>
 <p>A team of P5 students participated in the Drone Odyssey Challenge 2024
 and was awarded the Best Strategy Award. This is the first time the school
