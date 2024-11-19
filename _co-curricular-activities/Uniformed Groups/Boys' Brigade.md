@@ -23,8 +23,14 @@ variant: markdown
 
 
 <h4 style="color:blue;">Achievements</h4><br>
-<b>2023</b> <br>
+<b>2024</b> <br>
 Tan Boon Chian Medal Best Boy 20223-Joel Soh Yong En(6-8)  <br>
+Character Quest, Silver Honour Roll - BB Unit 21J  <br>
+Adventure Quest, Bronze Roll - P6 BB Boys<br>
+J M Fraser Award for Excellence (High Distinction) - Entire Company <br>
+
+<b>2023</b> <br>
+Tan Boon Chian Medal Best Boy 2023-Joel Soh Yong En(6-8)  <br>
 Adventure Quest, Gold Honour Roll - P6 BB Boys  <br>
 Adventure Quest, 2nd Runner Up- Team 1<br>
 
@@ -38,7 +44,7 @@ Character Quest 2019 Gold Honour Roll, Top 5<br>
 <b>2021</b> <br>
 Best Boys Award 2021-He Meng Xiu(6-6)<br>
 Boys’ Brigade Week 2021 Gold Honour Roll<br>
-^J M Fraser Award For Excellence 2021 (YOA 2020) - Suspended<br>
+J M Fraser Award For Excellence 2021 (YOA 2020) - Suspended<br>
 
 <b>2020</b> <br>
 Best Boys Award 2020-Isaac Cheong(6-6)<br>
