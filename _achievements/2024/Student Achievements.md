@@ -33,10 +33,10 @@ third_nav_title: "2024"
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>1</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Boys’ Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,6 +53,15 @@ third_nav_title: "2024"
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 6 boys</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Character Quest,
+<br>Silver Honour Roll</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BB Unit 21J</p>
 </td>
 </tr>
 <tr>
