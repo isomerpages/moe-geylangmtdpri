@@ -1115,53 +1115,5 @@ Schools Digital Media</p>
 </tr>
 </tbody>
 </table>
-<h4>Uniform Groups</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Boys' Brigade</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>2024 Character Quest</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Boys' Brigade 21J
-<br>Silver Honour Roll</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Girls' Brigade</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2024 Dr. Low Guat Tin Challenge</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Silver Award</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <p></p>
