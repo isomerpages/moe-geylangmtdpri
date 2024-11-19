@@ -1188,7 +1188,7 @@ category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Award </strong>
+<p><strong>Award</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1221,10 +1221,10 @@ category</p>
 <p>Top 3 STEM Design</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tevin Jay Singh</p>
-<p>Pang Xuanle Evan</p>
-<p>Ong Zee Han Corey</p>
-<p>Lin Le</p>
+<p>Tevin Jay Singh
+<br>Pang Xuanle Evan
+<br>Ong Zee Han Corey
+<br>Lin Le</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-8</p>
