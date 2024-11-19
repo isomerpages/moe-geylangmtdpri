@@ -24,7 +24,7 @@ variant: markdown
 
 <h4 style="color:blue;">Achievements</h4><br>
 <b>2024</b> <br>
-Tan Boon Chian Medal Best Boy 20223-Joel Soh Yong En(6-8)  <br>
+Tan Boon Chian Medal Best Boy 2024 - Patrick Yeo (P6-8)  <br>
 Character Quest, Silver Honour Roll - BB Unit 21J  <br>
 Adventure Quest, Bronze Roll - P6 BB Boys<br>
 J M Fraser Award for Excellence (High Distinction) - Entire Company <br>
