@@ -1065,7 +1065,7 @@ in Mathematics and
 <h4>2024 Primary Mathematics Project Competition</h4>
 <p>Issac Pang of P5-8 won the outstanding award for P5 Physical Game Design
 category</p>
-<h4>Singapore Primary Science Olympiad 2024 by NUS High School</h4>
+<h4>2024 Primary Science Olympiad by NUS High School</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
