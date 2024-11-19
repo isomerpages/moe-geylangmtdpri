@@ -48,7 +48,7 @@ third_nav_title: "2024"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bronze roll
+<p>Bronze Roll
 <br>Adventure Quest</p>
 </td>
 <td rowspan="1" colspan="1">
