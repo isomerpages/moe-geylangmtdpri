@@ -1181,6 +1181,55 @@ category</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h4>Sony Creative Science Award</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Whizkid Category (2nd)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Phua Yu Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h4>2024 STEM Design Challenge by Dunman Secondary School</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Top 3 STEM Design</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tevin Jay Singh</p>
+<p>Pang Xuanle Evan</p>
+<p>Ong Zee Han Corey</p>
+<p>Lin Le</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Drone Odyssey Challenge</h4>
