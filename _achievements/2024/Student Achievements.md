@@ -48,8 +48,8 @@ third_nav_title: "2024"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bronze Roll
-<br>Adventure Quest</p>
+<p>Adventure Quest,
+<br>Bronze Roll</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 6 boys</p>
@@ -119,11 +119,10 @@ third_nav_title: "2024"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GMS(P) Girls’ Brigade Company</p>
+<p>2024 Dr. Low Guat Tin Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver Award&nbsp;for
-<br>accomplishments in 2023</p>
+<p>Silver Award</p>
 </td>
 </tr>
 <tr>
