@@ -1096,7 +1096,7 @@ category</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="9" colspan="1">
 <p>Merit</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1108,9 +1108,6 @@ category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Tan Ee Shin Gwen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1118,9 +1115,6 @@ category</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Wang Ziyu</p>
 </td>
@@ -1130,9 +1124,6 @@ category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ong Zee Yew Gregory</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1140,9 +1131,6 @@ category</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Lin Heng Jun</p>
 </td>
@@ -1152,9 +1140,6 @@ category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ong Zee Han Corey</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1162,9 +1147,6 @@ category</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Tan Xin Rui</p>
 </td>
@@ -1174,10 +1156,15 @@ category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tevin Jay Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tevin Jay Singh</p>
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pang Xianle Evan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-8</p>
@@ -1188,10 +1175,10 @@ category</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pang Xianle Evan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5-8</p>
+<p></p>
 </td>
 </tr>
 </tbody>
