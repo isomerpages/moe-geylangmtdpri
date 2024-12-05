@@ -39,4 +39,6 @@ sections:
       id: infopic
       button: Button Text
       alt: Image alt text
+      image: /images/GO_Reno.png
+      url: gmsp@moe.edu.sg
 ---
