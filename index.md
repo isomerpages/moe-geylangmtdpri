@@ -40,5 +40,5 @@ sections:
       button: email us
       alt: General Office Renovation
       image: /images/GO_Reno.png
-      url: gmsp@moe.edu.sg
+      url: mailto:gmsp@moe.edu.sg
 ---
