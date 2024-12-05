@@ -22,6 +22,11 @@ sections:
           url: https://www.facebook.com/GMSPrimary/
       background: /images/banner _ claudia.jpg
   - infopic:
+      title: General Office Renovation
+      id: infopic
+      alt: General Office Renovation
+      image: /images/GO_Reno.png
+  - infopic:
       title: GMS(P) Centennial Concert 2024
       id: infopic
       button: Click here for video
@@ -34,9 +39,4 @@ sections:
       url: https://youtu.be/P2naDv7Zcws
       image: /images/A day in GMSP_thumbnail.jpg
       alt: Image alt text
-  - infopic:
-      title: General Office Renovation
-      id: infopic
-      alt: General Office Renovation
-      image: /images/GO_Reno.png
 ---
