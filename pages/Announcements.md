@@ -2,12 +2,13 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
 ![](/images/WhatsApp%20Image%202021-08-07%20at%20%206.jpeg)
 
 
 
-<h4 style="color:blue;">2023 PSLE - Examination Rules and Regulations for Candidates</h4>
+<h4 style="color:blue;">PSLE - Examination Rules and Regulations for Candidates</h4>
 
 
 [Click here](https://www.seab.gov.sg/docs/default-source/national-examinations/psle/psle_instructions_for_candidates.pdf)
