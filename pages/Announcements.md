@@ -6,10 +6,17 @@ variant: markdown
 ---
 ![](/images/WhatsApp%20Image%202021-08-07%20at%20%206.jpeg)
 
+#### General Office Undergoing Renovation
+Our General Office is currently undergoing renovation from 25 November to 21 December. Therefore, we advise you not to visit the General Office unless absolutely necessary.
+
+We are processing the Financial Assistance Applications and will inform applicants as soon as possible.
+
+For other administrative matters, should you need to speak to us or send a message during this period, you may reach us on mobile: 9617 7382. Alternatively, please contact us via email at [gmsp@moe.edu.sg](mailto:gmsp@moe.edu.sg).
+
+Thank you for your understanding.
 
 
 <h4 style="color:blue;">PSLE - Examination Rules and Regulations for Candidates</h4>
-
 
 [Click here](https://www.seab.gov.sg/docs/default-source/national-examinations/psle/psle_instructions_for_candidates.pdf)
 <br>
