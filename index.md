@@ -38,7 +38,7 @@ sections:
       title: General Office Renovation
       id: infopic
       button: email us
-      alt: Image alt text
+      alt: General Office Renovation
       image: /images/GO_Reno.png
       url: gmsp@moe.edu.sg
 ---
