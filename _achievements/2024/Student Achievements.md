@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: "2024"
 ---
-<h4>CCA</h4>
+<h3>CCA</h3>
+<h4>Uniform Groups</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -33,10 +34,10 @@ third_nav_title: "2024"
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>1</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Boys’ Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,11 +49,20 @@ third_nav_title: "2024"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bronze roll
-<br>Adventure Quest</p>
+<p>Adventure Quest,
+<br>Bronze Roll</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 6 boys</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Character Quest,
+<br>Silver Honour Roll</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BB Unit 21J</p>
 </td>
 </tr>
 <tr>
@@ -110,11 +120,10 @@ third_nav_title: "2024"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GMS(P) Girls’ Brigade Company</p>
+<p>2024 Dr. Low Guat Tin Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver Award&nbsp;for
-<br>accomplishments in 2023</p>
+<p>Silver Award</p>
 </td>
 </tr>
 <tr>
@@ -623,7 +632,7 @@ School Games and achieved the following:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basketball
@@ -720,6 +729,42 @@ School Games and achieved the following:</p>
 <p></p>
 <p>SIM GUAN YOU JAYAN
 <br>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Table Tennis
+<br>(Junior Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singles Tier 1</p>
+<p>2nd Position</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Zhicheng
+<br>P3-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton
+<br>(Junior Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singles Tier 1</p>
+<p>3rd Position</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elize Lum Lai Yuet
+<br>P4-3</p>
+<p>Wang Ziyu
+<br>P5-7</p>
 </td>
 </tr>
 </tbody>
@@ -1015,6 +1060,178 @@ in Mathematics and
 </tr>
 </tbody>
 </table>
+<h4>2024 Wizard School Challenge (Mathematics - KooBits)</h4>
+<p>1st Runner Up of top 3 schools with the highest Challenge Points</p>
+<h4>2024 Primary Mathematics Project Competition</h4>
+<p>Issac Pang of P5-8 won the outstanding award for P5 Physical Game Design
+category</p>
+<h4>2024 Primary Science Olympiad by NUS High School</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choo Eng Hee Kristin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="9" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jarif Samuel Khan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Ee Shin Gwen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Ziyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Zee Yew Gregory</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lin Heng Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Zee Han Corey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Xin Rui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tevin Jay Singh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pang Xianle Evan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h4>Sony Creative Science Award</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Whizkid Category (2nd)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Phua Yu Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h4>2024 STEM Design Challenge by Dunman Secondary School</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Top 3 STEM Design</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tevin Jay Singh
+<br>Pang Xuanle Evan
+<br>Ong Zee Han Corey
+<br>Lin Le</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Drone Odyssey Challenge</h4>
 <p>A team of P5 students participated in the Drone Odyssey Challenge 2024
 and was awarded the Best Strategy Award. This is the first time the school
@@ -1069,4 +1286,5 @@ Schools Digital Media</p>
 </tr>
 </tbody>
 </table>
+<h4></h4>
 <p></p>
