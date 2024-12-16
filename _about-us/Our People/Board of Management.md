@@ -14,13 +14,14 @@ variant: markdown
 | |  |  |
 |---|---|---|
 | <b>Chairman</b> | Mr Khoong Hock Yun |
-| <b>Vice Chairman</b> | Mr Chou Fang Soong |
-| <b>Treasurer</b> | Mr Wong Kwong Yong |
-| <b>Secretary</b> | Mrs Daphne Yeoh, Principal, GMS(P)|
+| <b>Treasurer</b> | Mr Chou Fang Soong |
+| <b>Hon. Treasurer</b> | Mr Wong Kwong Yong |
+| <b>Hon. Secretary</b> | Mrs Daphne Yeoh, Principal, GMS(P)|
 |  | Mr Victor Owyong,&nbsp;Principal, GMS(S)|
-|<b> Members</b> | Mdm Ng Cher Siang, Cheryl |
-|  | Mr Tay Kah Ann Peter |
+|<b> Members</b> | Mr Tay Kah Ann Peter|
+|  |Rev Simon Cheo  |
+|  | Mr. Kim Seah Kim Teck |
 |  | Dr Raymond Teo Cheng Soon |
-|  | Mr Kim Seah Teck Kim, Asst. Education Secretary, MCS |
-| <b>Ex-Officio Member</b> | Rev Tay Li Ping,  Pastor-in-Charge,  Christalite Methodist Chapel |
+|  | Ms Pauline Lee Miin Jiun - Alumni President |
+| |Mdm Ng Cher Siang, Cheryl  - Alumni Rep|
 | |  |  |
