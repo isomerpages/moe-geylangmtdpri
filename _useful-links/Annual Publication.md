@@ -5,6 +5,7 @@ description: ""
 variant: markdown
 ---
 Please click on the following to view the e-version of our school newsletter:  
+ [GMS(P) Yearbook 2024](https://online.fliphtml5.com/tzzjq/heuu/)
  
 [GM Speaks 2023](https://online.fliphtml5.com/tzzjq/fzea/) 
 
