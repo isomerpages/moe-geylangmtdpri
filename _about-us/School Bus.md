@@ -42,7 +42,7 @@ variant: markdown
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">gmps@bkktravel.com</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">gmps@bkk.com.sg</a>
 </p>
 </td>
 </tr>
@@ -225,7 +225,7 @@ variant: markdown
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">gmsp@bkktravel.com</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">gmps@bkk.com.sg</a>
 </p>
 </td>
 </tr>
