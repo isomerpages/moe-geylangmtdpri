@@ -39,6 +39,14 @@ variant: tiptap
 <p>8. Primary 1 Student Hub (Administrative information)
 <br><a href="https://sites.google.com/moe.edu.sg/gmsp-p1studenthub?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click here for the Google site</a>
 </p>
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p>School Bus</p>
+<p><a href="https://www.geylangmethodistpri.moe.edu.sg/about-us/school-bus-rates/" rel="noopener nofollow" target="_blank">Click here for School Bus information</a>
+</p>
+</li>
+</ol>
+<p></p>
 <h4>2025 Booklists</h4>
 <ul data-tight="true" class="tight">
 <li>
