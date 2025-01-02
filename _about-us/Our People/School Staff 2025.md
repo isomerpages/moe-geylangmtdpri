@@ -1203,7 +1203,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3. Ms Nur Azlinah Binte Mohamed AliAzlinah Binte Mohamed Ali</p>
+<p>3. Ms Nur Azlinah Binte Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_azlinah_mohamed_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azlinah_mohamed_ali@moe.edu.sg</a>
@@ -1403,11 +1403,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<ol start="4" data-tight="true" class="tight">
-<li>
 <p>Mr. Teng Lay Heng</p>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1486,14 +1482,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rebecca Ting</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Novie Tan</p>
 </td>
 </tr>
 <tr>
