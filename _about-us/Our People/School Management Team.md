@@ -32,7 +32,7 @@ variant: markdown
 | Mrs Wong Chia Peng (Mdm Tan Chia Peng) | Level Head<br>(Mathematics) | tan_chia_peng@moe.edu.sg |
 | Mdm Christine Tan | Level Head (Science) | tan_chor_kheng@moe.edu.sg |
 | Mr Sim Wei Zhang | Subject Head (Physical &amp; Health Education) | sim_wei_zhang@moe.edu.sg |
-| Mrs Joanne Yak | Subject Head<br>(CCE) | joanne_yak@moe.edu.sg |
+| Mrs Joanne Yak | Subject Head (CCE) | joanne_yak@moe.edu.sg |
 | Mrs Christabel Chue (Mdm Chua Khar Loo) | Subject Head<br>(Std Wellbeing) | chua_khar_loo_christabel@moe.edu.sg |
 | Mrs Anna Quek | Subject Head (Discipline) | lai_szi_ern_anna@moe.edu.sg |
 | Mdm Hanitha Shamsudeen | Subject Head (ICT) | hanitha_shamsudeen@moe.edu.sg|
