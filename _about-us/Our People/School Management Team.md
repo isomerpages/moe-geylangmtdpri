@@ -44,11 +44,10 @@ variant: markdown
 |---|---|---|
 | Mrs Chan Wai Leng | Lead Teacher  (Character &amp; Citizenship Education) | goh_wai_leng@moe.edu.sg |
 | Mrs Jessica Kang | Senior Teacher  (English Language) | teo_bee_thian_jessica@moe.edu.sg |
-| Mdm Zaleha Bte Ahmad | Senior Teacher  (Malay Language) | 
+| Mdm Zaleha Bte Ahmad | Senior Teacher  (Malay Language) | zaleha_ahmad@moe.edu.sg |
 | Ms Sarah-Ann Tan | Senior Teacher  (Science) | tan_liang_ling_sarah-ann@moe.edu.sg |zaleha_ahmad@moe.edu.sg |
 | Mrs Serene Goh | Senior Teacher  (Music) | low_shilin_serene@moe.edu.sg |
 | Mr Harvey Kwek | Senior Teacher  (Art) | kwek_ching_an_harvey@moe.edu.sg |
 | Mrs Tan Siew Kuan | Senior Teacher  (Lower Primary Learners) | lim_siew_kuan@moe.edu.sg |
 | Mrs Jean Tan | Senior Teacher  (Special Education Needs) | jean_tan_nee_ho@moe.edu.sg |
-
-| | | |
+ | |
