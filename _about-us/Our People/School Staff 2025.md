@@ -1675,20 +1675,19 @@ variant: tiptap
 <p>P2-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosmariati</p>
+<p>Mdm Tan Yin Huay, Cherine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rosmariati_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rosmariati_sulaiman@moe.edu.sg</a>
+<p><a href="mailto:tan_yin_huay_cherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yin_huay_cherine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Shuli</p>
+<p>Mdm Tong Lai Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liu_xianshuli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_xianshuli@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1696,31 +1695,41 @@ variant: tiptap
 <p>P2-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Christopher Maik</p>
+<p>Mrs Tan Siew Kuan (Mdm Lim Siew Kuan)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:maik_tze-chern_christopher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maik_tze-chern_christopher@moe.edu.sg</a>
+<p><a href="mailto:lim_siew_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_siew_kuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chen Yan Xi</p>
+<p>Mrs Karunahkaran Kalaivani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_yan_xi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yan_xi@moe.edu.sg</a>
+<p><a href="mailto:karunahkaran_kalaivani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karunahkaran_kalaivani@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P2-8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Michael Goh</p>
+<p>Mrs Mooi Lee Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:michael_goh_sock_boo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michael_goh_sock_boo@moe.edu.sg</a>
+<p><a href="mailto:mooi_leeChoo_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mooi_leeChoo_a@moe.edu.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Loh Puay San</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_puay_san@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_puay_san@moe.edu.sg</a>
 </p>
 </td>
 </tr>
