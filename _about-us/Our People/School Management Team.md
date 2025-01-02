@@ -15,11 +15,11 @@ variant: markdown
 | Mdm Mildred Lek | Admin Manager  | lek_chew_peng@schools.gov.sg |
 | Mrs Chen Yan Xi | School Staff Developer | sim_yan_xi@moe.edu.sg |
 | Mrs Tok Bing Hwee | Year Head<br>(Upper Pri) | tan_bing_hwee@moe.edu.sg |
-| Ms Tng Li Ling | Year Head (Middle Pri) | tng_li_ling@moe.edu.sg |
-| Mrs Ariel Koh | Asst. Year Head (Middle Pri) | ariel_zhuang_shuyi@moe.edu.sg|
-| Mrs Joanne Yak  | Year Head (Lower Pri) | joanne_yak@moe.edu.sg |
-| Ms Tan Li Ling | Asst. Year Head (Lower Pri) | tan_li_ling@moe.edu.sg |
-| Mr Neo Ping Leng | Head of Department (Mother Tongue Languages) | neo_ping_leng@moe.edu.sg |
+| Ms Tng Li Ling | Year Head <br> (Middle Pri) | tng_li_ling@moe.edu.sg |
+| Mrs Ariel Koh | Asst. Year Head <br> (Middle Pri) | ariel_zhuang_shuyi@moe.edu.sg|
+| Mrs Joanne Yak  | Year Head <br> (Lower Pri) | joanne_yak@moe.edu.sg |
+| Ms Tan Li Ling | Asst. Year Head <br> (Lower Pri) | tan_li_ling@moe.edu.sg |
+| Mr Neo Ping Leng | Head of Department <br> (Mother Tongue Languages) | neo_ping_leng@moe.edu.sg |
 | Ms Pearl Saw | Head of Department (Mathematics) | saw_pearl@moe.edu.sg |
 | Mr Wong Wai Lit | Head of Department <br> (Science) |  wong_wai_lit@moe.edu.sg |
 | Ms Denyse Ong | Head of Department <br> (Aesthetics) | ong_san_san_denyse@moe.edu.sg |
