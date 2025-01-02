@@ -2131,10 +2131,11 @@ variant: tiptap
 <p>P5-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Chow Fong Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chow_fong_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_fong_yee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -2150,19 +2151,19 @@ variant: tiptap
 <p>P5-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Wong Chia Peng</p>
+<p>Mr Mohamed Ali Marican</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chia_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chia_peng@moe.edu.sg</a>
+<p><a href="mailto:mohamed_ali_marican@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_ali_marican@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Anzie Cheng (Mdm Chong Bomunn Anzie)</p>
+<p>Mdm Jill Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_bomunn_anzie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_bomunn_anzie@moe.edu.sg</a>
+<p><a href="mailto:Jill_chia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jill_chia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
