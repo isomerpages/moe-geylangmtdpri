@@ -21,8 +21,8 @@ variant: markdown
 | Ms Tan Li Ling | Asst. Year Head (Lower Pri) | tan_li_ling@moe.edu.sg |
 | Mr Neo Ping Leng | Head of Department (Mother Tongue Languages) | neo_ping_leng@moe.edu.sg |
 | Ms Pearl Saw | Head of Department (Mathematics) | saw_pearl@moe.edu.sg |
-| Mr Wong Wai Lit | Head of Department (Science) |  wong_wai_lit@moe.edu.sg |
-| Ms Denyse Ong | Head of Department (Aesthetics) | ong_san_san_denyse@moe.edu.sg |
+| Mr Wong Wai Lit | Head of Department <br> (Science) |  wong_wai_lit@moe.edu.sg |
+| Ms Denyse Ong | Head of Department <br> (Aesthetics) | ong_san_san_denyse@moe.edu.sg |
 | Mr Shen Weixiong | Head of Department<br>(PE &amp; CCA) |shen_weixiong@moe.edu.sg|
 | Mr Mrs Kelly Leung Ngiap Choo | Head of Department<br>(CCE) |law_ngiap_choo@moe.edu.sg|
 | Mdm Jill Chia | Head of Department<br>(Special Education Needs) |jill_chia@moe.edu.sg|
