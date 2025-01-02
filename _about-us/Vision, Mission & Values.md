@@ -26,6 +26,7 @@ Grat<strong><u>i</u></strong>tude &amp; Grac<strong><u>i</u></strong>ousness <br
 	
 | Year | Theme | 
 | -------- | -------- | 
+| 2025 | <strong><u>1 Thess 5:16-18a</u>&nbsp; &nbsp;&nbsp;<u>GROW, LEAD AND SERVE WITH JOY </u></strong> <br>Rejoice always. pray without ceasing, give thanks in all circumstances. | 
 | 2024 | <strong><u>Psalm 100:5</u>&nbsp; &nbsp;&nbsp;<u>CELEBRATING GOD’S GOODNESS </u></strong> <br> For the Lord is good; his steadfast love endures forever, and his faithfulness to all generations. | 
 | 2023 | <strong><u>Psalm 1:3</u>&nbsp; &nbsp;&nbsp;<u>BE ROOTED IN PEACE, TRUTH AND LOVE </u></strong> <br> That person is like a tree planted by streams of water, <br>which yields its fruit in season<br>and whose leaf does not wither -<br> whatever they do prospers. | 
 | 2022 | <strong><u>Micah 6:8</u>&nbsp; &nbsp;&nbsp;<u>ACT JUSTLY, LOVE MERCY AND WALK HUMBLY </u></strong> <br> He has shown you, O mortal, what is good. <br> And what does the Lord require of you? <br> To act justly and to love mercy and to walk humbly with your God. | 
