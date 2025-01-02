@@ -15,14 +15,14 @@ variant: markdown
 | Mdm Mildred Lek | Admin Manager  | lek_chew_peng@schools.gov.sg |
 | Mrs Chen Yan Xi | School Staff Developer | sim_yan_xi@moe.edu.sg |
 | Mrs Tok Bing Hwee | Year Head<br>(Upper Pri) | tan_bing_hwee@moe.edu.sg |
-| Ms Tng Li Ling | Year Head <br> (Middle Pri) | tng_li_ling@moe.edu.sg |
-| Mrs Ariel Koh | Asst. Year Head <br> (Middle Pri) | ariel_zhuang_shuyi@moe.edu.sg|
-| Mrs Joanne Yak  | Year Head <br> (Lower Pri) | joanne_yak@moe.edu.sg |
-| Ms Tan Li Ling | Asst. Year Head <br> (Lower Pri) | tan_li_ling@moe.edu.sg |
-| Mr Neo Ping Leng | Head of Department <br> (Mother Tongue Languages) | neo_ping_leng@moe.edu.sg |
+| Ms Tng Li Ling | Year Head<br>(Middle Pri) | tng_li_ling@moe.edu.sg |
+| Mrs Ariel Koh | Asst. Year Head<br>(Middle Pri) | ariel_zhuang_shuyi@moe.edu.sg|
+| Mrs Joanne Yak  | Year Head<br>(Lower Pri) | joanne_yak@moe.edu.sg |
+| Ms Tan Li Ling | Asst. Year Head<br>(Lower Pri) | tan_li_ling@moe.edu.sg |
+| Mr Neo Ping Leng | Head of Department<br>(Mother Tongue Languages) | neo_ping_leng@moe.edu.sg |
 | Ms Pearl Saw | Head of Department (Mathematics) | saw_pearl@moe.edu.sg |
-| Mr Wong Wai Lit | Head of Department <br> (Science) |  wong_wai_lit@moe.edu.sg |
-| Ms Denyse Ong | Head of Department <br> (Aesthetics) | ong_san_san_denyse@moe.edu.sg |
+| Mr Wong Wai Lit | Head of Department<br>(Science) |  wong_wai_lit@moe.edu.sg |
+| Ms Denyse Ong | Head of Department<br>(Aesthetics) | ong_san_san_denyse@moe.edu.sg |
 | Mr Shen Weixiong | Head of Department<br>(PE &amp; CCA) |shen_weixiong@moe.edu.sg|
 | Mr Mrs Kelly Leung Ngiap Choo | Head of Department<br>(CCE) |law_ngiap_choo@moe.edu.sg|
 | Mdm Jill Chia | Head of Department<br>(Special Education Needs) |jill_chia@moe.edu.sg|
@@ -30,12 +30,12 @@ variant: markdown
 | Mrs Ryna Raaj | Level Head<br>(English Language) | k_b_ryna_mahindapala@moe.edu.sg |
 | Mrs Nantheini Elangovan | Subject Head<br>(Tamil Language) | yengadayson_nantheini@moe.edu.sg  |
 | Mrs Wong Chia Peng (Mdm Tan Chia Peng) | Level Head<br>(Mathematics) | tan_chia_peng@moe.edu.sg |
-| Mdm Christine Tan | Level Head <br>(Science) | tan_chor_kheng@moe.edu.sg |
-| Mr Sim Wei Zhang | Subject Head <br> (Physical &amp; Health Education) | sim_wei_zhang@moe.edu.sg |
-| Mrs Joanne Yak | Subject Head<br> (CCE) | joanne_yak@moe.edu.sg |
+| Mdm Christine Tan | Level Head<br>(Science) | tan_chor_kheng@moe.edu.sg |
+| Mr Sim Wei Zhang | Subject Head<br>(Physical &amp; Health Education) | sim_wei_zhang@moe.edu.sg |
+| Mrs Joanne Yak | Subject Head<br>(CCE) | joanne_yak@moe.edu.sg |
 | Mrs Christabel Chue (Mdm Chua Khar Loo) | Subject Head<br>(Std Wellbeing) | chua_khar_loo_christabel@moe.edu.sg |
-| Mrs Anna Quek | Subject Head <br> (Discipline) | lai_szi_ern_anna@moe.edu.sg |
-| Mdm Hanitha Shamsudeen | Subject Head <br> (ICT) | hanitha_shamsudeen@moe.edu.sg|
+| Mrs Anna Quek | Subject Head<br>(Discipline) | lai_szi_ern_anna@moe.edu.sg |
+| Mdm Hanitha Shamsudeen | Subject Head<br>(ICT) | hanitha_shamsudeen@moe.edu.sg|
 | | | 
 
 ### Teacher-Leaders
