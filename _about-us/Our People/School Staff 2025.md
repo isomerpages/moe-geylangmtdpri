@@ -227,7 +227,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P1-9</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,9 +239,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Khor Ting Fang</p>
 </td>
@@ -513,7 +510,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P3-4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -526,9 +523,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Leow Sherry</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -537,9 +531,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Christine Tan</p>
 </td>
@@ -642,7 +633,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P4-1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -655,9 +646,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Voyda Siew Noi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -667,7 +655,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P4-2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -680,9 +668,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Avany Manggelam</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -691,7 +676,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P4-3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -703,9 +688,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hanitha Shamsudeen</p>
 </td>
