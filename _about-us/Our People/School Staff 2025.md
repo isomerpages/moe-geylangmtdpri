@@ -2436,18 +2436,20 @@ variant: tiptap
 <p>P6-8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Grace Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Tan_Enhui_grace@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_enhui_grace@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Ryna Raaj</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:k_b_ryna_mahindapala@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">k_b_ryna_mahindapala@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
