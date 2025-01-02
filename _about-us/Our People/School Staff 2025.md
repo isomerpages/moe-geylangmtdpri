@@ -1654,19 +1654,19 @@ variant: tiptap
 <p>P2-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sufian</p>
+<p>Ms Joan Cheri Lim Lay Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_sufian_mohamed_sol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_sufian_mohamed_sol@moe.edu.sg</a>
+<p><a href="mailto:cheri_joan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheri_joan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Cher Hui</p>
+<p>Mdm Wong Lee Jiun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_cher_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_cher_hui@moe.edu.sg</a>
+<p><a href="mailto:wong_lee_jiun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lee_jiun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
