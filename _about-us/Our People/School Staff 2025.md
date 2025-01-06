@@ -155,7 +155,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Shuli</p>
+<p>Mdm Liu Xianshuli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liu_xianshuli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_xianshuli@moe.edu.sg</a>
@@ -240,7 +240,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim Yui Nguan</p>
+<p>Mrs Huang Yui Nguan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yui_nguan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yui_nguan@moe.edu.sg</a>
@@ -437,7 +437,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rosie Yong Joon Pheng</p>
+<p>Mdm Rosie Yong Joon Pheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Yong_Joon_Pheng_Rosie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_joon_pheng_rosie@moe.edu.sg</a>
