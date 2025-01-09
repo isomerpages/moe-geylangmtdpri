@@ -1002,10 +1002,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Davina Chai Xiujuan</p>
+<p>Ms Davina Chai Xiujuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chai_xiujian_davina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chai_xiujian_davina@moe.edu.sg</a>
+<p><a href="mailto:chai_xiujuan_davina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chai_xiujuan_davina@moe.edu.sg</a>
 </p>
 </td>
 </tr>
