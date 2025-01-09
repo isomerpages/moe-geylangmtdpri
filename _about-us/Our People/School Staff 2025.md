@@ -621,18 +621,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>P3-8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Koh Ching Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:leow_ching_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leow_ching_lee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
 <p>P4-1</p>
 </td>
