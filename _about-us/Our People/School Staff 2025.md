@@ -180,7 +180,7 @@ variant: tiptap
 <p>Mrs Stella Chang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tet_chui_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tet_chui_wah@moe.edu.sg</a>
+<p><a href="mailto:tet_chiu_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tet_chiu_wah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
