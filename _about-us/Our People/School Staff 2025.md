@@ -315,7 +315,8 @@ variant: tiptap
 <p>Mr Edward Chew Chang Tze</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chew_chang_tze_edward@moe.edu.sg</p>
+<p><a href="mailto:chew_chang_tze_edward@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_chang_tze_edward@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
