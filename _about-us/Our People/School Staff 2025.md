@@ -201,7 +201,7 @@ variant: tiptap
 <p>Mdm Chan Yoke Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_yoke_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_yoke_peng@moe.edu.sg</a>
+<p><a href="mailto:chan_yoke_peng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_yoke_peng_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
