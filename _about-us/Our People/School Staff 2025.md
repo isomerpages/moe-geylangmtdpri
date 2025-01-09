@@ -410,9 +410,8 @@ variant: tiptap
 <p>Mrs Mooi Lee Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mooi_leeChoo_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mooi_leeChoo_a@moe.edu.sg</a>
+<p><a href="mailto:mooi_lee_choo_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mooi_lee_choo_a@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
