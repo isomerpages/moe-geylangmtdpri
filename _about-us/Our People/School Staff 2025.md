@@ -378,7 +378,8 @@ variant: tiptap
 <p>Mdm Tong Lai Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tong_lai_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tong_lai_yi_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
