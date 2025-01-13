@@ -148,7 +148,7 @@ variant: tiptap
 <p>Mrs Elsa Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:quak_hong_kheng_elsa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quak_hong_kheng_elsa@moe.edu.sg</a>
+<p><a href="mailto:quak_hong_kheng_elsa_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quak_hong_kheng_elsa_a@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
