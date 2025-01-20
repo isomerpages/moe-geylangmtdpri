@@ -48,7 +48,8 @@ variant: tiptap
 </li>
 <li>
 <p>2025 Prefect Investiture Brochure</p>
-<p>Click here for brochure</p>
+<p><a href="/files/Investiture/Prefects_Investiture_2025_Brochure_a.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for brochure</a>
+</p>
 <p></p>
 </li>
 </ol>
