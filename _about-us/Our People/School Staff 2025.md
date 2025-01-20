@@ -1033,7 +1033,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Harvey Quek</p>
+<p>Mr Harvey Kwek</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Kwek_ching_an_harvey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_ching_an_harvey@moe.edu.sg</a>
