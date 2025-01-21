@@ -24,7 +24,7 @@ variant: markdown
 | Mr Wong Wai Lit | Head of Department<br>(Science) |  wong_wai_lit@moe.edu.sg |
 | Ms Denyse Ong | Head of Department<br>(Aesthetics) | ong_san_san_denyse@moe.edu.sg |
 | Mr Shen Weixiong | Head of Department<br>(PE &amp; CCA) |shen_weixiong@moe.edu.sg|
-| Mr Mrs Kelly Leung Ngiap Choo | Head of Department<br>(CCE) |law_ngiap_choo@moe.edu.sg|
+| Mrs Kelly Leung Ngiap Choo | Head of Department<br>(CCE) |law_ngiap_choo@moe.edu.sg|
 | Mdm Jill Chia | Head of Department<br>(Special Education Needs) |jill_chia@moe.edu.sg|
 | Ms Wendy Lin | Level Head<br>(English Language) | wendy_lin_miao_jing@moe.edu.sg |
 | Mrs Ryna Raaj | Level Head<br>(English Language) | k_b_ryna_mahindapala@moe.edu.sg |
