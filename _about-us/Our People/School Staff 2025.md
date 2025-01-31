@@ -85,7 +85,7 @@ variant: tiptap
 <p>Mdm Yap Siew Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yap_siew_jong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_siew_jong@moe.edu.sg</a>
+<p><a href="mailto:yap_siew_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_siew_hong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
