@@ -45,11 +45,7 @@ variant: tiptap
 <p><a href="https://www.geylangmethodistpri.moe.edu.sg/about-us/school-bus-rates/" rel="noopener nofollow" target="_blank">Click here for School Bus information</a>
 </p>
 <p></p>
-</li>
-<li>
-<p>2025 Prefect Investiture Brochure</p>
-<p><a href="/files/Investiture/Prefects_Investiture_2025_Brochure_a.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for brochure</a>
-</p>
+<p></p>
 <p></p>
 </li>
 </ol>
