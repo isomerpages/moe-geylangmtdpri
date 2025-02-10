@@ -27,34 +27,90 @@ communities in Singapore on sexuality issues.</p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
 Education are:</p>
-<p></p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support students in managing their
-physiological, social and emotional changes as they grow up and develop
-safe and healthy relationships.</p>
-<p></p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guide students to make wise, informed
-and responsible decisions on sexuality matters.</p>
-<p></p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students develop a moral
-compass and respect for themselves and others by having positive mainstream
-values and attitudes about sexuality that are premised on the family as
-the basic unit of society.</p>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(a)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(b)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Guide students to make wise, informed and responsible decisions on sexuality
+matters.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(c)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Help students develop a moral compass and respect for themselves and others
+by having positive mainstream values and attitudes about sexuality that
+are premised on the family as the basic unit of society.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;&nbsp;&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
-<p></p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love and respect yourself as you love
-and respect others;</p>
-<p></p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive relationships based
-on love and respect (which are the foundation for strong families);</p>
-<p></p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible decisions for
-yourself, your family and society; and</p>
-<p></p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before marriage is
-the best protection against STIs/HIV and unintended pregnancies. Casual
-sex can harm and hurt you and your loved ones.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(a)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Love and respect yourself as you love and respect others;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(b)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Build positive relationships based on love and respect (which are the
+foundation for strong families);</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(c)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Make responsible decisions for yourself, your family and society; and</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(d)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Abstinence before marriage is the best protection against STIs/HIV and
+unintended pregnancies. Casual sex can harm and hurt you and your loved
+ones.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p><strong><br></strong>
@@ -71,9 +127,32 @@ information on the scope of Sexuality Education in the school curriculum.</p>
 <p></p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics on sexuality
 include:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
-(CCE)</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(a)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(b)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Character and Citizenship Education (CCE)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <p></p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the
@@ -196,13 +275,9 @@ and how to seek help for themselves and their friends.</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong><br></strong>
+<p></p>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
-<p></p>
-<p></p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
-</p>
-<p></p>
 <p><strong>Primary 6</strong>
 </p>
 <p><strong>&nbsp;</strong>
@@ -225,7 +300,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Overview</strong>
+<p><strong>LESSON OVERVIEW</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
