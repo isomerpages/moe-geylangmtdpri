@@ -506,7 +506,7 @@ variant: tiptap
 <p>Mr Christopher Maik</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:maik_tze-chern_christopher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maik_tze-chern_christopher@moe.edu.sg</a>
+<p><a href="mailto:christopher_maik@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_maik@moe.edu.sg</a>
 </p>
 </td>
 </tr>
