@@ -1474,7 +1474,7 @@ variant: tiptap
 <p>Care Corner</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sarina Binti Mail</p>
+<p>Mdm Sarina</p>
 </td>
 </tr>
 <tr>
