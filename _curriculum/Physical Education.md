@@ -132,15 +132,16 @@ to healthy living.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Developing students’ confidence to float and move in, under and on water." src="/images/Pic_4_SwimSafer.jpg">
 </div>
-<p>Pic 4: Developing students’ confidence to float and move in, under and
-on water.</p>
+<p><u>Pic 4: Developing students’ confidence to float and move in, under and on water.</u>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Celebrating unity and camaraderie through annual Sports Carnival." src="/images/Pic_5_Sports_Carnival_.jpg">
 </div>
-<p>Pic 5: Celebrating unity and camaraderie through annual Sports Carnival.</p>
+<p><u>Pic 5: Celebrating unity and camaraderie through annual Sports Carnival.</u>
+</p>
 </td>
 </tr>
 <tr>
@@ -159,8 +160,8 @@ on water.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Encouraging greater sports participation and building 21st core competencies." src="/images/Pic_6_SEP.jpg">
 </div>
-<p>Pic 6: Encouraging greater sports participation and building 21st core
-competencies through Sports Education Programme.</p>
+<p><u>Pic 6: Encouraging greater sports participation and building 21st core competencies through Sports Education Programme.</u>
+</p>
 </td>
 </tr>
 </tbody>
