@@ -114,8 +114,8 @@ living habits through the following programmes:&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Equipping students with outdoor competencies to explore the natural and urban environments." src="/images/Pic_2_OE.jpg">
 </div>
-<p>Equipping students with outdoor competencies to explore the natural and
-urban environments.</p>
+<p><strong>Equipping students with outdoor competencies to explore the natural and urban environments.</strong>
+</p>
 </th>
 <th rowspan="1" colspan="2">
 <p></p>
@@ -123,23 +123,33 @@ urban environments.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Learning the skills and knowledge to make informed decisions related to healthy living" src="/images/Pic_3_Health_Awareness_Day.jpg">
 </div>
 <p>Learning the skills and knowledge to make informed decisions related to
-healthy living</p>
+healthy living.</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Developing students’ confidence to float and move in, under and on water." src="/images/Pic_4_SwimSafer.jpg">
 </div>
-<p>&nbsp;Developing students’ confidence to float and move in, under and
-on water.</p>
+<p>Developing students’ confidence to float and move in, under and on water.</p>
 </td>
 <td rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Celebrating unity and camaraderie through annual Sports Carnival." src="/images/Pic_5_Sports_Carnival_.jpg">
 </div>
 <p>Celebrating unity and camaraderie through annual Sports Carnival.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
