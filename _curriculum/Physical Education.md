@@ -8,6 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Applying movement skills and game concepts during our PE lesson." src="/images/Pic_1_PE.jpg">
 </div>
+<p>Applying movement skills and game concepts during our PE lesson.</p>
 <h4><strong>Vision</strong></h4>
 <p>Every GMS(P) student to be developed physically, cognitively and socially.</p>
 <h4><strong>Mission</strong></h4>
