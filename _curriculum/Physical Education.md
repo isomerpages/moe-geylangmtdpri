@@ -118,59 +118,40 @@ urban environments.</p>
 </th>
 <th rowspan="1" colspan="2">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Learning the skills and knowledge to make informed decisions related to healthy living" src="/images/Pic_3_Health_Awareness_Day.jpg">
+</div>
+<p>Learning the skills and knowledge to make informed decisions related to
+healthy living</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Developing students’ confidence to float and move in, under and on water." src="/images/Pic_4_SwimSafer.jpg">
+</div>
+<p>&nbsp;Developing students’ confidence to float and move in, under and
+on water.</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>1</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Celebrating unity and camaraderie through annual Sports Carnival." src="/images/Pic_5_Sports_Carnival_.jpg">
+</div>
+<p>Celebrating unity and camaraderie through annual Sports Carnival.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Encouraging greater sports participation and building 21st core competencies." src="/images/Pic_6_SEP.jpg">
+</div>
+<p>Encouraging greater sports participation and building 21st core competencies
+through Sports Education Programme.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p></p>
-<h4>Pedagogical Approaches / Strategies</h4>
-<p>In striving towards holistic education, the PE Department has adopted
-a framework for the learning of Physical &amp; Health Education based on
-the school’s:
-<br>* Strategic Thrust 1: Nurturing the whole child
-<br>* Strategic Thrust 4:&nbsp; Enhance Home-School-Community partnership
-to support student learning and development
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE%20Framework.jpg">
-</div>
-<p>Core of the Framework is based on the 2014 PE syllabus on developing students
-to adopt a healthy and active lifestyle. GMS (P) applied the 3E approaches
-of Equip, Enthuse and Expose modality in meeting the learning outcomes.
-<br>
-</p>
-<p>In addition, the learning of PE is conducted with approaches such as Differentiated
-Instructions, Making Thinking Visible practices and e-pedagogy approaches
-in teaching. PE lessons are designed to meet different individual students
-learning disposition and interests in order to ensure learning takes place
-effectively.
-<br>
-</p>
-<p>The department integrate the use of ICT to promote interest in meeting
-the learning outcomes of PE i.e. the use of interactive app to provide
-meaningful feedback for our students to adopt healthy and active lifestyle
-in school and out of school.</p>
+<p>Through our comprehensive PE curriculum and key programmes, we seek to
+develop our students to be physically competent and confident individuals
+who enjoy a lifetime of active and healthy living.</p>
