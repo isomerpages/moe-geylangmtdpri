@@ -25,7 +25,7 @@ sections:
       title: GM100 Centennial Thanksgiving Dinner
       id: infopic
       button: Click here for video
-      url: https://www.youtube.com/watch?v=X9kFlm7QPRA
+      url: https://youtu.be/X9kFlm7QPRA
       image: /images/GM100_Dinner_Pic.png
       alt: Image alt text
 ---
