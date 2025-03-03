@@ -22,16 +22,10 @@ sections:
           url: https://www.facebook.com/GMSPrimary/
       background: /images/banner _ claudia.jpg
   - infopic:
-      title: GMS(P) Centennial Concert 2024
+      title: GM100 Centennial Thanksgiving Dinner
       id: infopic
       button: Click here for video
-      url: https://youtu.be/xkQ5a4QEj9Y
-      image: /images/Centennial_Concert_2024.jpg
-      alt: Image alt text
-  - infopic:
-      title: A day in GMS(P)
-      button: Click here for video
-      url: https://youtu.be/P2naDv7Zcws
-      image: /images/A day in GMSP_thumbnail.jpg
+      url: https://youtu.be/X9kFlm7QPRA
+      image: /images/GM100_Dinner_Pic.png
       alt: Image alt text
 ---
