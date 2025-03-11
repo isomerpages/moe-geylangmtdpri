@@ -4,9 +4,6 @@ permalink: /curriculum/science/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sc%20pic3.jpeg">
-</div>
 <h4>Vision</h4>
 <p>Inspired by values, enculturated in the practices of science</p>
 <h4>Mission</h4>
