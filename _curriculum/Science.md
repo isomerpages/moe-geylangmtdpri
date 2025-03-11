@@ -128,6 +128,7 @@ and dispositions scientists possess as well as gain important 21st century
 competencies such as critical and inventive thinking and effective communication
 skills.&nbsp;<em>(Adapted from MOE website)<br><br></em><strong>2)&nbsp;Participation in External Events or Competitions</strong>
 </p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
