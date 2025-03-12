@@ -46,9 +46,47 @@ variant: tiptap
 </p>
 <p></p>
 <p></p>
-<p></p>
 </li>
 </ol>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<ol start="10" data-tight="true" class="tight">
+<li>
+<p>Dear Parents/Guardians,</p>
+</li>
+</ol>
+<p>Please be informed that our school bookshop will no longer carry school
+uniforms effective <strong>14 March 2025</strong>. If you wish to purchase
+uniforms for your child/ward, you may do so at the following retail outlets
+or via the online platform:</p>
+<p><strong>Retail Outlets:</strong>
+</p>
+<p>📍 <strong>Far East Shopping Centre</strong>
+<br><strong>Address:</strong> 545 Orchard Road, Singapore 238882
+<br><strong>Tel:</strong> 6732 7022
+<br><strong>Opening Hours:</strong> Mon - Sat: 10 AM – 7 PM | Sun: 10 AM –
+6 PM</p>
+<p>📍 <strong>Henderson Road</strong>
+<br><strong>Address:</strong> 213 Henderson Road #01-12, Singapore 159553
+<br><strong>Tel:</strong> 6271 9248
+<br><strong>Opening Hours:</strong> Mon - Fri: 9 AM – 6 PM (Lunch break: 1
+- 2 PM) | Sat: 9 AM – 1 PM</p>
+<p><strong>Online Purchase:</strong>
+</p>
+<p>🌐 <a href="https://www.schooluniforms.sg/bb-geylang-methodist-primary-school" rel="noopener noreferrer nofollow" target="_blank">Order via this link</a>
+</p>
+<p>Thank you for your understanding.</p>
+</th>
+</tr>
+</tbody>
+</table>
 <h4>2025 Booklists</h4>
 <ul data-tight="true" class="tight">
 <li>
