@@ -45,21 +45,13 @@ variant: tiptap
 <p><a href="https://www.geylangmethodistpri.moe.edu.sg/about-us/school-bus-rates/" rel="noopener nofollow" target="_blank">Click here for School Bus information</a>
 </p>
 <p></p>
-<p></p>
 </li>
 </ol>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
 <ol start="10" data-tight="true" class="tight">
 <li>
-<p>Dear Parents/Guardians,</p>
+<p>School Uniform
+<br>
+</p>
 </li>
 </ol>
 <p>Please be informed that our school bookshop will no longer carry school
@@ -83,10 +75,8 @@ or via the online platform:</p>
 <p>🌐 <a href="https://www.schooluniforms.sg/bb-geylang-methodist-primary-school" rel="noopener noreferrer nofollow" target="_blank">Order via this link</a>
 </p>
 <p>Thank you for your understanding.</p>
-</th>
-</tr>
-</tbody>
-</table>
+<p></p>
+<p></p>
 <h4>2025 Booklists</h4>
 <ul data-tight="true" class="tight">
 <li>
