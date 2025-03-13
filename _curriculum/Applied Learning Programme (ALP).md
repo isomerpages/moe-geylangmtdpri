@@ -88,6 +88,46 @@ of their artist statement in school or at the Singapore Art Museum.</p>
 </div>
 </td>
 </tr>
+</tbody>
+</table>
+<p><u>Igniting the Power of Words:&nbsp; P6 Project WOW&nbsp;</u>
+</p>
+<p>A level-wide project where students reflect on various GLOW experiences.
+In groups, students craft a script to advocate for a topic based on real-life
+examples and stories. Through the creative use of recyclables, students
+share their call to action with fellow students and parents at the P6 Farewell.
+&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 7: Project WOW" src="/images/07_Project_WOW.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 8: Project WOW" src="/images/08_Project_WOW.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 9: Project WOW" src="/images/09_Project_WOW.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -107,5 +147,6 @@ of their artist statement in school or at the Singapore Art Museum.</p>
 </tbody>
 </table>
 <p>
+<br>
 <br>
 </p>
