@@ -246,15 +246,23 @@ stewardship.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prefects engaging students during recess on Anti-dengue games by NEA" src="/images/LLP_Pic1.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prefects engaging students during recess on Anti-dengue games by NEA" src="/images/LLP_Pic2.png">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SG World Water Day Launch at Jurong Gardens with PUB by Environmental Science Club" src="/images/LLP_Pic3.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -270,4 +278,5 @@ stewardship.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
