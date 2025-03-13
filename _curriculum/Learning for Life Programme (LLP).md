@@ -66,4 +66,176 @@ education.</p>
 <p>This integration ensures that students not only gain knowledge about sustainability
 but also actively contribute to making a positive impact in their communities.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="VIA@a Glance" src="/images/ViaTable.png">
+</div>
+<p><strong>Environmental Accolades and Awards</strong>
+</p>
+<p>Our ongoing commitment to sustainability has been recognized through various
+accolades and awards. The list of these environmental honours demonstrates
+the school’s continued dedication to sustainability education and environmental
+stewardship.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Accolades and Awards</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awards&nbsp;/ Level of Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2015</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1.</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>School Green&nbsp;Awards&nbsp;/ Lotus&nbsp;Award</strong>
+</p>
+<p><strong>2.</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Green Schools @ SE CDC / Certification of Excellence</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2016</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1.</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>School Green&nbsp;Awards&nbsp;/&nbsp;Lotus sustained achievement&nbsp;award&nbsp;(Top Tier)</strong>
+</p>
+<p><strong>2.</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Green Schools @ SE CDC / Certification of Excellence</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2017</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1.</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>School Green&nbsp;Awards&nbsp;/&nbsp;Lotus sustained achievement&nbsp;award&nbsp;(Top Tier)</strong>
+</p>
+<p><strong>2.</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Green Schools @ SE CDC / Certification of Excellence&nbsp;(Sustained)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2018</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1.</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>School Green&nbsp;Awards&nbsp;/ Yellow Flame</strong>
+</p>
+<p><strong>2.</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Green Schools @ SE CDC / Certification of Excellence&nbsp;(Sustained)</strong>
+</p>
+<p><strong>3.</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Community in Bloom (Gold Banding) (Inaugural)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2019</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1.</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>School Green&nbsp;Awards&nbsp;/&nbsp;Vanda Miss Joaquim (Top tier)</strong>
+</p>
+<p><strong>2.</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Green Schools @ SE CDC / Certification of Excellence&nbsp;(Sustained)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2020</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Green&nbsp;Awards&nbsp;/&nbsp;Vanda Miss Joaquim (Top tier)</strong>
+</p>
+<p><strong>Green Schools @ SE CDC / Certification of Excellence&nbsp;(Sustained)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Green&nbsp;Award&nbsp;2021,Vanda Miss Joaquim&nbsp;Award</strong>
+</p>
+<p><strong>Sembcorp ezi Recycling Competition 2021, Bronze&nbsp;</strong>
+</p>
+<p><strong>Nparks Community In Bloom (CIB)&nbsp;Award&nbsp;2021(Gold ) and ‘Outstanding</strong>
+</p>
+<p><strong>Educational Community Garden’ achievement.</strong>
+</p>
+<p><strong>Green Schools @ SE CDC @Sustained Excellence Honorary&nbsp;Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>BCA Greenmark Gold plus&nbsp;award</strong>
+</p>
+<p><strong>Green Schools @ SE CDC @Sustained Excellence Honorary&nbsp;Award</strong>&nbsp;<strong>Sembcorp ezi Recycling Competition 2021, Bronze</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Green&nbsp;Awards&nbsp;/ Vanda Miss Joaquim (Top tier)</strong>
+</p>
+<p><strong>Green Schools @ SE CDC / Certification of Sustained Excellence Honorary&nbsp;Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3.</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>School Green&nbsp;Awards&nbsp;/&nbsp;Vanda Miss Joaquim (Top tier)</strong>
+</p>
+<p><strong>4.</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Green Schools @ SE CDC / Sustained Excellence Honorary&nbsp;Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Green Schools @ SE CDC / Certification of Sustained Excellence Honorary&nbsp;Award</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p></p>
