@@ -249,34 +249,50 @@ stewardship.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Prefects engaging students during recess on Anti-dengue games by NEA" src="/images/LLP_Pic1.png">
 </div>
+<p><strong>Prefects engaging students during recess on Anti-dengue games by NEA</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Prefects engaging students during recess on Anti-dengue games by NEA" src="/images/LLP_Pic2.png">
 </div>
+<p><strong>Prefects engaging students during recess on Anti-dengue games by NEA</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SG World Water Day Launch at Jurong Gardens with PUB by Environmental Science Club" src="/images/LLP_Pic3.png">
 </div>
+<p>SG World Water Day Launch at Jurong Gardens with PUB by Environmental
+Science Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GO Green Sg as Math and Science day [Terrarium workshop]" src="/images/LLP_Pic4.png">
+</div>
+<p>GO Green Sg as Math and Science day [Terrarium workshop]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BB VIA  : Garden visit and giving hydroponics vegetables to elderly" src="/images/LLP_Pic5.png">
+</div>
+<p>BB VIA&nbsp; : Garden visit and giving hydroponics vegetables to elderly
+(MWH ACE Charis Active Aging Centre)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Garden Trail with Ecobuddies  Environmental Science Club with another primary school" src="/images/LLP_Pic6.png">
+</div>
+<p>Garden Trail with Ecobuddies</p>
+<p>Environmental Science Club with another primary school</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
