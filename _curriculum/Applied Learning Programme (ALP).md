@@ -48,4 +48,61 @@ writing.</p>
 </tr>
 </tbody>
 </table>
+<p><u>Canvas to Words: Praise@MySingapura</u>
+</p>
+<p>An interdisciplinary programme across Art, English Language and Social
+Studies that aims to guide and mould pupils to be self-directed and inquisitive
+learners, rooted in Singapore. Students share their artwork through a presentation
+of their artist statement in school or at the Singapore Art Museum.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 3: Praise@mySingapura" src="/images/03_Praise_mySingapura.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 4: Praise@mySingapura" src="/images/04_Praise_mySingapura.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 5: Praise@mySingapura" src="/images/05_Praise_mySingapura.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
