@@ -83,6 +83,9 @@ of their artist statement in school or at the Singapore Art Museum.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 6: Praise@mySingapura" src="/images/06_Praise_mySingapura.jpg">
+</div>
 </td>
 </tr>
 <tr>
