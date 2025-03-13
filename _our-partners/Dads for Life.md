@@ -10,7 +10,7 @@ Movement that seeks to inspire, mobilise and involve fathers to become
 good influences in their children’s lives – for life! The DADs for Life
 movement is an initiative of Centre for Fathering, a non-profit organisation
 established in 2000 that empowers more fathers to be better role models
-and an enduring inspiration to their children.</p>
+and an enduring inspiration to their children</p>
 <p>DFL@GMSP was launched in 2011 and had been organising activities to mobilise
 and inspire fathers of GMSP students to <strong>ACT</strong>:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be <strong>AWARE</strong> of the importance
