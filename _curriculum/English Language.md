@@ -73,7 +73,7 @@ students to read and respond to a variety of genres and text types.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pic 6 Author Talk" src="/images/06_Author_Talk.jpg">
 </div>
-<p>Pic 6: Author Talk</p>
+<p>Pic 2: Author Talk</p>
 </th>
 </tr>
 <tr>
@@ -82,14 +82,14 @@ students to read and respond to a variety of genres and text types.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pic 2: Character Come Alive" src="/images/02_Characters_Come_Alive.jpg">
 </div>
-<p>Pic 2: Characters Come Alive</p>
+<p>Pic 3: Characters Come Alive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pic 12: Author Talk" src="/images/Pic_11_Author_Talk.png">
 </div>
-<p>Pic 12: Author Talk</p>
+<p>Pic 4: Author Talk</p>
 </td>
 </tr>
 <tr>
@@ -98,14 +98,14 @@ students to read and respond to a variety of genres and text types.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pic 3: Characters Come Alive" src="/images/03_Characters_Come_Alive.jpg">
 </div>
-<p>Pic 3: Characters Come Alive</p>
+<p>Pic 5: Characters Come Alive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pic 04: Characters come alive" src="/images/04_Characters_Come_Alive.jpg">
 </div>
-<p>Pic 4: Characters come alive</p>
+<p>Pic 6: Characters come alive</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +113,7 @@ students to read and respond to a variety of genres and text types.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pic 5: Characters Come Alive" src="/images/05_Characters_Come_Alive_.png">
 </div>
-<p>Pic 5: Characters Come Alive</p>
+<p>Pic 7: Characters Come Alive</p>
 </td>
 </tr>
 </tbody>
@@ -137,14 +137,14 @@ and empathy.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pic 7: Reading Circles" src="/images/07_Reading_Circles.jpg">
 </div>
-<p>Pic 7: Reading Circles</p>
+<p>Pic 8: Reading Circles</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pic 8: Reading Circles" src="/images/08_Reading_Circles.jpg">
 </div>
-<p>Pic 8: Reading Circles</p>
+<p>Pic 9: Reading Circles</p>
 </th>
 </tr>
 </tbody>
@@ -165,7 +165,7 @@ authors and subsequently build their writing portfolio.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pic 9: Creative Writing Programme" src="/images/09_Creative_Writing_Programme.jpg">
 </div>
-<p>Pic 9: Creative Writing Programme</p>
+<p>Pic 10: Creative Writing Programme</p>
 </th>
 </tr>
 </tbody>
@@ -194,5 +194,5 @@ reading habits through a collaboration with the National Library Board
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pic 10: kidsRead display" src="/images/10_kidsREAD.jpg">
 </div>
-<p>Pic 10: kidsRead display</p>
+<p>Pic 11: kidsRead display</p>
 <p></p>
