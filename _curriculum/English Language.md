@@ -105,7 +105,7 @@ students to read and respond to a variety of genres and text types.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pic 04: Characters come alive" src="/images/04_Characters_Come_Alive.jpg">
 </div>
-<p>Pic 04: Characters come alive</p>
+<p>Pic 4: Characters come alive</p>
 </td>
 </tr>
 <tr>
@@ -125,6 +125,74 @@ students to read and respond to a variety of genres and text types.</p>
 <p>Engage advanced readers to extend their experience of the world through
 rich texts to develop the capacity for imagination, perspective-taking
 and empathy.&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 7: Reading Circles" src="/images/07_Reading_Circles.jpg">
+</div>
+<p>Pic 7: Reading Circles</p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 8: Reading Circles" src="/images/08_Reading_Circles.jpg">
+</div>
+<p>Pic 8: Reading Circles</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p><u>Creative Writing Programme (CWP)</u>
+</p>
+<p>Nurture students’ creative writing skills through interactions with local
+authors and subsequently build their writing portfolio.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 9: Creative Writing Programme" src="/images/09_Creative_Writing_Programme.jpg">
+</div>
+<p>Pic 9: Creative Writing Programme</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>Support Programmes</strong>
+</p>
+<p><u>Learning Support Programme (LSP)</u>
+</p>
+<p>Bridge gaps in reading and writing to cope in English lessons.</p>
+<p><u>School-based Dyslexia Remediation (SDR):</u>
+</p>
+<p>Assist students with dyslexia in decoding words through syllabication
+and an understanding of phonics.</p>
+<p><u>Reading Remediation Programme (RRP):</u>
+</p>
+<p>Guide students to decode mono and multi-syllabic words and deepen reading
+comprehension skills.</p>
+<p><strong>Collaboration</strong>
+</p>
+<p><u>kidsREAD</u>
+</p>
+<p>Foster a love of reading in lower primary students and cultivate good
+reading habits through a collaboration with the National Library Board
+(NLB) and Tanjong Katong Girls’ School (TKGS)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 10: kidsRead display" src="/images/10_kidsREAD.jpg">
+</div>
+<p>Pic 10: kidsRead display</p>
 <p></p>
