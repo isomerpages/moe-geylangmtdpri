@@ -109,21 +109,22 @@ students to read and respond to a variety of genres and text types.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 5: Characters Come Alive" src="/images/05_Characters_Come_Alive_.png">
+</div>
+<p>Pic 5: Characters Come Alive</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><strong>Stretch Programmes</strong>
+</p>
+<p><u>Reading Circles (RC)</u>
+</p>
+<p>Engage advanced readers to extend their experience of the world through
+rich texts to develop the capacity for imagination, perspective-taking
+and empathy.&nbsp;</p>
+<p></p>
+<p></p>
 <p></p>
