@@ -27,7 +27,8 @@ numeracy skills at home.</p>
 <p>At GMS(P), we strive to cultivate a deep understanding and appreciation
 for mathematics through engaging and innovative programmes. Below are some
 of our key initiatives and notable achievements.</p>
-<p>1) Making Mathematics Alive</p>
+<p><strong>1) Making Mathematics Alive</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Provides hands-on activities and interactive learning experiences.</p>
@@ -37,11 +38,16 @@ of our key initiatives and notable achievements.</p>
 </li>
 <li>
 <p>Helps students develop problem-solving skills in an engaging way.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Making Math Alive" src="/images/Making_Math_Alive.png">
+</div>
 </li>
 </ul>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <em>Insert a video</em>
 </p>
-<p>2) Joyful Learning with Mathematics Music Video</p>
+<p><strong>2) Joyful Learning with Mathematics Music Video</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Integrates music and rhythm to make mathematics fun and memorable.</p>
@@ -53,9 +59,13 @@ of our key initiatives and notable achievements.</p>
 <p>Reinforces learning through songs and movement.</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Joyful Learning With Math Music Video" src="/images/Joyful_Learning_With_Math_Music_Video.png">
+</div>
 <p><em>Insert a video</em>
 </p>
-<p>3) Connections and Applications Across Mathematics and Science &nbsp;</p>
+<p><strong>3) Connections and Applications Across Mathematics and Science </strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Highlights the strong link between mathematics and science.</p>
@@ -68,9 +78,47 @@ of our key initiatives and notable achievements.</p>
 contexts.</p>
 </li>
 </ul>
-<p><em>Insert photos</em>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="2" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 1: Maths and Science Integration" src="/images/Ma_Sc_Integration1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 2: Maths and Science Integration" src="/images/Ma_Sc_Integration2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 3: Maths and Science Integration" src="/images/Ma_Sc_Integration3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>4) E2K (Excellence 2000) - Stretch High-Ability Learners</strong>
 </p>
-<p>4) E2K (Excellence 2000) - Stretch High-Ability Learners</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Designed for students with strong mathematical abilities.</p>
@@ -89,7 +137,8 @@ problems.</p>
 <br>P6: Selected Classes (Within Curriculum, Term 4)</p>
 </li>
 </ul>
-<p>5) Achievements Over the Past Three Years</p>
+<p><strong>5) Achievements Over the Past Three Years</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
