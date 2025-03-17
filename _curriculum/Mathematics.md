@@ -38,7 +38,7 @@ and joyful.</p>
 <p>At GMS(P), we strive to cultivate a deep understanding and appreciation
 for mathematics through engaging and innovative programmes. Below are some
 of our key initiatives and notable achievements.</p>
-<p><strong>1)   Making Mathematics Alive</strong>
+<p><strong>1) Making Mathematics Alive</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -52,9 +52,10 @@ of our key initiatives and notable achievements.</p>
 <p></p><a class="isomer-image-wrapper" href="https://vimeo.com/1066467409/0d4bbe2554"><img style="width: 100%" height="auto" width="100%" alt="Making Math Alive" src="/images/Making_Math_Alive.png"></a>
 </li>
 </ul>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<em><a href="https://vimeo.com/1066467409/0d4bbe2554" rel="noopener nofollow" target="_blank">Click to open video</a></em>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<em><a href="https://drive.google.com/file/d/1yGj4rp4PelDKoSKxAyZrzy-TZ6qo5bsl/preview?autoplay=1&quot; target=&quot;_blank&quot;>Play Video" rel="noopener nofollow" target="_blank">Click to open video</a></em>
 </p>
-<p><strong>2)  Joyful Learning with Mathematics Music Video</strong>
+<p></p>
+<p><strong>2) Joyful Learning with Mathematics Music Video</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -70,7 +71,7 @@ of our key initiatives and notable achievements.</p>
 <p></p><a class="isomer-image-wrapper" href="https://vimeo.com/1066467429/b1caa7191d"><img style="width: 100%" height="auto" width="100%" alt="Joyful Learning With Math Music Video" src="/images/Joyful_Learning_With_Math_Music_Video.png"></a>
 <p><em><a href="https://vimeo.com/1066467429/b1caa7191d" rel="noopener nofollow" target="_blank">Click to open video</a></em>
 </p>
-<p><strong>3)   Connections and Applications Across Mathematics and Science </strong>&nbsp;</p>
+<p><strong>3) Connections and Applications Across Mathematics and Science </strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Highlights the strong link between mathematics and science.</p>
@@ -122,7 +123,7 @@ contexts.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>4)   E2K (Excellence 2000) - Stretch High-Ability Learners</strong>
+<p><strong>4) E2K (Excellence 2000) - Stretch High-Ability Learners</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -142,7 +143,7 @@ problems.</p>
 <br>P6: Selected Classes (Within Curriculum, Term 4)</p>
 </li>
 </ul>
-<p><strong>5)  Achievements Over the Past Three Years</strong>
+<p><strong>5) Achievements Over the Past Three Years</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
