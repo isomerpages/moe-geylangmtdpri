@@ -68,8 +68,8 @@ of our key initiatives and notable achievements.</p>
 <p>Reinforces learning through songs and movement.</p>
 </li>
 </ul>
-<p></p><a class="isomer-image-wrapper" href="https://vimeo.com/1066467429/b1caa7191d"><img style="width: 100%" height="auto" width="100%" alt="Joyful Learning With Math Music Video" src="/images/Joyful_Learning_With_Math_Music_Video.png"></a>
-<p><em><a href="https://vimeo.com/1066467429/b1caa7191d" rel="noopener nofollow" target="_blank">Click to open video</a></em>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1VHw3hCwUiutIIx5i49BKX_5ODH8hcjCn/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="Joyful Learning With Math Music Video" src="/images/Joyful_Learning_With_Math_Music_Video.png"></a>
+<p><em><a href="https://drive.google.com/file/d/1VHw3hCwUiutIIx5i49BKX_5ODH8hcjCn/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click to open video</a></em>
 </p>
 <p><strong>3) Connections and Applications Across Mathematics and Science </strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
