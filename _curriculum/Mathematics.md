@@ -38,13 +38,10 @@ of our key initiatives and notable achievements.</p>
 </li>
 <li>
 <p>Helps students develop problem-solving skills in an engaging way.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Making Math Alive" src="/images/Making_Math_Alive.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://vimeo.com/1066467409/0d4bbe2554"><img style="width: 100%" height="auto" width="100%" alt="Making Math Alive" src="/images/Making_Math_Alive.png"></a>
 </li>
 </ul>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; <em>Insert a video</em>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<em><a href="https://vimeo.com/1066467409/0d4bbe2554" rel="noopener nofollow" target="_blank">Click to open video</a></em>
 </p>
 <p><strong>2) Joyful Learning with Mathematics Music Video</strong>
 </p>
@@ -59,11 +56,8 @@ of our key initiatives and notable achievements.</p>
 <p>Reinforces learning through songs and movement.</p>
 </li>
 </ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Joyful Learning With Math Music Video" src="/images/Joyful_Learning_With_Math_Music_Video.png">
-</div>
-<p><em>Insert a video</em>
+<p></p><a class="isomer-image-wrapper" href="https://vimeo.com/1066467429/b1caa7191d"><img style="width: 100%" height="auto" width="100%" alt="Joyful Learning With Math Music Video" src="/images/Joyful_Learning_With_Math_Music_Video.png"></a>
+<p><em><a href="https://vimeo.com/1066467429/b1caa7191d" rel="noopener nofollow" target="_blank">Click to open video</a></em>
 </p>
 <p><strong>3) Connections and Applications Across Mathematics and Science </strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
