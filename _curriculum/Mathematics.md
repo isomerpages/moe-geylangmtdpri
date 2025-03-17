@@ -4,28 +4,29 @@ permalink: /curriculum/mathematics/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math%20Page%20Photo%201.jpg">
-</div>
 <h4>Vision</h4>
 <p>Every GMS(P) Student An Analytical Lifelong Problem-Solver</p>
 <h4>Mission</h4>
 <p></p>
 <p>To equip students with the concepts, skills and disposition so that they
 can learn and apply Mathematics joyfully with their peers</p>
-<h4>Overview</h4>
-<p></p>
-<p>In GMS(P), we strongly believe that all students can learn mathematics,
-given the appropriate instruction and opportunity to learn. The belief
-that they can learn mathematics drives student effort. Our dedicated teachers
-help their students by ensuring that they experience success in learning
-mathematics. When students see that they can learn mathematics by putting
-in effort, they will develop a growth mind-set.</p>
-<p>The mathematics curriculum aims to nurture students to be confident and
-effective problem-solvers. We advocate incorporating a variety of approaches
-and activities to make learning of mathematics both engaging and fun for
-our young ones. And we also need to garner parents’ support to reinforce
-basic numeracy concepts at home.</p>
+<h4>Mathematics at GMS(P)</h4>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We believe all students can learn
+mathematics with&nbsp; the right instruction and opportunities.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A strong belief in their ability
+drives effort, fostering a growth mindset.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our dedicated teachers ensure students
+experience success in learning mathematics.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The curriculum nurtures confident
+and effective problem-solvers.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We use diverse and engaging approaches
+to make learning alive, meaningful and joyful.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parental support is key in reinforcing
+numeracy skills at home.</p>
+<h4>Key Mathematics Programmes and Achievements at GMS(P)</h4>
+<p>At GMS(P), we strive to cultivate a deep understanding and appreciation
+for mathematics through engaging and innovative programmes. Below are some
+of our key initiatives and notable achievements.</p>
 <h4>Curriculum Structure and Key Programmes</h4>
 <table style="minWidth: 75px">
 <colgroup>
