@@ -11,18 +11,29 @@ variant: tiptap
 <p>To equip students with the concepts, skills and disposition so that they
 can learn and apply Mathematics joyfully with their peers</p>
 <h4>Mathematics at GMS(P)</h4>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We believe all students can learn
-mathematics with&nbsp; the right instruction and opportunities.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A strong belief in their ability
-drives effort, fostering a growth mindset.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our dedicated teachers ensure students
-experience success in learning mathematics.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The curriculum nurtures confident
-and effective problem-solvers.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We use diverse and engaging approaches
-to make learning alive, meaningful and joyful.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parental support is key in reinforcing
-numeracy skills at home.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We believe all students can learn mathematics with&nbsp; the right instruction
+and opportunities.</p>
+</li>
+<li>
+<p>A strong belief in their ability drives effort, fostering a growth mindset.</p>
+</li>
+<li>
+<p>Our dedicated teachers ensure students experience success in learning
+mathematics.</p>
+</li>
+<li>
+<p>The curriculum nurtures confident and effective problem-solvers.</p>
+</li>
+<li>
+<p>We use diverse and engaging approaches to make learning alive, meaningful
+and joyful.</p>
+</li>
+<li>
+<p>Parental support is key in reinforcing numeracy skills at home.</p>
+</li>
+</ul>
 <h4>Key Mathematics Programmes and Achievements at GMS(P)</h4>
 <p>At GMS(P), we strive to cultivate a deep understanding and appreciation
 for mathematics through engaging and innovative programmes. Below are some
