@@ -2,123 +2,232 @@
 title: Mathematics
 permalink: /curriculum/mathematics/
 description: ""
+variant: tiptap
 ---
-![](/images/Math%20Page%20Photo%201.jpg)
-
-<h4 style="color:blue;">Vision</h4>
-
-<p style="text-align: justify;">Every GMS(P) Student An Analytical Lifelong Problem-Solver</p>
-
-<h4 style="color:blue;">Mission</h4>
-
-<p></p><p style="text-align: justify;">To equip students with the concepts, skills and disposition so that they can learn and apply Mathematics joyfully with their peers</p>
-
-<h4 style="color:blue;">Overview</h4>
-
-<p></p><p style="text-align: justify;">In GMS(P), we strongly believe that all students can learn mathematics, given the appropriate instruction and opportunity to learn. The belief that they can learn mathematics drives student effort. Our dedicated teachers help their students by ensuring that they experience success in learning mathematics. When students see that they can learn mathematics by putting in effort, they will develop a growth mind-set.
-
-</p><p style="text-align: justify;">The Mathematics curriculum aims to nurture students to be confident and effective problem-solvers. We advocate incorporating a variety of approaches and activities to make learning of mathematics both engaging and fun for our young ones. And we also need to garner parents’ support to reinforce basic numeracy concepts at home.</p>
-
-<h4 style="color:blue;">Curriculum Structure and Key Programmes</h4>
-
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:74.75pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="100"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">Level</span></p></td><td style="width:247.5pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="330"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">Key Programmes</span></p></td><td style="width:133.95pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="179"><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG" lang="EN-SG">School-Wide Activities</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:74.75pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="100"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">Primary 1</span></p></td><td style="width:247.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="330"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG"></span>- Learning Numeracy Concepts through Maths Games</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- Learning Support for Mathematics (Pull-out)</span></p></td><td style="width:133.95pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="6" width="179"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">Making Maths Alive</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">Joyful Learning With Maths Music Videos</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">Maths &amp; Science Integration</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">KooBits Learning Portal</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">Maths-Interest Based Task/Project</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">Make Thinking Visible Routines In Particular ‘What makes you say that?’ To Strengthen Students’ Ability to Reason</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:74.75pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="100"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">Primary 2</span></p></td><td style="width:247.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="330"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- Learning Numeracy Concepts through Maths Games</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- Learning Support for Mathematics (Pull-out)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- Mathematics Process Skills Booklet</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:74.75pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="100"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">Primary 3</span></p></td><td style="width:247.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="330"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- Mathematics Process Skill Booklet (In-house production)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- Learning Support for Mathematics (Pull-out) NEW!</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:74.75pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="100"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">Primary 4</span></p></td><td style="width:247.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="330"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- E2K Math Enrichment, Semester 1 (Selected students)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- Primary Maths Project Competition (Selected students)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- Mathematics Process Skill Booklet (In-house production)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- Remediation Support</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:74.75pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="100"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">Primary 5</span></p></td><td style="width:247.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="330"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- Singapore Mathematical Olympiad for Primary School (Selected students)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- E2K Math Enrichment, Infused within Curriculum (P5-7, P5-8)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- Primary Maths Project Competition (Selected students)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- Mathematics Process Skill Booklet (In-house production)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- Remediation Support</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes"><td style="width:74.75pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="100"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">Primary 6</span></p></td><td style="width:247.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="330"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- Singapore Mathematical Olympiad for Primary School (Selected students)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- Raffles Institution Mathematics World Contest (Selected students)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG" lang="EN-SG">- Remediation Support</span></p></td></tr></tbody></table><p></p>
-
-<h4 style="color:blue;">Pedagogical Approaches / Strategies</h4>
-
-<p></p><p style="text-align: justify;">At primary level, we teach students to learn and master mathematical concepts using a three-step learning process: concrete, pictorial and abstract. In the concrete step, students engage in hands-on learning experiences using concrete objects such as multilink cubes, paper folding. This is followed by drawing pictorial representations of mathematical concepts. Students then solve mathematical problems in an abstract way by using numbers and symbols.
-
-</p><p style="text-align: justify;">In our department, we practice the four-step problem solving method namely 1) See, 2) Plan, 3) Do and 4) Check, that students can use to tackle the word problems. For Step 2 under planning, we guide and expose the 9 listed <u>heuristics</u> to our students. <br> 
-  
-<u>Heuristics</u><br>
-1.&nbsp;Find a pattern  <br>
-2. Draw a model  <br>
-3. Work backwards <br> 
-4. Make a table / listing  <br>
-5. Draw a picture / diagram  <br>
-6. Make a list / Guess and check  <br>
-7. Spatial visualisation  <br>
-8. Use logical reasoning  <br>
-9. Restating the problem</p>
-
-<p style="text-align: justify;">From time to time, appropriate enrichment programmes are conducted and selected students do participate in external events or competitions.</p>
+<h4>Vision</h4>
+<p>Every GMS(P) Student An Analytical Lifelong Problem-Solver</p>
+<h4>Mission</h4>
+<p></p>
+<p>To equip students with the concepts, skills and disposition so that they
+can learn and apply Mathematics joyfully with their peers</p>
+<h4>Mathematics at GMS(P)</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>We believe all students can learn mathematics with&nbsp; the right instruction
+and opportunities.</p>
+</li>
+<li>
+<p>A strong belief in their ability drives effort, fostering a growth mindset.</p>
+</li>
+<li>
+<p>Our dedicated teachers ensure students experience success in learning
+mathematics.</p>
+</li>
+<li>
+<p>The curriculum nurtures confident and effective problem-solvers.</p>
+</li>
+<li>
+<p>We use diverse and engaging approaches to make learning alive, meaningful
+and joyful.</p>
+</li>
+<li>
+<p>Parental support is key in reinforcing numeracy skills at home.</p>
+</li>
+</ul>
+<h4>Key Mathematics Programmes and Achievements at GMS(P)</h4>
+<p>At GMS(P), we strive to cultivate a deep understanding and appreciation
+for mathematics through engaging and innovative programmes. Below are some
+of our key initiatives and notable achievements.</p>
+<p><strong>1) Making Mathematics Alive</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Provides hands-on activities and interactive learning experiences.</p>
+</li>
+<li>
+<p>Encourages real-world applications of mathematical concepts.</p>
+</li>
+<li>
+<p>Helps students develop problem-solving skills in an engaging way.</p>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1yGj4rp4PelDKoSKxAyZrzy-TZ6qo5bsl/view?usp=sharing"><img style="width: 100%" height="auto" width="100%" alt="Making Math Alive" src="/images/Making_Math_Alive.png"></a>
+</li>
+</ul>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<em><a href="https://drive.google.com/file/d/1yGj4rp4PelDKoSKxAyZrzy-TZ6qo5bsl/view" rel="noopener nofollow" target="_blank">Click to open video</a></em>
+</p>
+<p></p>
+<p><strong>2) Joyful Learning with Mathematics Music Video</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Integrates music and rhythm to make mathematics fun and memorable.</p>
+</li>
+<li>
+<p>Allows students to express mathematics concepts creatively.</p>
+</li>
+<li>
+<p>Reinforces learning through songs and movement.</p>
+</li>
+</ul>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1VHw3hCwUiutIIx5i49BKX_5ODH8hcjCn/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="Joyful Learning With Math Music Video" src="/images/Joyful_Learning_With_Math_Music_Video.png"></a>
+<p><em><a href="https://drive.google.com/file/d/1VHw3hCwUiutIIx5i49BKX_5ODH8hcjCn/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click to open video</a></em>
+</p>
+<p><strong>3) Connections and Applications Across Mathematics and Science </strong>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Highlights the strong link between mathematics and science.</p>
+</li>
+<li>
+<p>Engages students in interdisciplinary projects to apply concepts.</p>
+</li>
+<li>
+<p>Develops critical thinking and problem-solving skills through real-world
+contexts.</p>
+</li>
+</ul>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="2" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 1: Maths and Science Integration" src="/images/Ma_Sc_Integration1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 2: Maths and Science Integration" src="/images/Ma_Sc_Integration2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pic 3: Maths and Science Integration" src="/images/Ma_Sc_Integration3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>4) E2K (Excellence 2000) - Stretch High-Ability Learners</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Designed for students with strong mathematical abilities.</p>
+</li>
+<li>
+<p>Provides an enriched learning environment with advanced problem-solving
+tasks.</p>
+</li>
+<li>
+<p>Develops higher-order thinking and perseverance in tackling challenging
+problems.</p>
+</li>
+<li>
+<p>P4: Selected students (After Curriculum, Semester 1)
+<br>P5: Selected Classes (Within Curriculum, Semester 1)
+<br>P6: Selected Classes (Within Curriculum, Term 4)</p>
+</li>
+</ul>
+<p><strong>5) Achievements Over the Past Three Years</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year/Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Raffles Mathematical Olympiad (RMO)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 Distinctions</p>
+<p>12 Merits</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 Distinctions</p>
+<p>9 Merits</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 High Distinction</p>
+<p>6 Distinctions</p>
+<p>20 Merits</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Asia Pacific Mathematical Olympiad for Primary School (APMOPS)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Silver</p>
+<p>3 Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Primary Mathematics Project Competition Organized by GEB &amp; NUSHS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Physical Game Design Category</p>
+<p>&nbsp;</p>
+<p>Isaac Chong Yu Herng</p>
+<p>&nbsp;</p>
+<p>Outstanding Award: Code Master</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h4></h4>
+<p></p>
