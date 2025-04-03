@@ -17,9 +17,9 @@ of <strong>Communication, Culture, and Connection</strong>, our approach
 integrates <strong>language skills, cultural values, and real-world applications</strong> to
 develop well-rounded learners.</p>
 <p>&nbsp;</p>
-<p>(Insert Pictures)</p>
-<p><strong>&nbsp;</strong>
-</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPabVcBYmm0SPkm3kqNv8uSK4MIGd4x-U9USg2xO-CylI_Tht6z9kcZm2tYYNUPQ43via4i9jIAhmF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h3><strong>Emphasis of The Department</strong></h3>
 <p>We believe in <strong>building a strong foundation</strong> for our students
 in their Mother Tongue Languages. Through <strong>engaging lessons, interactive activities, and a supportive learning environment</strong>,
@@ -96,10 +96,7 @@ society.</p>
 <p>We actively encourage students to <strong>participate in language competitions</strong> at
 both school and national levels. These competitions help students <strong>sharpen their language skills, boost their confidence</strong>,
 and develop teamwork.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQYqxYnOxBNf_Y5euGvQuZ-nfW8Eo0NK_KGjOrPwpD9TmZIm7Qziaq4I-LJksyyjNATkcavtOpQnrQm/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p>&nbsp;Through our engaging curriculum and immersive experiences, we nurture
+<p>Through our engaging curriculum and immersive experiences, we nurture
 students to be confident communicators and lifelong learners of their Mother
 Tongue Language. We look forward to partnering with parents to support
 our students’ language journey!</p>
