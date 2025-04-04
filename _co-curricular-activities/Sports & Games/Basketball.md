@@ -11,27 +11,44 @@ variant: tiptap
 </div>
 <h4><strong><u>CCA Overview</u></strong></h4>
 <p>Objectives of Basketball CCA are:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enable students to understand
-and apply the basic rules of basketball.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enable students (ranging from
-beginners to advanced players) to learn and apply skills such as movement
-skills, ball skills, attacking skills, defending skills, shooting skills
-and game strategies.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enable students to learn sportsmanship
-and values of fair play, teamwork and discipline.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To enable students to understand and apply the basic rules of basketball.</p>
+</li>
+<li>
+<p>To enable students (ranging from beginners to advanced players) to learn
+and apply skills such as movement skills, ball skills, attacking skills,
+defending skills, shooting skills and game strategies.</p>
+</li>
+<li>
+<p>To enable students to learn sportsmanship and values of fair play, teamwork
+and discipline.</p>
+<p></p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_5.jpg">
 </div>
 <p><strong><u>Teachers-in-charge</u></strong>
 </p>
-<p>Mr Sim Wei Zhang (IC)
-<br>Ms Grace Tan (2IC)
-<br>Ms Clara Lim
-<br>Ms Pang Chong Lei
-<br>Coach: Mr Ong Wen Qian</p>
-<p><strong>&nbsp;</strong>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Sim Wei Zhang (IC)</p>
+</li>
+<li>
+<p>Ms Grace Tan (2IC)</p>
+</li>
+<li>
+<p>Ms Clara Lim</p>
+</li>
+<li>
+<p>Ms Pang Chong Lei</p>
+</li>
+<li>
+<p>Coach: Mr Ong Wen Qian</p>
+<p></p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_4.jpg">
 </div>
