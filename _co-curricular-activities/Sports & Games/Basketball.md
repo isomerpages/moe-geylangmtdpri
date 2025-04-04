@@ -3,426 +3,618 @@ title: Basketball
 permalink: /co-curricular-activities/cca/sports-n-games/basketball/
 description: ""
 third_nav_title: Sports & Games
-variant: markdown
+variant: tiptap
 ---
-![](/images/BasB1.jpg)
-<h4 style="color:blue;">CCA Overview</h4>
-<p style="text-align: justify;">Objectives of Basketball CCA are:<br>
-</p><p style="text-align: justify;">*   To enable students to understand and apply the basic rules of basketball.<br>
-</p><p style="text-align: justify;">*   To enable students (ranging from beginners to advanced players) to learn and apply skills such as movement skills, ball skills, attacking skills, defending skills, shooting skills and game strategies.<br>
-</p><p style="text-align: justify;">*   To enable students to learn sportsmanship and values of fair play, teamwork and discipline.<br><br>
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXGNqlQpZUnn017aoSsi3OcL826EMbV1Kg8FhG3hP6DDeihp8678DK89OLXpK0i2IWd6Ug-x0oI5Z3/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_2.jpg">
+</div>
+<h4><strong><u>CCA Overview</u></strong></h4>
+<p>Objectives of Basketball CCA are:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To enable students to understand and apply the basic rules of basketball.</p>
+</li>
+<li>
+<p>To enable students (ranging from beginners to advanced players) to learn
+and apply skills such as movement skills, ball skills, attacking skills,
+defending skills, shooting skills and game strategies.</p>
+</li>
+<li>
+<p>To enable students to learn sportsmanship and values of fair play, teamwork
+and discipline.</p>
+<p></p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_5.jpg">
+</div>
+<p><strong><u>Teachers-in-charge</u></strong>
 </p>
-
-<h4 style="color:blue;">Teachers-in-charge</h4><br>
-Mr Sim Wei Zhang (IC)<br>
-Ms Grace Tan (2IC)<br>
-Ms Clara Lim<br>
-Ms Pang Chong Lei<br>
-
-Coach: Mr Ong Wen Qian<br>
-
-<h4 style="color:blue;">Achievements</h4><br>
-<b>National School Games Basketball 2023 (Senior Division)</b><br>
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5th Placing in East Zone
-
-<table style="border-collapse:collapse;mso-table-layout-alt:fixed;mso-yfti-tbllook:
- 1024;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="360" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;mso-border-alt:
-  solid black .5pt;background:#FCE4D6;padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">CLASS</span></b></p></td><td style="width:212.25pt;border:solid black 1.0pt;border-left:
-  none;mso-border-top-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;background:#FCE4D6;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">NAME</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P5-1</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">KWOK HOI NAM</span></p></td></tr><tr style="mso-yfti-irow:2;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-2</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">KONG JUN ZE ZANDER</span></p></td></tr><tr style="mso-yfti-irow:3;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-3</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">BU YUNG XUAN</span></p></td></tr><tr style="mso-yfti-irow:4;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-3</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">SAU JUN SHENG</span></p></td></tr><tr style="mso-yfti-irow:5;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-4</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">ABAYA LAWRENCE RODICO</span></p></td></tr><tr style="mso-yfti-irow:6;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-4</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">KYLER SHYU KEI YU</span></p></td></tr><tr style="mso-yfti-irow:7;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-5</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">KOH RUI HAN</span></p></td></tr><tr style="mso-yfti-irow:8;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-6</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">TAN DING FENG</span></p></td></tr><tr style="mso-yfti-irow:9;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-7</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">AARON THOW MIN JIE</span></p></td></tr><tr style="mso-yfti-irow:10;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-7</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">SHANE TAY ZHE KAI</span></p></td></tr><tr style="mso-yfti-irow:11;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-7</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">ZUMBRUNNEN CHARLES SHENG</span></p></td></tr><tr style="mso-yfti-irow:12;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-8</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">SHEN HANGFENG</span></p></td></tr><tr style="mso-yfti-irow:13;mso-yfti-lastrow:yes;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-8</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">ZHOU JUNFENG</span></p></td></tr></tbody></table>
-	
-<b>National School Games Basketball 2022 (Junior Division)</b><br>
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3rd Placing in Tier 1
-
-<table style="border-collapse:collapse;mso-table-layout-alt:fixed;mso-yfti-tbllook:
- 1024;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="360" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;mso-border-alt:
-  solid black .5pt;background:#FCE4D6;padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">CLASS</span></b></p></td><td style="width:212.25pt;border:solid black 1.0pt;border-left:
-  none;mso-border-top-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;background:#FCE4D6;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">NAME</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P4-3</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">KWOK HOI NAM</span></p></td></tr><tr style="mso-yfti-irow:2;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P4-6</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">NGUYEN QUOC THANG</span></p></td></tr><tr style="mso-yfti-irow:3;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P4-7</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">ORDONIO RED FLORES</span></p></td></tr><tr style="mso-yfti-irow:4;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P5-2</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">KONG JUN ZE ZANDER</span></p></td></tr><tr style="mso-yfti-irow:5;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P5-3</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">BU YUNG XUAN</span></p></td></tr><tr style="mso-yfti-irow:6;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P5-4</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">KYLER SHYU KEI YU</span></p></td></tr><tr style="mso-yfti-irow:7;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P5-6</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">TAN DING FENG</span></p></td></tr><tr style="mso-yfti-irow:8;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P5-7</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">AARON THOW MIN JIE</span></p></td></tr><tr style="mso-yfti-irow:9;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P5-7</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">ZUMBRUNNEN CHARLES SHENG</span></p></td></tr><tr style="mso-yfti-irow:10;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P5-8</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">SHEN HANGFENG</span></p></td></tr><tr style="mso-yfti-irow:11;mso-yfti-lastrow:yes;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P5-8</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">ZHOU JUNFENG</span></p></td></tr></tbody></table>
-
-**National School Games Basketball 2022 (Senior Division)**<br>
-●	8th Placing in East Zone
-
-<table style="border-collapse:collapse;mso-table-layout-alt:fixed;mso-yfti-tbllook:
- 1024;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="360" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;mso-border-alt:
-  solid black .5pt;background:#FCE4D6;padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">CLASS</span></b></p></td><td style="width:212.25pt;border:solid black 1.0pt;border-left:
-  none;mso-border-top-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;background:#FCE4D6;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">NAME</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P5-2</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">ABAYA LAWRENCE RODICO</span></p></td></tr><tr style="mso-yfti-irow:2;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-3</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">JUSTIN LOW JIE LUN</span></p></td></tr><tr style="mso-yfti-irow:3;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-3</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">LIM CHIN TEIK DARIAN</span></p></td></tr><tr style="mso-yfti-irow:4;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-3</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">ONG CHONG KAI</span></p></td></tr><tr style="mso-yfti-irow:5;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-4</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">NG YONG LE</span></p></td></tr><tr style="mso-yfti-irow:6;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-5</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">CYRUS LOW JIN CHENG</span></p></td></tr><tr style="mso-yfti-irow:7;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-5</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">JEFFERSON TAN WEI JIE</span></p></td></tr><tr style="mso-yfti-irow:8;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-5</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">TAN HONG WEI, ETHAN</span></p></td></tr><tr style="mso-yfti-irow:9;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-7</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">DAN ILHAN MI'RAQ BIN NOR AZARIZAL</span></p></td></tr><tr style="mso-yfti-irow:10;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-7</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">POH YU XUAN JAYTHAN</span></p></td></tr><tr style="mso-yfti-irow:11;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-7</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">TAY RUI AN RYAN</span></p></td></tr><tr style="mso-yfti-irow:12;mso-yfti-lastrow:yes;height:20.1pt"><td style="width:57.75pt;border:solid black 1.0pt;border-top:none;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:
-  20.1pt" width="77"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">P6-8</span></p></td><td style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.1pt" width="283"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">CHEW WEN BIN</span></p></td></tr></tbody></table><p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Sim Wei Zhang (IC)</p>
+</li>
+<li>
+<p>Ms Grace Tan (2IC)</p>
+</li>
+<li>
+<p>Ms Clara Lim</p>
+</li>
+<li>
+<p>Ms Pang Chong Lei</p>
+</li>
+<li>
+<p>Coach: Mr Ong Wen Qian</p>
+<p></p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_4.jpg">
+</div>
+<p><strong><u>Achievements</u></strong>
+</p>
+<p><strong>National School Games Basketball 2024 (Senior Division)</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top 4 in Singapore (League 1)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CLASS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NAME</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHI GUIYU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LI ZHUOYAO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KWOK HOI NAM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHAN YU QUEN, ADRIEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN DING WEI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WALLACE TAN CHANG SHENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHENG CHEN YI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOHAMED AKEEM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NGUYEN QUOC THANG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAMUEL LOW YU XIANG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EZEKIEL DEREN GOH-LIAN EBENEZER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHOO GUAN LIN ZAC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ORDONIO RED FLORES</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VIYASA PRAKAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MATHIS ALLANO</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_3.jpg">
+</div>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>National School Games Basketball 2024 (Senior Division)</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1<sup>st</sup> Placing (Tier 1)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CLASS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NAME</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IAN GOH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALTON ONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN DING XUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALDEN KOH ZHI EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN JIT HENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JAVIER NG RUI XIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SOH KUN WEI ISAAC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CYRIL RAPHEAL LEE CHENG KANG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOHAMED ASRAF MOHAMED AZFAR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NOAH LIAU TIAN BOON</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CYRUS XENO LEE CHENG TAI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HU YUYI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHOU ZERUI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUNG ZHI SHAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIM GUAN YOU JAYAN</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_1.jpg">
+</div>
+<p><strong>National School Games Basketball 2023 (Senior Division)</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5<sup>th</sup> Placing in East Zone</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CLASS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NAME</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KWOK HOI NAM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KONG JUN ZE ZANDER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BU YUNG XUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAU JUN SHENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ABAYA LAWRENCE RODICO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KYLER SHYU KEI YU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH RUI HAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN DING FENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AARON THOW MIN JIE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHANE TAY ZHE KAI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZUMBRUNNEN CHARLES SHENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHEN HANGFENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHOU JUNFENG</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>National School Games Basketball 2023 (Junior Division)</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4<sup>th</sup> Placing (Tier 1)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CLASS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NAME</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CYRUS XENO LEE CHENG TAI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIM GUAN YOU JAYAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHAN YU QUEN, ADRIEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN DING WEI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WALLACE TAN CHANG SHENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOH SHI EN, JAYDEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD AQIL BIN SAMSUMAIDEEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHENG CHEN YI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOHAMED AKEEM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NGUYEN QUOC THANG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAMUEL LOW YU XIANG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EZEKIEL DEREN GOH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHOO GUAN LIN ZAC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ORDONIO RED FLORES</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MATHIS ALLANO</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>&nbsp;</p>
+<p></p>
