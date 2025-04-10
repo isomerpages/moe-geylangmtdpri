@@ -32,7 +32,7 @@ well-coordinated performance.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSkLaCEfj7iuezDZ1PHdvfp1m8kO0uHu20uk9iuusaL1A2lv2GbhQvO_9VOocasrtoNKje6VDONhVeq/embed?rm=minimum start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSkLaCEfj7iuezDZ1PHdvfp1m8kO0uHu20uk9iuusaL1A2lv2GbhQvO_9VOocasrtoNKje6VDONhVeq/embed?rm=minimum&amp;start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Achievements</strong></h4>
 <p><strong>National School Games Rope&nbsp;Skipping&nbsp;Competition 2025</strong>
