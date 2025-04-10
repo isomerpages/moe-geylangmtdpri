@@ -5,27 +5,32 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<p><strong>&lt;Insert photo: Basketball CCA_5&gt;</strong>
-</p>
-<p><strong>&lt;Insert photo: Basketball CCA_2&gt;</strong>
-</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4TryxnIZx0PwIApIfnOgUk0zzbZaqiVqEpEUcvx5BBw3-D17i2M1W5pz6dI00ONwTJPlMhxWnUFTs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong><u>CCA Overview</u></strong>
 </p>
 <p>Objectives of Basketball CCA are:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enable students to understand
-and apply the basic rules of basketball.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enable students (ranging from
-beginners to advanced players) to learn and apply skills such as movement
-skills, ball skills, attacking skills, defending skills, shooting skills
-and game strategies.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enable students to learn sportsmanship
-and values of fair play, teamwork and discipline.</p>
-<p>&nbsp;</p>
-<p><strong>&lt;Insert photo: Basketball CCA_4&gt;</strong>
-</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To enable students to understand and apply the basic rules of basketball.</p>
+</li>
+<li>
+<p>To enable students (ranging from beginners to advanced players) to learn
+and apply skills such as movement skills, ball skills, attacking skills,
+defending skills, shooting skills and game strategies.</p>
+</li>
+<li>
+<p>To enable students to learn sportsmanship and values of fair play, teamwork
+and discipline.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_4a.jpg">
+</div>
 <p><strong><u>Teachers-in-charge</u></strong>
 </p>
 <p>Mr Sim Wei Zhang (IC)
@@ -37,8 +42,11 @@ and values of fair play, teamwork and discipline.</p>
 </p>
 <p><strong><u>Achievements</u></strong>
 </p>
-<p><strong>&lt;Insert photo: Basketball CCA_1&gt;</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_1a.jpg">
+</div>
+<p></p>
 <p><strong>National School Games Basketball 2024 (Senior Division)</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top 4 in Singapore (League 1)</p>
@@ -180,11 +188,9 @@ and values of fair play, teamwork and discipline.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&lt;Insert photo: Basketball CCA_3&gt;</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_3a.jpg">
+</div>
 <p><strong>National School Games Basketball 2024 (Senior Division)</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1<sup>st</sup> Placing (Tier 1)</p>
@@ -327,10 +333,9 @@ and values of fair play, teamwork and discipline.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&lt;Insert photo: Basketball CCA_7&gt;</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_7a.jpg">
+</div>
 <p><strong>National School Games Basketball 2023 (Senior Division)</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5<sup>th</sup> Placing in East Zone</p>
@@ -457,10 +462,10 @@ and values of fair play, teamwork and discipline.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>&lt;Insert photo: Basketball CCA_6&gt;</strong>
-</p>
-<p><strong>National School Games Basketball 2023 (Junior Division)</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_6a.jpg">
+</div>
+<p>&nbsp;<strong>National School Games Basketball 2023 (Junior Division)</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4<sup>th</sup> Placing (Tier 1)</p>
 <table style="minWidth: 50px">
