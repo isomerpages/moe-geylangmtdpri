@@ -5,54 +5,39 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_2.jpg">
-</div>
-<h4><strong><u>CCA Overview</u></strong></h4>
+<p><strong>&lt;Insert photo: Basketball CCA_5&gt;</strong>
+</p>
+<p><strong>&lt;Insert photo: Basketball CCA_2&gt;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><u>CCA Overview</u></strong>
+</p>
 <p>Objectives of Basketball CCA are:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To enable students to understand and apply the basic rules of basketball.</p>
-</li>
-<li>
-<p>To enable students (ranging from beginners to advanced players) to learn
-and apply skills such as movement skills, ball skills, attacking skills,
-defending skills, shooting skills and game strategies.</p>
-</li>
-<li>
-<p>To enable students to learn sportsmanship and values of fair play, teamwork
-and discipline.</p>
-<p></p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_5.jpg">
-</div>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enable students to understand
+and apply the basic rules of basketball.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enable students (ranging from
+beginners to advanced players) to learn and apply skills such as movement
+skills, ball skills, attacking skills, defending skills, shooting skills
+and game strategies.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enable students to learn sportsmanship
+and values of fair play, teamwork and discipline.</p>
+<p>&nbsp;</p>
+<p><strong>&lt;Insert photo: Basketball CCA_4&gt;</strong>
+</p>
+<p>&nbsp;</p>
 <p><strong><u>Teachers-in-charge</u></strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Sim Wei Zhang (IC)</p>
-</li>
-<li>
-<p>Ms Grace Tan (2IC)</p>
-</li>
-<li>
-<p>Ms Clara Lim</p>
-</li>
-<li>
-<p>Ms Pang Chong Lei</p>
-</li>
-<li>
-<p>Coach: Mr Ong Wen Qian</p>
-<p></p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_4.jpg">
-</div>
+<p>Mr Sim Wei Zhang (IC)
+<br>Ms Grace Tan (2IC)
+<br>Ms Clara Lim
+<br>Ms Pang Chong Lei
+<br>Coach: Mr Ong Wen Qian</p>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong><u>Achievements</u></strong>
+</p>
+<p><strong>&lt;Insert photo: Basketball CCA_1&gt;</strong>
 </p>
 <p><strong>National School Games Basketball 2024 (Senior Division)</strong>
 </p>
@@ -196,10 +181,9 @@ and discipline.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_3.jpg">
-</div>
 <p><strong>&nbsp;</strong>
+</p>
+<p><strong>&lt;Insert photo: Basketball CCA_3&gt;</strong>
 </p>
 <p><strong>National School Games Basketball 2024 (Senior Division)</strong>
 </p>
@@ -343,9 +327,10 @@ and discipline.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_1.jpg">
-</div>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&lt;Insert photo: Basketball CCA_7&gt;</strong>
+</p>
 <p><strong>National School Games Basketball 2023 (Senior Division)</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5<sup>th</sup> Placing in East Zone</p>
@@ -472,6 +457,9 @@ and discipline.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>&lt;Insert photo: Basketball CCA_6&gt;</strong>
+</p>
 <p><strong>National School Games Basketball 2023 (Junior Division)</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4<sup>th</sup> Placing (Tier 1)</p>
