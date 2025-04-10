@@ -11,8 +11,7 @@ variant: tiptap
 </div>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong><u>CCA Overview</u></strong>
-</p>
+<h3><strong>CCA Overview</strong></h3>
 <p>Objectives of Basketball CCA are:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -31,8 +30,7 @@ and discipline.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_4a.jpg">
 </div>
-<p><strong><u>Teachers-in-charge</u></strong>
-</p>
+<h3><strong>Teachers-in-charge</strong></h3>
 <p>Mr Sim Wei Zhang (IC)
 <br>Ms Grace Tan (2IC)
 <br>Ms Clara Lim
@@ -40,8 +38,7 @@ and discipline.</p>
 <br>Coach: Mr Ong Wen Qian</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong><u>Achievements</u></strong>
-</p>
+<h3><strong>Achievements</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_1a.jpg">
