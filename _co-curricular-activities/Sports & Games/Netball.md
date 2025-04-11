@@ -132,10 +132,10 @@ for the League 3 competition. Well done to our netballers!</p>
 <p>Choo Eng Hee Kristin (P5-8)</p>
 </li>
 <li>
-<p>Lin Lei (5-8)</p>
+<p>Lin Lei (P5-8)</p>
 </li>
 <li>
-<p>Tan Xin Rui (5-8)</p>
+<p>Tan Xin Rui (P5-8)</p>
 <p><strong>&nbsp;</strong>
 </p>
 </li>
