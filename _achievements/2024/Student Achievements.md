@@ -1063,8 +1063,8 @@ in Mathematics and
 <h4>2024 Wizard School Challenge (Mathematics - KooBits)</h4>
 <p>1st Runner Up of top 3 schools with the highest Challenge Points</p>
 <h4>2024 Primary Mathematics Project Competition</h4>
-<p>Isaac Chong of P5-8 won the outstanding award for P5 Physical Game Design
-category</p>
+<p>Isaac Chong Yu Herng of P5-8 won the outstanding award for P5 Physical
+Game Design category</p>
 <h4>2024 Primary Science Olympiad by NUS High School</h4>
 <table style="minWidth: 75px">
 <colgroup>
