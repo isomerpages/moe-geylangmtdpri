@@ -3,90 +3,145 @@ title: Netball
 permalink: /co-curricular-activities/cca/sports-n-games/netball/
 description: ""
 third_nav_title: Sports & Games
-variant: markdown
+variant: tiptap
 ---
-![](/images/Netball.jpg)
-
-<h4 style="color:blue;">CCA Overview</h4>
-<p style="text-align: justify;">The GMS(P) Netball provides an enriching experience for the players to grow into a confident and resilient individual. We believe in developing the holistic education experience of every player through nurturing interest, developing talent, cultivating zest for life, strengthen friendship and build character.
-
-</p><p style="text-align: justify;">The GMSP Netball CCA comprises of both the recreational and school team. Through this CCA, every player is given the opportunity and exposure to the game proper either through the participation in the netball carnivals, friendly matches with other school or zonal netball competitions.
-
-</p><p style="text-align: justify;">Most importantly the friendship formed through the CCA strengthens the bonds and respect the girls have for one another. </p>
-
-<h4 style="color:blue;">Teachers-in-charge</h4>
-Mdm Fazilah (IC)<br>
-Liu Xianshuli (2IC)<br>
-Ms Kwok Yan Ting<br>
-Mdm Nantheini<br>
-
-
-Coach: Ms Haidah Bte Alias
-
-<h4 style="color:blue;">Achievements</h4><br>
-<b>National Netball Tournament 2023 for Senior Division (Participation)</b><br>
-
-Junior Team:<br>
-1. Lin Lei (P4-7)<br>
-2. Tan Ee Shin Gwen (P4-8)<br>
-3. Tan Xin Rui (P4-8)<br>
-4. Keira’Dlyra Kardisha Bte Md Faizal (P5-1)<br>
-5. Roxanne Sarah Mussenden (P5-1)<br>
-6. Ashley Lin Ruoxi (P5-1)<br>
-7. Ananya Rahul Anand (P5-1)<br>
-8. Julia Ming Xinyi Scott (P5-4)<br>
-9. Goh Jin Yan (P5-5)<br>
-10. Aa’mily Adelia Putri Md Na’im (P5-6)<br>
-11. Oh Yong Ting (P5-6)<br>
-12. Seah Seow Wei Sherlyn (P5-6)<br>
-13. Lam Jing Yao (P5-7)<br>
-14. Lee Si En Jaelyn (P5-7)<br>
-15. Chan Sze Yin Jacquelyn (P5-8)<br>
-
-
-Senior Team:<br>
-	1. Ang Jia Xuan (P6-1)<br>
-2. Jeraldine Tan (P6-1)<br>
-3. Celena Seow YuXuan (P6-2)<br>
-4. Tan Mei Xi, Yuniko (P6-2)<br>
-5. Wong Jia Qing, Joy (P6-2)<br>
-6. Koh Jia Xuan, Stella (P6-4)<br>
-7. Atikah Aqilah Bte Md Azmi (P6-5)<br>
-8. Lau Jia Li, Agnes (P6-5)<br>
-9. Hew Yan Xiang Isabelle (P6-6)<br>
-10. Shanice Sim (P6-6)<br>
-11. Illary-Shoshanna Alarcon Tan (P6-8)<br>
-12. Nur Zulaiqha Bte Jasman (P6-2)<br>
-13. Esha Siva Prakash Sankran Janarthan (P6-6)<br>
-
-	
-<b>1) East Zone Netball Tournament 2019 (Participation)</b>
-
-<u><strong>Junior Team:</strong></u><br>
-1.Michelle Mussenden (P4-3)<br> 
-2. Alynha Binte Anim (P4-6)<br>
-3. Jeanette Lim (P4-7)<br>
-4. Candice Chia (P4-8)<br>
-5. Elena Wu (P4-8)<br>
-6. Gong Yuhui (P4-8)<br>
-7. Caylia Ng (P4-8)<br>
-8. Farrah Atiqah (P5-1)<br>
-9. Nur Hairishah (P5-1)<br>
-10. Queenie Lim (P5-5)<br>
-11. Ruby Lee (P5-5)<br>
-12. Alika Mi'raq (P5-6)<br>
-
-<u><strong>Senior Team:</strong></u> <br>
-1.Aliah Zakirah (P6-1)<br>
-2.Loo Jia Xin (P6-1)<br>
-3. Sukna Qayyum (P6-1)<br>
-4. Syarifah Nuryorani (P6-1)<br>
-5. Nur Atishah (P6-2)<br>
-6. Nur Azlyn Natasha (P6-3)<br>
-7. Nur'ain (P6-3)<br>
-8. Siau Jing Yi (P6-4)<br>
-9. Jaya Harini (P6-6)<br>
-10. Sylvia Heng (P6-7)<br>
-11. Huang Baiyi (P6-8) <br>
-
-<b>2) Friendly Match with Mayflower Primary School on 1 March 2019</b>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Netball.jpg">
+</div>
+<h4><strong>CCA Overview</strong></h4>
+<p>GMS(P) Netball aims to provide an enriching experience for our netballers
+to grow into confident, disciplined and resilient team players. Besides
+focusing on technical and tactical skills, we believe in developing every
+player holistically through nurturing their passion for the sport, developing
+their character as well as building friendship and camaraderie among the
+players. &nbsp;</p>
+<p>&nbsp;</p>
+<p>Comprising of both the recreational and school teams, every player is
+given the opportunity to participate in the game such as in the National
+School Games (NSG), external carnivals or through friendly matches with
+other schools.</p>
+<p>&nbsp;</p>
+<p>In 2024, our Senior Girls participated in the NSG League 3 competition
+and finished as quarterfinalists, whereas our Junior Girls came in as champions
+for the League 3 competition. Well done to our netballers!</p>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Netball_2025_002.jpg">
+</div>
+<p>&nbsp;</p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<p>Mdm Fazilah (IC)
+<br>Liu Xianshuli (2IC)
+<br>Ms Kwok Yan Ting
+<br>Ms Khor Ting Fang</p>
+<h4><strong>Achievements</strong></h4>
+<p>
+<br><strong>National School Games school team:</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Netball_2025_001.jpg">
+</div>
+<p><strong><u>Senior Girls (League 3 Quarterfinalists)</u></strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ananya Rahul Anand (P6-1)</p>
+</li>
+<li>
+<p>Ashley Lin Ruoxi (P6-1)</p>
+</li>
+<li>
+<p>Roxanne Sarah Mussenden (P6-1)</p>
+</li>
+<li>
+<p>Keira’Dlyra Kardisha Bte Md Faizal (P6-2)</p>
+</li>
+<li>
+<p>Seah Seow Wei Sherlyn (P6-3)</p>
+</li>
+<li>
+<p>Julia Ming Xinyi Scott (P6-4)</p>
+</li>
+<li>
+<p>Maryam Binte Ridzuan (P6-4)</p>
+</li>
+<li>
+<p>Goh Jin Yan (P6-5)</p>
+</li>
+<li>
+<p>Oh Yong Ting (P6-5)</p>
+</li>
+<li>
+<p>Aa’mily Adelia Putri Md Na’im (P6-6)</p>
+</li>
+<li>
+<p>Lam Jing Yao (P6-7)</p>
+</li>
+<li>
+<p>Lee Si En Jaelyn (P6-7)</p>
+</li>
+<li>
+<p>Chan Sze Yin Jacquelyn (P6-8)</p>
+</li>
+</ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Netball_2025_003.jpg">
+</div>
+<p><strong><u>Junior Girls (League 3 Champions):</u></strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Tan Yi Le, Caryl (P4-8)</p>
+</li>
+<li>
+<p>Leow Xin Ling (P4-8)</p>
+</li>
+<li>
+<p>Selvarayar Subhiksha (P4-3)</p>
+</li>
+<li>
+<p>S Sabeera (P5-4)</p>
+</li>
+<li>
+<p>Yu Jing Thea (P5-4)</p>
+</li>
+<li>
+<p>Miu Chin Pin En (P5-5)</p>
+</li>
+<li>
+<p>Nur Qaireen Putri Zulkifli (P5-6)</p>
+</li>
+<li>
+<p>Tan Yun Xuan (P5-6)</p>
+</li>
+<li>
+<p>Ho Kee Huan (P5-7)</p>
+</li>
+<li>
+<p>Low Yu En Arianne (P5-7)</p>
+</li>
+<li>
+<p>Tan Ee Shin Gwen (P5-7)</p>
+</li>
+<li>
+<p>Tania Loei Kai Ru (P5-7)</p>
+</li>
+<li>
+<p>Choo Eng Hee Kristin (P5-8)</p>
+</li>
+<li>
+<p>Lin Lei (5-8)</p>
+</li>
+<li>
+<p>Tan Xin Rui (5-8)</p>
+<p><strong>&nbsp;</strong>
+</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
