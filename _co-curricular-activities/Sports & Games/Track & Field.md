@@ -45,19 +45,6 @@ the track.</p>
 </p>
 <p><strong><u>Singapore Athletics-Singapore Sports School (SA-SSP) Primary Schools Combined Events Invitationals 2024 (9 March 2024)</u></strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -183,14 +170,10 @@ the track.</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong><u>SPSSC Track and Field National School Games 2024</u></strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
@@ -204,12 +187,6 @@ the track.</p>
 <p><strong>Event - Position</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
@@ -220,21 +197,8 @@ the track.</p>
 <p><strong>Long Implement Throw - 6th<br>80m - Top 16</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p><strong>Kwok Hoi Nam <br>P6-1 (S2 Div)</strong>
@@ -244,21 +208,8 @@ the track.</p>
 <p><strong>Shot Put - 2nd<br>Standing Long Jump - 9th</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Lim Jyun Zhe Jayden<br>P6-2 (S1 Div)<br><br></strong>
@@ -267,12 +218,6 @@ the track.</p>
 <td rowspan="1" colspan="1">
 <p><strong>80m - 13th</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -284,12 +229,6 @@ the track.</p>
 <p><strong>60m - 1st <br>Long Jump with T/O Zone - 6th</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -299,12 +238,6 @@ the track.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Standing Long Jump - 3rd</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -316,12 +249,6 @@ the track.</p>
 <p><strong>1000m - 5th<br>Long Jump with T/O Zone - 3rd</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -331,12 +258,6 @@ the track.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Scissors Jump - 4th<br>80m - 5th</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -348,12 +269,6 @@ the track.</p>
 <p><strong>Overhand Beanbag Throw - 10th<br>60m - 11th</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -364,18 +279,10 @@ the track.</p>
 <p><strong>4X50m relay (J2 Div Boys) - 8th place<br>4X50m relay (J2 Div Girls) - 3rd place<br>4X50m relay (J1 Div Boys) - 7th place</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><u>2025</u></strong>
+<p><strong>&nbsp;<u>2025</u></strong>
 </p>
 <p><strong><u>Singapore Athletics Age Group Championships 2025</u></strong>
 </p>
@@ -401,9 +308,8 @@ the track.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Men U13 80m Dash - 1st
-<br>Men U13 Long Jump - 2nd
-<br>Men U13 200m Dash - 2nd</p>
+<p><strong>Men U13 80m Dash - 1st <br>Men U13 Long Jump - 2nd <br>Men U13 200m Dash - 2nd</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -412,8 +318,8 @@ the track.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Women U13 80m Dash - 10th
-<br>Women U13 High Jump - 2nd</p>
+<p><strong>Women U13 80m Dash - 10th <br>Women U13 High Jump - 2nd</strong>
+</p>
 </td>
 </tr>
 </tbody>
