@@ -5,11 +5,13 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_2.jpg">
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4TryxnIZx0PwIApIfnOgUk0zzbZaqiVqEpEUcvx5BBw3-D17i2M1W5pz6dI00ONwTJPlMhxWnUFTs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4><strong><u>CCA Overview</u></strong></h4>
+<p><strong>&nbsp;</strong>
+</p>
+<h3><strong>CCA Overview</strong></h3>
 <p>Objectives of Basketball CCA are:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -23,37 +25,25 @@ defending skills, shooting skills and game strategies.</p>
 <li>
 <p>To enable students to learn sportsmanship and values of fair play, teamwork
 and discipline.</p>
-<p></p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_4a.jpg">
 </div>
-<p><strong><u>Teachers-in-charge</u></strong>
+<h3><strong>Teachers-in-charge</strong></h3>
+<p>Mr Sim Wei Zhang (IC)
+<br>Ms Grace Tan (2IC)
+<br>Ms Clara Lim
+<br>Ms Pang Chong Lei
+<br>Coach: Mr Ong Wen Qian</p>
+<p><strong>&nbsp;</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Sim Wei Zhang (IC)</p>
-</li>
-<li>
-<p>Ms Grace Tan (2IC)</p>
-</li>
-<li>
-<p>Ms Clara Lim</p>
-</li>
-<li>
-<p>Ms Pang Chong Lei</p>
-</li>
-<li>
-<p>Coach: Mr Ong Wen Qian</p>
+<h3><strong>Achievements</strong></h3>
 <p></p>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_1a.jpg">
 </div>
-<p><strong><u>Achievements</u></strong>
-</p>
+<p></p>
 <p><strong>National School Games Basketball 2024 (Senior Division)</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top 4 in Singapore (League 1)</p>
@@ -195,12 +185,9 @@ and discipline.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_3a.jpg">
 </div>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>National School Games Basketball 2024 (Senior Division)</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1<sup>st</sup> Placing (Tier 1)</p>
@@ -344,7 +331,7 @@ and discipline.</p>
 </table>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_7a.jpg">
 </div>
 <p><strong>National School Games Basketball 2023 (Senior Division)</strong>
 </p>
@@ -472,7 +459,10 @@ and discipline.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong>National School Games Basketball 2023 (Junior Division)</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_6a.jpg">
+</div>
+<p>&nbsp;<strong>National School Games Basketball 2023 (Junior Division)</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4<sup>th</sup> Placing (Tier 1)</p>
 <table style="minWidth: 50px">
