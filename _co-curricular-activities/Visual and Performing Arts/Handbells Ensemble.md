@@ -9,8 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240729_153731_981.jpg">
 </div>
-<p><strong>CCA Overview</strong>
-</p>
+<h4><strong>CCA Overview</strong></h4>
 <p>A handbell ensemble is a group that rings recognizable music with melodies
 and harmony. Our ringers are focused and disciplined during practice, and
 they ensure that they attend practices because it takes teamwork to ring
@@ -26,16 +25,14 @@ Youth Festival 2026!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240619_WA0006.jpg">
 </div>
-<p><strong>Teachers-in-charge</strong>
-</p>
+<h4>Teachers-in-charge</h4>
 <p>Mrs Catherine Chong (IC)</p>
 <p>Ms Claudia Chong (2IC)</p>
 <p>&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240729_WA0016.jpg">
 </div>
-<p><strong>Achievements</strong>
-</p>
+<h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore Youth Festival 2022 (Certificate of Achievement)</p>
