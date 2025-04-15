@@ -3,51 +3,64 @@ title: Badminton
 permalink: /co-curricular-activities/cca/sports-n-games/badminton/
 description: ""
 third_nav_title: Sports & Games
+variant: tiptap
 ---
-![](/images/photo%20badminton%201.jpg)
-
-<h4 style="color:blue;">CCA Overview </h4>
-
-<p style="text-align: justify;">To be part of Badminton CCA in GMS(P) is to be part of a family that foregrounds the importance of values such as perseverance, teamwork and respect in sports. We seek to cultivate good character and ignite passion in the sport of badminton. 
-
-</p><p style="text-align: justify;">Regardless of ability level, every member is given the opportunity to harness his or her potential through training and practice. We aim to equip students to play with confidence and aptitude and provide them with opportunities to do so through friendly and competitive platforms, within the school, or at zonal and national levels.
-
-</p><p style="text-align: justify;">We believe every badminton player is special and will grow in ‘friendship, body and mind’ to reach his or her fullest potential.</p>
-
-<h4 style="color:blue;">Teachers-in-charge</h4>
-
-Mdm Ros’mariati Bte Sulaiman (IC)<br>
-Mrs Lee Lai Chan (2IC)<br>
-Ms Jolyn Chun <br>
-Mdm Loh Puay San<br>
-
-Coach: Mr Ong Chee Hwa Vincent<br>
-
-<h4 style="color:blue;">Achievements</h4>
-<b>2023 National School Games</b><br>
-Badminton Tournament East Zone 2023 (Participation)<br>
-	
-<u><strong>Senior Boys</strong></u><br>
-*   Luah Yi Khai (Captain)<br>
-*   Lim Rui Heng (Vice-Captain) <br>
-*   Joseph Tan Jia Tai    <br>
-*   Muhd Daniyal Bin Samsumaideen    <br>
-*   Danny Edwin William    <br>
-*   Lu Yuchen    <br>
-*   S Agan    <br>
-*   Wong Bo Zheng   <br> 
-*   AJ Lai Cheng Yi   <br> 
-*   Tan Kai Wen, Ryan    <br>
-*   Tan Wei En Damien    <br>
-*   Wong Yu Xin    <br>
-
-<b>2022 National School Games</b><br>
-	1. <b>Badminton Tournament (Junior Girls) 2022  </b><br>
-    Event: Doubles  <br>
-    1st in tier 1<br>
-*   &nbsp;Calista Yeo Jie Lin<br>    
-*   &nbsp;Ng Ziqi<br>
-
-2.<b>Badminton Tournament East Zone 2022 (Participation)</b><br>
-*   Senior Boys<br>
-*   Junior Boys
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_CCA_2025.png">
+</div>
+<h4>CCA Overview</h4>
+<p>To be part of Badminton CCA in GMS(P) is to be part of a family that foregrounds
+the importance of values such as perseverance, teamwork and respect in
+sports. We seek to cultivate good character and ignite passion in the sport
+of badminton.</p>
+<p>Regardless of ability level, every member is given the opportunity to
+harness his or her potential through training and practice. We aim to equip
+students to play with confidence and aptitude and provide them with opportunities
+to do so through friendly and competitive platforms, within the school,
+or at zonal and national levels.</p>
+<p>We believe every badminton player is special and will grow in ‘friendship,
+body and mind’ to reach his or her fullest potential.</p>
+<h4>Teachers-in-charge</h4>
+<p>Mr Hidayat Bin Rahmat (IC)
+<br>Mdm Ros’mariati Bte Sulaiman (2IC)
+<br>Ms Jolyn Chun
+<br>Mrs Karunahkaran Kalaivani</p>
+<p>Ms Li Jiarui</p>
+<p><strong>Coach:</strong> Mr Chong Kiong Seng&nbsp;</p>
+<h4>Achievements</h4>
+<p><strong>2025 National School Games</strong>
+<br>Badminton Tournament East Zone 2025 (Participation)</p>
+<p><strong><u>Senior Boys (League 6)</u></strong>
+</p>
+<p>• Jonathan Kam Jon Hoi (Captain)</p>
+<p>• Aaron Starr Alexchandar</p>
+<p>• Ang Kai Zhe</p>
+<p>• Anirud Manoj</p>
+<p>• Cheong Yu Yang</p>
+<p>• Curon Toh</p>
+<p>• Kenneth Devan Iskandar</p>
+<p>• Lim Jun Yi Raylen</p>
+<p>• Lu Haowen</p>
+<p>• Muhamad Adam Shah Bin Muhamed Hafiz</p>
+<p>• Razak Arfan</p>
+<p>• Thian Jian Ying</p>
+<p>• Thim Khai Way</p>
+<p>• Tristan James Knorr</p>
+<p><strong><u>Senior Girls (League 4)</u></strong>
+</p>
+<p>• Wang Ziyu (Captain)</p>
+<p>• Elize Lum Lai Yuet</p>
+<p>• Ella Mae Voedisch</p>
+<p>• Lin Zhitian</p>
+<p>• Ong Si Hui, Eva</p>
+<p>• Sage Khoo Er Han</p>
+<p>• Seah Xin Xuan Valeise Jr</p>
+<p>• Shannis Lee En Ci</p>
+<p>• Soon Fang Lin</p>
+<p>• Chelsea Tung Jia Yu</p>
+<p>• Won Zhi Xuan</p>
+<p>• Yeow Bao Ning</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
