@@ -465,7 +465,8 @@ and discipline.</p>
 </div>
 <p>&nbsp;<strong>National School Games Basketball 2023 (Junior Division)</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4<sup>th</sup> Placing (Tier 1)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4<sup>th</sup> Placing in group (Tier
+1)</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
