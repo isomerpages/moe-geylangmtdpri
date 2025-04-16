@@ -188,9 +188,10 @@ and discipline.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_3a.jpg">
 </div>
-<p><strong>National School Games Basketball 2024 (Senior Division)</strong>
+<p><strong>National School Games Basketball 2024 (Junior Division)</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1<sup>st</sup> Placing (Tier 1)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1<sup>st</sup> Placing in group (Tier
+1)</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -464,7 +465,8 @@ and discipline.</p>
 </div>
 <p>&nbsp;<strong>National School Games Basketball 2023 (Junior Division)</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4<sup>th</sup> Placing (Tier 1)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4<sup>th</sup> Placing in group (Tier
+1)</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
