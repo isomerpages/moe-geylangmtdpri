@@ -24,26 +24,40 @@ another.
 <br>
 </p>
 <h4>Teachers-in-charge</h4>
-<p>Ms Tan Ee Peng (IC)
-<br>Mdm Sulistiati (2IC)</p>
-<p>Mdm Nantheini
-<br>Ms Shazwani
-<br>Mdm Coco Yap
-<br>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Tan Ee Peng (IC)</p>
+</li>
+<li>
+<p>Mdm Sulistiati (2IC)</p>
+</li>
+<li>
+<p>Mdm Nantheini</p>
+</li>
+<li>
+<p>Ms Shazwani</p>
+</li>
+<li>
+<p>Mdm Coco Yap
 <br>
 </p>
+</li>
+</ul>
 <h4>Achievements</h4>
 <p>2023:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Youth Festival – Certificate
-of Recognition (Merit) Category B</p>
-<p>2024:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Schools Digital Media Award 2024</p>
-<p>Stop Cyber-bullying! Comic strip Design Competition - Certificate of Commendation</p>
-<p>&nbsp;
-<br>
-</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
+<p>Singapore Youth Festival – Certificate of Recognition (Merit) Category
+B</p>
+</li>
+</ul>
+<p>2024:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Schools Digital Media Award 2024</p>
+</li>
+<li>
+<p>Stop Cyber-bullying! Comic strip Design Competition - Certificate of Commendation</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQhLxrsTB-SEo4BX3Lo8pvbSS7naBANOQgr7npDV33ujelsB5JZOw4iNke7bABeE7g7AIMUbuyHQZUS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
