@@ -3,19 +3,44 @@ title: Guzheng Ensemble
 permalink: /co-curricular-activities/cca/visual-n-performing-arts/guzheng-ensemble/
 description: ""
 third_nav_title: Visual and Performing Arts
-variant: markdown
+variant: tiptap
 ---
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ0eypKxi_W7yAImeNls46_kOqV7hVpXPVCUXloKY3GtRcqMijXvL5HRkNVGGBGXpolECWOpnIyGp9S/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
-
-<h4 style="color:blue;">CCA Overview</h4>
-<p style="text-align: justify;">Guzheng is a Chinese plucked string instrument with a more than 2,500-year history, Guzheng players wear fingerpicks on one or both hands.&nbsp; Our Guzheng CCA welcomes students with passion and commitment in learning Guzheng. We aim to equip students with the necessary skills to play Guzheng and enjoy playing Guzheng.</p>
-
-<h4 style="color:blue;">Teachers-in-charge</h4>
-Ms Lok Jie Jun (IC) <br> 
-Mrs Stella Chang (2IC)  <br> 
-Ms Wang Xuan-Xin<br>
-	
-Instructor: Ms Wu Shi <br>
-
-<h4 style="color:blue;">Achievements</h4>
-Singapore Youth Festival 2018 - Certificate of Accomplishment
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSuOtT2FyXJ7VKf4AFBOkJ1Q2LKLGbfYpsDtvgaNSba0J-PZB4W_0B_6r1uE82pgEtuwwZePV7ivBDQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4><strong>CCA Overview</strong></h4>
+<p>The guzheng, a traditional Chinese string instrument, captivates with
+its beautiful, resonant tones and rich cultural history.</p>
+<p>&nbsp;</p>
+<p>Being part of a guzheng ensemble allows children to immerse themselves
+in the fascinating world of Chinese music, fostering an appreciation for
+its cultural heritage. Ensemble participation not only helps in mastering
+the guzheng's playing techniques but also promotes important life skills
+such as teamwork, concentration, and discipline. As children practice and
+perform alongside their peers, they develop strong bonds, share the joy
+of creating harmonious music, and build confidence through performances.</p>
+<p>&nbsp;</p>
+<p>In 2024, our school’s guzheng ensemble has had an incredible year filled
+with remarkable achievements and memorable experiences. In April, our group
+of young musicians participated in the biennial Singapore Youth Festival
+Arts Showcase and was awarded the Certificate of Accomplishment.</p>
+<p>&nbsp;</p>
+<p>In addition, our ensemble had the honor of performing at our school’s
+100th Anniversary Concert. As we look forward to more opportunities and
+challenges, we are immensely proud of our guzheng ensemble's accomplishments
+and their continued dedication to excellence in music.</p>
+<p>&nbsp;</p>
+<p>The guzheng ensemble welcomes children of all skill levels, from beginners
+to advanced players, and anyone with a passion for music and a desire to
+learn something new. Children will learn guzheng playing techniques, ensemble
+coordination and harmony, and musical expression and performance skills.</p>
+<p>&nbsp;</p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<p>Ms Lok Jie Jun (IC)
+<br>Ms Wang Xuan-Xin</p>
+<p>Instructor: Mdm Fu Ying Ying</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4><strong>Achievements</strong></h4>
+<p>Singapore Youth Festival 2024 - Certificate of Accomplishment</p>
+<p>&nbsp;</p>
