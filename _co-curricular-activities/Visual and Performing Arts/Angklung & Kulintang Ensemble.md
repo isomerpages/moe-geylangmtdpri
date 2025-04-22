@@ -3,22 +3,34 @@ title: Angklung & Kulintang Ensemble
 permalink: /co-curricular-activities/cca/visual-n-performing-arts/angklung-n-kulintang-ensemble/
 description: ""
 third_nav_title: Visual and Performing Arts
-variant: markdown
+variant: tiptap
 ---
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2EaZZGm_SG54a7g7ckfUZMN5ubTqottSV3isgUJShtls8I-yeaM4c59XN7OSpqVxtFj7uLMjghj7e/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
-
-<h4 style="color:blue;">CCA Overview</h4>
-<b>Philosophy &amp; Beliefs:</b><br>
-<p style="text-align: justify;">Music for all. Character-building through Music learning and performance.<br>  
-
-<b>Focus:</b><br>
-</p><p style="text-align: justify;">We aim to inculcate the love of Music and the Performing Arts in pupils through learning and performing of South East Asian and Western instruments. Through performing of Angklung, Kulintang and different Western Percussion instruments, we teach our pupils discipline, perseverance, instrument playing techniques and music theory.<br></p>
-
-<h4 style="color:blue;">### Teachers-in-charge</h4>
-Mr Yeo Wee Kiong (IC) <br>
-Mr Haresh (2IC) <br>
-Mdm Kalaivani<br>
-
-Instructors: <br>
-Mr Lee Wen Xiang<br>
-Ms Alicia De Silva
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SOTA_2024.jpg">
+</div>
+<h4><strong>CCA Overview</strong></h4>
+<p><strong>Philosophy &amp; Beliefs:</strong>
+</p>
+<p>Music for all. Character-building through Music learning and performance.
+<br>
+<br>
+</p>
+<p><strong>Focus:</strong>
+</p>
+<p>We aim to inculcate the love of Music and the Performing Arts in pupils
+through learning and performing of Southeast Asian and Western instruments.
+Through performing of Angklung, Kulintang and different Western Percussion
+instruments, we teach our pupils discipline, perseverance, instrument playing
+techniques and music theory.</p>
+<p>&nbsp;</p>
+<p><strong>Teacher-in-charge</strong>
+</p>
+<p>Mr. Yeo Wee Kiong (IC)</p>
+<p></p>
+<p><strong>Instructors:</strong>
+<br>Ms Joey Yeo</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOaTLGOMi3BN05-SpX1lNHliXDIdYNBTsejadEj76w1effjh6jrQwgAL69VW76HZ4b-LUA2awSD4x-/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
