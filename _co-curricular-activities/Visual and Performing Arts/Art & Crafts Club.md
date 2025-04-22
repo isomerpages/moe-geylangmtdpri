@@ -9,7 +9,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-RQe4-75fFmrOL1e8NUgzZcSIdXeEfC-GuHm05efygsRFvGRZpr4OTmJpA54WiNsKVMrVYfCIatqt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4><br>CCA Overview</h4>
+<h4><br><strong>CCA Overview</strong></h4>
 <p>Art Club offers pupils with interest in visual arts to come together and
 learn about art making. Pupils are given the opportunity to explore art
 forms beyond what is offered in the school curriculum. Our programme promotes
@@ -25,25 +25,26 @@ another.
 </p>
 <h4>Teachers-in-charge</h4>
 <p>Ms Tan Ee Peng (IC)
-<br>Mdm Sulistiati (2IC)
-<br>Ms Renuka
-<br>Ms Nabilah
-<br>Mrs Melissa Siew
+<br>Mdm Sulistiati (2IC)</p>
+<p>Mdm Nantheini
+<br>Ms Shazwani
+<br>Mdm Coco Yap
+<br>
 <br>
 </p>
 <h4>Achievements</h4>
+<p>2023:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Youth Festival – Certificate
+of Recognition (Merit) Category B</p>
+<p>2024:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Schools Digital Media Award 2024</p>
+<p>Stop Cyber-bullying! Comic strip Design Competition - Certificate of Commendation</p>
+<p>&nbsp;
+<br>
+</p>
 <ul>
 <li>
-<p>2021 SYF Art Exhibition - Category B (Primary 3 &amp; 4) &amp; Category
-C (Primary 5 &amp; 6) artworks were selected for exhibition
-<br>
-</p>
-</li>
-<li>
-<p>SYF Art Exhibition - Category A (Primary 1 &amp; 2) artwork was selected
-for exhibition
-<br>
-</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQhLxrsTB-SEo4BX3Lo8pvbSS7naBANOQgr7npDV33ujelsB5JZOw4iNke7bABeE7g7AIMUbuyHQZUS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
