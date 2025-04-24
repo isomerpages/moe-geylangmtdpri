@@ -28,7 +28,7 @@ techniques and music theory.</p>
 </p>
 <p>Mr. Yeo Wee Kiong (IC)</p>
 <p></p>
-<p><strong>Instructors:</strong>
+<p><strong>Instructor:</strong>
 <br>Ms Joey Yeo</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOaTLGOMi3BN05-SpX1lNHliXDIdYNBTsejadEj76w1effjh6jrQwgAL69VW76HZ4b-LUA2awSD4x-/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
