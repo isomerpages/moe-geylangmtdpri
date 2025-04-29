@@ -10,8 +10,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Pic 1: FIFA Football For Schools" src="/images/Picture1_FIFA_FOOTBALL_FOR_SCHOOLS.jpg">
 </div>
 <h4><strong>CCA Overview</strong></h4>
-<p>Football CCA in GMS(P) believes in giving our boys as much exposure as
-possible to nurture their interest in the sport, and through it, build
+<p>At Football CCA in GMS(P), we believe in providing our students every
+opportunity to nurture their interest in the sport, and through it, build
 up the character of our players. We place a big emphasis on teamwork and
 encouraging one another no matter what challenges we face.</p>
 <p></p>
@@ -68,17 +68,23 @@ hard to pursue their footballing dreams.</p>
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>
-<p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Semi-Finalist 2025 National School Games League 4 (Senior Boys)</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-1st in 2024 National School Games Tier 3 (Junior Boys)</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Bronze Medalist in the National School Games League 4 (Senior Boys)</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Finalist in the 2024 Queensway Secondary Invitational Tournament
+<ol data-tight="true" class="tight">
+<li>
+<p>2025 Finalist National School Games League 4 (Senior Boys)</p>
+</li>
+<li>
+<p>2024 Bronze Medalists National School Games League 4 (Senior Boys)</p>
+</li>
+<li>
+<p>2024 1st Place National School Games Tier 3 (Junior Boys)</p>
+</li>
+<li>
+<p>2024 Finalist Queensway Secondary Invitational Tournament
 <br>
 <br>
 </p>
+</li>
+</ol>
 <p>
 <br>
 </p>
