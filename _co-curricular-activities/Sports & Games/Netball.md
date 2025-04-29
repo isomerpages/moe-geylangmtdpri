@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Netball.jpg">
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCN3nNj2SWfKdjiK6414NfzXiATauRa1S0vXIOqPA_vzH-FCkGui0NyKefvi9KnM_-Lo9DdwhANjju/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>CCA Overview</strong></h4>
 <p>GMS(P) Netball aims to provide an enriching experience for our netballers
