@@ -3,96 +3,1178 @@ title: Character & Citizenship Education (CCE)
 permalink: /curriculum/character-n-citizenship-education-cce-1/
 description: ""
 third_nav_title: Character & Citizenship
+variant: tiptap
 ---
-<h4 style="color:blue;">Vision</h4>
-
-<p style="text-align: justify;">To develop citizens of good character, ready to lead and serve</p>
-
-<h4 style="color:blue;">Mission</h4>
-
-<p></p><p style="text-align: justify;">To inculcate values and equip students with social emotional competencies and skills to be good individuals and useful citizens</p>
-
-<h4 style="color:blue;">Overview</h4>
-
-<p></p><p style="text-align: justify;"><b>CCE is central to the framework for the 21st Century Competencies and Student Outcomes.&nbsp;( Refer to Figure below) It emphasises the interconnectedness of the core values, social and emotional competencies and civic literacy, global awareness and cross-cultural skills that are crucial for character and citizenship development in our pupils.</b></p>
-
-![](/images/CCE%20Pic%201.png)
-
-<p></p><p style="text-align: justify;"><b>The following are the eight CCE Learning Outcomes which we hope to achieve through our CCE programmes:</b>
-
-</p><p style="text-align: justify;">1. Develop self-awareness and self-management skills to achieve personal well-being and effectiveness.  
-  
-</p><p style="text-align: justify;">2. Apply moral reasoning, display responsibility in decision-making, and demonstrate integrity to stand by moral principles and shared values.  
-  
-</p><p style="text-align: justify;">3. Develop social awareness and demonstrate interpersonal skills to build and maintain positive relationships.  
-  
-</p><p style="text-align: justify;">4. Demonstrate resilience in the face of individual, community and national challenges, and develop the ability to turn challenges to opportunities.  
-  
-</p><p style="text-align: justify;">5. Appreciate our national identity, develop a sense of belonging to Singapore, and demonstrate commitment to the well-being, security and defence of the nation.  
-  
-</p><p style="text-align: justify;">6. Demonstrate socio-cultural sensitivity and promote social cohesion and harmony in Singapore as a multi-cultural society.  
-  
-</p><p style="text-align: justify;">7. Demonstrate care for others and contribute actively towards improving the lives of others to build a bright future for ourselves and to progress together as one nation.  
-  
-</p><p style="text-align: justify;">8. Demonstrate the ability to reflect on and respond to community, national and global issues, and to make informed and responsible decisions as a citizen.  </p>
-
-<h4 style="color:blue;">Curriculum Structure and Key Programmes</h4>
-
-<p></p><p style="text-align: justify;">In GMS(P), the CCE programme is rooted in the following school values: Integrity, Servanthood, Perseverance, Gratitude , Graciousness and Respect and Excellence and is supported by equipping the students with the following Social and Emotional competencies:  
- 
-a)&nbsp; &nbsp; Self -Awareness <br>
-b)&nbsp; &nbsp; Self- Management <br>
-c)&nbsp; &nbsp; Social Awareness <br>
-d)&nbsp; &nbsp; Relationship Management <br>
-e)&nbsp; &nbsp; Responsible Decision Making
-  
-</p><p style="text-align: justify;">Our CCE programme is delivered through the approach of Direct Teaching, Teachable Moments and Infusion as summarized in the CCE Framework below:</p>
-
-![](/images/CCE%20Pic%202.png)
-
-<h4 style="color:blue;">Pedagogical Approaches / Strategies</h4>
-
-**CCE Curriculum:** <br>
-<p></p><p style="text-align: justify;">The Character and Citizenship Education (CCE) curriculum was launched on 2 January 2014 by Education Minister Heng Swee Keat. A key feature of these textbooks is 'family time', which suggests activities for parents to bond with their children.  <br>
-  
-<b>Medium of Instruction:</b> <br>
-</p><p style="text-align: justify;">CCE lessons are conducted in the official Mother Tongue Languages (MTL). For pupils who offer the Non-Tamil Indian Languages (NTIL), namely, Bengali, Punjabi and Urdu as their Mother Tongue and for those who are exempted from taking MTL, CCE will be taught in English.<br>  
-  
-<b>Features of the CCE Syllabus:</b> <br>
-</p><p style="text-align: justify;">Pupils will learn values through three overarching ideas, namely (Identity, Relationships and Choices in six domains, starting with self and extending to the family, school, community, nation and the world. The diagram below shows the Core Values, the 3 Big Ideas and the Expanding Domains in the CCE syllabus:</p>
-
-![](/images/CCE%20Pic%203.gif)
-
-<p></p><p style="text-align: justify;">The 3 Big Ideas, Identity, Relationships and Choices, are core concepts of the syllabus. They are interconnected and impact one another. Pupils need to know who they are in order to relate positively with others. Relationships they forge shape their identity and influence the choices they make. The ability to make good choices impacts on their understanding of their own identity and the relationships they form.  
-  
-</p><p style="text-align: justify;">The CCE curriculum is delivered through approaches such as the Story Telling Approach, The Consideration Approach and Modified Values Clarification Approach. The aim is to facilitate the learning of skills and internalization of values through action and reflection as learners learn best when they are actively engaged.&nbsp;  
-  
-</p><p style="text-align: justify;">The teaching and learning of CCE is guided by the following four key principles:  <br>
-  
-<b>1) Every Teacher A CCE Teacher</b> 
-</p><p style="text-align: justify;">a) Teachers will role model and create learning opportunities to shape and instil in every student the core values. They will develop in each of the pupils a sense of self- worth&nbsp; &nbsp; &nbsp; and confidence, a spirit of resilience, care and compassion for others.   <br>
-
-</p><p style="text-align: justify;">b) Teachers will take ownership of their professional development to equip themselves with the expertise and competencies to nurture every student to become an active&nbsp;citizen of good character. <br>
-  
-<b>2) Values are both taught and caught</b>
-</p><p style="text-align: justify;">a) Values are taught when they are explicitly expressed through the knowledge and skills encapsulated in the CCE learning outcomes.  <br>
-  
-</p><p style="text-align: justify;">b) Values are caught when pupils see values lived out in different learning experiences, first in the role models and significant adults to the, then in their own lives.  <br>
-  
-</p><p style="text-align: justify;">c) The quality of teacher- student relationship and a caring environment will be essential to the character of the students.  <br>
-  
-<b>3) Engaging Students through varied modes of delivery</b>
-</p><p style="text-align: justify;">a) Students learn values through instruction, skills practice, role modeling by teachers and peers and positive reinforcement during lesson time and teachable moments.<br>  
-
-</p><p style="text-align: justify;">b) Teachers will also provide learning experiences such as the four core events, VIA, co-curricular activities for the learning and application of values, knowledge, skills and&nbsp;attitudes. <br> 
-  
-<b>4) Parents as key partners</b> <br>
-</p><p style="text-align: justify;">a) Parents are key navigators of their children’s growth. Students benefit the most when the home and school environments are attuned to each other. <br> 
-  
-</p><p style="text-align: justify;">b) Schools will engage and collaborate with parents to provide the necessary family care, support and reinforcement at home.  <br>
-  
-</p><p style="text-align: justify;">c) Effective communication of the school’s CCE programme and the provision of platforms for parents’ active involvement in schools will help parents become engaged partners.<br></p>
-
-<h4 style="color:blue;">Other Events / Programmes</h4>
-
-<p style="text-align: justify;">In GMS(P), students are recognised for their efforts in demonstrating the values taught through nominations by teachers and peers in platforms such as the Values Extraordinaire Award, ECHA Award, MWee Award and LKY Award. Over the years, these Awards have helped to spur our students to internalize the values taught and to demonstrate them through their daily lives and actions.</p>
+<p></p>
+<h3><strong>Vision</strong></h3>
+<p>To develop citizens of good character, ready to lead and serve.</p>
+<h3><strong>Mission</strong></h3>
+<p>To inculcate values and equip students with social emotional competencies
+and skills to be good individuals and useful citizens.</p>
+<p>&nbsp;</p>
+<h3><strong>Overview</strong></h3>
+<p>In GMS(P), we place great importance on teaching students to be good people
+and responsible citizens. This is done through Character and Citizenship
+Education (CCE). CCE helps students develop important life skills, such
+as understanding their emotions, working well with others, and knowing
+right from wrong. It also teaches them how to be active members of society
+and find meaning in what they do. All these skills work together to help
+students grow into well-rounded individuals who can lead successful and
+meaningful lives.</p>
+<p>GMSP students (affectionately known as GEMs) are inspired by values to
+grow, lead and serve with joy. Values are the building blocks that help
+our GEMs grow into caring and responsible people who seek to bear fruit
+in every good work. Our daily morning devotion and weekly chapel sessions
+inculcate in our GEMs values anchored on bible verses.</p>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCE is enacted through:</p>
+</li>
+<li>
+<p>CCE Form Teacher Guidance Period (FTGP)</p>
+</li>
+<li>
+<p>CCE Mother Tongue Languages (MTL)</p>
+</li>
+<li>
+<p>CCE Programme for Active Learning (PAL) for P1 &amp; P2</p>
+</li>
+<li>
+<p>Student Development Experiences such as Cohort Learning Journeys, Education
+and Career Guidance (ECG) Experience, Values in Action (VIA) and National
+Education (NE) Commemorative Events.</p>
+</li>
+<li>
+<p>School based initiatives such as Values Extraordinaire Awards, signature
+level programmes etc</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>The well-being of our students propels us to provide a caring and enabling
+school environment and sound CCE curriculum content. Click <u>here</u>
+<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[1]</a>&nbsp; to find out more!</p>
+<p>&nbsp;</p>
+<p><strong>Other Events / Programmes</strong>
+</p>
+<p>In GMS(P), students are recognised for their efforts in demonstrating
+the values taught through nominations by teachers and peers in platforms
+such as the Values Extraordinaire Award, ECHA Award, MWee Award and LKY
+Award. Over the years, these Awards have helped to spur our students to
+internalize the values taught and to demonstrate them through their daily
+lives and actions.</p>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Chapel in-session – Our weekly chapel sessions inculcate in our GEMs values anchored on bible verses" src="/images/CCE_Picture1_Chapel_in_session___Our_weekly_chapel_sessions_inculcate_in_our_GEMs_values_anchored_on_bible_verses.jpg">
+</div>
+<p><em>Chapel in-session – Our weekly chapel sessions inculcate in our GEMs values anchored on bible verses</em>&nbsp;</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSEAh5smyZzxM842ef_d9mQZSgf1AZy0IqhbmlCHilNMFkdZPc8blCHBrDuZ2IOYfHkP_rGJh3mLOLX/pubembed?start=true&amp;loop=true&amp;delayms=1000"></iframe>
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="499" width="597">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<br>
+</p>
+<p><em>Chapel in-session – Our weekly chapel sessions inculcate in our GEMs values anchored on bible verses</em>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p></p>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="2" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="259" width="362">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="2" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="259" width="361">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="315" width="420">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p>
+<br>
+</p>
+<p><em>FTGP lessons – A dedicated time for form teachers to foster positive relationships with students, teach social and emotional competencies, and support their holistic development through activities and discussions</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="307" width="473">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<br>
+</p>
+<p><em>PAL lesson – Programme for Active Learning. P1 and P2 students have fun, and develop their socio-emotional competencies through interactive activities with their peers.</em>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="379" width="547">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<br>
+</p>
+<p><em>Nurturing 3Cs through PAL – Confidence, Curiosity and Cooperation skills.</em>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>VIA – Values-in-action. Our VIA Projects adopt a Sustainability Education
+approach where we aim to get our students to Be Inspired, to Observe ,
+to Take Action, and to Celebrate.</p>
+<p>&nbsp;</p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="3" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="289" width="253">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="207" width="310">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<br>
+</p>
+<p><em>Making detergents from orange peels and blessing a charity partner with our DIY detergents subsequently.</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="321" width="241">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<br>
+</p>
+<p><em>Growing our own vegetables and donating the harvest to the community.</em>
+</p>
+<p>&nbsp;</p>
+<p>NE – National Education is a significant aspect of Character and Citizenship
+Education (CCE) and aims to instil national identity and the spirit of
+togetherness in our students.</p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="3" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="385" width="289">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="239" width="430">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<br>
+</p>
+<p><em>Commemorating Racial Harmony Day</em>
+</p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="3" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="271" width="363">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="237" width="377">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<br>
+</p>
+<p><em>National Day celebrations in Geylang Methodist School (Primary)!</em>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="313" width="273">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>
+<br>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>National Day celebrations. Our recess activity, made possible with the support from our Parent Support Group!</em>
+</p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="3" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="327" width="263">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="269" width="359">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<br>
+</p>
+<p><em>Total Defence Day – students learnt resilience and learning continued in the midst of the power outage simulation exercise.</em>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Celebrating achievements, inspiring students - Awards spur our students
+to internalize the values taught and to demonstrate them through their
+daily lives and actions.</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><u>Student Well Being</u></strong>
+</p>
+<p>At Geylang Methodist Primary School, every student is a GeM. We are committed
+to nurturing their well-being in a safe and supportive environment where
+they can grow in friendship, body and mind.</p>
+<p>Our dedicated teachers genuinely care for each child, while our pastoral
+staff provide regular check-ins and follow-ups to offer guidance and support.
+Through engaging assembly programmes, recess activities and chapel sessions,
+we instill values and build a caring, inclusive community where every student
+feels a sense of belonging.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>1-1 Teacher Student Interaction timey</em>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;</p>
+<p><em>Making friendship bracelets and playing games during recess</em>
+</p>
+<p>&nbsp;&nbsp;&nbsp;</p>
+<p><em>Juniors wrote encouraging notes to their P6 seniors to cheer them on for PSLE</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><strong><u>Peer Support</u></strong>
+</p>
+<p>Peer support plays a vital role in fostering a caring and enabling school
+environment. We believe that students thrive when they feel supported by
+their peers, and our Peer Support Leaders (PSLs) play a key role in building
+this strong sense of community.</p>
+<p></p>
+<p>Our PSLs are carefully selected and given the opportunity to lead their
+peers in meaningful ways. They undergo specialized training to enhance
+their conflict resolution skills and develop the ability to support their
+classmates effectively.</p>
+<p>&nbsp;</p>
+<p>Equipped with these skills, they lead to create a positive and encouraging
+environment where students feel heard, valued, and supported.</p>
+<p>To further build a culture of care, every class has a "You've Got Mail"
+mailbox, where students can write notes of encouragement to one another.
+This initiative helps to create a caring environment where students learn
+to uplift and support each other through edifying words while strengthening
+friendships. PSLs are the main drivers of this programme, ensuring that
+their peers feel appreciated and connected.</p>
+<p></p>
+<p><em>PSLs delivering the mails</em>
+</p>
+<p></p>
+<p><em>Writing notes of encouragements to each other</em>
+</p>
+<p></p>
+<p>You’ve got mail! mailboxes</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Additionally, PSLs are given opportunities to connect with students across
+their level, allowing them to build relationships beyond their immediate
+classmates. These interactions not only reinforce the school’s peer support
+efforts but also help PSLs develop valuable leadership skills, preparing
+them to be confident and compassionate leaders in the future.</p>
+<p></p>
+<p><em>PSLs sharing with their peers during recess</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p>At GMS(P), we believe that peer support is more than just a program—it
+is a culture of care that strengthens our school community. Through the
+dedication of our Peer Support Leaders and the collective effort of students
+and staff, we continue to nurture a safe, welcoming, and supportive environment
+for all.</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>Mental well being</u></strong>
+</p>
+<p>We are committed to nurturing our students' mental well-being alongside
+their academic growth. Through various initiatives, we equip students with
+essential skills to manage their time and stress effectively.</p>
+<p>Year Head Talks and assembly programmes are carried out on a regular basis
+to provide valuable guidance on self-management, resilience, and emotional
+well-being. In addition, teachers conduct frequent one-on-one check-ins
+with students to provide support, offer advice, and address concerns. Regular
+termly check-in surveys help teachers monitor students' mental wellness,
+allowing for timely follow-ups and interventions when needed.</p>
+<p>&nbsp;&nbsp; &nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>PSLs leading their peers to do some exercises during recess to destress</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p>Beyond the classroom, the school organizes Back-to-School activities every
+term to ensure students feel welcomed and motivated as they return from
+the holidays.</p>
+<p>&nbsp;</p>
+<p><em>PSLs welcoming their school mates to school by giving them a high five on the first day of school</em>
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><em>Getting to know our friends better through back to school activities in class</em>
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><em>Bonding through games time with our classmates</em>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>Cyber Wellness</u></strong>
+</p>
+<p>Cyber Wellness is about our students being able to navigate the cyber
+space safely.</p>
+<p>This is done through our curriculum which aims to equip students with
+the knowledge and skills to harness the power of Information and Communication
+Technology (ICT) for positive purposes, maintain a positive presence in
+cyberspace and be safe and responsible users of ICT.<strong><u>&nbsp;&nbsp;&nbsp;</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><em>Cyberwellness pop up booths during recess</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p>At GMS(P), our Cyber Wellness (CW) programme aims to nurture responsible
+digital learners who navigate the online world safely and respectfully.
+Guided by three key principles—Respect for Self and Others, Safe and Responsible
+Use, and Positive Peer Influence—students learn the importance of making
+informed and ethical choices online.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Cyber Wellness education is integrated into FTGP and CCE lessons, with
+additional reinforcement through Assembly Talks, the School Messaging Board,
+and termly Cyber Wellness Programmes.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p><em>Cyberwellness lesson with The Smiley squirrel from POSB</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p>Beyond the classroom, parents play a vital role in guiding their children's
+screen use and online habits. We believe that fostering Cyber Wellness
+is a shared responsibility and encourage parents to work closely with the
+school in promoting safe, responsible, and balanced digital use.</p>
+<p>To reinforce Cyber Wellness messages at home, parents are encouraged to
+engage in "Family Time" activities found in the CCE (FTGP) Journal with
+their children. These activities provide meaningful opportunities to discuss
+online safety, responsible digital behavior, and the importance of healthy
+screen time management. By partnering together, we can help students develop
+mindful online behaviors and healthy screen habits both in school and at
+home.</p>
+<p>&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Key Learning Points</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School-Wide Programmes</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn basic skills for navigating
+the cyberworld safely.&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognise opportunities and dangers
+in the cyberworld.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn the importance of turning
+to trusted adults for help whenever they feel unsafe or are unsure about
+any online situations.&nbsp;</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>Annual Safer Internet Day</p>
+<p>&nbsp;</p>
+<p>Sharing by Cyber Security Agency and POSB</p>
+<p>&nbsp;</p>
+<p>Interactive pop up booths by CSA to learn about cyber wellness and cyber
+security</p>
+<p>&nbsp;</p>
+<p>Cyber wellness lessons on SLS</p>
+<p>&nbsp;</p>
+<p>Cyber wellness training for Peer Support Leaders</p>
+<p>&nbsp;</p>
+<p>Cyber wellness talks during Assembly by school teachers and peer support
+leaders.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn about the actions of tricky
+people offline and online, how to assess potentially risky situations,
+and ways to keep oneself safe.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand what personal information
+is and learn how to protect themselves against potential risky online situations
+related to the sharing of personal information.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn what good online netiquette
+entails.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore and learn skills to use
+online communication in a positive manner.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn the importance of being responsible
+users of the Internet and to practise good cybersecurity habits.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn the importance of being a
+respectful user of the Internet and the steps to take when faced with dilemmas.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn about Internet challenges,
+phishing, doxxing and online falsehoods.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn that&nbsp; when dealing with
+peer influence, one should act responsibly with consideration of the well-being
+and safety of self and others.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn that negative digital footprints
+can have consequences and a negative impact on themselves.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to use T.H.I.N.K. to help
+them avoid leaving negative digital footprints and maintain a positive
+online presence.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr>
+<p>To link to Student Well-Being Write Up</p>
