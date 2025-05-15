@@ -47,14 +47,11 @@ Education (NE) Commemorative Events.</p>
 </li>
 <li>
 <p>School based initiatives such as Values Extraordinaire Awards, signature
-level programmes etc</p>
+level programmes etc.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>The well-being of our students propels us to provide a caring and enabling
-school environment and sound CCE curriculum content. Click <u>here</u>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[1]</a>&nbsp; to find out more!</p>
-<p>&nbsp;</p>
+school environment and sound CCE curriculum content.&nbsp;</p>
 <p><strong>Other Events / Programmes</strong>
 </p>
 <p>In GMS(P), students are recognised for their efforts in demonstrating
@@ -157,81 +154,45 @@ well-being. In addition, teachers conduct frequent one-on-one check-ins
 with students to provide support, offer advice, and address concerns. Regular
 termly check-in surveys help teachers monitor students' mental wellness,
 allowing for timely follow-ups and interventions when needed.</p>
-<p></p>
-<p>&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p><em>PSLs leading their peers to do some exercises during recess to destress</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQhzs_ps3-pPF9HDkwlta80caFDmGUN1VYsFy59H5hXVsOcQXLwr8q3eylI-mUCHjph_A-b6o7HadHj/pubembed?start=true&amp;loop=true&amp;delayms=1000"></iframe>
+</div>
 <p>Beyond the classroom, the school organizes Back-to-School activities every
 term to ensure students feel welcomed and motivated as they return from
 the holidays.</p>
-<p>&nbsp;</p>
-<p><em>PSLs welcoming their school mates to school by giving them a high five on the first day of school</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_PSL_Welcome.png">
+</div>
+<p>&nbsp;<em>PSLs welcoming their school mates to school by giving them a high five on the first day of school</em>
 </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><em>Getting to know our friends better through back to school activities in class</em>
-</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><em>Bonding through games time with our classmates</em>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u>Cyber Wellness</u></strong>
-</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRshSXN3VqFWMnxcaBBg-SV6H-f9BAOT2qTdr1pr8QrtVfC-HLQaVMT-pb6w0OHTq7E1L-lwHxkasKv/pubembed?start=true&amp;loop=true&amp;delayms=1000"></iframe>
+</div>
+<h3>Cyber Wellness</h3>
 <p>Cyber Wellness is about our students being able to navigate the cyber
 space safely.</p>
 <p>This is done through our curriculum which aims to equip students with
 the knowledge and skills to harness the power of Information and Communication
 Technology (ICT) for positive purposes, maintain a positive presence in
-cyberspace and be safe and responsible users of ICT.<strong><u>&nbsp;&nbsp;&nbsp;</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><em>Cyberwellness pop up booths during recess</em>
-</p>
-<p><em>&nbsp;</em>
+cyberspace and be safe and responsible users of ICT.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-FuFto6laWcW4CFfhuimeTV7cQL2kiN6XFLwTxA4-q9mHn3tLhWT4FVCuWZSF0OR6BtuZP0hyrcRc/pubembed?start=true&amp;loop=true&amp;delayms=1000"></iframe>
+</div>
+<p><em>Cyberwellness pop up booths during recess&nbsp;</em>
 </p>
 <p>At GMS(P), our Cyber Wellness (CW) programme aims to nurture responsible
 digital learners who navigate the online world safely and respectfully.
 Guided by three key principles—Respect for Self and Others, Safe and Responsible
 Use, and Positive Peer Influence—students learn the importance of making
 informed and ethical choices online.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>Cyber Wellness education is integrated into FTGP and CCE lessons, with
 additional reinforcement through Assembly Talks, the School Messaging Board,
 and termly Cyber Wellness Programmes.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_Cyberwellness.png">
+</div>
 <p><em>Cyberwellness lesson with The Smiley squirrel from POSB</em>
 </p>
 <p><em>&nbsp;</em>
