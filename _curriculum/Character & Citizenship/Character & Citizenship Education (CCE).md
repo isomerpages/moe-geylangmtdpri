@@ -195,12 +195,11 @@ and termly Cyber Wellness Programmes.</p>
 </div>
 <p><em>Cyberwellness lesson with The Smiley squirrel from POSB</em>
 </p>
-<p><em>&nbsp;</em>
-</p>
-<p>Beyond the classroom, parents play a vital role in guiding their children's
-screen use and online habits. We believe that fostering Cyber Wellness
-is a shared responsibility and encourage parents to work closely with the
-school in promoting safe, responsible, and balanced digital use.</p>
+<p><em>&nbsp;</em>Beyond the classroom, parents play a vital role in guiding
+their children's screen use and online habits. We believe that fostering
+Cyber Wellness is a shared responsibility and encourage parents to work
+closely with the school in promoting safe, responsible, and balanced digital
+use.</p>
 <p>To reinforce Cyber Wellness messages at home, parents are encouraged to
 engage in "Family Time" activities found in the CCE (FTGP) Journal with
 their children. These activities provide meaningful opportunities to discuss
@@ -208,7 +207,6 @@ online safety, responsible digital behavior, and the importance of healthy
 screen time management. By partnering together, we can help students develop
 mindful online behaviors and healthy screen habits both in school and at
 home.</p>
-<p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -235,13 +233,18 @@ home.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn basic skills for navigating
-the cyberworld safely.&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognise opportunities and dangers
-in the cyberworld.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn the importance of turning
-to trusted adults for help whenever they feel unsafe or are unsure about
-any online situations.&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn basic skills for navigating the cyberworld safely.&nbsp;</p>
+</li>
+<li>
+<p>Recognise opportunities and dangers in the cyberworld.</p>
+</li>
+<li>
+<p>Learn the importance of turning to trusted adults for help whenever they
+feel unsafe or are unsure about any online situations.&nbsp;</p>
+</li>
+</ul>
 </td>
 <td rowspan="6" colspan="1">
 <p>Annual Safer Internet Day</p>
@@ -265,12 +268,17 @@ leaders.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn about the actions of tricky
-people offline and online, how to assess potentially risky situations,
-and ways to keep oneself safe.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand what personal information
-is and learn how to protect themselves against potential risky online situations
-related to the sharing of personal information.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn about the actions of tricky people offline and online, how to assess
+potentially risky situations, and ways to keep oneself safe.</p>
+</li>
+<li>
+<p>Understand what personal information is and learn how to protect themselves
+against potential risky online situations related to the sharing of personal
+information.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -278,10 +286,14 @@ related to the sharing of personal information.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn what good online netiquette
-entails.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore and learn skills to use
-online communication in a positive manner.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn what good online netiquette entails.</p>
+</li>
+<li>
+<p>Explore and learn skills to use online communication in a positive manner.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -289,10 +301,16 @@ online communication in a positive manner.</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn the importance of being responsible
-users of the Internet and to practise good cybersecurity habits.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn the importance of being a
-respectful user of the Internet and the steps to take when faced with dilemmas.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn the importance of being responsible users of the Internet and to
+practice good cybersecurity habits.</p>
+</li>
+<li>
+<p>Learn the importance of being a respectful user of the Internet and the
+steps to take when faced with dilemmas.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -300,11 +318,15 @@ respectful user of the Internet and the steps to take when faced with dilemmas.<
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn about Internet challenges,
-phishing, doxxing and online falsehoods.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn that&nbsp; when dealing with
-peer influence, one should act responsibly with consideration of the well-being
-and safety of self and others.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn about Internet challenges, phishing, doxxing and online falsehoods.</p>
+</li>
+<li>
+<p>Learn that&nbsp; when dealing with peer influence, one should act responsibly
+with consideration of the well-being and safety of self and others.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -312,11 +334,16 @@ and safety of self and others.</p>
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn that negative digital footprints
-can have consequences and a negative impact on themselves.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to use T.H.I.N.K. to help
-them avoid leaving negative digital footprints and maintain a positive
-online presence.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn that negative digital footprints can have consequences and a negative
+impact on themselves.</p>
+</li>
+<li>
+<p>Learn to use T.H.I.N.K. to help them avoid leaving negative digital footprints
+and maintain a positive online presence.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
