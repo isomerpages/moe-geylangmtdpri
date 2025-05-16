@@ -17,7 +17,6 @@ of the ARTS.&nbsp;</p>
 <p>The Aesthetics Department believes that the arts serve as a powerful platform
 to inspire and motivate young minds, encouraging them to become responsible
 citizens and fostering a deep connection to their community.</p>
-<p>&nbsp;</p>
 <h4><strong>Curriculum Structure and Key Programmes</strong></h4>
 <p>As part of ARTSperience@GMS(P), we actively collaborate with a variety
 of organizations and communities. (For example, Singapore Art Museum and
