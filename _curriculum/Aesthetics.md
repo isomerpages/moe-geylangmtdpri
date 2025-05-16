@@ -4,7 +4,9 @@ permalink: /curriculum/aesthetics/
 description: ""
 variant: tiptap
 ---
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2IPz_BNw9bKcQzrNW-LRvm3YXUi38OL3zZlftqtOTkwn-pNo-VuI_Eosg5V3xyOISh9xnf1juHnL1/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4><strong>Vision</strong></h4>
 <p>To IGNITE passion, INSTILL discipline and INSPIRE creativity in our students'
 pursuit for artistic excellence.</p>
@@ -27,9 +29,11 @@ growth. Both the ARTSperience and Music programmes foster the development
 of meaningful relationships between GMS(P) and our stakeholders.</p>
 <p>&nbsp;</p>
 <h4><strong>Students Showcase</strong></h4>
-<p>&lt;Pictures&gt;</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv3xlg8Hwm6X0xXp4_SDU_abIDTt_Yf9hjg3xduTLwC7WPOngRWNBVY_uMuLNpP1DWorXhfx21O3DG/pubembed?start=true&amp;loop=true&amp;delayms=1000"></iframe>
+</div>
 <p>&nbsp;</p>
-<h4><strong>Meet our Teachers: </strong></h4>
+<h4><strong>Meet our Teachers:</strong></h4>
 <p><strong>Ms Denyse Ong (HOD Aesthetics)</strong>
 </p>
 <p><strong>Mr Harvey Kwek (ST Art)</strong>
