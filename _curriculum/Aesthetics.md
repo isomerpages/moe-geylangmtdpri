@@ -2,45 +2,50 @@
 title: Aesthetics
 permalink: /curriculum/aesthetics/
 description: ""
+variant: tiptap
 ---
-![](/images/aes%20main%20pic.jpg)
-
-<h4 style="color:blue;">Vision</h4>
-<p style="text-align: justify;">To IGNITE passion, INSTILL discipline and INSPIRE creativity in our students' pursuit for artistic excellence.  </p>
-
-<h4 style="color:blue;">Mission</h4>
-<p></p><p style="text-align: justify;">To create opportunities to students to champion the CREATIVITY and APPRECIATION of the ARTS.</p>
-
-<h4 style="color:blue;">Overview</h4>
-<p></p><p style="text-align: justify;">The department believes that arts is an excellent platform and catalyst to inspire and motivate our young minds to be responsible citizens and to be deeply connected to their community.</p>
-
-<h4 style="color:blue;">Curriculum Structure and Key Programmes</h4>
-<p></p><p style="text-align: justify;">As part of the ARTSperience@GMS(P), we collaborate with various organisations, and the communities. These numerous collaborations provide rich learning experience for our young artistes as they share their art and music skills at multiple platforms and form a learning community in order to work collectively and collaboratively. Artsperience and our Music programme also nurture the development of meaningful relationships between GMS(P) and our stakeholders.</p>
-
-![](/images/Capture5.jpg)<p></p>
-
-<h4 style="color:blue;">Pedagogical Approach</h4>
-<p></p><p style="text-align: justify;">1) Moulding our students to be self-directed and inquisitive learners through art and music.
-
-</p><p style="text-align: justify;">2) Instilling in them the sense of being rooted in Singapore and proud of their local talents and heritage through learning of local artistes.</p>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKvVvzIN9PKNQ-m8lw5zqpvpj7GMjrMsU4gxTUhklFvy7wqUtR6HMfeGuX9Z3CeOcM2KG7IA_O3WAq/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
-<h4 style="color:blue;">Singapore Youth Festival Art Exhibition</h4>
-[Cat A\_SYF.pdf](/files/Cat%20A_SYF.pdf) <br>
-[Cat B\_SYF.pdf](/files/Cat%20B_SYF.pdf) <br>
-[Cat C_SYF.pdf](/files/Cat%20C_SYF.pdf)<br>
-
-<h5 style="color:blue;">Category A</h5>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpTOoOG2J3ocDgg0GIIGgkygQ6H1d1uAzVECCq_L3cOskEzc1l7NGe0UJgs17Z9wN4u1REJSBI3sMO/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="600" height="500" allowfullscreen="true"></iframe>
-<br>
-
-<h5 style="color:blue;">Category B</h5>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTe8siJg5rUOQqTXuv0N2tkwgbPVP59eHXeEUbAqAQrcZoPvlHZ4-4mRArOesvZ8KYHlcChHW21R1KF/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="600" height="500" allowfullscreen="true"></iframe>
-<br>
-
-<h5 style="color:blue;">Category C</h5>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTyRVvWM_EifulYtLx1hQk3WCvrXaE9bFdF786wN42RprZink08fEA3_arVIj8MXMbhH9IZByokCMBt/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="600" height="500" allowfullscreen="true"></iframe>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2IPz_BNw9bKcQzrNW-LRvm3YXUi38OL3zZlftqtOTkwn-pNo-VuI_Eosg5V3xyOISh9xnf1juHnL1/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4><strong>Vision</strong></h4>
+<p>To IGNITE passion, INSTILL discipline and INSPIRE creativity in our students'
+pursuit for artistic excellence.</p>
+<h4><strong>Mission</strong></h4>
+<p>To create opportunities to students to champion the CREATIVITY and APPRECIATION
+of the ARTS.&nbsp;</p>
+<h4><strong>Overview</strong></h4>
+<p>The Aesthetics Department believes that the arts serve as a powerful platform
+to inspire and motivate young minds, encouraging them to become responsible
+citizens and fostering a deep connection to their community.</p>
+<h4><strong>Curriculum Structure and Key Programmes</strong></h4>
+<p>As part of ARTSperience@GMS(P), we actively collaborate with a variety
+of organizations and communities. (For example, Singapore Art Museum and
+National Gallery) These partnerships offer valuable learning opportunities
+for our young artists, allowing them to showcase their skills in art and
+music across different platforms. Through these collaborations, they form
+a supportive learning community that encourages collective and cooperative
+growth. Both the ARTSperience and Music programmes foster the development
+of meaningful relationships between GMS(P) and our stakeholders.</p>
+<p>&nbsp;</p>
+<h4><strong>Students Showcase</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv3xlg8Hwm6X0xXp4_SDU_abIDTt_Yf9hjg3xduTLwC7WPOngRWNBVY_uMuLNpP1DWorXhfx21O3DG/pubembed?start=true&amp;loop=true&amp;delayms=1000"></iframe>
+</div>
+<p>&nbsp;</p>
+<h4><strong>Meet our Teachers:</strong></h4>
+<p><strong>Ms Denyse Ong (HOD Aesthetics)</strong>
+</p>
+<p><strong>Mr Harvey Kwek (ST Art)</strong>
+</p>
+<p><strong>Mrs Serene Goh (ST Music)</strong>
+</p>
+<p><strong>Ms Tan Cher Hui (Music)</strong>
+</p>
+<p><strong>Mr Yeo Wee Kiong (Music)</strong>
+</p>
+<p><strong>Ms Coco Yap (Art)</strong>
+</p>
+<p><strong>Mrs Melissa Siew (Art)</strong>
+</p>
+<p><strong>Ms Shazwani (Art)</strong>
+</p>
