@@ -8,8 +8,8 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSYYMhiX6QsAxfJv5WjHFzAjJvwl70GRd4fZiWBhWp06ak8H5uX8Q-nxjSqa7TZ-yhA_mGKCPTh1yqx/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4><strong>CCA Overview</strong></h4>
-<p>Our key motto</p>
+<h3><strong>CCA Overview</strong></h3>
+<h4><strong>Our key motto</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Be Gracious</p>
