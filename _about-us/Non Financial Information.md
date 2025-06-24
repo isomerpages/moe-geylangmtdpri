@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4>NON-FINANCIAL INFORMATION ONLINE</h4>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;Non-Financial Information</strong>
+<p><strong>Non-Financial Information</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -140,39 +140,106 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="2">
+<h4><strong>Board of Management</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Board Members</strong> 
-<br>Chairman:&nbsp;Mr. Khoong Hock Yun
-<br>Honorary Secretary: Mr. Victor Owyong
-<br>Honorary Secretary: Mrs Daphne Yeoh
-<br>Honorary Treasurer: Wong Kwang Yong
-<br>Members: Mr. Tay Kah Ann Peter
-<br>Members: Mr. Kim Seah Teck Kim
-<br>Members: Dr. Raymond Teo Cheng Soon
-<br>Members: Mdm. Ng Cher Siang, Cheryl
-<br>
-<br>Key Employee :&nbsp;Mrs Daphne Yeoh, Principal
-<br>
-<br><strong>Auditor</strong> 
-<br>T &amp; C Partners</p>
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Khoong Hock Yun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Chou Fang Soong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hon. Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Wong Kwang Yong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hon. Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Daphne Yeoh – Principal, GMS(Primary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hon. Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Victor Owyong – Principal, GMS(Secondary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Tay Kah Ann Peter</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Rev Simon Cheo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Kim Seah Kim Teck</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr. Raymond Teo Cheng Soon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Pauline Lee Miin Jiun - Alumni President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Cher Siang, Cheryl – Alumni Rep</p>
+</td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4><strong>Auditors</strong></h4>
+<p>T &amp; C Partners</p>
