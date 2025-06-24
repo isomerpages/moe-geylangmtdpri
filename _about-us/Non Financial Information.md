@@ -161,14 +161,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Treasurer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Chou Fang Soong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Hon. Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
