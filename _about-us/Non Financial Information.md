@@ -153,7 +153,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairman</p>
+<p><strong>Chairman</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Khoong Hock Yun</p>
@@ -161,7 +162,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hon. Treasurer</p>
+<p><strong>Hon. Treasurer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Wong Kwang Yong</p>
@@ -169,7 +171,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hon. Secretary</p>
+<p><strong>Hon. Secretary</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Daphne Yeoh – Principal, GMS(Primary)</p>
@@ -177,7 +180,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hon. Secretary</p>
+<p><strong>Hon. Secretary</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Victor Owyong – Principal, GMS(Secondary)</p>
@@ -185,7 +189,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Tay Kah Ann Peter</p>
