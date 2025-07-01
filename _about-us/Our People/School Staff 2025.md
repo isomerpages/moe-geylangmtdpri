@@ -1210,18 +1210,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Allied Educator (T&amp;L)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Seah Keng Swee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:seah_keng_swee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_keng_swee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>
