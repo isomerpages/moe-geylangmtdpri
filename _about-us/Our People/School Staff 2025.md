@@ -527,7 +527,8 @@ variant: tiptap
 <p>Ms Faiqah Aljahsyi Bte Mohmood</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:faiqah_aljahsyi_mahmood@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">faiqah_aljahsyi_mahmood@schools.gov.sg</a>
+<p><a href="mailto:faiqah_aljahsyi_mahmood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faiqah_aljahsyi_mahmood@</a>
+<a href="http://moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -536,7 +537,7 @@ variant: tiptap
 <p>Ms Ling Lay Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ling_lay_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ling_lay_leng@schools.gov.sg</a>
+<p><a href="mailto:ling_lay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_lay_leng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -583,7 +584,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P3-7</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -613,15 +614,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ravinderjit Kaur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ravinderjit_kaur_narula@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ravinderjit_kaur_narula@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
 <p>P4-1</p>
 </td>
@@ -635,12 +627,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Voyda Siew Noi</p>
+<p>Ms Rianne Goh Rui Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:voyda_siew_noi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">voyda_siew_noi@moe.edu.sg</a>
+<p><a href="mailto:goh_rui_qi_rianne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_rui_qi_rianne@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
