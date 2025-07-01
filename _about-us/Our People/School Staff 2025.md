@@ -648,7 +648,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Avany Manggelam</p>
+<p>Mrs Avany Yim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:avany_manggelam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">avany_manggelam@moe.edu.sg</a>
