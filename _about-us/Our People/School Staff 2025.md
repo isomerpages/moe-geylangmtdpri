@@ -527,7 +527,8 @@ variant: tiptap
 <p>Ms Faiqah Aljahsyi Bte Mohmood</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:faiqah_aljahsyi_mahmood@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">faiqah_aljahsyi_mahmood@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -535,7 +536,8 @@ variant: tiptap
 <p>Ms Ling Lay Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ling_lay_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ling_lay_leng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
