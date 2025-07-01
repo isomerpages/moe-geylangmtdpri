@@ -1259,18 +1259,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2. Mr Donald Teh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Teh_Sing_Wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_sing_wan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
