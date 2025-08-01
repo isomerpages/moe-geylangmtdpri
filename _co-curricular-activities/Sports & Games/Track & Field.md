@@ -29,8 +29,7 @@ in a competitive setting.</p>
 <p>The Track and Field CCA ultimately aims to nurture confident, disciplined,
 and well-rounded individuals who demonstrate commitment both on and off
 the track.</p>
-<p><strong><u>Teachers-in-charge</u></strong>
-</p>
+<h4><strong>Teachers-in-charge</strong></h4>
 <p><strong>Mr Fahmi (Teacher-in-charge)</strong>
 </p>
 <p><strong>Mdm Zaleha (2IC)</strong>
