@@ -3,194 +3,220 @@ title: Girls' Brigade
 permalink: /co-curricular-activities/cca/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
-variant: markdown
+variant: tiptap
 ---
-![](/images/GBPicture1.jpg)
-
-<h4 style="color:blue;">CCA Overview</h4>
-<img src="/images/GB%20Mission.png" style="width:150%">
-<p style="text-align: justify;">The Girls' Brigade is a uniformed group that seeks to help girls achieve their fullest potential through positive character building and activities. We aim to develop each girl to her fullest potential by equipping, empowering and enabling every girl to be a leader.&nbsp;<br><br>
-
-<b>The GB Mission:</b><br>
-</p><p style="text-align: justify;">Developing each girl and officer to her fullest potential by equipping, empowering and enabling: Every Girl to be a Leader &amp; Every Officer to be a Servant Leader.&nbsp;<br>  <br>
-  
-<b>The GB Aim:</b><br>
-</p><p style="text-align: justify;">To help girls to become followers of the Lord Jesus Christ and through self-control, reverence and a sense of responsibility to find true enrichment of life.&nbsp;
-
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GBPicture1.jpg">
+</div>
+<h4>CCA Overview</h4>
+<div class="isomer-image-wrapper">
+<img style="width:150%" height="auto" width="100%" src="/images/GB%20Mission.png">
+</div>
+<p>The Girls' Brigade is a uniformed group that seeks to help girls achieve
+their fullest potential through positive character building and activities.
+We aim to develop each girl to her fullest potential by equipping, empowering
+and enabling every girl to be a leader.&nbsp;
 <br>
-<br>	
-</p><p style="text-align: center;"><strong>2<sup>nd</sup> Company Girls’ Brigade Student Leadership Structure 2023</strong></p>
-
-<table style="border-collapse:collapse;mso-yfti-tbllook:1184" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.75pt"><td style="border:solid black 1.0pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:9.75pt" valign="top" colspan="7"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Company Leader: Bernice Teo &amp; Charis Goh</span><span style="font-size:12.0pt;font-family:
-  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:1;height:20.2pt"><td style="border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.2pt" valign="top" colspan="7"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Assistant Company Leader : Ang Le En Tiffany &amp; Teng Yu Xin&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2"><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Squad&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">leaders</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Squad 1</span><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Squad 2</span><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Squad 3</span><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Squad 4</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Squad 5</span><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Squad 6&nbsp;</span><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:3"><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Jess Tan&nbsp;</span><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Lo Ke Xin, Caryn</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Jerin Goh&nbsp;</span><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Phoebe</span><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Tan Yu Tong</span><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Elaine&nbsp;</span><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:4;height:42.75pt"><td style="border:solid black 1.0pt;border-top:none;mso-border-top-alt:
-  solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:42.75pt" valign="top"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Assistant&nbsp;</span><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Squad&nbsp;</span><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">leaders</span><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:42.75pt" valign="top"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Lilian Grace Leitao&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:42.75pt" valign="top"><p style="margin-top:0cm;margin-right:18.0pt;margin-bottom:
-  0cm;margin-left:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black">Tan Ing Xuan&nbsp;</span><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:42.75pt" valign="top"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ng Wei Tong</span><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:42.75pt" valign="top"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Chelsea Tay&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:42.75pt" valign="top"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Guo Meng Qi&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:42.75pt" valign="top"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Gao Xin Di&nbsp;</span><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:29.2pt"><td style="border:solid black 1.0pt;border-top:none;mso-border-top-alt:
-  solid black .5pt;mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:29.2pt" valign="top"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Flag Raising IC:</span></p></td><td style="border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:29.2pt" valign="top" colspan="6"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ong Yun Ting</span></p></td></tr></tbody></table><br>
+<br>
+</p>
+<p><strong>The GB Mission:</strong>
+<br>
+</p>
 <p></p>
-
-<h4 style="color:blue;">Teachers-in-charge</h4><br>
-Ms Theresa Tong (IC)<br> Ms Sun Jinyu (2IC)<br> Mrs Ariel Koh<br> Mrs Christabel Chue<br> Ms Deborah Tan<br> Ms Wendy Lin<br><br>
-Ms Rebecca Ting (Church Personnel)<br>
+<p>Developing each girl and officer to her fullest potential by equipping,
+empowering and enabling: Every Girl to be a Leader &amp; Every Officer
+to be a Servant Leader.&nbsp;
+<br>
+<br>
+</p>
+<p><strong>The GB Aim:</strong>
+<br>
+</p>
 <p></p>
-
-<h4 style="color:blue;">Achievements</h4><br>
-<b>2022 Junior Brigader Brooch Awardee:</b> <br>
-1.Chloe Goh Qiaoli, P6-5<br>
-(Company Leader)
-
-2.Ong Le Xuan Anabel, P6-3 <br>
-(Company Leader)
-
-3.Kuan Zi Xuan, P6-8 <br>
-(Squad Leader, Flag Raising IC)
-
-4.Ong Yun Ting, P6-3
-
-        
-<b>Company Award for 2022:</b> <br>
-Gold Award
- 
-
-<b>Dr Low Guat Tin Challenge 2022</b><br>
-<b>Bronze Award</b>&nbsp;<br>
-Girls Brigade 2nd Company  
-
-<b>2021 Junior Brigadier Brooch Awardee:</b> <br>
-1.Tan Hui En <br>
-2.Lai Zi Ting <br>
-3.Amanda Go <br>
-4.Gwenda Lim <br>
-5.Hoh Heu Wen
-
-<b>Dr Low Guat Tin Challenge 2021</b> <br>
-<u>Gold</u> <br>
-Chloe Goh Qiaoli (5-5) <br>Charis Goh Baoting (4-1)
-
-<u> Silver&nbsp;</u><br>
-Ong Le Xuan, Anabel (5-3) <br>&nbsp;Kwan Zi Xuan (5-8)
-
-<u>Bronze</u><br>Tanushri D/O S Kumar (4-1)
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTiOzu2U0rbLV3R4EeQMJ9t6PW5Wp2KmD-WjvUrsEy3fIuW33B-FW74aupAb2oz2IUKWcKHPME1bqOB/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p>To help girls to become followers of the Lord Jesus Christ and through
+self-control, reverence and a sense of responsibility to find true enrichment
+of life.&nbsp;
+<br>
+<br>
+</p>
+<p><strong>2<sup>nd</sup> Company Girls’ Brigade Student Leadership Structure 2023</strong>
+</p>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="7">
+<p>Company Leader: Bernice Teo &amp; Charis Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7">
+<p>Assistant Company Leader : Ang Le En Tiffany &amp; Teng Yu Xin&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Squad&nbsp;</p>
+<p>leaders</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Squad 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Squad 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Squad 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Squad 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Squad 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Squad 6&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jess Tan&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lo Ke Xin, Caryn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jerin Goh&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Phoebe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Yu Tong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elaine&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant&nbsp;</p>
+<p>Squad&nbsp;</p>
+<p>leaders</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lilian Grace Leitao&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Ing Xuan&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Wei Tong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chelsea Tay&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guo Meng Qi&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gao Xin Di&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Flag Raising IC:</p>
+</td>
+<td rowspan="1" colspan="6">
+<p>Ong Yun Ting</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p></p>
+<h4>Teachers-in-charge</h4>
+<p>
+<br>Ms Theresa Tong (IC)
+<br>Ms Sun Jinyu (2IC)
+<br>Mrs Ariel Koh
+<br>Mrs Christabel Chue
+<br>Ms Deborah Tan
+<br>Ms Wendy Lin
+<br>
+<br>Ms Rebecca Ting (Church Personnel)
+<br>
+</p>
+<p></p>
+<h4>Achievements</h4>
+<p><strong>2025 Girls’ Brigade - </strong>Company Gold Award</p>
+<p><strong>GB Junior Brigadier Brooch</strong>
+<br>Highest Level of Attainment for Primary School GB Girls</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>JBB Girls</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chong Wen Xuan (P6-3)</p>
+<p>Foo Min Shi (P6-3)</p>
+<p>Reena Robinson (P6-4)</p>
+<p>Ying Xiu Jun Shavonne (P6-5)</p>
+<p>Amanda Tan Ying (P6-7)</p>
+<p>Fedora Ling Yu Qing (P6-8)</p>
+<p>Raequelle Tan Qian Hui (P6-8)</p>
+<p>Tay Yi Xin (P6-8)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br><strong>2022 Junior Brigader Brooch Awardee:</strong> 
+<br>1.Chloe Goh Qiaoli, P6-5
+<br>(Company Leader)</p>
+<p>2.Ong Le Xuan Anabel, P6-3
+<br>(Company Leader)</p>
+<p>3.Kuan Zi Xuan, P6-8
+<br>(Squad Leader, Flag Raising IC)</p>
+<p>4.Ong Yun Ting, P6-3</p>
+<p><strong>Company Award for 2022:</strong> 
+<br>Gold Award</p>
+<p><strong>Dr Low Guat Tin Challenge 2022</strong>
+<br><strong>Bronze Award</strong>&nbsp;
+<br>Girls Brigade 2nd Company</p>
+<p><strong>2021 Junior Brigadier Brooch Awardee:</strong> 
+<br>1.Tan Hui En
+<br>2.Lai Zi Ting
+<br>3.Amanda Go
+<br>4.Gwenda Lim
+<br>5.Hoh Heu Wen</p>
+<p><strong>Dr Low Guat Tin Challenge 2021</strong> 
+<br><u>Gold</u> 
+<br>Chloe Goh Qiaoli (5-5)
+<br>Charis Goh Baoting (4-1)</p>
+<p><u>Silver&nbsp;</u>
+<br>Ong Le Xuan, Anabel (5-3)
+<br>&nbsp;Kwan Zi Xuan (5-8)</p>
+<p><u>Bronze</u>
+<br>Tanushri D/O S Kumar (4-1)</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTiOzu2U0rbLV3R4EeQMJ9t6PW5Wp2KmD-WjvUrsEy3fIuW33B-FW74aupAb2oz2IUKWcKHPME1bqOB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
