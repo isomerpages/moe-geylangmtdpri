@@ -43,7 +43,14 @@ and discipline.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_1a.jpg">
 </div>
-<p></p>
+<p><strong>National School Games Basketball 2025 (Senior Division)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>4th Position in Group (League 1)</strong>
+</p>
+</li>
+</ul>
 <p><strong>National School Games Basketball 2024 (Senior Division)</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top 4 in Singapore (League 1)</p>
