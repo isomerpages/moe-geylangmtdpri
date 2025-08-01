@@ -41,10 +41,57 @@ highest accolade for BB Boys in Singapore awarded by BBHQ every year.
 </p>
 <h4>Achievements</h4>
 <p>
-<br><strong>2024</strong> 
+<br><strong>2025</strong>
+</p>
+<p><strong>Boys'&nbsp;Brigade&nbsp;Adventure Quest</strong>
+</p>
+<p>21J Primary 6 Boys - Silver Honour Roll</p>
+<p><strong>Boys'&nbsp;Brigade&nbsp;Best Boy Award</strong>
+</p>
+<p>Jotham Solomon Ng 6-7</p>
+<p><strong>The Gold Badge</strong>
+<br>Highest Award in the BB Juniors Programme</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lau Xing Yu (P6-1)</p>
+<p>Wong Yao Hui Ivan (P6-1)</p>
+<p>Caden Tan Wei Rong (P6-2)</p>
+<p>Cai Zhengyan (P6-2)</p>
+<p>Ng Song Zhe Sten (P6-2)</p>
+<p>Shi Binhuan (P6-3)</p>
+<p>Joshua Seah Yong Peng (P6-4)</p>
+<p>Chow Weng Jun (P6-5)</p>
+<p>Aarya s/o Iqbaal (P6-5)</p>
+<p>Nick Wang Youjun (P6-5)</p>
+<p>Sean Lee Sheng Ern (P6-5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xia Yueyang (P6-5)</p>
+<p>Yang Lanqing (P6-6)</p>
+<p>Chuah Song Tze (P6-6)</p>
+<p>Tomy Koh (P6-6)</p>
+<p>Jarif Samuel Khan (P6-7)</p>
+<p>Jotham Solomon Ng (P6-7)</p>
+<p>Ng Yi Hang Caleb (P6-7)</p>
+<p>Japheth Lim Jun Zhong (P6-8)</p>
+<p>Jude Joseph Lim Song Yi (P6-8)</p>
+<p>Goh Yisheng Asher (P6-8)</p>
+<p>Pang Xianle Evan (P6-8)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>2024</strong> 
 <br>Tan Boon Chian Medal Best Boy 2024 - Patrick Yeo (P6-8)
 <br>Character Quest, Silver Honour Roll - BB Unit 21J
-<br>Adventure Quest, Bronze Roll - P6 BB Boys
+<br>Adventure Quest, Silver Honour Roll - 21J P6 BB Boys
 <br>J M Fraser Award for Excellence (High Distinction - Gold) - Entire Company
 <br>
 </p>
