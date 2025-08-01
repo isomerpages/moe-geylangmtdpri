@@ -325,49 +325,6 @@ the track.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;<u>2025</u></strong>
-</p>
-<p><strong><u>Singapore Athletics Age Group Championships 2025</u></strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name &amp; Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Event - Position</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Lim Xuan Qi Nathanael<br>P6-5</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Men U13 80m Dash - 1st <br>Men U13 Long Jump - 2nd <br>Men U13 200m Dash - 2nd</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Takahashi Sachiko <br>P6-4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Women U13 80m Dash - 10th <br>Women U13 High Jump - 2nd</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
 <p></p>
 <p></p>
