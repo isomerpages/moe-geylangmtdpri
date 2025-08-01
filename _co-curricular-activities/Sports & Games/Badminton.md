@@ -30,7 +30,7 @@ body and mind’ to reach his or her fullest potential.</p>
 <p><strong>Coach:</strong> Mr Chong Kiong Seng&nbsp;</p>
 <h4>Achievements</h4>
 <p><strong>2025 National School Games</strong>
-<br>Badminton Tournament East Zone 2025 (Participation)</p>
+<br>3rd Position in Group (League6)</p>
 <p><strong><u>Senior Boys (League 6)</u></strong>
 </p>
 <p>• Jonathan Kam Jon Hoi (Captain)</p>
@@ -47,7 +47,10 @@ body and mind’ to reach his or her fullest potential.</p>
 <p>• Thian Jian Ying</p>
 <p>• Thim Khai Way</p>
 <p>• Tristan James Knorr</p>
-<p><strong><u>Senior Girls (League 4)</u></strong>
+<p><strong>2025 National School Games</strong>
+</p>
+<p><strong>2nd Position in Group (League 4)</strong>
+<br><strong><u>Senior Girls (League 4)</u></strong>
 </p>
 <p>• Wang Ziyu (Captain)</p>
 <p>• Elize Lum Lai Yuet</p>
