@@ -36,7 +36,8 @@ for the League 3 competition. Well done to our netballers!</p>
 <br>Ms Khor Ting Fang</p>
 <h4><strong>Achievements</strong></h4>
 <p>
-<br><strong>National School Games school team:</strong>
+<br><strong>National School Games 2025</strong>
+<br><strong>4th Position in Group (League 3)</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
