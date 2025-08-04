@@ -940,7 +940,7 @@ are very thankful for the strong commitment and support from the sponsors.</p>
 <p>The Raffles Mathematical Olympiad aims to promote students' interest in
 Mathematics and
 <br>develop their problem-solving abilities.</p>
-<p><u>Junior Category for P4 &amp; P5 Students:</u> 
+<p><u>Junior Category for P4 &amp; P5 Students:</u>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
