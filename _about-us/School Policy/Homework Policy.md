@@ -3,6 +3,7 @@ title: Homework Policy
 permalink: /about-us/school-policy/homework-policy/
 description: ""
 third_nav_title: School Policy
+variant: markdown
 ---
 <p style="text-align: justify;">1.  Homework refers to any learning activity that students are required by the school to complete outside of curriculum time. It includes all tasks and assignments including those given through the Student Learning Space that require them to complete outside of curriculum time.  
       
@@ -57,7 +58,6 @@ third_nav_title: School Policy
   line-height:18.0pt"><span style="font-size:12pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-bidi-language:AR-SA">9 - 13 hours</span></p></td></tr></tbody></table>
 	
-</p><p style="text-align: justify;">5.  Homework will not be assigned on Monday as it is a long school day for the majority of the students.  
-      
-    
-</p><p style="text-align: justify;">6.  All assignments for the class would be written on the whiteboard in the homework column.</p>
+</p><p style="text-align: justify;">5.  Homework will not be assigned for Public Holidays Monday and for CCA day, as it is a long school day for most of the students.  
+          
+</p><p style="text-align: justify;">6.  All assignments for the class will be written on the whiteboard in the homework column.</p>
