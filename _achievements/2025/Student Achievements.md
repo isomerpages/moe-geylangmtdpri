@@ -272,12 +272,12 @@ School Games and achieved the following:</p>
 <p>Taekwondo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yellow 7 (Junior Boys)
-<br>Bronze</p>
+<p>Blue 3 (Junior Boys)
+<br>3rd Position</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lim Zong Xun
-<br>P3-6</p>
+<br>P4-6</p>
 </td>
 </tr>
 <tr>
@@ -356,120 +356,7 @@ School Games and achieved the following:</p>
 <br>4th Position</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tham Yu Ze
-<br>P5-4</p>
-<p>Lim Xuan Qi Nathanael
-<br>P5-5</p>
-<p>Ong Zee Yew Gregory
-<br>P5-7</p>
-<p>Ong Zee Han Corey
-<br>P5-8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Long Jump and 1000m
-<br>(Senior Girls) Bronze</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chloe Chan Si Kei
-<br>P6-7</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shot Put (Senior Boys) Silver</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kwok Hoi Nam
-<br>P6-1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Long Implement Throw Javelin (Senior Boys) Bronze</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jerhance Mercado Koh
-<br>P5-3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Scissors Jump and 80m (Junior Girls) Bronze</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Takahashi Sachiko
-<br>P5-4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Long Jump (Junior Boys) Bronze</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Xuan Qi Nathanael
-<br>P5-5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>60m (Junior Boys) Gold</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Xuan Qi Nathanael
-<br>P5-5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Standing Long Jump Bronze</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tham Yu Ze
-<br>P5-4</p>
+<p>Takashi Sachiko (P6-4)</p>
 </td>
 </tr>
 <tr>
@@ -554,6 +441,34 @@ School Games and achieved the following:</p>
 <br>P4-3</p>
 <p>Wang Ziyu
 <br>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Artistic Gymnastics</p>
+<p>(Junior Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Round 3rd Position (Bronze)</p>
+<p><u>Vault</u>
+</p>
+<p>2nd position</p>
+<p><u>Floor Exercise</u>
+</p>
+<p>4th position</p>
+<p><u>Balance Beam</u>
+</p>
+<p>5th position</p>
+<p><u>Uneven Bars</u>
+</p>
+<p>16th position</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koh Tang Geraldine (P5-7)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
