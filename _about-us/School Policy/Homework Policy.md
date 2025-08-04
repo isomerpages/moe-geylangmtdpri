@@ -59,6 +59,5 @@ variant: markdown
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-bidi-language:AR-SA">9 - 13 hours</span></p></td></tr></tbody></table>
 	
 </p><p style="text-align: justify;">5.  Homework will not be assigned for Public Holidays Monday and for CCA day, as it is a long school day for most of the students.  
-      
-    
-</p><p style="text-align: justify;">6.  All assignments for the class would be written on the whiteboard in the homework column.</p>
+          
+</p><p style="text-align: justify;">6.  All assignments for the class will be written on the whiteboard in the homework column.</p>
