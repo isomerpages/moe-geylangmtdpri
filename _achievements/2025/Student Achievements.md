@@ -120,55 +120,31 @@ third_nav_title: "2025"
 </td>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="1" colspan="1">
 <p>2</p>
 </td>
-<td rowspan="8" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Girls’ Brigade</p>
 </td>
-<td rowspan="7" colspan="1">
-<p>Junior Brigadier Brooch (JBB)&nbsp;</p>
+<td rowspan="1" colspan="1">
+<p>Gold Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lillian Grace Leitao (P6-1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teng Yu Xin (P6-4)</p>
+<p>Whole Company</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gao Xindi (P6-7)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Guo Mengqi (P6-8)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Wei Tong (P6-8)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Ing Xuan (P6-8)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tiffany Ang (P6-8)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024 Dr. Low Guat Tin Challenge</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver Award</p>
+<p>GB Music Drill Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best in Precision Award</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +163,7 @@ School Games and achieved the following:</p>
 <p>Rope Skipping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games (Senior)</p>
+<p>National School Games (Junior)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -195,23 +171,25 @@ School Games and achieved the following:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Individual Speed (Boys)</u>
-<br>4<sup>th</sup> place</p>
+<p><u>Pair Artistic  1 st </u>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teo Tiat Beng Jenson P6-8</p>
+<p>Tang Zhi Yu (P5-4)</p>
+<p>Jacob Kim Ya Ge (P5-4)</p>
+<p>Mikhail Tan Yu Sheng (P5-1)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><u>Double Dutch (Boys)</u>
-<br>3<sup>rd </sup>place</p>
+<br>4th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teo Tiat Beng Jenson P6-8</p>
-<p>Theodore Ong Huan Long P6-1</p>
-<p>Jayden Koh Jia Jun P6-4</p>
-<p>Keith Wang Yong Jun P5-6</p>
+<p>Tang Zhi Yu (P5-4)</p>
+<p>Jacob Kim Ya Ge (P5-4)</p>
+<p>Mikhail Tan Yu Sheng (P5-1)</p>
 </td>
 </tr>
 <tr>
