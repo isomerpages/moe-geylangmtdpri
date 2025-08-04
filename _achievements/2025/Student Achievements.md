@@ -471,516 +471,108 @@ School Games and achieved the following:</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Swiming</p>
+<p>(Junior Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100m Fly
+<br>C Division</p>
+<p>5th Position</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheang Cherlyn (P5-2)</p>
+</td>
+</tr>
 </tbody>
 </table>
-<h3>Maximise Your Potential Award</h3>
-<p>We wish to congratulate the following P5 and P6 students, who were given
-the Maximise Your Potential Award. These students have displayed potential
-in a range of domains, including academic, arts and sports.</p>
-<p>This award is unique to GMS(P) and is sponsored by a team of well-wishers
-who are committed to supporting students who demonstrate potential, through
-financial support and mentoring. This award is in its 21st year, and we
-are very thankful for the strong commitment and support from the sponsors.</p>
-<table style="minWidth: 50px">
+<h3>Art &amp; Craft</h3>
+<p>Singapore Youth Festival Art Exhibition 2025</p>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Adawiyah Binti Muhammad Ghazali
-<br>P5-5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Jun Wei, Dylan
-<br>P6-1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Daniel Cheong Boh Le
-<br>P5-7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chin Jing Le
-<br>P6-3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Goh Rui Jie
-<br>P5-7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kong Choi Hang
-<br>P6-3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Suthakar Danesh
-<br>P5-7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Yen Ann
-<br>P6-3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wong Yuyan
-<br>P5-7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Julia Ming Xinyi Scott
-<br>P6-4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>He Junyi Justin
-<br>P6-5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yoong Min Shan, Roycelene
-<br>P6-5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ezzah Mursyiedah Binte Erwan
-<br>P6-6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mikayla Lai Wen Qi
-<br>P6-8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nicole Lian
-<br>P6-8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Math Competitions</h4>
-<p>We congratulate our students who did well in recent Mathematics competitions.</p>
-<p><strong>Raffles Mathematical Olympiad</strong>
-</p>
-<p>The Raffles Mathematical Olympiad aims to promote students' interest in
-Mathematics and
-<br>develop their problem-solving abilities.</p>
-<p><u>Junior Category for P4 &amp; P5 Students:</u>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HIGH DISTINCTION AWARD</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sim Guan You Jayan
-<br>P5-8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>DISTINCTION AWARD</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Zhao Zihao
-<br>P5-2</p>
-<p>Tong Yu Zi
-<br>P5-7</p>
-<p>Pang Xianle Evan
-<br>P5-8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MERIT</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lucas Yu Zecheng
-<br>P4-7</p>
-<p>Chew Jinhui
-<br>P4-8</p>
-<p>Le Thien Thanh An
-<br>P4-8</p>
-<p>Ho Kee Huan
-<br>P5-7</p>
-<p>Chua Elliot Nirvan Cua
-<br>P5-8</p>
-<p>Chung Zhi Shan
-<br>P5-8</p>
-<p>Fedora Ling Yu Qing
-<br>P5-8</p>
-<p>Lin Lei
-<br>P5-8</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><u>Open Category for P6 Students:</u>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>DISTINCTION</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chin Jing Le
-<br>P6-3</p>
-<p>Edward Kyuseok Corbett Pick
-<br>P6-7</p>
-<p>Tung Ziqi
-<br>P6-7</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MERIT</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Jun Wei, Dylan
-<br>P6-1</p>
-<p>He Junyi Justin
-<br>P6-5</p>
-<p>Arya Chong Han Wen Basu
-<br>P6-7</p>
-<p>Kenzi Mi’raq Bin Nor Azarizal
-<br>P6-7</p>
-<p>Sim Hengle Asher
-<br>P6-7</p>
-<p>Viyasa Prakan
-<br>P6-7</p>
-<p>Annsh Dutt
-<br>P6-8</p>
-<p>Chan Sze Yin Jacquelyn
-<br>P6-8</p>
-<p>Mikayla Lai Wen Qi
-<br>P6-8</p>
-<p>Sim Jing Yi
-<br>P6-8</p>
-<p>Weng Leqi
-<br>P6-8</p>
-<p>Wong Yi Hog, Maximus
-<br>P6-8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Asia Pacific Mathematical Olympiad for Primary Schools</h4>
-<p>The Asia Pacific Mathematical Olympiad aims to promote greater interest
-in Mathematics and
-<br>sharpen their problem-solving abilities.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>BRONZE</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ARYA CHONG HAN WEN BASU
-<br>P6-7</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>2024 Wizard School Challenge (Mathematics - KooBits)</h4>
-<p>1st Runner Up of top 3 schools with the highest Challenge Points</p>
-<h4>2024 Primary Mathematics Project Competition</h4>
-<p>Isaac Chong Yu Herng of P5-8 won the outstanding award for P5 Physical
-Game Design category</p>
-<h4>2024 Primary Science Olympiad by NUS High School</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Award</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Choo Eng Hee Kristin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5-8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="9" colspan="1">
-<p>Merit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jarif Samuel Khan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5-7</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Ee Shin Gwen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5-7</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wang Ziyu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5-7</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ong Zee Yew Gregory</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5-7</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lin Heng Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5-8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ong Zee Han Corey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5-8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Xin Rui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5-8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tevin Jay Singh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5-8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pang Xianle Evan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5-8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<h4>Sony Creative Science Award</h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Award</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
+<p><strong>Category A</strong>
+<br><strong>Certificate of Recognition</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Whizkid Category (2nd)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phua Yu Kai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4-7</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<h4>2024 STEM Design Challenge by Dunman Secondary School</h4>
+<p>Ashton Warunthon Mak (P2-1)</p>
+<p>Ashley Warunthon Mak (P2-2)</p>
+<p>Melanie Yeap (P2-2)</p>
+<p>Zenden Chan Jun Bao (P2-2)</p>
+<p>Fang Zhi Ting (P2-6)</p>
+<p>Selina Teoh Kai Ting (P2-7)</p>
+<p>Zayden Lim Shao Jie (P2-8)</p>
+<p>Ezzah Nuraaila Bte Salim (P2-8)</p>
+<p>Kaelyn Salleh Seet Kai En (P2-9)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Top 3 STEM Design</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tevin Jay Singh
-<br>Pang Xuanle Evan
-<br>Ong Zee Han Corey
-<br>Lin Le</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5-8</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Drone Odyssey Challenge</h4>
-<p>A team of P5 students participated in the Drone Odyssey Challenge 2024
-and was awarded the Best Strategy Award. This is the first time the school
-has participated in this competition. The theme of the competition is 'Drones
-for Good’ and it is focused on utilising drones to address future challenges
-and promote technology for positive impact.</p>
-<h4>School Digital Media Awards</h4>
-<p>Our P4 students and the P6 Art Club members participated in this year’s
-Schools Digital Media</p>
-<p>Awards 2024 – Yummybuddies Comic Strip Art Competition (Primary Category).</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Winners in Comic Strip titled Stop Cyber-Bullying</strong>
+<p>Category B</p>
+<p><strong>Certification of Participation</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Chee Jung En
-<br>P6-3</p>
-<p>Kong Choi Hang
-<br>P6-3</p>
-<p>Weng Leqi
-<br>P6-8</p>
+<p>Elynn Chong (P4-1)</p>
+<p>Emily Kira Herbst (P4-2)</p>
+<p>Tan Yu Xuan (P4-2)</p>
+<p>Raelynn Tang Rui Xuan (P4-3)</p>
+<p>Geraldine Teo Min En (P4-4)</p>
+<p>Manzano Aletheia Ahavah Navarro (P4-4)</p>
+<p>Pang Yunxi (P4-4)</p>
+<p>Jessenia Puteri Fadzny (P4-5)</p>
+<p>Ong Zhi Xin (P4-5)</p>
+<p>Ho Yu En (P4-7)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Winners in Comic Strip titled Sketchy Links</strong>
+<p>Category C
+<br><strong>Certificate of Participation</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Angela Chew Yin Sian
-<br>P4-7</p>
-<p>Serol Eloise Wong
-<br>P4-7</p>
-<p>Chow Weng Han
-<br>P4-7</p>
+<p>Koh Kai Xuan (P5-4)</p>
+<p>Kong Zhixin Ivy (P5-7)</p>
+<p>Tang Qianhui (P5-7)</p>
+<p>Alysa Lim Vern Xien (P6-1)</p>
+<p>Lu Ruiqiao (P6-1)</p>
+<p>Pennee Yeo (P6-2)</p>
+<p>Jenna Nagisa Tan (P6-5)</p>
+<p>Nur Adawiyah Binti Muhd Ghazali (P6-5)</p>
+<p>Lim Yi Tong (P6-6)</p>
+<p>Liew Yi Ting Isabelle (P6-8)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Environmental Science</strong>
+<br>Singapore Amazing Flying Machine 2025
+<br>Category A (Paper Plane)</p>
+<p><strong>Certificate of Participation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Liew Si En (P5-1)</p>
+<p>Isabel Lu Yixuan (P5-1)</p>
+<p>Li Juncheng (P5-7)</p>
 </td>
 </tr>
 </tbody>
