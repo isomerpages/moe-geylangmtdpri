@@ -156,10 +156,10 @@ School Games and achieved the following:</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="7" colspan="1">
 <p>1</p>
 </td>
-<td rowspan="6" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Rope Skipping</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,7 +171,7 @@ School Games and achieved the following:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Pair Artistic  1 st </u>
+<p><u>Pair Artistic 1 st </u>
 <br>
 </p>
 </td>
@@ -205,23 +205,31 @@ School Games and achieved the following:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Individual Speed (Boys)</u>
-<br>Bronze Achievement Pin</p>
+<p><u>Individual Artistic (Boys)</u>
+<br>6th Position</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tang Zhi Yu
-<br>P4-3</p>
+<p>Jacob Kim Ya Ge (P5-4)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Individual Speed (Girls)</u>
+<p><u>Individual Speed (Jr. Girls)</u>
+<br>Bronze Achievement Pin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhang Qirui (P4-4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Double Under (Jn. Girls)</u>
 <br>Bronze Achievement Pin</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Xuan Hui
-<br>P5-7</p>
+<p>Zhang Qirui (P4-4)</p>
+<p></p>
 </td>
 </tr>
 <tr>
