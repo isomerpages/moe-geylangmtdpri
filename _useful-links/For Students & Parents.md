@@ -23,13 +23,19 @@ variant: tiptap
 <p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p>MIMS Portal</p>
+<p>MIMS Portal Student Self-Service Password Reset (SSPR)</p>
 </li>
 </ol>
 <p><a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">https://mims.moe.gov.sg/sspr</a>
 </p>
 <p></p>
 <ol start="4" data-tight="true" class="tight">
+<li>
+<p>Guide for SSPR</p>
+</li>
+</ol>
+<p></p>
+<ol start="5" data-tight="true" class="tight">
 <li>
 <p>School Library Portal</p>
 </li>
