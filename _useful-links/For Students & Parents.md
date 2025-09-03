@@ -34,7 +34,8 @@ variant: tiptap
 <p>Guide for SSPR</p>
 </li>
 </ol>
-<p></p>
+<p><a href="https://geylangmethodistpri.moe.edu.sg/sspr/" rel="noopener nofollow" target="_blank">SSPR Guide</a>
+</p>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p>School Library Portal</p>
