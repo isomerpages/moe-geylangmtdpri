@@ -5,18 +5,47 @@ description: ""
 variant: tiptap
 ---
 <h4>Students</h4>
-<p>1. Singapore Student Learning Space (SLS)
-<br><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
+<ol data-tight="true" class="tight">
+<li>
+<p>Singapore Student Learning Space (SLS)</p>
+</li>
+</ol>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
 </p>
-<p>2. Student iCON
-<br><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Student iCON</p>
+</li>
+</ol>
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
 </p>
-<p>3. School Library Portal
-<br><a href="https://schoolibrary.moe.edu.sg/geylangmethodistpri" rel="noopener noreferrer nofollow" target="_blank">https://schoolibrary.moe.edu.sg/geylangmethodistpri</a>
+<p></p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>MIMS Portal</p>
+</li>
+</ol>
+<p><a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">https://mims.moe.gov.sg/sspr</a>
 </p>
-<p>4. Tingkle Friend</p>
+<p></p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>School Library Portal</p>
+</li>
+</ol>
+<p><a href="https://schoolibrary.moe.edu.sg/geylangmethodistpri" rel="noopener noreferrer nofollow" target="_blank">https://schoolibrary.moe.edu.sg/geylangmethodistpri</a>
+</p>
+<p></p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>Tinkle Friend</p>
+</li>
+</ol>
 <p><a href="https://www.tinklefriend.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.tinklefriend.sg/</a>
 </p>
+<p></p>
+<p></p>
 <h4>Parents</h4>
 <p>1. Parents' Gateway
 <br><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/</a>
