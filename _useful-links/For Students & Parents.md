@@ -31,7 +31,7 @@ variant: tiptap
 <p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p>Guide for SSPR</p>
+<p>Guide for Student Self-Service Password Reset (SSPR)</p>
 </li>
 </ol>
 <p><a href="https://geylangmethodistpri.moe.edu.sg/student-self-sevice-password-reset-guide/" rel="noopener nofollow" target="_blank">SSPR Guide</a>
