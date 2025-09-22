@@ -4,8 +4,8 @@ permalink: /p3-p4-elearning-29-sep-2025-to-30-sep-2025/
 variant: tiptap
 description: ""
 ---
-<p>P3 &amp; P4 students will have e-learning on 29 and 30 Sep 2025. The respective
-lesson plans are in the links below:</p>
+<p>P3 &amp; P4 students will have e-learning on 29 Sep 2025 to 30 Sep 2025.
+The respective lesson plans are in the links below:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
