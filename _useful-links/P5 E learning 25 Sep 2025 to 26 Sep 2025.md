@@ -4,7 +4,7 @@ permalink: /p5-e-learning-25-sep-2025-to-26-sep-2025/
 variant: tiptap
 description: ""
 ---
-<p>P5 students will have e-learning on 25 Sep to 26 Sep 2025. The respective
+<p>P5 students will have e-learning on 25 Sep 2025 to 26 Sep 2025. The respective
 lesson plans are in the links below:</p>
 <table style="minWidth: 50px">
 <colgroup>
