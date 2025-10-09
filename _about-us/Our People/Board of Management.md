@@ -37,8 +37,7 @@ in the re-designing of the school crest launched in Aug 2007.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chairman</strong>
-</p>
+<h4><strong>Chairman</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Khoong Hock Yun</p>
@@ -49,8 +48,7 @@ in the re-designing of the school crest launched in Aug 2007.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Hon. Treasurer</strong>
-</p>
+<h4><strong>Hon. Treasurer</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wong Kwong Yong</p>
@@ -60,32 +58,27 @@ in the re-designing of the school crest launched in Aug 2007.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Hon. Secretary</strong>
-</p>
+<td rowspan="2" colspan="1">
+<h4><strong>Hon. Secretary</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Daphne Yeoh, Principal, GMS(P)</p>
+<p>Mrs Daphne Yeoh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Victor Owyong,&nbsp;Principal, GMS(S)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Principal, GMS(P)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Members</strong>
-</p>
+<p>Mr Victor Owyong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal, GMS(S)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="9" colspan="1">
+<h4><strong>Members</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Kim Seah Kim Teck</p>
@@ -96,9 +89,6 @@ in the re-designing of the school crest launched in Aug 2007.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Pauline Lee Miin Jiun</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,9 +96,6 @@ in the re-designing of the school crest launched in Aug 2007.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Cheryl Ng Cher Siang</p>
 </td>
@@ -118,9 +105,6 @@ in the re-designing of the school crest launched in Aug 2007.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Peter Tay Kah Ann</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,9 +112,6 @@ in the re-designing of the school crest launched in Aug 2007.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Dr Raymond Teo Cheng Soon</p>
 </td>
@@ -140,9 +121,6 @@ in the re-designing of the school crest launched in Aug 2007.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Rev Simon Cheo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,9 +128,6 @@ in the re-designing of the school crest launched in Aug 2007.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Rev Tay Li Ping</p>
 </td>
@@ -162,9 +137,6 @@ in the re-designing of the school crest launched in Aug 2007.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Adrian Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,9 +144,6 @@ in the re-designing of the school crest launched in Aug 2007.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Dr Chong Choon Seng</p>
 </td>
