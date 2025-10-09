@@ -53,7 +53,20 @@ variant: tiptap
 <p><a href="https://www.tinklefriend.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.tinklefriend.sg/</a>
 </p>
 <p></p>
-<p></p>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p>Group Personal Accident (GPA) Insurance for Students</p>
+</li>
+</ol>
+<p>The Ministry of Education (MOE) provides all students with Group Personal
+Accident (GPA) Insurance under Income Insurance Limited. The policy covers
+accidents arising from all school-related activities, including CCAs and
+sports, both locally and overseas, in accordance with MOE safety requirements.
+It is designed to partially offset medical expenses in the event of an
+accident.</p>
+<p>Parents and students can view policy details via the <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_new">Income website</a> or the
+<a href="https://drive.google.com/file/d/1CuklheUdNmaibc9dJ3sIHoUla0PmZw2U/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Product Factsheet</a>. Claims should be submitted <a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">online</a> within <strong>30 days</strong> of
+the accident. The guide for claim submission can be found on the portal.</p>
 <h4>Parents</h4>
 <p>1. Parents' Gateway
 <br><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/</a>
