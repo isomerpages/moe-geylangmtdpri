@@ -87,7 +87,7 @@ the accident. The guide for claim submission can be found on the portal.</p>
 <br><a href="/files/lower%20primary%20parents'%20cl%20workshop.pdf" rel="noopener noreferrer nofollow" target="_blank">Lower Pri Parents' CL Workshop</a>
 </p>
 <p>8. Primary 1 Student Hub (Administrative information)
-<br><a href="https://sites.google.com/moe.edu.sg/gmsp-p1studenthub?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click here for the Google site</a>
+<br><a href="https://sites.google.com/moe.edu.sg/primary1studenthub/home?authuser=0" rel="noopener noreferrer nofollow" target="_blank">Click here for the Google site</a>
 </p>
 <ol start="9" data-tight="true" class="tight">
 <li>
