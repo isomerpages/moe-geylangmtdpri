@@ -24,15 +24,15 @@ variant: tiptap
 <p>[GMS(P) PSG Newsletter - Nov 2022](/files/gms(p)%20psg%20newsletter%20-%20nov%202022.pdf)</p>
 <h4>May 2022</h4>
 <p>[GMS(P) PSG Newsletter - May 2022](/files/gms(p)%20psg%20newsletter%20-%20may%202022.pdf)</p>
-<h4>July 2021</h4>
+<h4>Jul 2021</h4>
 <p><a href="/files/GMSP%20PSG%20Newsletter%20-%20July%202021.pdf" rel="noopener noreferrer nofollow" target="_blank">GMS(P) PSG Newsletter - July 2021</a>
 </p>
-<h4>July 2020</h4>
+<h4>Jul 2020</h4>
 <p><a href="/files/GMSP%20PSG%20Newsletter%20-%20July%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">GMS(P) PSG Newsletter - July 2020</a>
 </p>
-<h4>January 2020</h4>
+<h4>Jan 2020</h4>
 <p><a href="/files/GMSP%20PSG%20Newsletter%20-%20Jan%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">GMS(P) PSG Newsletter - Jan 2020</a>
 </p>
-<h4>July 2019</h4>
+<h4>Jul 2019</h4>
 <p><a href="/files/GMSP%20PSG%20Newsletter%20-%20July%202019.pdf" rel="noopener noreferrer nofollow" target="_blank">GMS(P) PSG Newsletter - July 2019</a>
 </p>
