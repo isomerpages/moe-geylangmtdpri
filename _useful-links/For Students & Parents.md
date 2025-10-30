@@ -67,6 +67,14 @@ accident.</p>
 <p>Parents and students can view policy details via the <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_new">Income website</a> or the
 <a href="https://drive.google.com/file/d/1CuklheUdNmaibc9dJ3sIHoUla0PmZw2U/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Product Factsheet</a>. Claims should be submitted <a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">online</a> within <strong>30 days</strong> of
 the accident. The guide for claim submission can be found on the portal.</p>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>Acceptable Use Policy (AUP) for use of EdTech Resources</p>
+<p><a href="/files/AUP.pdf" rel="noopener noreferrer nofollow" target="_blank">AUP Document</a>
+</p>
+</li>
+</ol>
+<hr>
 <h4>Parents</h4>
 <p>1. Parents' Gateway
 <br><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/</a>
