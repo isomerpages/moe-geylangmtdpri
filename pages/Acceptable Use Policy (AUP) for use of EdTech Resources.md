@@ -8,15 +8,13 @@ description: This Acceptable Use Policy (AUP) establishes guidelines on the
   literacies and growth as digitally responsible citizens.
 ---
 <h2>Acceptable Use Policy (AUP) for use of EdTech Resources</h2>
-<p>&nbsp;</p>
-<h4>Purpose of the Acceptable Use Policy (AUP)</h4>
+<h4>&nbsp;<strong>Purpose of the Acceptable Use Policy (AUP)</strong></h4>
 <p>Technology is an essential part of learning in today’s world.</p>
-<p>&nbsp;</p>
 <p>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate
 use of EdTech resources to help you understand how to use these resources
 safely and responsibly, in line with efforts to develop your digital literacies
 and growth as digitally responsible citizens.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>EdTech resources include the following, but are not limited to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -27,7 +25,7 @@ and growth as digitally responsible citizens.</p>
 and school internet networks.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>For more information, please refer to:</p>
 <p>Student Kit on Cyber Wellness and Learning with a Learning Device (Primary)
 – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkitpri</a>
@@ -105,8 +103,4 @@ devices outside learning hours.</p>
 your eyes and mind.</p>
 <p>17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are reminded to practice good sleep
 hygiene by not using your devices one hour before bedtime.</p>
-<p>
-<br>
-</p>
-<hr>
 <p></p>
