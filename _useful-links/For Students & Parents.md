@@ -70,8 +70,11 @@ the accident. The guide for claim submission can be found on the portal.</p>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Acceptable Use Policy (AUP) for use of EdTech Resources</p>
+<p><a href="/files/AUP.pdf" rel="noopener noreferrer nofollow" target="_blank">AUP Document</a>
+</p>
 </li>
 </ol>
+<hr>
 <h4>Parents</h4>
 <p>1. Parents' Gateway
 <br><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/</a>
