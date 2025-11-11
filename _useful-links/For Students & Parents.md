@@ -135,64 +135,54 @@ or via the online platform:</p>
 <p>Thank you for your understanding.</p>
 <p></p>
 <p></p>
-<h4>2025 Booklists</h4>
+<h4>2026 Booklists</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025_Booklist/Primary_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
-<br>
+<p><a href="/files/2026_Booklist/Primary_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Booklist/Primary_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
+<p><a href="/files/2026_Booklist/Primary_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Booklist/Primary_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
-<br>
+<p><a href="/files/2026_Booklist/Primary_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Booklist/Primary_3__HMT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 HMT</a>
-<br>
+<p><a href="/files/2026_Booklist/Primary_3_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 HMT</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Booklist/Primary_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
+<p><a href="/files/2026_Booklist/Primary_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Booklist/Primary_4__HMT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 HMT</a>
-<br>
+<p><a href="/files/2026_Booklist/Primary_4_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 HMT</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Booklist/Primary_5__4F_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (4F)</a>
-<br>
+<p><a href="/files/2026_Booklist/Primary_5__4F_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (4F)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Booklist/Primary_5__4S_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (4S)</a>
-<br>
+<p><a href="/files/2026_Booklist/Primary_5__4S_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (4S)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Booklist/Primary_5__4S_HMT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (4S_HMT)</a>
-<br>
+<p><a href="/files/2026_Booklist/Primary_5__4S_HMT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (4S HMT)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Booklist/Primary_6__4F_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 (4F)</a>
-<br>
+<p><a href="/files/2026_Booklist/Primary_6__4F_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 (4F)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Booklist/Primary_6__4S_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 (4S)</a>
-<br>
+<p><a href="/files/2026_Booklist/Primary_6__4S_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 (4S)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Booklist/Primary_6__4S_HMT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 (4S_HMT)</a>
-<br>
+<p><a href="/files/2026_Booklist/Primary_6__4S_HMT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 (4S HMT)<br></a>
 </p>
 </li>
 </ul>
