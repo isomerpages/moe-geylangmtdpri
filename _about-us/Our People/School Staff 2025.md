@@ -909,7 +909,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Yu Cui</p>
+<p>Mrs Goh Yu Cui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pek_yu_cui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_yu_cui@moe.edu.sg</a>
@@ -930,7 +930,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Lim Tong Hai</p>
+<p>Mr Lim Tong Hai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_tong_hai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tong_hai@moe.edu.sg</a>
