@@ -205,7 +205,12 @@ variant: tiptap
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Keyless_Lock_Manual.pdf" rel="noopener noreferrer nofollow" target="_blank">WMSensehub Keyless Smart Padlock (iPad Carts)</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
