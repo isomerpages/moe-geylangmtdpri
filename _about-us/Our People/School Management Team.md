@@ -396,20 +396,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Joanne Yak</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(CCE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:joanne_yak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanne_yak@moe.edu.sg</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Christabel Chue (Mdm Chua Khar Loo)</p>
 </td>
 <td rowspan="1" colspan="1">
