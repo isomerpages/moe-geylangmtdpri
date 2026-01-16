@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="500" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Y39B-_Y7XMFtfiizuhKd3APCmSFrE0um-MQhi9VL4axv5ZmtNfdx67iJ52bSSfvNu2iL3r_9-B5b/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/T_F001.png">
 </div>
 <h4><strong>CCA Overview</strong></h4>
 <p>The Track and Field CCA is dedicated to developing students holistically
