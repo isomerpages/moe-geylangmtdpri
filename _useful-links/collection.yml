@@ -2,12 +2,12 @@ collections:
   useful-links:
     output: true
     order:
-      - Gallery 2025/.keep
       - Calendar of Events.md
       - Forms.md
       - For Students & Parents.md
       - For Teachers and Staff.md
       - Annual Publication.md
+      - Gallery 2025/.keep
       - 2024 Gallery/.keep
       - 2024 Gallery/Centennial Dinner.md
       - 2024 Gallery/Centennial Thanksgiving.md
