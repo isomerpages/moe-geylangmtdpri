@@ -129,7 +129,7 @@ in the re-designing of the school crest launched in Aug 2007.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rev Tay Li Ping</p>
+<p>Rev Alex Chew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Resource Person and Pastor-in-Charge (Christalite Methodist Chapel)</p>
