@@ -878,6 +878,59 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="3" colspan="1">
+<p>P5-6</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Shannon Kor (Mdm Loh Yi Qun)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_yi_qun_shannon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_yi_qun_shannon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chow Fong Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chow_fong_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_fong_yee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ling Lay Leng, Germaine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ling_lay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_lay_leng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P5-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jessica Kang
+<br>(Mdm Teo Bee Thian Jessica)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_bee_thian_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_bee_thian_jessica@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sim Wei Zhang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sim_wei_zhang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_wei_zhang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p>P6-1</p>
 </td>
