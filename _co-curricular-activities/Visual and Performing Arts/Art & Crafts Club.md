@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-RQe4-75fFmrOL1e8NUgzZcSIdXeEfC-GuHm05efygsRFvGRZpr4OTmJpA54WiNsKVMrVYfCIatqt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-RQe4-75fFmrOL1e8NUgzZcSIdXeEfC-GuHm05efygsRFvGRZpr4OTmJpA54WiNsKVMrVYfCIatqt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><br><strong>CCA Overview</strong></h4>
 <p>Art Club offers pupils with interest in visual arts to come together and
@@ -32,15 +32,16 @@ another.
 <p>Mdm Sulistiati (2IC)</p>
 </li>
 <li>
-<p>Mdm Nantheini</p>
-</li>
-<li>
 <p>Ms Shazwani</p>
 </li>
 <li>
-<p>Mdm Coco Yap
-<br>
-</p>
+<p>Mr Artt</p>
+</li>
+<li>
+<p>Mdm Nantheini</p>
+</li>
+<li>
+<p>Ms Joan Cheri</p>
 </li>
 </ul>
 <h4>Achievements</h4>
@@ -101,7 +102,7 @@ another.
 <p>Stop Cyber-bullying! Comic strip Design Competition - Certificate of Commendation</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQhLxrsTB-SEo4BX3Lo8pvbSS7naBANOQgr7npDV33ujelsB5JZOw4iNke7bABeE7g7AIMUbuyHQZUS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQhLxrsTB-SEo4BX3Lo8pvbSS7naBANOQgr7npDV33ujelsB5JZOw4iNke7bABeE7g7AIMUbuyHQZUS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 </li>
 </ul>
