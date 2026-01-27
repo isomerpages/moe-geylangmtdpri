@@ -22,11 +22,23 @@ or at zonal and national levels.</p>
 <p>We believe every badminton player is special and will grow in ‘friendship,
 body and mind’ to reach his or her fullest potential.</p>
 <h4>Teachers-in-charge</h4>
-<p>Mr Hidayat Bin Rahmat (IC)
-<br>Mdm Ros’mariati Bte Sulaiman (2IC)
-<br>Ms Jolyn Chun
-<br>Mrs Karunahkaran Kalaivani</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Hidayat Rahmat (IC)</p>
+</li>
+<li>
 <p>Ms Li Jiarui</p>
+</li>
+<li>
+<p>Mohamed Ali Marican</p>
+</li>
+<li>
+<p>Mdm Janna Lim</p>
+</li>
+<li>
+<p>Ms Rochelle Sim</p>
+</li>
+</ul>
 <p><strong>Coach:</strong> Mr Chong Kiong Seng&nbsp;</p>
 <h4>Achievements</h4>
 <p><strong>2025 National School Games</strong>
