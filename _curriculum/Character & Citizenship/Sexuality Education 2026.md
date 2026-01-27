@@ -11,9 +11,7 @@ third_nav_title: Character & Citizenship
 </p>
 <p><strong>MOE Sexuality Education in Schools</strong>
 </p>
-<p>&nbsp;</p>
-<p></p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
 changes they experience as they mature, develop healthy and rewarding relationships
 with others, including those with members of the opposite sex, and make
@@ -165,15 +163,15 @@ to modulate their behaviours. Furthermore, our young are also exposed to
 a wide range of influences that could endanger health and undermine the
 integrity of the family. Our students require close guidance so that they
 can respond with discernment to the sexual messages in the media and other
-sources.</p>
+sources</p>
 <p></p>
-<p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons are
+<p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education (SEd) lessons are
 taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons,
 students will learn healthy ways to manage the physiological, social and
 emotional changes in their growing years. They learn to build healthy and
 rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
-decisions to keep themselves safe from sexuality-related risks.</p>
+decisions to keep themselves safe from sexuality-related risks</p>
 <p></p>
 <p></p>
 <p><strong>At GEYLANG METHODIST SCHOOL (PRIMARY), the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
@@ -250,7 +248,7 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -268,7 +266,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 </tbody>
@@ -329,7 +327,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -346,7 +344,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 </tbody>
@@ -361,11 +359,12 @@ programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated &nbsp;to parents at the start of the year
-via Parents Gateway and is also downloadable <a href="/files/ANNEX_A_Parent_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out
-form is to be submitted by 21/02/2025.</p>
+via Parents Gateway and is also downloadable <a href="https://form.gov.sg/697237c48f0ccd0e0c3110a0" rel="noopener nofollow" target="_blank">here</a>. The completed
+opt-out form is to be submitted by 05/02/2026.</p>
 <p></p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school personnel,
-Mrs Joanne Yak (SH CCE) at <a href="mailto:joanne_yak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanne_yak@moe.edu.sg</a> for discussion
-or to seek clarification about the school’s Sexuality Education programme.</p>
+Mrs Kelly Leung (HOD CCE) at <a href="mailto:law_ngiap_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">law_ngiap_choo@schools.gov.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
 <p></p>
 <p>&nbsp;</p>
