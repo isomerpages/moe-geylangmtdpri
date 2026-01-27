@@ -139,13 +139,13 @@ skills.&nbsp;<em>(Adapted from MOE website)<br><br></em><strong>2)&nbsp;Particip
 <p>Year / Competition</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>2022</p>
-</th>
-<th rowspan="1" colspan="1">
 <p>2023</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>2024</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2025</p>
 </th>
 </tr>
 <tr>
@@ -169,13 +169,13 @@ skills.&nbsp;<em>(Adapted from MOE website)<br><br></em><strong>2)&nbsp;Particip
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Bronze and 2 Merit</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>1 silver, 3 Bronze and 5 Merit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Gold and 9 Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Silver, 4 Bronze, 7 Merit</p>
 </td>
 </tr>
 <tr>
@@ -184,17 +184,36 @@ skills.&nbsp;<em>(Adapted from MOE website)<br><br></em><strong>2)&nbsp;Particip
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N.A.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>2 Commendation Awards</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N.A.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Commendation Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>STEM&nbsp;Playground Grand Finale</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A,</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner Up</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stem_2nd_runner_up.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore Youth Science Fair" src="/images/Singapore_Youth_Science_Fair.jpg">
