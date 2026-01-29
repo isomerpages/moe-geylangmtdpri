@@ -228,7 +228,8 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2
+<br>Week 4</p>
 </td>
 </tr>
 <tr>
