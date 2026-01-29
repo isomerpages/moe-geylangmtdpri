@@ -113,7 +113,7 @@ ones.</p>
 more information on MOE Sexuality Education.</p>
 <p><strong><br></strong>
 </p>
-<p><strong>Overview of GEYLANG METHODIST SCHOOL (PRIMARY)’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of GEYLANG METHODIST SCHOOL (PRIMARY)’s Sexuality Education Programme for 2026</strong>
 </p>
 <p></p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
@@ -174,10 +174,10 @@ opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks</p>
 <p></p>
 <p></p>
-<p><strong>At GEYLANG METHODIST SCHOOL (PRIMARY), the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At GEYLANG METHODIST SCHOOL (PRIMARY), the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p></p>
 <p><strong>Primary 5</strong>
@@ -228,7 +228,8 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2
+<br>Week 4</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +275,7 @@ and how to seek help for themselves and their friends.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Primary 6</strong>
 </p>
