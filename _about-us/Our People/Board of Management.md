@@ -121,7 +121,7 @@ in the re-designing of the school crest launched in Aug 2007.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rev Simon Cheo</p>
+<p>Rev Chin Yan Chong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pastor-in-Charge (Geylang Chinese Methodist Church)</p>
