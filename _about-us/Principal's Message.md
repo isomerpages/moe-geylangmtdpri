@@ -15,4 +15,4 @@ variant: markdown
 <p style="text-align: justify;">We warmly invite you to explore our website and discover more about the Geylang Methodist family — a community built on faith, values, and excellence. Whether you are a prospective student, parent, or community member, we look forward to sharing our heritage, our vision, and the distinctive warmth that defines our school.</p>
 
 <b>Mrs Daphne Yeoh<br>
-Principal</b><br>
+Principal since 2024</b><br>
