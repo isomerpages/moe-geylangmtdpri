@@ -4,8 +4,6 @@ permalink: /about-us/principal-message/
 description: ""
 variant: markdown
 ---
-<p style="text-align: justify;">Welcome to Geylang Methodist School (Primary)</p>
-
 <p style="text-align: justify;">Geylang Methodist School (Primary) is a 102-year-old Christian mission school with a proud heritage and a steadfast commitment to values-based education. Guided by our mission to inspire young minds, nurture strong character, and make a positive impact on the community, we continue to uphold a legacy of faith, service, and excellence.</p>
 
 <p style="text-align: justify;">Building on this rich heritage, GMS(P) is dedicated to providing a holistic education that nurtures the whole child. Our student-centric, values-based, and future-oriented curriculum is thoughtfully designed to meet the diverse needs of our learners. By leveraging educational technology and innovative e-pedagogies, we equip our students with a strong foundation and essential 21st-century competencies, empowering them to thrive in an increasingly globalised world. Supported by a committed team of teaching and non-teaching staff, our school provides a caring and supportive environment that promotes well-being, joyful learning, and continuous growth.</p>
