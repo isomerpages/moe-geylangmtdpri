@@ -18,7 +18,7 @@ integrates <strong>language skills, cultural values, and real-world applications
 develop well-rounded learners.</p>
 <p>&nbsp;</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPabVcBYmm0SPkm3kqNv8uSK4MIGd4x-U9USg2xO-CylI_Tht6z9kcZm2tYYNUPQ43via4i9jIAhmF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPabVcBYmm0SPkm3kqNv8uSK4MIGd4x-U9USg2xO-CylI_Tht6z9kcZm2tYYNUPQ43via4i9jIAhmF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3><strong>Emphasis of The Department</strong></h3>
 <p>We believe in <strong>building a strong foundation</strong> for our students
@@ -60,7 +60,7 @@ a habit of reading, students gain confidence and a deeper love for their
 Mother Tongue.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSdPiLnUDIxQUXbwFC2TW60hboj9AaAMMmmBLvMoO8SQIxtoPCbhKNV2FqHezKJSauo1SfXlbWRFfB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSdPiLnUDIxQUXbwFC2TW60hboj9AaAMMmmBLvMoO8SQIxtoPCbhKNV2FqHezKJSauo1SfXlbWRFfB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong><u>Cultural Programmes and Activities</u></strong></h4>
 <p><strong><u>Mother Tongue Fortnight &amp; P4 Cultural Camp</u></strong>
@@ -70,7 +70,7 @@ making learning more immersive and enjoyable. Through interactive experiences,
 they develop a deeper appreciation for their Mother Tongue languages and
 cultures.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIdgLSxglWUHLzIAq-NfWrqBKCZNwQP-DRo9YZfgATwmLmIKwK6WlIpErTDRRW6XzWZiFaWKzYxfyd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIdgLSxglWUHLzIAq-NfWrqBKCZNwQP-DRo9YZfgATwmLmIKwK6WlIpErTDRRW6XzWZiFaWKzYxfyd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><strong><u>Learning Journeys：CPES</u></strong>
 </p>
@@ -79,7 +79,7 @@ cultural programmes provide valuable opportunities for experiential and
 contextual learning. By making real-world connections, students deepen
 their understanding of their heritage, culture, and the world around them.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPabVcBYmm0SPkm3kqNv8uSK4MIGd4x-U9USg2xO-CylI_Tht6z9kcZm2tYYNUPQ43via4i9jIAhmF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPabVcBYmm0SPkm3kqNv8uSK4MIGd4x-U9USg2xO-CylI_Tht6z9kcZm2tYYNUPQ43via4i9jIAhmF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>&nbsp;<strong><u>Festive Celebrations</u></strong>
 </p>
@@ -89,7 +89,7 @@ meaningful activities. These celebrations help students connect with traditions,
 strengthen their cultural identity, and embrace diversity in our multicultural
 society.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2x-_fnx6L2CI94lVNcoqvI9u6OUhCsNLokmY9fZKLFl6gjADgwdWtNqdujbyZhs6l6WMQQkdSJY-z/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2x-_fnx6L2CI94lVNcoqvI9u6OUhCsNLokmY9fZKLFl6gjADgwdWtNqdujbyZhs6l6WMQQkdSJY-z/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>&nbsp;<strong><u>School and National Competitions</u></strong>
 </p>
@@ -101,7 +101,7 @@ students to be confident communicators and lifelong learners of their Mother
 Tongue Language. We look forward to partnering with parents to support
 our students’ language journey!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPabVcBYmm0SPkm3kqNv8uSK4MIGd4x-U9USg2xO-CylI_Tht6z9kcZm2tYYNUPQ43via4i9jIAhmF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPabVcBYmm0SPkm3kqNv8uSK4MIGd4x-U9USg2xO-CylI_Tht6z9kcZm2tYYNUPQ43via4i9jIAhmF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -110,8 +110,4 @@ our students’ language journey!</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p></p>
