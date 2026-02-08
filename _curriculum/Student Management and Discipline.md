@@ -45,17 +45,16 @@ CNB for awareness during assembly talks and recess activities.&nbsp;</p>
 <p></p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/police_assembly.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/recessA.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/recessB.jpg">
 </div>
+<p></p>
 <ol start="2">
 <li>
 <p><u>GeM Class Award&nbsp;</u>
@@ -69,7 +68,6 @@ and a positive learning attitude. This award encourages students to uphold
 school values and foster a supportive class culture.&nbsp;</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEM.jpg">
 </div>
@@ -98,13 +96,10 @@ strengthen organizations, and contribute to a more just and caring world.</p>
 uphold school values and serve as role models for their peers. It highlights
 the importance of leadership, responsibility, and service as prefects play
 an active role in the school community.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/exc02025.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <ol start="2">
 <li>
 <p><u>Tier 3 (Prefects &amp; CCA Leaders) Camp &amp; Class committee training&nbsp;</u>
@@ -121,7 +116,6 @@ take on responsibilities, and contribute positively to the community.&nbsp;</p>
 </div>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/camp1.jpg">
 </div>
