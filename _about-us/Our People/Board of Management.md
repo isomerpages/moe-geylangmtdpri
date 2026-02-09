@@ -81,7 +81,7 @@ in the re-designing of the school crest launched in Aug 2007.</p>
 <h4><strong>Members</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Kim Seah Kim Teck</p>
+<p>Mr Kim Seah Kim Teck</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Asst. Education Secretary</p>
@@ -108,7 +108,7 @@ in the re-designing of the school crest launched in Aug 2007.</p>
 <p>Mr Peter Tay Kah Ann</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Member</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ in the re-designing of the school crest launched in Aug 2007.</p>
 <p>Dr Raymond Teo Cheng Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Member</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ in the re-designing of the school crest launched in Aug 2007.</p>
 <p>Rev Chin Yan Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pastor-in-Charge (Geylang Chinese Methodist Church)</p>
+<p>Resource Person and Pastor-in-Charge (Geylang Chinese Methodist Church)</p>
 </td>
 </tr>
 <tr>
