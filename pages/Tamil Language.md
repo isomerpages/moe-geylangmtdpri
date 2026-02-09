@@ -2,7 +2,6 @@
 title: Tamil Language
 permalink: /curriculum/mother-tongue-languages/tamil-language/
 description: ""
-third_nav_title: Mother Tongue Languages
 ---
 <p style="text-align: justify;">Learning in the Mother tongue is also crucial for improving other critical thinking skills, second language learning, and literacy skills. The Tamil language department in collaboration with the other MT departments @ GMS(P) instills the passion and use of the language to our students through various school-based programmes, activities and beyond. We believe our students will continue to love Tamil Language and render it as a “living language” in years to come.<br></p>
 

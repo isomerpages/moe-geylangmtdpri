@@ -2,64 +2,121 @@
 title: Student Management and Discipline
 permalink: /curriculum/student-management-and-discipline/
 description: ""
+variant: tiptap
 ---
-<h4 style="color:blue;">Vision</h4>
-<p style="text-align: justify;">To provide the competencies and support needed by our students to meet their current developmental needs and beyond.</p>
-
-<h4 style="color:blue;">Mission</h4>
-<p style="text-align: justify;">Every GMS(P) student a socially and emotionally competent individual who is confident to face his/her future challenges.</p>
-
-<h4 style="color:blue;">Overview</h4>
-<p style="text-align: justify;">The Student Management and Discipline Department aims to support our students' social, emotional and mental well-being through the five key pillars, namely student leadership, discipline, counselling, learning and behavioural support, and financial assistance.</p>
-
-![](/images/five%20pillars%20of%20department.jpg)
+<h4><strong><u>Vision</u></strong></h4>
+<p>Every GMS(P) student a socially and emotionally competent individual who
+is confident to face his/her future challenges.</p>
+<h4><strong><u>Mission</u></strong></h4>
+<p>To provide the competencies and support needed by our students to meet
+their current developmental needs and beyond.</p>
 <p></p>
-
-<h4 style="color:blue;">Curriculum Structure and Key Programmes</h4>
-
-<b>Student Leadership</b> <br>
-<p style="text-align: justify;">In GMS(P), we strongly believe that it is important for our students to experience tiered leadership opportunities. </p>
-
-![](/images/student%20leaders.jpg)
-
-<p style="text-align: justify;">Through these opportunities, students can cultivate key values, develop&nbsp;social and emotional learning, and acquire employability skills, qualities and attitudes (e.g. problem solving skills, resilience, open-mindedness).&nbsp;<br>
-
-</p><p style="text-align: justify;">The school adopted the Servant Leadership as our student leadership philosophy. We want our students to develop the passion and compassion to serve others before self. Hence, they can in future enriches the lives of others, builds better organisations and ultimately creates a more just and caring world.</p>
-
-<b>Discipline</b> <br> 
-<p style="text-align: justify;">Discipline is an educative process, and the goal is to instil self-discipline and good character in students. Discipline in GMS(P) goes beyond ensuring behavioural compliance in students according to school rules and regulations. It focuses on promoting positive student behaviour in support of learning and growth through the teaching of values and skills, and timely reinforcement through corrective guidance to address students’ misbehaviour.&nbsp;<br>
-
-</p><p style="text-align: justify;">Discipline is also about developing self-discipline and good character in our students, and equipping them with the necessary social and emotional skills to behave thoughtfully and be responsible and respectful individuals. For example, through the school’s Catch Me Do Good Programme. We want to recognise students who proactively rendered their helping hands to the school community.  </p>
- 
-<b>Counselling</b> <br>
-<p style="text-align: justify;">Counselling is defined as a collaborative process in which the counsellor or psychologist facilitates the expansion of the student’s view of life, enlarges his repertoire of coping resources and enables him to make choices for change in himself, the situation and the environment, without destructive consequences to self or others. The process is directed by the application of specialised skills and strategies in a therapeutic relationship with the student with problems. The goal of intervention is to help students manage these problems effectively so that their total development would not be impeded.<br>
-
-</p><p style="text-align: justify;">The counselling services in GMS(P) are organised in a tiered system, beginning with first level intervention by teachers. If the intervention is unsuccessful or for cases requiring more specialised attention, referral is made by teachers to our Teacher Counsellors, Allied Educator (Counselling) or Part Time School Counsellor. Students requiring more intense intervention may be referred to MOE Guidance Specialists or professional agencies, such as the Child Guidance Clinic.e<br>
-
-</p><p style="text-align: justify;">Besides intervention work, our school counsellors also guide and support our students to strengthen their skills, competencies and attitudes to cope with this ever-changing world. For instant, they conducted stress management talks for the P6 classes so that the students are equipped with some strategies and techniques.&nbsp;  </p>
-  
-<b>Learning and Behavioural Support</b> <br> 
-<p style="text-align: justify;">Aligned with MOE’s vision, in GMS(P), we want all our students to experience an inclusive culture, one where:<br>
-
-</p><p style="text-align: justify;">* They can learn, and receive timely and appropriate support to achieve their full potential;&nbsp;<br>
-</p><p style="text-align: justify;">* Every teacher is skillful to support and manage diverse learners, including students with Special Educational Needs (SEN); and&nbsp;<br>
-</p><p style="text-align: justify;">* We have a systemic whole-school approach to support diverse learners, including students with SEN.</p>
-
-![](/images/SEN%20mode.jpg)
-
-<b>Financial Assistance</b> <br>
-<p style="text-align: justify;">Together with MOE, GMS(P) provides financial assistance to our students so that they can benefit from the best opportunities in education. There are various financial assistance schemes available. Students may be eligible if they meet the specific criteria.&nbsp;  </p>
-
-<h4 style="color:blue;">Pedagogical Approaches / Strategies</h4>
-
-<p style="text-align: justify;">The Tiered System of Support (TSS) is a whole-school systematic framework to guide us in identifying needs, organising resources and planning support for our students.</p>
-
-![](/images/Tiered%20System%20of%20Support.jpg)
-
-<p style="text-align: justify;">Tier 1 is core curriculum / instruction provided to <b>ALL</b> students for both academic and non-academic areas. It plays a preventative function by equipping all students with a good foundation in academic and non-academic skills. For example, the explicit teaching of social emotional competencies during the Form Teacher Guidance Period (FTGP). <br> 
-  
-</p><p style="text-align: justify;">Depending on individual profiles, not all needs can be met in Tier 1. Hence, some students require additional support.  <br>
-  
-</p><p style="text-align: justify;">Tier 2 aims to provide early target support provided to <b>SOME</b> students. Students who require additional help are provided with support in the area of need (e.g. academic, behaviour, attendance). These students may be surfaced through systematic screening, reviewing of student data and/or teacher observations. Some examples are targeted remedial lessons, learning support for P1 and P2 students, and peer support programme for selected students.  <br>
-  
-</p><p style="text-align: justify;">A <b>FEW</b> students with the highest needs may require more intensive and individualised intervention in Tier 3. For example, one-to-one academic support, counselling and individualised behaviour support plan.</p>
+<p><strong><u>Discipline in GMS(P)&nbsp;</u></strong>
+</p>
+<p>In GMS(P), we cultivate a positive and proactive approach to school discipline.
+We implement a whole-school approach to uphold student discipline, guided
+by the following principles:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stude​nts learn well
+when there is order and discipline. At the same time, they need care, encouragement,
+and space to learn from mistakes and improve.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discipline is an educative
+process, and the goal is to instil self-discipline and good character in
+students.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Disciplinary measures
+serve as a proxy for consequences of the poor choices made. It is not punishment,
+and must be meted out fairly, firmly, and appropriately.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Discipline_Framework.png">
+</div>
+<p></p>
+<p><strong><u>Key Programmes&nbsp;</u></strong>
+</p>
+<ol>
+<li>
+<p><u>Assembly Talks and Recess Interaction&nbsp;</u>
+</p>
+</li>
+</ol>
+<ul>
+<li>
+<p>The school partners with external partners like our Community Police and
+CNB for awareness during assembly talks and recess activities.&nbsp;</p>
+<p></p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/police_assembly.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/recessA.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/recessB.jpg">
+</div>
+<p></p>
+<ol start="2">
+<li>
+<p><u>GeM Class Award&nbsp;</u>
+</p>
+</li>
+</ol>
+<ul>
+<li>
+<p>The award recognizes classes that demonstrate good behavior, teamwork,
+and a positive learning attitude. This award encourages students to uphold
+school values and foster a supportive class culture.&nbsp;</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEM.jpg">
+</div>
+<p></p>
+<p><strong><u>Student Leadership in GMS(P)&nbsp;</u></strong>
+</p>
+<p>In GMS(P), we believe in providing students with tiered leadership opportunities
+to support their growth and development.</p>
+<p>Through these experiences, students cultivate key values, develop their
+social and emotional learning, and develop essential employability skills,
+qualities, and attitudes such as problem-solving, resilience, and open-mindedness.</p>
+<p>GMS(P) adopts Servant Leadership as our student leadership philosophy.
+We strive to nurture students with the passion and compassion to serve
+others before themselves. In doing so, they will enrich the lives of others,
+strengthen organizations, and contribute to a more just and caring world.</p>
+<p></p>
+<p><strong><u>Key Programmes&nbsp;</u></strong>
+</p>
+<ol>
+<li>
+<p><u>Prefect Investiture</u>
+</p>
+</li>
+</ol>
+<p>- The investiture marks the official appointment of student leaders who
+uphold school values and serve as role models for their peers. It highlights
+the importance of leadership, responsibility, and service as prefects play
+an active role in the school community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exc02025.jpg">
+</div>
+<p></p>
+<ol start="2">
+<li>
+<p><u>Tier 3 (Prefects &amp; CCA Leaders) Camp &amp; Class committee training&nbsp;</u>
+</p>
+</li>
+</ol>
+<ul>
+<li>
+<p>the annual camp prepares the student leaders to lead with confidence,
+take on responsibilities, and contribute positively to the community.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/classcomm.jpg">
+</div>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/camp1.jpg">
+</div>
+<p></p>
