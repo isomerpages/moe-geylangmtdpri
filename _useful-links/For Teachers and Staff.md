@@ -116,7 +116,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Others<br></h4>
+<h4>Others<br><a href="https://go.gov.sg/gmsprelief" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gmsprelief</a></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -199,7 +199,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/How_to_set_up_the_Microsoft_Authenticator_app_and_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">How to setup Microsoft Authenticator App and FAQs</a>
+<p><a href="https://go.gov.sg/incidentreportfollowup" rel="noopener noreferrer nofollow" target="_blank">GMS(P) Incident Report (Follow Up)</a>
 </p>
 </li>
 </ul>
@@ -207,7 +207,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Keyless_Lock_Manual.pdf" rel="noopener noreferrer nofollow" target="_blank">WMSensehub Keyless Smart Padlock (iPad Carts)</a>
+<p><a href="/files/Guide_on_Staff_iCON_Login_via_MIMS_Portal.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide on iCon Login via MIMS Portal</a>
 </p>
 </li>
 </ul>
