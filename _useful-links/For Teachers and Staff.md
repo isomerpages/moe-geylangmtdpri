@@ -4,7 +4,7 @@ permalink: /useful-links/for-teachers/
 description: ""
 variant: tiptap
 ---
-<h4>MOE<br></h4>
+<h4>MOE</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -229,7 +229,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4>Useful Links<br></h4>
+<h4>Useful Links</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
