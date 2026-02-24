@@ -116,7 +116,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Others<br><a href="https://go.gov.sg/gmsprelief" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gmsprelief</a></h4>
+<h4>Others</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -211,6 +211,19 @@ variant: tiptap
 </p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://roster.diveanalytics.com/login" rel="noopener nofollow" target="_blank">Relief Request</a>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
