@@ -237,22 +237,22 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://intranet.moe.gov.sg/itd/Pages/byte-it.aspx" rel="noopener noreferrer nofollow" target="_blank">BYTE IT!&nbsp;<br>(Bite-sized tech news)</a>
 </p>
 </li>
 </ul>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://intranet.moe.gov.sg/itd/Pages/ITD-Publication.aspx" rel="noopener noreferrer nofollow" target="_blank">Know IT!<br>(ITD Newsletter)</a>
 </p>
 </li>
 </ul>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
