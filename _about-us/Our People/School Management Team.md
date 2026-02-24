@@ -203,7 +203,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Wai Lit</p>
+<p>Dr Wong Wai Lit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department
@@ -348,20 +348,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_chia_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chia_peng@moe.edu.sg</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Christine Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head
-<br>(Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chor_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chor_kheng@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
