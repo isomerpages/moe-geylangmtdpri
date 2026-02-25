@@ -4,7 +4,7 @@ permalink: /useful-links/for-teachers/
 description: ""
 variant: tiptap
 ---
-<h4>MOE<br></h4>
+<h4>MOE</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -12,22 +12,22 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://icon.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Icon</a>
 </p>
 </li>
 </ul>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://outlook.office365.com/owa/schools.gov.sg/" rel="noopener nofollow" target="_blank">MOE Outlook on Edge Browser</a>
 </p>
 </li>
 </ul>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -116,7 +116,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Others<br><a href="https://go.gov.sg/gmsprelief" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gmsprelief</a></h4>
+<h4>Others</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -124,22 +124,22 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iexams.seab.gov.sg/sso/login" rel="noopener noreferrer nofollow" target="_blank">i-Exams</a>
 </p>
 </li>
 </ul>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://form.gov.sg/#!/" rel="noopener noreferrer nofollow" target="_blank">Form.sg</a>
 </p>
 </li>
 </ul>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -213,10 +213,23 @@ variant: tiptap
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://roster.diveanalytics.com/login" rel="noopener nofollow" target="_blank">Relief Request</a>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
-<h4>Useful Links<br></h4>
+<h4>Useful Links</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -224,22 +237,22 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://intranet.moe.gov.sg/itd/Pages/byte-it.aspx" rel="noopener noreferrer nofollow" target="_blank">BYTE IT!&nbsp;<br>(Bite-sized tech news)</a>
 </p>
 </li>
 </ul>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://intranet.moe.gov.sg/itd/Pages/ITD-Publication.aspx" rel="noopener noreferrer nofollow" target="_blank">Know IT!<br>(ITD Newsletter)</a>
 </p>
 </li>
 </ul>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
