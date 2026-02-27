@@ -120,7 +120,7 @@ variant: tiptap
 </div>
 <p>
 <br><strong>Mission:</strong>
-<br>To Inspire Minds,&nbsp;Nurture Character &amp; Touch Commuinity</p>
+<br>To Inspire Minds,&nbsp;Nurture Character &amp; Touch Community</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Programs/Activities</strong> 
@@ -140,104 +140,138 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="3">
 <h4><strong>Board of Management</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chairman</strong>
-</p>
+<h4><strong>Chairman</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Khoong Hock Yun</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Hon. Treasurer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Wong Kwang Yong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Hon. Secretary</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Daphne Yeoh – Principal, GMS(Primary)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Hon. Secretary</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Victor Owyong – Principal, GMS(Secondary)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Members</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Tay Kah Ann Peter</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Rev Simon Cheo</p>
+<h4><strong>Hon. Treasurer</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Kwong Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<h4><strong>Hon. Secretary</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Daphne Yeoh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal, GMS(P)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Victor Owyong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Kim Seah Kim Teck</p>
+<p>Principal, GMS(S)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="9" colspan="1">
+<h4><strong>Members</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kim Seah Kim Teck</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst. Education Secretary</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Pauline Lee Miin Jiun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr. Raymond Teo Cheng Soon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Pauline Lee Miin Jiun - Alumni President</p>
+<p>GMS Alumni President</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Cheryl Ng Cher Siang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Cher Siang, Cheryl – Alumni Rep</p>
+<p>GMS Alumni Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Peter Tay Kah Ann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Raymond Teo Cheng Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rev Chin Yan Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Resource Person and Pastor-in-Charge (Geylang Chinese Methodist Church)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rev Alex Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Resource Person and Pastor-in-Charge (Christalite Methodist Chapel)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Adrian Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Resource Person (Christalite Methodist Chapel)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Chong Choon Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Resource Person (Charis Methodist Church)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h4><strong>Auditors</strong></h4>
 <p>T &amp; C Partners</p>
 <p></p>

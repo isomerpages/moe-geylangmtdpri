@@ -4,56 +4,48 @@ permalink: /curriculum/english-language/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Vision</strong></h4>
-<p>Every GMS(P) student is an informed, competent, confident and empathetic
-communicator in reading and writing.</p>
-<p><strong>Mission</strong>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/EL_Dept_Pillars.jpg">
+</div>
+<p><strong>Vision</strong>
 </p>
-<p>To enrich students’ learning experiences by taking them out of the classroom
-to experience how language is used in real-life contexts and bring the
-world into the classroom.</p>
-<p><strong>Making Language Come Alive&nbsp;&nbsp;</strong>
+<p>&nbsp;At GMS(P), we are committed to nurturing every student to be an <strong>informed</strong>,
+competent, confident and empathetic communicator.</p>
+<p>&nbsp;</p>
+<p><strong>Our Approach</strong>
 </p>
-<p><u>Primary 1 to 3</u>
+<p>Our English curriculum is anchored on four key pillars:</p>
+<p><em><u>Developing Avid and Informed Readers</u></em>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Create opportunities to read widely through the Shared Book Approach (SBA)
-and Extensive Reading.</p>
-</li>
-<li>
-<p>Develop writing skills through the Modified Language Experience (MLEA)
-in various text types such as poems.</p>
-</li>
-<li>
-<p>Reinforce phonemic awareness through Differentiated Focus Lessons (DFL)
-to learn skills related to “learning to read”.</p>
-</li>
-</ul>
-<p><u>Primary 4 to 6</u>
+<p>We cultivate students who read widely and think deeply about texts. They
+learn to evaluate sources critically, distinguish facts from opinion, and
+recognise misinformation and bias. In doing so, they grow into curious,
+discerning and imaginative readers who see themselves as active meaning-makers
+of their world.</p>
+<p><em><u>Nurturing Confident and Empathetic Communicators</u></em>
+<br>We develop informed students who embody the GMS(P) INSPIRE values, dispositions
+and skills to listen actively to diverse perspectives and communicate effectively
+with purpose, audience and context in mind.</p>
+<p><em><u>Cultivating Curious and Connected Learners<br></u></em>We cultivate
+curious learners who ask thoughtful questions and make meaningful connections
+between classroom learning and the real world. Through authentic experiences,
+they explore diverse perspectives, apply language with purpose, and recognise
+the relevance of English beyond the classroom.</p>
+<p><em><u>Developing Empowered and Self-Directed Learners</u></em>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Teach progressive skills of Sustained Silent Reading, Supported Reading
-and Extensive Reading</p>
-</li>
-<li>
-<p>Provide opportunities to communicate ideas and opinions with confidence
-through class discussions on Current Affairs.</p>
-</li>
-<li>
-<p>Explore the Writing Process Cycle as students read, write, and revise
-drafts.</p>
-</li>
-</ul>
-<p></p>
-<p><strong>English Reading Programme - Every GEM an Engaged Reader</strong>
+<p>We develop reflective and self-directed learners who take ownership of
+their growth. Through intentional teacher, self and peer feedback, students
+monitor their progress, act on next steps, and grow in confidence as independent
+learners.</p>
+<p><strong>------</strong>
+<br>These pillars come alive through our key programmes and initiatives across
+all levels, ensuring purposeful platforms for every student to be stretched,
+supported and empowered to grow.</p>
+<p><strong>Our Key Programmes</strong>
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.geylangmethodistpri.moe.edu.sg/curriculum/applied-learning-programme/" rel="noopener nofollow" target="_blank">Applied Learning Programme</a> 
+<br>
 </p>
-<p>In this signature programme, we foster a whole-school reading culture
-by cultivating a joy of reading. Through activities like Characters Come
-Alive, talks by local authors and post-reading activities, the ERP exposes
-students to read and respond to a variety of genres and text types.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -64,135 +56,134 @@ students to read and respond to a variety of genres and text types.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic 1: Characters Come Alive" src="/images/01_Characters_Come_Alive.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ALP_Pic_1_Praise.jpg">
 </div>
-<p>Pic 1: Characters Come Alive</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic 6 Author Talk" src="/images/06_Author_Talk.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Pic_2_Eco_Warriors.jpg">
 </div>
-<p>Pic 2: Author Talk</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p>2, English Reading Programme (ERP)</p>
+<p>We foster a whole-school reading culture by cultivating a joy of reading.
+&nbsp;This programme nurtures strong reading habits and comprehension skills.
+Through activities like Characters Come Alive, talks by local authors and
+post-reading activities, the ERP exposes students to read and respond to
+a variety of genres and text types.
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/EL_Pic_Characters_Come_Alive.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/EL_Pic_Characters_Come_Alive_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Beloved book characters coming alive at GMS(P)!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Pic_Author_Visit.png">
+</div>
+<p>Neil Humphrey sharing the inspiration behind his books with our avid readers
+and budding writers.</p>
+<p><strong>Stretch Programmes</strong>
+</p>
+<p>Learning doesn’t stop at the classroom. Our Stretch Programmes give identified
+P4–P6 students exciting opportunities to explore and grow their talents.
+Be it diving into stories through <strong>MOE Reading Circles</strong>,
+unleashing imagination in the <strong>Creative Writing Programme</strong>,
+or showcasing skills in <strong>competitions</strong>, students are encouraged
+to think deeply, express creatively, and shine confidently.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Pic_Reading_Circles.jpg">
+</div>
+<p>Reading Circles - Journeying through <em>Number the Stars</em> by Lois Lowry,
+students reflect on courage, empathy and the power of ordinary people to
+make a difference.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Pic_Creative_Writing_Programme.jpg">
+</div>
+<p>Creative Writing Programme – Our aspiring writers shape their thoughts
+into stories.</p>
+<p>&nbsp;</p>
+<p><strong>Support Programmes</strong>
+</p>
+<p>We provide targeted support to build strong foundations in reading for
+students who need an extra boost. Through a range <strong>of MOE‑supported and school‑based intervention programmes</strong>,
+we strengthen key literacy skills and build students’ confidence as readers.&nbsp;</p>
+<p>Students also benefit from rich reading experiences such as kidsREAD sessions
+and Buddy Reading Programme with students from Chung Cheng High School
+(Main). Through these sessions, our students get to enjoy stories with
+guidance and develop positive reading habits in a safe and encouraging
+environment.
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic 2: Character Come Alive" src="/images/02_Characters_Come_Alive.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Books001.jpg">
 </div>
-<p>Pic 3: Characters Come Alive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic 12: Author Talk" src="/images/Pic_11_Author_Talk.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Books002.jpg">
 </div>
-<p>Pic 4: Author Talk</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic 3: Characters Come Alive" src="/images/03_Characters_Come_Alive.jpg">
-</div>
-<p>Pic 5: Characters Come Alive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic 04: Characters come alive" src="/images/04_Characters_Come_Alive.jpg">
-</div>
-<p>Pic 6: Characters come alive</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic 5: Characters Come Alive" src="/images/05_Characters_Come_Alive_.png">
-</div>
-<p>Pic 7: Characters Come Alive</p>
+<p>Book titles that ofor KidsRead and Buddy Reading Programmes</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Stretch Programmes</strong>
+<p>Through a coherent curriculum and purposeful programmes, we journey with
+every GMS(P) student as they grow into informed, confident and empathetic
+communicators — ready to engage meaningfully with the world around them.
+<br>
+<br>
+<br>
 </p>
-<p><u>Reading Circles (RC)</u>
-</p>
-<p>Engage advanced readers to extend their experience of the world through
-rich texts to develop the capacity for imagination, perspective-taking
-and empathy.&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic 7: Reading Circles" src="/images/07_Reading_Circles.jpg">
-</div>
-<p>Pic 8: Reading Circles</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic 8: Reading Circles" src="/images/08_Reading_Circles.jpg">
-</div>
-<p>Pic 9: Reading Circles</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p><u>Creative Writing Programme (CWP)</u>
-</p>
-<p>Nurture students’ creative writing skills through interactions with local
-authors and subsequently build their writing portfolio.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic 9: Creative Writing Programme" src="/images/09_Creative_Writing_Programme.jpg">
-</div>
-<p>Pic 10: Creative Writing Programme</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p><strong>Support Programmes</strong>
-</p>
-<p><u>Learning Support Programme (LSP)</u>
-</p>
-<p>Bridge gaps in reading and writing to cope in English lessons.</p>
-<p><u>School-based Dyslexia Remediation (SDR):</u>
-</p>
-<p>Assist students with dyslexia in decoding words through syllabication
-and an understanding of phonics.</p>
-<p><u>Reading Remediation Programme (RRP):</u>
-</p>
-<p>Guide students to decode mono and multi-syllabic words and deepen reading
-comprehension skills.</p>
-<p><strong>Collaboration</strong>
-</p>
-<p><u>kidsREAD</u>
-</p>
-<p>Foster a love of reading in lower primary students and cultivate good
-reading habits through a collaboration with the National Library Board
-(NLB) and Tanjong Katong Girls’ School (TKGS)</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic 10: kidsRead display" src="/images/10_kidsREAD.jpg">
-</div>
-<p>Pic 11: kidsRead display</p>
-<p></p>
