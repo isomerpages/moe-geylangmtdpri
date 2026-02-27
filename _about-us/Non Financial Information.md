@@ -120,7 +120,7 @@ variant: tiptap
 </div>
 <p>
 <br><strong>Mission:</strong>
-<br>To Inspire Minds,&nbsp;Nurture Character &amp; Touch Commuinity</p>
+<br>To Inspire Minds,&nbsp;Nurture Character &amp; Touch Community</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Programs/Activities</strong> 
