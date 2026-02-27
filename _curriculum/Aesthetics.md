@@ -24,11 +24,47 @@ Curriculum not only inculcates in every student an appreciation and love
 for the Arts but also enables them to apply knowledge and skills, including
 21 Century Competencies, as they create (CAIT), work in groups and with
 technology (CCIT) and learn more about local and global arts culture (CGC),
-acquired to reach out and touch the class and school community.&nbsp;</p>
-<p>&nbsp;</p>
+acquired to reach out and touch the class and school community.&nbsp;&nbsp;
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__Art_Learning_Experiences_s.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4__Music_Learning_Experiences_s.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Aesthetics for GeMs provide the following ARTSperience for every student
-and platforms for them to exhibit and showcase their artworks and performances:</p>
-<p>&nbsp;</p>
+and platforms for them to exhibit and showcase their artworks and performances:&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -113,6 +149,10 @@ Studies (My Singapore) and English (Oracy)</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__P_R_A_I_S_E____My_Singapura.png">
+</div>
 <h4><strong>Students Showcase</strong></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv3xlg8Hwm6X0xXp4_SDU_abIDTt_Yf9hjg3xduTLwC7WPOngRWNBVY_uMuLNpP1DWorXhfx21O3DG/pubembed?start=true&amp;loop=true&amp;delayms=1000"></iframe>
