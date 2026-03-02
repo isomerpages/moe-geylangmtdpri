@@ -223,7 +223,12 @@ variant: tiptap
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/roster-userguide" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/roster-userguide</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
