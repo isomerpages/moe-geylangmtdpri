@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Applying movement skills and game concepts during our PE lesson." src="/images/Pic_1_PE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Only_update_Pic_1.jpg">
 </div>
 <p><u>Pic. 1: Applying movement skills and game concepts during our PE lesson.</u>
 </p>
