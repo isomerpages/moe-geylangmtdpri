@@ -225,7 +225,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/roster-userguide" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/roster-userguide</a>
+<p><a href="/files/Roster_User_Guide__GMSP_.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide on Roster Relief Request</a>
 </p>
 </li>
 </ul>
