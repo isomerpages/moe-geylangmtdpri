@@ -2,32 +2,66 @@
 title: Alumni
 permalink: /about-us/our-partners/alumni/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<h4 style="color:blue;">Election of Office Bearers</h4>
-
-The results of the election of Office Bearers for the new term 2024-2026 is as follows:
-
-![](/images/Alumni.png)
-
-<h4 style="color:blue;">Mission</h4>
-
-<p style="text-align: justify;">To see our <b>ex-students</b> and <b>current students</b> of the GM family <b>bonded</b> and <b>blessed</b> through <b>purposeful events</b> that bring back their <b>love</b> for the school.  <br></p>
-
-<h4 style="color:blue;">Vision</h4>
-
-<p style="text-align: justify;">To raise a group of <b>passionate</b> and <b>active</b> alumni members in <b>serving</b> the <b>school</b> and <b>community</b> with a sense of <b>gratefulness</b> and <b>belonging</b>.<br></p>
-
-<h4 style="color:blue;">R.E.A.L Core Values</h4><br>
-
-- <b>R</b>elationship  <br>
-- <b>E</b>xcellent  <br>
-- <b>A</b>chievable and Attitude<br>  
-- <b>L</b>eadership<br>
-
-
-
-![](/images/IMG-20190715-WA0012.jpg)
-![](/images/20190824_122907.jpg)
-![](/images/IMG-20190824-WA0035.jpg)
-![](/images/IMG-20190824-WA0032.jpg)
+<h4>Election of Office Bearers</h4>
+<p>The results of the election of Office Bearers for the new term 2026-2028
+is as follows:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GMS_ALUMNI_ASSOCIATION_EXCO_2026.png">
+</div>
+<h4>Mission</h4>
+<p>To see our <strong>ex-students</strong> and <strong>current students</strong> of
+the GM family <strong>bonded</strong> and <strong>blessed</strong> through <strong>purposeful events</strong> that
+bring back their <strong>love</strong> for the school.
+<br>
+</p>
+<h4>Vision</h4>
+<p>To raise a group of <strong>passionate</strong> and <strong>active</strong> alumni
+members in <strong>serving</strong> the <strong>school</strong> and <strong>community</strong> with
+a sense of <strong>gratefulness</strong> and <strong>belonging</strong>.
+<br>
+</p>
+<h4>R.E.A.L Core Values</h4>
+<p>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>R</strong>elationship
+<br>
+</p>
+</li>
+<li>
+<p><strong>E</strong>xcellent
+<br>
+</p>
+</li>
+<li>
+<p><strong>A</strong>chievable and Attitude
+<br>
+</p>
+</li>
+<li>
+<p><strong>L</strong>eadership
+<br>
+</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG-20190715-WA0012.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20190824_122907.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG-20190824-WA0035.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG-20190824-WA0032.jpg">
+</div>
+<p></p>
