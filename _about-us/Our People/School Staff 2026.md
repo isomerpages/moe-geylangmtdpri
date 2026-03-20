@@ -1284,6 +1284,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3. Mdm Alicia Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:LIM_Siew_Hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_siew_hong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MSO</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1322,7 +1334,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2. Mdm Malliga d/o Suppiah</p>
+<p>2. Mdm Ling Chin Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1333,22 +1345,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3. Mdm Ling Chin Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p>Mr. Teng Lay Heng</p>
-</li>
-</ol>
+<p>3. Mr. Teng Lay Heng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
