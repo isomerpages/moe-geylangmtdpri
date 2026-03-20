@@ -9,7 +9,11 @@ variant: tiptap
 is as follows:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GMS_ALUMNI_ASSOCIATION_EXCO_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni001.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni002.png">
 </div>
 <h4>Mission</h4>
 <p>To see our <strong>ex-students</strong> and <strong>current students</strong> of
