@@ -1364,11 +1364,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p>Mdm Jayasri D/O Mutu Sammy</p>
-</li>
-</ol>
+<p>4. Mdm Jayasri D/O Mutu Sammy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
