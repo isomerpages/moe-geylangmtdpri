@@ -40,9 +40,9 @@ network that uplifts families and empowers our children to reach their
 fullest potential.</p>
 <p></p>
 <p>To find out more about PSG, do visit us at GMS(P) website or you can email
-us at <a href="mailto:psggmsp@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psggmsp@gmail.com</a>.
-For enrolment, you can download the application form and submit it to our
-PSG email. We look forward to your continuous support and participation.</p>
+us at psggmsp@gmail.com. For enrolment, you can download the application
+form and submit it to our PSG email. We look forward to your continuous
+support and participation.</p>
 <p></p>
 <p><strong>Michelle Poh<br>PSG Chairman</strong>
 </p>
