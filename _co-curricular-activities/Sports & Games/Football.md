@@ -7,76 +7,78 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic 1: FIFA Football For Schools" src="/images/Picture1_FIFA_FOOTBALL_FOR_SCHOOLS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0101.jpg">
 </div>
 <h4><strong>CCA Overview</strong></h4>
-<p>At Football CCA in GMS(P), we believe in providing our students every
+<p>At Football CCA in GMS(P), we believe in providing our students with every
 opportunity to nurture their interest in the sport, and through it, build
-up the character of our players. We place a big emphasis on teamwork and
-encouraging one another no matter what challenges we face.</p>
+up their characters to become better people. We place a big emphasis on
+teamwork and encouraging one another no matter what challenges we face.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0105.jpg">
+</div>
+<p>Every Tuesday afternoon, our coaches and football teachers guide and nurture
+our GMS(P) footballers in areas such as technical ball skills, match tactics,
+as well as competition mentality. It is important to us that our students
+learn to find the right balance of playing to win while maintaining the
+spirit of sportsmanship.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0156.jpg">
+</div>
+<p>Our GMS(P) school team players proudly represent our school at the National
+School Games, as well as friendly matches and invitationals. Our other
+Football CCA students also get to experience the element of competition
+in the form of our very own internal football league. We are also constantly
+on the lookout for external opportunities for our footballers. On 31st
+March, several of our senior boys had the opportunity to attend the Singapore
+vs Bangladesh match at the National Stadium.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic. 2: Camaraderie through play" src="/images/Picture3_Teamwork.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8372.jpg">
 </div>
-<p>Every Monday afternoon, our coaches and football teachers guide and nurture
-our GMS(P) footballers in technical skills, gameplay tactics, as well as
-competition mentality. It is important to us that our students learn to
-find the right balance of playing to win while maintaining the spirit of
-sportsmanship.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic 3: Match at Safra Tampines" src="/images/Picture4_SafraTampines.jpg">
-</div>
-<p>Our GMS(P) school team players proudly represent our school in the National
-School Games, as well as friendly matches and invitationals. Other Football
-CCA students also get to experience the element of competition in the form
-of our very own internal football league. We are also constantly on the
-lookout for external opportunities for our players such as the FIFA Football
-For Schools clinic.</p>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic 4: Locker Room Inspiring visits" src="/images/Picture5_LockerRoom.jpg">
-</div>
-<h4>&nbsp;</h4>
 <h4><strong>Highlight:</strong></h4>
-<p>On 28<sup>th</sup> October 2024, Football CCA boys had the privilege of
-experiencing an exciting tour of Singapore Premier League Club, Lion City
-Sailor’s, football academy. This learning journey was organized by our
-Football CCA teachers to give our football boys a taste of life as a professional
-footballer. Our boys had the opportunity to not only view the impressive
-facilities at the academy but also try out some of the high-tech fitness
-and strength conditioning equipment. The professional coaches and staff
-at the club conducted a session where they shared the importance of proper
-diet, nutrition, and recovery in a professional footballer’s life. It was
-an eye-opening experience which inspired our budding footballers to work
-hard to pursue their footballing dreams.</p>
+<p>&nbsp;This year, our senior boys football school team gained promotion
+to League 2 of the National School Games competition. They achieved this
+feat by winning all three of their Pool round matches. Though competition
+was tough in the higher division, our senior boys still managed to finish
+a respectable second in their group to end off what has been a successful
+football season on a high. Kudos to the team for their efforts, sacrifices,
+and displays of sportsmanship throughout their training sessions and competition
+matches!</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic 5: Lion City Sailors Visit" src="/images/Picture2__LionCitySailors.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8357.jpg">
 </div>
 <h4><strong>Teachers-in-charge</strong></h4>
 <p>Mr Christopher Maik (IC)
 <br>Mr Kenneth Kor (2IC)
 <br>Mr Ho Sin Lin
-<br>Mr Ali Marican
+<br>Mr Jeremy Ker
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic 6: Singapore's future soccer stars" src="/images/WhatsApp_Image_2025_03_14_at_8_58_24_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8294.jpg">
 </div>
-<p>
-<br>
-</p>
-<h4><strong>Achievements</strong></h4>
+<h4><br><strong>Achievements</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
+<p>2026 2nd in Group National School Games League 2 (Senior Boys)</p>
+</li>
+<li>
 <p>2025 Finalist National School Games League 4 (Senior Boys)</p>
+</li>
+<li>
+<p>2025 1st in Group National School Games Tier 4 (Junior Boys)</p>
 </li>
 <li>
 <p>2024 Bronze Medalists National School Games League 4 (Senior Boys)</p>
 </li>
 <li>
-<p>2024 1st Place National School Games Tier 3 (Junior Boys)</p>
+<p>2024 1st Place National School Games Pool C (Junior Boys)</p>
 </li>
 <li>
 <p>2024 Finalist Queensway Secondary Invitational Tournament
