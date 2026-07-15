@@ -2,14 +2,14 @@ collections:
   useful-links:
     output: true
     order:
-      - 2026 Gallery.md
       - Calendar of Events.md
       - Forms.md
       - For Students & Parents.md
       - For Teachers and Staff.md
       - Annual Publication.md
-      - 2025 Gallery/101st Founders Day.md
+      - 2026 Gallery.md
       - 2025 Gallery/.keep
+      - 2025 Gallery/101st Founders Day.md
       - 2024 Gallery/.keep
       - 2024 Gallery/Centennial Dinner.md
       - 2024 Gallery/Centennial Thanksgiving.md
