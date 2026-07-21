@@ -365,8 +365,8 @@ competitions and events that took place in the first half of this year.</p>
 <p>
 <br>
 </p>
-<p><strong>National School Games <u>Basketball</u></strong>
-</p>
+<h3><strong>National School Games </strong></h3>
+<h4><strong><u>Basketball</u></strong></h4>
 <p>3rd place in group (League 1) (Senior Boys)</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -507,10 +507,7 @@ competitions and events that took place in the first half of this year.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong><u>Football</u></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<h4><strong><u>Football</u>&nbsp;</strong></h4>
 <p>2nd place in group (League 2) (Senior Boys)</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -629,12 +626,8 @@ competitions and events that took place in the first half of this year.</p>
 <p>
 <br>
 </p>
-<p><strong><u>Netball</u></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><u>&nbsp;4th place in group (League 3) (Senior Girls)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
-</p>
+<h4><strong><u>Netball</u>&nbsp;</strong></h4>
+<p><u>4th place in group (League 3) (Senior Girls)&nbsp;</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -766,10 +759,7 @@ competitions and events that took place in the first half of this year.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong><u>Badminton</u></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<h4><strong><u>Badminton</u>&nbsp;</strong></h4>
 <p>3rd place in group (League 6) (Senior Boys Team)</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -972,8 +962,7 @@ competitions and events that took place in the first half of this year.</p>
 <p>
 <br>
 </p>
-<p><strong><u>Rope Skipping</u></strong>
-</p>
+<h4><strong><u>Rope Skipping</u></strong></h4>
 <p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 100px">
@@ -1062,8 +1051,8 @@ competitions and events that took place in the first half of this year.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Track &amp; Field</u></strong>
-</p>
+<p></p>
+<h4><strong>Track &amp; Field</strong></h4>
 <p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 100px">
@@ -1264,8 +1253,7 @@ competitions and events that took place in the first half of this year.</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong><u>Artistic Gymnastics</u></strong>
-</p>
+<h4><strong>Artistic Gymnastics</strong></h4>
 <p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 100px">
@@ -1312,10 +1300,7 @@ competitions and events that took place in the first half of this year.</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong><u>Swimming</u></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<h4><strong>Swimming&nbsp;</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -1404,10 +1389,7 @@ competitions and events that took place in the first half of this year.</p>
 <p>
 <br>
 </p>
-<p><strong><u>Taekwondo</u></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<h4><strong>Taekwondo&nbsp;</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -1454,7 +1436,8 @@ competitions and events that took place in the first half of this year.</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Singapore Youth Festival <u>Choir</u></strong>
+<h4><strong>Singapore Youth Festival</strong></h4>
+<p><strong> <u>Choir</u></strong>
 </p>
 <p>Certificate of Accomplishment</p>
 <table style="minWidth: 75px">
@@ -1765,23 +1748,15 @@ competitions and events that took place in the first half of this year.</p>
 <p>6-1</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Serol Eloise Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1791,6 +1766,9 @@ competitions and events that took place in the first half of this year.</p>
 <td rowspan="1" colspan="1">
 <p>6-2</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1798,6 +1776,9 @@ competitions and events that took place in the first half of this year.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1807,6 +1788,9 @@ competitions and events that took place in the first half of this year.</p>
 <td rowspan="1" colspan="1">
 <p>6-2</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1814,6 +1798,9 @@ competitions and events that took place in the first half of this year.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1823,6 +1810,9 @@ competitions and events that took place in the first half of this year.</p>
 <td rowspan="1" colspan="1">
 <p>6-4</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1830,6 +1820,9 @@ competitions and events that took place in the first half of this year.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1839,6 +1832,9 @@ competitions and events that took place in the first half of this year.</p>
 <td rowspan="1" colspan="1">
 <p>6-6</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1847,10 +1843,13 @@ competitions and events that took place in the first half of this year.</p>
 <td rowspan="1" colspan="1">
 <p>6-7</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>Guzheng Ensemble</u></strong>
 </p>
 <p>Certificate of Accomplishment</p>
