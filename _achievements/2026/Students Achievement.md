@@ -365,7 +365,7 @@ competitions and events that took place in the first half of this year.</p>
 <p>
 <br>
 </p>
-<h3><strong>National School Games </strong></h3>
+<h3><strong>National School Games</strong></h3>
 <h4><strong><u>Basketball</u></strong></h4>
 <p>3rd place in group (League 1) (Senior Boys)</p>
 <table style="minWidth: 50px">
@@ -1437,7 +1437,7 @@ competitions and events that took place in the first half of this year.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <h4><strong>Singapore Youth Festival</strong></h4>
-<p><strong> <u>Choir</u></strong>
+<p><strong><u>Choir</u></strong>
 </p>
 <p>Certificate of Accomplishment</p>
 <table style="minWidth: 75px">
@@ -1986,9 +1986,7 @@ competitions and events that took place in the first half of this year.</p>
 <p>&nbsp;</p>
 <p><strong><u>Handbell Ensemble</u></strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Certificate of Accomplishment</p>
+<p><strong>&nbsp;</strong>Certificate of Accomplishment</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -2129,23 +2127,15 @@ competitions and events that took place in the first half of this year.</p>
 <p>5-4</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Stella Di Zi Qi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -2155,6 +2145,9 @@ competitions and events that took place in the first half of this year.</p>
 <td rowspan="1" colspan="1">
 <p>5-6</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -2162,6 +2155,9 @@ competitions and events that took place in the first half of this year.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -2171,6 +2167,9 @@ competitions and events that took place in the first half of this year.</p>
 <td rowspan="1" colspan="1">
 <p>5-7</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -2178,6 +2177,9 @@ competitions and events that took place in the first half of this year.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -2187,6 +2189,9 @@ competitions and events that took place in the first half of this year.</p>
 <td rowspan="1" colspan="1">
 <p>6-3</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -2194,6 +2199,9 @@ competitions and events that took place in the first half of this year.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -2203,6 +2211,9 @@ competitions and events that took place in the first half of this year.</p>
 <td rowspan="1" colspan="1">
 <p>6-3</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -2210,6 +2221,9 @@ competitions and events that took place in the first half of this year.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -2219,6 +2233,9 @@ competitions and events that took place in the first half of this year.</p>
 <td rowspan="1" colspan="1">
 <p>6-6</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -2227,13 +2244,14 @@ competitions and events that took place in the first half of this year.</p>
 <td rowspan="1" colspan="1">
 <p>6-6</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong><u>Modern Dance</u></strong>
-</p>
-<p><strong>&nbsp;</strong>
+<p></p>
+<p><strong><u>Modern Dance</u>&nbsp;</strong>
 </p>
 <p>Certificate of Distinction</p>
 <table style="minWidth: 50px">
@@ -2500,17 +2518,6 @@ competitions and events that took place in the first half of this year.</p>
 <p>6-1</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Shevaun Tey Shu Rou</p>
@@ -2601,13 +2608,11 @@ competitions and events that took place in the first half of this year.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>Drama</u></strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>This is the first year that Drama is included in the SYF. All participating
-schools were awarded a Certificate of Participation.</p>
+<p><strong>&nbsp;</strong>This is the first year that Drama is included in
+the SYF. All participating schools were awarded a Certificate of Participation.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
