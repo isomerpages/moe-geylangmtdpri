@@ -7,14 +7,9 @@ third_nav_title: "2026"
 ---
 <p>We congratulate our students for their achievements in various inter-school
 competitions and events that took place in the first half of this year.</p>
-<p><strong>Mathematics</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><u>Raffles Mathematical Olympiad</u></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
+<h3><strong>Mathematics&nbsp;</strong></h3>
+<h4><strong><u>Raffles Mathematical Olympiad</u>&nbsp;</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -309,14 +304,8 @@ competitions and events that took place in the first half of this year.</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>English Language</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><u>Vactors SG Speaking Competition</u></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<h3><strong>English Language&nbsp;</strong></h3>
+<h4><strong><u>Vactors SG Speaking Competition</u>&nbsp;</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
