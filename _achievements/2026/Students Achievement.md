@@ -3036,8 +3036,8 @@ the SYF. All participating schools were awarded a Certificate of Participation.<
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p>Junior Brigader Brooch - Highest Level of Attainment for Primary School
-GB Girls</p>
+<p><u>Junior Brigader Brooch - Highest Level of Attainment for Primary School GB Girls</u>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
