@@ -2783,10 +2783,9 @@ the SYF. All participating schools were awarded a Certificate of Participation.<
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Uniform Groups <u>Boys' Brigade</u></strong>
-</p>
+<p>&nbsp;&nbsp;</p>
+<h3><strong>Uniform Groups</strong></h3>
+<h4><strong> Boys' Brigade</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
