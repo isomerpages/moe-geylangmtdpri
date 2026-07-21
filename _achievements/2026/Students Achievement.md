@@ -2859,7 +2859,8 @@ the SYF. All participating schools were awarded a Certificate of Participation.<
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p>Boys’ Brigade Junior Highest Badge - Gold Award</p>
+<p><u>Boys’ Brigade Junior Highest Badge - Gold Award</u>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
