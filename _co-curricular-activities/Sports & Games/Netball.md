@@ -6,34 +6,31 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCN3nNj2SWfKdjiK6414NfzXiATauRa1S0vXIOqPA_vzH-FCkGui0NyKefvi9KnM_-Lo9DdwhANjju/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCN3nNj2SWfKdjiK6414NfzXiATauRa1S0vXIOqPA_vzH-FCkGui0NyKefvi9KnM_-Lo9DdwhANjju/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>CCA Overview</strong></h4>
-<p>GMS(P) Netball aims to provide an enriching experience for our netballers
-to grow into confident, disciplined and resilient team players. Besides
-focusing on technical and tactical skills, we believe in developing every
-player holistically through nurturing their passion for the sport, developing
-their character as well as building friendship and camaraderie among the
-players. &nbsp;</p>
-<p>&nbsp;</p>
-<p>Comprising of both the recreational and school teams, every player is
-given the opportunity to participate in the game such as in the National
-School Games (NSG), external carnivals or through friendly matches with
-other schools.</p>
-<p>&nbsp;</p>
-<p>In 2024, our Senior Girls participated in the NSG League 3 competition
-and finished as quarterfinalists, whereas our Junior Girls came in as champions
-for the League 3 competition. Well done to our netballers!</p>
-<p>&nbsp;</p>
+<p>The GMSP Netball provides an enriching experience for the players to grow
+into a confident and resilient individual. We believe in developing the
+holistic education experience of every player through nurturing interest,
+developing talent, cultivating zest for life, strengthen friendship and
+build character.</p>
+<p>The GMSP Netball CCA comprises of both the recreational and school team.
+Through this CCA, every player is given the opportunity and exposure to
+the game properly either through participation in the netball carnivals,
+friendly matches with other school or netball National School Games (NSG)
+competitions.</p>
+<p>Most importantly the friendship formed through the CCA strengthens the
+bonds and respect the girls have for one another&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Netball_2025_002.jpg">
 </div>
 <p>&nbsp;</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <p>Mdm Fazilah (IC)
-<br>Liu Xianshuli (2IC)
+<br>Liu Xianshuli (2IC)&nbsp;
 <br>Ms Kwok Yan Ting
-<br>Ms Khor Ting Fang</p>
+<br>Ms Khor Ting Fang
+<br>Ms Huang Po Chin (Coach)</p>
 <h4><strong>Achievements</strong></h4>
 <p>
 <br><strong>National School Games 2025</strong>
