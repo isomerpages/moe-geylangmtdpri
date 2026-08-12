@@ -64,8 +64,8 @@ variant: tiptap
 <br>
 <br>
 <br>
-<br><strong>Dr Low Guat Tin Challenge 2022</strong>
-<br>Bronze Award</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Chloe Goh Qiaoli, (P6-5)
@@ -76,10 +76,25 @@ variant: tiptap
 <br>(Squad Leader, Flag Raising IC)
 <br>
 <br>
-<br>Girls Brigade 2nd Company
+<br>
 <br>
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dr Low Guat Tin Challenge 2022</strong>
+<br>Bronze Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls Brigade 2nd Company</p>
 </td>
 </tr>
 <tr>
