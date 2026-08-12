@@ -257,31 +257,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>National School Games Track &amp; Field 2022<br>(Junior Division)</strong>
-<br>
-<br>Event: 120 metres
-<br>3rd Place
-<br>
-<br>Event: Vertical Jump
-<br>1st Place
-<br>2nd Place
-<br>
-<br>Event: Long Jump with Take off zone
-<br>3rd Place</p>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>Lock Sheng Herng (P5-5)
-<br>
-<br>
-<br>Lock Sheng Herng (P5-5)
-<br>Jerry Ang Min Zhe (P5-4)
-<br>
-<br>
-<br>
-<br>Chloe Chan Si Kei (P4-8)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -292,10 +271,44 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Event: 120 metres
+<br>3rd Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lock Sheng Herng (P5-5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event: Vertical Jump
+<br>1st Place
+<br>2nd Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Lock Sheng Herng (P5-5)
+<br>Jerry Ang Min Zhe (P5-4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event: Long Jump with Take off zone
+<br>3rd Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chloe Chan Si Kei (P4-8)</p>
 </td>
 </tr>
 </tbody>
