@@ -36,16 +36,25 @@ variant: tiptap
 <p>Boys' Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tan Boon Chian Medal <br>Best Boy - 21J Company</strong> (nominated)
-<br>
-<br><strong>2022 National Adventure Quest</strong>
+<p><strong>Tan Boon Chian Medal <br>Best Boy - 21J Company</strong> (nominated)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Isaac Pang Xian Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2022 National Adventure Quest</strong>
 <br>Gold Honour Roll</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Isaac Pang Xian Yi
-<br>
-<br>
-<br>GMS(P) 21J
+<p>GMS(P) 21J
 <br>P6 BB Boys</p>
 </td>
 </tr>
