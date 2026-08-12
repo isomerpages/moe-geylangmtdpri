@@ -126,36 +126,7 @@ variant: tiptap
 <br>
 <br>
 <br><strong>National School Games Rope Skipping Competition 2022</strong>
-<br>(Junior Division)
-<br>
-<br>Event: Double Dutch (Boys)
-<br>2nd position
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>Event: Double Dutch (Mixed)
-<br>2nd position
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>Event: Double Dutch (Girls)
-<br>5th position
-<br>
-<br>
-<br>
-<br>
-<br>Event: Individual Double Under
-<br>7th position
-<br>
-<br>Event: Individual Freestyle
-<br>7th position
-<br>
-</p>
+<br>(Junior Division)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Zi Heng (P6-7)
@@ -167,30 +138,93 @@ variant: tiptap
 <br>
 <br>
 <br>
-<br>Wong Wei Jun (P5-2)
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event: Double Dutch (Boys)
+<br>2nd position</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Wei Jun (P5-2)
 <br>Teo Tiat Bing Jenson (P4-7)
 <br>Theodore Ong Huan Long (P4-7)
 <br>Ang Kayden (P4-1)
-<br>Jayden Koh Jia Jun (P4-5)
-<br>
-<br>
-<br>Goh En Li (P5-1)
+<br>Jayden Koh Jia Jun (P4-5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event: Double Dutch (Mixed)
+<br>2nd position</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh En Li (P5-1)
 <br>Bai Junjie (P5-8)
 <br>Ong Min Zhen (P5-6)
 <br>Angela Wong Xinyu (P5-3)
-<br>Jayden Koh Jia Jun (P4-5)
-<br>
-<br>
-<br>Wang Yinuo (P5-5)
+<br>Jayden Koh Jia Jun (P4-5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event: Double Dutch (Girls)
+<br>5th position</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wang Yinuo (P5-5)
 <br>Kylie Look Hui Jia (P5-7)
 <br>Chong Hui Xin, Zoe (P5-3)
-<br>Sophia Tan Hui Ying (P5-8)
-<br>
-<br>
-<br>Bai Junjie (P5-8)
-<br>
-<br>
-<br>Bai Junjie (P5-8)</p>
+<br>Sophia Tan Hui Ying (P5-8)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event: Individual Double Under
+<br>7th position</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bai Junjie (P5-8)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event: Individual Freestyle
+<br>7th position</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bai Junjie (P5-8)</p>
 </td>
 </tr>
 <tr>
