@@ -59,12 +59,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Junior Brigadier Brooch Award 2022</strong> 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,13 +67,7 @@ variant: tiptap
 <br>2. Ong Le Xuan Anabel, (P6-3)
 <br>(Company Leader)
 <br>3. Kuan Zi Xuan, (P6-8)
-<br>(Squad Leader, Flag Raising IC)
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
+<br>(Squad Leader, Flag Raising IC)</p>
 </td>
 </tr>
 <tr>
