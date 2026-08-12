@@ -224,15 +224,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>National School Games Basketball 2022<br>(Junior Division)</strong>
-<br>
-<br>
-<br>1st in tier 1
-<br>
-<br>
-<br>
-<br>
-<br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st in tier 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kwok Hoi Nam (P4-3)
