@@ -91,22 +91,41 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Singapore Amazing Flying Machine Competition 2022</strong>
-<br>
-<br>Learning Journey Award
-<br>3rd Place (2nd Runner-up)
-<br>
-<br>Boomerang Challenge Award
-<br>1st Place
-<br>
-<br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning Journey Award
+<br>3rd Place (2nd Runner-up)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Thaddeus Huan Kai Jun (P5-6)
-<br>Wong Zheng Hao (P5-8)
-<br>
-<br>Muhammed Hamdan Bin Kader (P6-3)
+<br>Wong Zheng Hao (P5-8)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boomerang Challenge Award
+<br>1st Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammed Hamdan Bin Kader (P6-3)
 <br>Mohamed Farook Ahamed Suhail (P6-6)</p>
 </td>
 </tr>
@@ -119,26 +138,43 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>National School Games Rope Skipping Competition 2022</strong>
-<br>(Senior Division)
-<br>
-<br>Event: Double Dutch (Boys)
-<br>2nd position
-<br>
-<br>
-<br><strong>National School Games Rope Skipping Competition 2022</strong>
-<br>(Junior Division)</p>
+<br>(Senior Division)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event: Double Dutch (Boys)
+<br>2nd position</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Zi Heng (P6-7)
 <br>Soon Zhi Bin (P6-7)
 <br>Zhuo Xin David (P6-4)
-<br>Chea Dong Shing (P6-2)
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
+<br>Chea Dong Shing (P6-2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games Rope Skipping Competition 2022</strong>
+<br>(Junior Division)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
