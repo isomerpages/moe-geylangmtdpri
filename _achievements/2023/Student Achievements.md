@@ -3,473 +3,994 @@ title: Student Achievements
 permalink: /achievements/2023/student-achievements/
 description: ""
 third_nav_title: "2023"
-variant: markdown
+variant: tiptap
 ---
-<h4 style="color:blue;">CCA</h4>
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="67"><col width="121"><col width="310"><col width="208"></colgroup><tbody><tr style="height:23.65pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">No</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">CCA</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Name of Competition / Award</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Awardees</span></p></td></tr><tr style="height:23.65pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:7.5pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">1</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:7.5pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Basketball</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:7.5pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">NSG Basketball Zonal Competition</span></p><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:7.5pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">(Senior)</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:7.5pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">5th place</span></p></td></tr><tr style="height:23.65pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:7.5pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:7.5pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Athletics</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:7.5pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Singapore Athletics - Singapore Sports School Primary School Track &amp; Field Invitational Meet 2023</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:7.5pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Nathanael Lim (P4-8)</span></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:14pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Silver - 60m Sprint&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:14pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">7th - Long Jump</span></p></li></ul><p style="line-height:1.2;margin-top:0pt;margin-bottom:7.5pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Takahashi Sachiko (P4-7)</span></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:14pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Bronze - 60m Sprint</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:14pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">3rd - Scissors Jump</span></p></li></ul><p style="line-height:1.2;margin-top:0pt;margin-bottom:7.5pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Chloe Chan (P5-7)</span></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:14pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">4th - Long Jump</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:8pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">8th -&nbsp;&nbsp;Combined multi events (60m + Long Jump + Shot Putt)</span></p></li></ul></td></tr><tr style="height:23.65pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;" rowspan="3"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;3</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;" rowspan="3"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Girls' Brigade&nbsp;</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Junior&nbsp;Brigader&nbsp;Brooch (JBB)&nbsp;</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ong Yun Ting (P6-3)&nbsp;&nbsp;</span></p></td></tr><tr style="height:23.65pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">GMS(P) Girls’ Brigade Company</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Gold Award&nbsp;</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">for accomplishments in 2022</span></p></td></tr><tr style="height:23.65pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Creative Drill Competition</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Gold Award</span></p></td></tr><tr style="height:23.65pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;" rowspan="3"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;4</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;</span></p><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;" rowspan="3"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Boys Brigade&nbsp;&nbsp;</span></p><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:7.5pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;Best Boy in Boys Brigade Unit 21J</span></p><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:7.5pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Tan Boon Chiang Medal 2023</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:7.5pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Joel Soh Yong En (P6-8)</span></p></td></tr><tr style="height:23.65pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;National Adventure Quest</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:7.5pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;2nd Runner-up</span></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:14pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Aditya Prabhakar (P6-7)</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Bertrand Meir Wibowo (P6-7)</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Soh Yong-En Joel (P6-8)</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Timothy Chua Jia Jin (P6-1)</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:14pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Chew Zhi Heng Zach (P6-8)</span></p></li></ul><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;</span></p></td></tr><tr style="height:23.65pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;21J Singapore Company&nbsp;</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><br><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">JM Fraser Award for Excellence(High Distinction)</span></p><br></td></tr></tbody></table>
-
-  
-  <br>
-	<br>
-	<br>
-	
-  <h4 style="color:blue;">Competitions</h4>
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="65"><col width="433"><col width="206"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">No</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Name of Competition/ Award</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:middle;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:7.5pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Awardees</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">1</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Oratorical Competition</span></p><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Telok Blangah Community Centre</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">S Agan (P6-7)</span></p><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2nd Prize</span></p><br></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Raffles Institution Primary Mathematics World Contest (RIPMWC)</span></p><br><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Distinction</span></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Merit</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><br><br><br><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Sky Chin Pin Sen (P6-3)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Yuto Pang (Peng Youxiang) (P6-5)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Teng Jun Jie Jovie (P6-6)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Kayden Lin Zhijun( P6-7)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ong Chen Yang (P6-7)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">S Agan (P6-7)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Aarav Kambo (P6-8)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Bernice Teo Jing Han (P6-8)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Joshua Tan Yi (P6-8)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Shaun Chua Jia Yang (P6-8)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Yeo Jia Xuan (P6-8)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Zhou Jun Feng (P6-8)</span></p><br><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Lim Xuan Le (P6-1)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Chloe Seet Pui Sze (P6-3)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Chloe Tan Le Xin (P6-7)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Kaelynn Lim (P6-7)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mohamed Rehaan Bin Mohamed Fazlin (P6-7)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Fang Binghao (P6-8)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Sophia Tan Hui Ying (P6-8)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Tan Khai Kiat, Tidus (P6-8)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Wong Bo Zheng (P6-8)</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><br></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Asia Pacific Mathematical Olympiad for Primary Schools (APMOPS)</span></p><br><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Silver</span></p><br><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Bronze</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><br><br><br><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Zhou Jun Feng (P6-8)</span></p><br><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Tan Khai Kiat, Tidus (P6-8)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Yu Xiao (P6-8)</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12.499999999999998pt;font-family:'Helvetica Neue',sans-serif;color:#333333;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Chee Yi Jay (P5-8)</span></p><br></td></tr></tbody></table>
+<h4>CCA</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Competition / Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Basketball Zonal Competition</p>
+<p>(Senior)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Athletics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Athletics - Singapore Sports School Primary School Track &amp;
+Field Invitational Meet 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nathanael Lim (P4-8)</p>
+<ul>
+<li>
+<p>Silver - 60m Sprint&nbsp;</p>
+</li>
+<li>
+<p>7th - Long Jump</p>
+</li>
+</ul>
+<p>Takahashi Sachiko (P4-7)</p>
+<ul>
+<li>
+<p>Bronze - 60m Sprint</p>
+</li>
+<li>
+<p>3rd - Scissors Jump</p>
+</li>
+</ul>
+<p>Chloe Chan (P5-7)</p>
+<ul>
+<li>
+<p>4th - Long Jump</p>
+</li>
+<li>
+<p>8th -&nbsp;&nbsp;Combined multi events (60m + Long Jump + Shot Putt)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>&nbsp;3</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Girls' Brigade&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior&nbsp;Brigader&nbsp;Brooch (JBB)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Yun Ting (P6-3)&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GMS(P) Girls’ Brigade Company</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award&nbsp;</p>
+<p>for accomplishments in 2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Creative Drill Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>&nbsp;4</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Boys Brigade&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Best Boy in Boys Brigade Unit 21J</p>
+<p>Tan Boon Chiang Medal 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joel Soh Yong En (P6-8)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;National Adventure Quest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2nd Runner-up</p>
+<ul>
+<li>
+<p>Aditya Prabhakar (P6-7)</p>
+</li>
+<li>
+<p>Bertrand Meir Wibowo (P6-7)</p>
+</li>
+<li>
+<p>Soh Yong-En Joel (P6-8)</p>
+</li>
+<li>
+<p>Timothy Chua Jia Jin (P6-1)</p>
+</li>
+<li>
+<p>Chew Zhi Heng Zach (P6-8)</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;21J Singapore Company&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
 <br>
-         <!-- /\* Font Definitions \*/ @font-face {font-family:SimSun; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:宋体; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:515 680460288 22 0 262145 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@SimSun"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:515 680460288 22 0 262145 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0in; margin-right:0in; margin-bottom:10.0pt; margin-left:0in; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:SimSun; mso-bidi-font-family:"Times New Roman"; mso-ansi-language:#0400; mso-bidi-language:AR-SA;} p.MsoFooter, li.MsoFooter, div.MsoFooter {mso-style-priority:99; mso-style-unhide:no; mso-style-link:"Footer Char"; margin:0in; mso-pagination:widow-orphan; tab-stops:center 3.25in right 6.5in; font-size:10.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:SimSun;} span.FooterChar {mso-style-name:"Footer Char"; mso-style-priority:99; mso-style-unhide:no; mso-style-locked:yes; mso-style-link:Footer;} span.FooterChar1 {mso-style-name:"Footer Char1"; mso-style-noshow:yes; mso-style-priority:99; mso-style-unhide:no; mso-ansi-font-size:11.0pt; mso-bidi-font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-hansi-font-family:Calibri; mso-ansi-language:#0400; mso-bidi-language:AR-SA;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; mso-fareast-font-family:SimSun; mso-font-kerning:0pt; mso-ligatures:none;} @page WordSection1 {size:595.45pt 841.7pt; margin:.8in .8in .8in .8in; mso-header-margin:35.3pt; mso-footer-margin:15.1pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
-
-**Science** **and Environmental Education**
-
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
- .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:2.7in;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="259"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri" lang="en-US">Event</span></b></p></td><td style="width:117.0pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri" lang="en-US">Position</span></b></p></td><td style="width:146.1pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="195"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri" lang="en-US">Students</span></b></p></td><td style="width:33.55pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri" lang="en-US">Class</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:2.7in;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" rowspan="9" width="259"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Singapore Primary Science Olympiad</span></p></td><td style="width:117.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Silver</span></p></td><td style="width:146.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="195"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Liew Ci Hao</span></p></td><td style="width:33.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-7</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" rowspan="3" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Bronze</span></p></td><td style="width:146.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="195"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Arya Chong Han Wen Basu</span></p></td><td style="width:33.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-7</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:146.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="195"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Chan Sze Yin Jacquelyn</span></p></td><td style="width:33.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-8</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:146.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="195"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Chee Yi Jay</span></p></td><td style="width:33.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-8</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" rowspan="5" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Merit</span></p></td><td style="width:146.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="195"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Annsh Dutt</span></p></td><td style="width:33.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-8</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:146.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="195"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Coey Lim Zhi Xuan</span></p></td><td style="width:33.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-8</span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:146.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="195"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Edward Kyuseok Corbett Pick</span></p></td><td style="width:33.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-7</span></p></td></tr><tr style="mso-yfti-irow:8"><td style="width:146.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="195"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Etienne Wong Serol</span></p></td><td style="width:33.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-8</span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:146.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="195"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Lam Jing Yao</span></p></td><td style="width:33.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-7</span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:2.7in;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" rowspan="2" width="259"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">e-THINK Challenge (Science competition organised by Temasek Junior College)</span><span style="mso-bidi-font-family:Calibri" lang="en-US"></span></p></td><td style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" rowspan="2" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Honourable Mention</span></p></td><td style="width:146.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="195"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Thia Wen Xuan</span></p></td><td style="width:33.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-7</span></p></td></tr><tr style="mso-yfti-irow:11"><td style="width:146.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="195"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Yeo Zheng Xi Patrick</span></p></td><td style="width:33.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-8</span></p></td></tr><tr style="mso-yfti-irow:12"><td style="width:2.7in;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" rowspan="4" width="259"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri" lang="en-US">INSPIRE Competition </span><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">(sustainability competition organised by National Junior College)</span><span style="mso-bidi-font-family:Calibri" lang="en-US"></span></p></td><td style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" rowspan="4" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Most Creative innovation Award</span></p></td><td style="width:146.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="195"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Chan Sze Yin Jacquelyn</span></p></td><td style="width:33.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-8</span></p></td></tr><tr style="mso-yfti-irow:13"><td style="width:146.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="195"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Lee Yan Bob</span></p></td><td style="width:33.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-8</span></p></td></tr><tr style="mso-yfti-irow:14"><td style="width:146.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="195"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Lee Zhen An</span></p></td><td style="width:33.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-8</span></p></td></tr><tr style="mso-yfti-irow:15;mso-yfti-lastrow:yes"><td style="width:146.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="195"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Wong Yi Hong, Maximus</span></p></td><td style="width:33.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-8</span></p></td></tr></tbody></table>
-
-**Malay Language**
-
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
- .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:2.7in;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="259"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri" lang="en-US">Event</span></b></p></td><td style="width:1.0in;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="96"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri" lang="en-US">Position</span></b></p></td><td style="width:190.6pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri" lang="en-US">Students</span></b></p></td><td style="width:34.05pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="2" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri" lang="en-US">Class</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:2.7in;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" rowspan="5" width="259"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Malay Creative Writing Competition</span></p></td><td style="width:1.0in;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" width="96"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Gold</span></p></td><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Mohamed Rehaan Bin Mohamed Fazlin</span></p></td><td style="width:34.05pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="2" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P6-7</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:1.0in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" rowspan="2" width="96"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Silver</span></p></td><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Maryam Binti Ridzuan</span></p></td><td style="width:34.05pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="2" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-6</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Zaara Rehana Binte Mohamed Fazlin</span></p></td><td style="width:34.05pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="2" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-7</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:1.0in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" rowspan="2" width="96"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Bronze</span></p></td><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Nur Adawiyah Binti Muhammad Ghazali</span></p></td><td style="width:34.05pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="2" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P4-5</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri" lang="en-US">Syed Rusydi Bin Syed Rizal Akhyar</span></p></td><td style="width:34.05pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="2" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri" lang="en-US">P5-6</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:2.7in;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" rowspan="2" width="259"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Penterjermah Pintar (translation competition organised by the Malay Language Council and 4PM)</span></p></td><td style="width:1.0in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" rowspan="2" width="96"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">1<sup>st</sup></span></p></td><td style="width:191.1pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="2" width="255"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Zaara Rehana Binte Mohamed Fazlin</span><span style="mso-bidi-font-family:
-  Calibri" lang="en-US"></span></p></td><td style="width:33.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-7</span><span style="mso-bidi-font-family:Calibri" lang="en-US"></span></p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes"><td style="width:191.1pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="2" width="255"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Muhammat Aidil Bin Atomin</span></p></td><td style="width:33.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-2</span></p></td></tr><tr height="0"><td style="border:none" width="168"></td><td style="border:none" width="78"></td><td style="border:none" width="160"></td><td style="border:none" width="1"></td><td style="border:none" width="44"></td></tr></tbody></table>
-
-**Basketball**
-
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
- .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:2.7in;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="259"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri" lang="en-US">Event</span></b></p></td><td style="width:1.0in;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="96"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri" lang="en-US">Position</span></b></p></td><td style="width:190.6pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri" lang="en-US">Students</span></b></p></td><td style="width:34.05pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri" lang="en-US">Class</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:2.7in;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" rowspan="14" width="259"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Anglican High School Invitational Tournament – Senior</span></p></td><td style="width:1.0in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" rowspan="14" width="96"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">2<sup>nd</sup></span></p></td><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Li Zhuoyao</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P4-7</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Chan Yu Quen, Adrien</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-1</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Kwok Hoi Nam</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-1</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Tan Ding Wei</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-1</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Wallace Tan Chang Sheng</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-1</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Loh Shi En, Jayden</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-3</span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Muhammad Aqil Bin Samsumaideen</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-3</span></p></td></tr><tr style="mso-yfti-irow:8"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Cheng Chen Yi</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-5</span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Mohamed Akeem</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-5</span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Ezekiel Deren Goh</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-6</span></p></td></tr><tr style="mso-yfti-irow:11"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Choo Guan Lin Zac</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-7</span></p></td></tr><tr style="mso-yfti-irow:12"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Ordonio Red Flores</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-7</span></p></td></tr><tr style="mso-yfti-irow:13"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Viyasa Prakan</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-7</span></p></td></tr><tr style="mso-yfti-irow:14"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Mathis Allano</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-8</span></p></td></tr><tr style="mso-yfti-irow:15"><td style="width:2.7in;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" rowspan="11" width="259"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Anglican High School Invitation Tournament – Junior</span></p></td><td style="width:1.0in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" rowspan="11" width="96"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">3<sup>rd</sup></span></p></td><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Ian Goh</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P3-1</span></p></td></tr><tr style="mso-yfti-irow:16"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Alton Ong</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P3-3</span></p></td></tr><tr style="mso-yfti-irow:17"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Tan Ding Xuan</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P3-3</span></p></td></tr><tr style="mso-yfti-irow:18"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Tan Jit Heng</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P3-8</span></p></td></tr><tr style="mso-yfti-irow:19"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Cyrus Xeno Lee Cheng Tai</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P4-1</span></p></td></tr><tr style="mso-yfti-irow:20"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Sim Guan You Jayan</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P4-2</span></p></td></tr><tr style="mso-yfti-irow:21"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Cyril Rapheal Lee Cheng Kang</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P4-3</span></p></td></tr><tr style="mso-yfti-irow:22"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Mohamed Asraf Mohamed Azfar</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P4-6</span></p></td></tr><tr style="mso-yfti-irow:23"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Soh Kun Wei Isaac</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P4-6</span></p></td></tr><tr style="mso-yfti-irow:24"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Chung Zhi Shan</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P4-8</span></p></td></tr><tr style="mso-yfti-irow:25;mso-yfti-lastrow:yes"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Hu Yuyi</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P4-8</span></p></td></tr></tbody></table>
-
-**Road Safety**
-
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
- .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:2.7in;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="259"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri" lang="en-US">Event</span></b></p></td><td style="width:1.0in;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="96"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri" lang="en-US">Position</span></b></p></td><td style="width:190.6pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri" lang="en-US">Students</span></b></p></td><td style="width:34.05pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri" lang="en-US">Class</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:2.7in;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" rowspan="11" width="259"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">65<sup>th</sup> Singapore Traffic Games (event organised by the Traffic Police and Singapore Road Safety Council, to teach students about road safety rules and etiquette)</span></p></td><td style="width:1.0in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" rowspan="11" width="96"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">2<sup>nd</sup></span></p></td><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Kwok Hoi Nam</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-1</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Shih Chi En</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-1</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Sim Hengle Asher</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-1</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Isabelle Nixiao Rzasa</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-4</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Julia Ming Xinyi Scott</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-4</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Khoo Shi En Kiffany</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-4</span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Shenielle Shamsudin</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-5</span></p></td></tr><tr style="mso-yfti-irow:8"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Yang Shanjun</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-5</span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Seah Seow Wei Sherlyn</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-6</span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Tan Yen Ann</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-6</span></p></td></tr><tr style="mso-yfti-irow:11;mso-yfti-lastrow:yes"><td style="width:190.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="254"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">Yoong Min Shan, Roycelene</span></p></td><td style="width:34.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="45"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-ansi-language:EN-SG" lang="EN-SG">P5-6</span></p></td></tr></tbody></table>
+</p>
+<p>JM Fraser Award for Excellence(High Distinction)</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+<br>
+<br>
+</p>
+<h4>Competitions</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Competition/ Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oratorical Competition</p>
+<p>Telok Blangah Community Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S Agan (P6-7)</p>
+<p>2nd Prize</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Institution Primary Mathematics World Contest (RIPMWC)</p>
+<p>
+<br>
+</p>
+<p>Distinction</p>
+<p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+<br>
+<br>
+</p>
+<p>Sky Chin Pin Sen (P6-3)</p>
+<p>Yuto Pang (Peng Youxiang) (P6-5)</p>
+<p>Teng Jun Jie Jovie (P6-6)</p>
+<p>Kayden Lin Zhijun( P6-7)</p>
+<p>Ong Chen Yang (P6-7)</p>
+<p>S Agan (P6-7)</p>
+<p>Aarav Kambo (P6-8)</p>
+<p>Bernice Teo Jing Han (P6-8)</p>
+<p>Joshua Tan Yi (P6-8)</p>
+<p>Shaun Chua Jia Yang (P6-8)</p>
+<p>Yeo Jia Xuan (P6-8)</p>
+<p>Zhou Jun Feng (P6-8)</p>
+<p>
+<br>
+</p>
+<p>Lim Xuan Le (P6-1)</p>
+<p>Chloe Seet Pui Sze (P6-3)</p>
+<p>Chloe Tan Le Xin (P6-7)</p>
+<p>Kaelynn Lim (P6-7)</p>
+<p>Mohamed Rehaan Bin Mohamed Fazlin (P6-7)</p>
+<p>Fang Binghao (P6-8)</p>
+<p>Sophia Tan Hui Ying (P6-8)</p>
+<p>Tan Khai Kiat, Tidus (P6-8)</p>
+<p>Wong Bo Zheng (P6-8)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asia Pacific Mathematical Olympiad for Primary Schools (APMOPS)</p>
+<p>
+<br>
+</p>
+<p>Silver</p>
+<p>
+<br>
+</p>
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+<br>
+<br>
+</p>
+<p>Zhou Jun Feng (P6-8)</p>
+<p>
+<br>
+</p>
+<p>Tan Khai Kiat, Tidus (P6-8)</p>
+<p>Yu Xiao (P6-8)</p>
+<p>Chee Yi Jay (P5-8)</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p><strong>Science</strong>  <strong>and Environmental Education</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Students</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="9" colspan="1">
+<p>Singapore Primary Science Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liew Ci Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Arya Chong Han Wen Basu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Sze Yin Jacquelyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chee Yi Jay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Annsh Dutt</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Coey Lim Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Edward Kyuseok Corbett Pick</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Etienne Wong Serol</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lam Jing Yao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>e-THINK Challenge (Science competition organised by Temasek Junior College)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Honourable Mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thia Wen Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yeo Zheng Xi Patrick</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>INSPIRE Competition (sustainability competition organised by National
+Junior College)</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Most Creative innovation Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Sze Yin Jacquelyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Yan Bob</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Zhen An</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Yi Hong, Maximus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Malay Language</strong>
+</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Students</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Malay Creative Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohamed Rehaan Bin Mohamed Fazlin</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P6-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maryam Binti Ridzuan</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P5-6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zaara Rehana Binte Mohamed Fazlin</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Adawiyah Binti Muhammad Ghazali</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P4-5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Syed Rusydi Bin Syed Rizal Akhyar</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P5-6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Penterjermah Pintar (translation competition organised by the Malay Language
+Council and 4PM)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>1<sup>st</sup>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Zaara Rehana Binte Mohamed Fazlin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Muhammat Aidil Bin Atomin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Basketball</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Students</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="14" colspan="1">
+<p>Anglican High School Invitational Tournament – Senior</p>
+</td>
+<td rowspan="14" colspan="1">
+<p>2<sup>nd</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Li Zhuoyao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Yu Quen, Adrien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kwok Hoi Nam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Ding Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wallace Tan Chang Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Loh Shi En, Jayden</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Aqil Bin Samsumaideen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cheng Chen Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamed Akeem</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ezekiel Deren Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choo Guan Lin Zac</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordonio Red Flores</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Viyasa Prakan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathis Allano</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="11" colspan="1">
+<p>Anglican High School Invitation Tournament – Junior</p>
+</td>
+<td rowspan="11" colspan="1">
+<p>3<sup>rd</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ian Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Alton Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Ding Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Jit Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cyrus Xeno Lee Cheng Tai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sim Guan You Jayan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cyril Rapheal Lee Cheng Kang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamed Asraf Mohamed Azfar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Soh Kun Wei Isaac</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chung Zhi Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hu Yuyi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-8</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Road Safety</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Students</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="11" colspan="1">
+<p>65<sup>th</sup> Singapore Traffic Games (event organised by the Traffic
+Police and Singapore Road Safety Council, to teach students about road
+safety rules and etiquette)</p>
+</td>
+<td rowspan="11" colspan="1">
+<p>2<sup>nd</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kwok Hoi Nam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shih Chi En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sim Hengle Asher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Isabelle Nixiao Rzasa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Julia Ming Xinyi Scott</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Khoo Shi En Kiffany</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shenielle Shamsudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yang Shanjun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seah Seow Wei Sherlyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Yen Ann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yoong Min Shan, Roycelene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-6</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
