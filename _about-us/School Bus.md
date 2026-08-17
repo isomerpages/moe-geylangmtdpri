@@ -450,5 +450,5 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
-<p>APPROVE UPDATE</p>
+<p></p>
 <p></p>
