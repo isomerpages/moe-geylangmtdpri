@@ -445,10 +445,3 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
