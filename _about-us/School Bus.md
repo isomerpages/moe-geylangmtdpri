@@ -443,5 +443,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>REQUEST FOR UPDATE</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>APPROVE UPDATE</p>
 <p></p>
