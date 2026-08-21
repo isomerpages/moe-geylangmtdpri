@@ -4,19 +4,15 @@ permalink: /curriculum/aesthetics/
 description: ""
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2IPz_BNw9bKcQzrNW-LRvm3YXUi38OL3zZlftqtOTkwn-pNo-VuI_Eosg5V3xyOISh9xnf1juHnL1/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <h4><strong>Vision</strong></h4>
 <p><strong>To be inspired by Values to Grow. Lead. Serve. with Joy through the Arts</strong>
 </p>
-<p><strong>&nbsp;</strong>
+<p><strong>&nbsp;Mission</strong>
 </p>
-<h4><strong>Mission</strong></h4>
 <p><strong>To inspire Minds, Nurture Character and Touch Community through the Arts</strong>
 </p>
-<p>&nbsp;</p>
-<h4><strong>Overview</strong></h4>
+<p>&nbsp;<strong>Overview</strong>
+</p>
 <p>Aesthetics for GeMs at GMS(P) aims to provide opportunities to inspire
 our students to discover their strengths, interests and talents and cultivate
 a life-long enjoyment and involvement in the Arts.&nbsp; The Aesthetics
@@ -150,28 +146,5 @@ Studies (My Singapore) and English (Oracy)</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__P_R_A_I_S_E____My_Singapura.png">
-</div>
-<h4><strong>Students Showcase</strong></h4>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv3xlg8Hwm6X0xXp4_SDU_abIDTt_Yf9hjg3xduTLwC7WPOngRWNBVY_uMuLNpP1DWorXhfx21O3DG/pubembed?start=true&amp;loop=true&amp;delayms=1000"></iframe>
-</div>
-<p>&nbsp;</p>
-<h4><strong>Meet our Teachers:</strong></h4>
-<p><strong>Ms Denyse Ong (HOD Aesthetics)</strong>
-</p>
-<p><strong>Mr Harvey Kwek (ST Art)</strong>
-</p>
-<p><strong>Mrs Serene Goh (ST Music)</strong>
-</p>
-<p><strong>Ms Tan Cher Hui (Music)</strong>
-</p>
-<p><strong>Mr Yeo Wee Kiong (Music)</strong>
-</p>
-<p><strong>Ms Coco Yap (Art)</strong>
-</p>
-<p><strong>Mrs Melissa Siew (Art)</strong>
-</p>
-<p><strong>Ms Shazwani (Art)</strong>
-</p>
+<h4></h4>
+<p></p>
