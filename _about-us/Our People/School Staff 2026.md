@@ -897,7 +897,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mts Jeredith Hee</p>
+<p>Mrs Jeredith Hee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_sock_koon_jeredith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sock_koon_jeredith@moe.edu.sg</a>
